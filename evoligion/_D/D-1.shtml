@@ -1,0 +1,306 @@
+
+<!-- D-1 History 2018-02-10 08:00 -->
+
+
+<!DOCTYPE html><html lang="en"><head>
+<title>D-1: Pr&eacute;cis of Book D</title>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../CS/bfbv.css">
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+
+.ra {font-size:2em; vertical-align:-5px}
+</style>
+</head>
+
+<body id="HED">
+<p class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT -- 2,744</b></p>
+
+<h2 id="BC">
+<a href="../_C/C-1.shtml#BC">3 &#9756;&emsp;&emsp;</a>
+<a href="../Index.shtml">BOOK 4</a>
+<a href="../_E/E-1.shtml#BC">&emsp;&emsp;&#9758; 5</a>
+</h2>
+
+<figure>
+<img width="100%"
+src="D-Images/D-Front-and-Back.jpg"
+alt="Book covers, celadon, with circle containing an example of Arabic caligraphy, in this case, the bismillah that opens all but one sura of the Quran.">
+</figure>
+<br><hr>
+
+<header id="D-1">
+<!--#include virtual="/evoligion/ChapTab.shtml" -->
+
+
+<h1 id="D-2">
+<a class="fn" href="../_C/C-1.shtml#C-2">C&#9756;&emsp;&ensp;</a>
+<a class="fn" href="#BC">&and;&emsp;&ensp;</a>
+Pr&eacute;cis D: History
+<a class="tri" href="#00">&emsp;&ensp;&#9661;</a>
+<a class="fn" href="../_E/E-1.shtml#E-2">&emsp;&ensp;&#9758;E</a>
+</h1>
+</header><br>
+
+<p>In Book C we glimpsed an abstract view of religion at its ideal best. It reminded us of how difficult it is to find <i>a</i> religion which lives up to the ideal. Instinct I is too strong to be easily gentled, and the Dualist conflict between our driving instincts has provided most of the drama of history. As a result, it is a challenge to locate a century and a country in which your family could live peaceably for 4 generations, minding your own business. This does not seem much to ask &mdash; and if religion were doing its job, it would be easy. The Antonines managed it for Rome, but it is hard to find a time and place since where there hasn&apos;t been a war for <a class="fn">50-years<span>
+	One problem is that the peaceful moments are insufficiently exciting to merit much attention in the history books.
+</span></a>, especially since the Military-Industrial Complex has become so profitable. In the absence of war, lords temporal or spiritual still manage to make life difficult for the rest of us. We (author and readers) have lived in a charmed moment; despite its problems, it has been the best the world has known. The century 1930&ndash;2030, although the bloodiest, may nevertheless be the best it will ever know &mdash; barring major changes in direction &mdash; in terms of advances in applied science and multiplicity of personal opportunities.
+</p>
+
+<p>Let us look more closely at the idea of a &lsquo;charmed moment&rsquo;. We start by comparing 2 attempts to categorize 40,000 years of human experience &mdash; with necessarily overbroad and simplifying brushes.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#D-2">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="00"> Low-Resolution History </a>
+<a class="tri" href="#03">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>In <cite>The Origin and Goal of History</cite>, <a class="fn">Karl Jaspers<span>
+	K Jaspers (1949) <cite>The Origin and Goal of History</cite> Transl. Michael Bullock. (Yale University Press, New Haven CT, 1953): 24.
+</span></a> called attention to Axial Ages, saying, &lsquo;Four times man seems to have started out from a new basis&rsquo;. Column 1 of Table 13.0 names Jaspers&apos;s ages; column 2 gives his descriptions thereof; and column 3 the questions that interested him. Jaspers&apos;s own theme was that Christ was the Axis of history, yet he devoted 3/4 of his book to the mid-20th century and the future, giving short shrift to his 1st and 3rd questions. His theme, even in his own hands, did not succeed in tying the axial ages together. The series may pick out the high points of history, but he does not provide a coherent relation between them. Granted that the positive periods have very different characteristics, it would be useful to understand how they happen, and how we might encourage them.
+</p>
+
+<p>Given a half century of research since Jaspers wrote, it may be that every discipline can now find its own thematic response. Our theme is cultural evolution, and column 4 attempts a consilient view.
+</p>
+
+<hr class="lulrk">
+<table>
+<caption>
+<a class="tri" href="../_D/D13.shtml#T13.3">&#9664;&emsp;&emsp;</a>
+<a href="#!"    id="T13.0"> Table 13.0 </a>
+<a class="tri" href="#T13.1">&emsp;&emsp;&#9654;</a>
+
+Jaspers&apos;s &lsquo;Axial Ages&rsquo;. 50 years after Jaspers outlined the major events and asked his questions, it seems possible to suggest some answers. Italics are additions to Jaspers.
+</caption>
+
+<thead>
+    <tr>
+      <th>Age</th>
+      <th>Major Events</th>
+      <th>Jaspers&apos;s Question</th>
+      <th><a href="../_A/A00.shtml#14"><img class="im2" src="../Images/K-NewIdea3.gif" alt="New-idea"></a>Thematic Answers</th>
+     </tr>
+</thead>
+
+<tfoot><tr>
+      <td colspan="4">
+        * <a class="fn">Wrangham<span>
+&bull; R Wrangham, N Conklin-Brittain (2003) &lsquo;Cooking as a biological trait&rsquo; <cite>Comparative Biochemistry and Physiology</cite> <b>A136</b>: 35&ndash;46.<br>
+&bull; R Wrangham (2010) <cite>Catching Fire</cite> (Basic Book, NYC).
+	</span></a> thinks that anatomically modern human foragers could probably not survive on a diet of raw food, and suggests moving fire back in time &mdash; possibly to 1.6 Ma. <a class="fn">Others<span>
+W Roebroeks, P Villa (2011) &lsquo;On the earliest evidence for habitual use of fire in Europe&rsquo; <cite>Proc Natl Acad Sci US</cite> <b>108</b>(#13): 5209&ndash;5214.
+	</span></a> find that there was &lsquo;no habitual use of fire before ca. 300&ndash;400 ka&rsquo; &mdash; still well before Jaspers&apos;s Promethean Age &mdash; and that fire becomes common only after 35 ka.</td></tr>
+</tfoot>
+
+<tbody>
+ 	<tr><td class="cen" colspan="4"><i>In western Eurasia, the bicameral mind appears to develop during the Promethean Age.</i></td></tr>
+
+    <tr>
+      <td><b>Promethean Age<br>40 ka <span class="ra">&#10139;</span> 25 ka</b></td>
+      <td>We developed speech, tools, and the use of fire.*</td>
+      <td>&lsquo;Which <i>other</i> steps taken during prehistory were decisive in their effects on humanity?&rsquo;</td>
+      <td><i>Religion, a by-product of language, made synthetic kinship and altruism possible.</i></td></tr>
+
+    <tr>
+      <td><b>Ancient Civilizations<br>&ndash;5000&nbsp;<span class="ra">&#10139;</span>&nbsp;&ndash;1000</b></td>
+      <td> We developed complex cultures with labor specialization,<i> writing, and war.</i></td>
+      <td>&lsquo;How did the first civilizations come into being after 5000 BCE?&rsquo;</td>
+      <td><i>Synthetic kinship led to civilization: ie, the ability to live with large numbers of unrelated strangers.</i></td></tr>
+
+      <tr><td  class="cen" colspan="4"> <i>In Eurasia, the change from the bicameral mind to introspective consciousness occurs here</i></td></tr>
+
+    <tr>
+      <td><b>Axial Age<br>&ndash;800&nbsp;<span class="ra">&#10139;</span>&nbsp;&ndash;200</b></td>
+      <td>Spiritually, we unfolded to our full human potential.</td>
+      <td>&lsquo;What is the essential nature of the Axial Period and how did it come about?&rsquo;</td>
+      <td><i>Religion having done its job, fully conscious philosophers looked for myth-free ethics.</i></td></tr>
+
+    <tr>
+      <td><b>Scientific Age 1500 <span class="ra">&#10139;</span> &hellip; </b></td>
+      <td>Exponential growth of ideas and tools.</td>
+      <td>&lsquo;How are we to understand the rise of science and technology?&rsquo;</td>
+      <td><i>Freed from superstition by secularism, we started asking questions again.</i></td></tr>
+</tbody>
+</table>
+
+
+<p><b>Chapter 13, <a href="../_D/D13.shtml#D13">Once&hellip;</a></b>, investigates our first, and possibly most successful, attempt to lift ourselves by our bootstraps. This is Jaspers&apos;s &lsquo;Promethean Age&rsquo; under its current name of Paleolithic Transition. We also look at the reactionary phase that followed it.</p>
+
+<p>We give short shrift to the &lsquo;Ancient Civilizations&rsquo;. This may seem perverse, because &lsquo;civilization&rsquo; is literally the ability to live in cities, and cities are the culmination of the most important step taken during prehistory: the invention of Eirenic religion and its removal of the need to kill strangers. Thereafter, violence shifted from an individual psychological imperative to a collective political option. This did not eliminates it, but by enlarging the internally non-violent group, it allowed larger numbers of people to cooperate and exchange ideas. This worked for the Eurasian Epi-Gravettians as long as they had a common overbelief, but the only way the bicameral mind knows to cope with the insoluble problem of different divine rules &mdash; a result of the Last Glacial Maximum and its separate refugia &mdash; is to annihilate The Other. Even though Byron had their cohorts &lsquo;gleaming in purple and gold&rsquo;, Mesopotamians were chimpanzees once again at the dawn of history.
+</p>
+
+<p><b>Chapter 14, <a href="../_D/D14.shtml#D14">Twice&hellip;,</a></b> explores <I>the</i> Axial Age, which was for Jaspers, &lsquo;a turning away from closed tradition and towards questioning and reasoning. This seems to have occurred independently across the civilized world&rsquo; &mdash; or at least across Eurasia, in Greece, Israel, Persia, India, and China. And, as we did for the Paleolithic, we also explore the subsequent reaction.
+</p>
+
+<p><b>Chapter 15, <a href="../_D/D15.shtml#D15">Mohammatism</a></b>, examines a major subset of the reaction; a step forward in that it united disparate groups with a common overbelief, a step backward in that the overbelief was a 2000-year reversion to a Neolithic outlook. </p>
+
+<p>In <b>Chapter 16, <a href="../_D/D16.shtml#D16">And Again</a></b>, we shorten the &lsquo;Scientific Age&rsquo; to its Enlightenment core, seeing this as the critical event and heir of the Upper Paleolithic and Axial Age. Inevitably, it was followed by negative reaction, which we pursue in Book E.
+</p>
+
+
+<p>There is a pattern here, perhaps because I am an incurable optimist. I see the positive stages &mdash; be they improvement in body plan, mental ability, brain operating systems, or social arrangements &mdash; as the natural result of evolution&apos;s all-purpose functional approach: Try everything, keep what works. It is the downward phases, the undoing of all the hard work, that need explanation.
+</p>
+
+<figure style="clear:both;">
+<img class="fl"
+src="../_D/D-Images/13.0_Oscillations.jpg"
+alt="A 2.5 cycle sine wave, increasing in frequency (shorter cycles on the right), and skewed so that the rises are slow and the dexcents fast.  The loops are labelled 1-5, with 0 and 6 beyond the end points. Zero-crossings and extrema are named, in order, Zero  &lsquo;Ayla&rsquo;, Max &lsquo;Question mark&rsquo;, Zero &lsquo;Noah&rsquo;, Min &lsquo;Abraham&rsquo;, Zero &lsquo;Akhnaton&rsquo;, Max &lsquo;Gautama&rsquo;, Zero &lsquo;Jesus&rsquo;, Min &lsquo;Mohammed&rsquo;, Zero &lsquo;Bruno&rsquo;, Max &lsquo;Paine&rsquo;, Zero &lsquo;Question mark&rsquo;. Positive regions are labelled &lsquo;Instinct II dominates; religion at least potentially useful&rsquo; and include rhe Urzeit, Axial Age, and Enlightenment. Negative regions, Saharasia and Kasli Yuga, are marked &lsquo;Instinct I dominates&rsquo;." width="66%">
+
+<figcaption>
+<a class="tri" href="../_D/D13.shtml#F13.7">&#9664;&emsp;&emsp;</a>
+<a href="#!"   id="F13.0"> Fig. 13.0 </a>
+<a class="tri" href="#F13.1">&emsp;&emsp;&#9654;</a>
+Oscillations. Times when religion was helpful (green shading above the axis) &mdash; and when it was not (red shading). Operating systems are indicted by back&shy;ground color. Nonlinear time is marked by <a class="fn">personal names<span>
+	Not everyone understands Paine&apos;s importance to religion. His ideas were so feared in his native Britain (he thought we could do without royalty) that he was burnt in effigy and his works suppressed for a century, allowing a British web page to dismiss him with, &lsquo;It would seem that Paine is still remembered in the United States as a propagandist in their revolution&rsquo;. Not so: He is remembered as the writer of the definitive description of Deism, the religion of the Founding Fathers and the US Constitution.
+</span></a> (several known largely from fiction). The trend line ignores many exceptions. The question mark indicates uncertainty about the psychological effects of global heating.
+</figcaption></figure>
+
+
+<p>The oscillatory view is implicit in Fig. 13.0. The corollary of Axial Ages (<i>axis</i>, &lsquo;axle on which the world turns&rsquo;) is Axillary Ages (<i>axilla</i>, &lsquo;armpit&rsquo;). Table 13.1 includes these, while omitting Jaspers&apos;s Ancient Civilizations (which could be accommodated in Fig. 13.0 by inserting oscillations in the rise between stages 2 and 3, except that the low-pass filter that emphasizes the stages themselves sees them as noise and removes them).
+</p>
+
+<p id="00a">Among the oscillations filtered out are the rise and fall of the Hittite, Harrapan, Sumerian, Akkadian, Assyrian, Babylonian, Achaemenid, Seleucid, Parthian, Umayyad, Abbasid, Mauryan, Guptan, Minoan, Mycenean, Greek, Roman, Zhou, Han, Tang, Song, Olmec, Toltec, Mayan, Teotihuacan, Monte Alban, and Incan civilizations &mdash; all of which lasted longer than we have. Similar but undocumented civilizational rise and fall also occurred in Egypt, India, China, Africa, Rapa Nui, and the Americas, without the benefit of writen history. The causes will be briefly reviewed in <a href="../_E/E20.shtml#03.5">Chapter 20.</a>
+</p>
+
+<hr>
+<table  class="tcen">
+<caption>
+<a class="tri" href="#T13.0">&#9664;&emsp;&emsp;</a>
+<a href="#!"    id="T13.1"> Table 13.1 </a>
+<a class="tri" href="../_D/D13.shtml#T13.2">&emsp;&emsp;&#9654;</a>
+
+Oscillations. Major events in the conflict between Instincts I and II, with religions typical of the oscillation. Odd numbers and green denote positive Axial stages; even numbers, and red, negative Axillary stages.
+</caption>
+
+  <thead>
+    <tr>
+      <th>Stage</th>
+      <th>Major Events / Discoveries</th>
+      <th>&lsquo;Religion&rsquo;</th>
+      <th>Ch</th></tr></thead>
+
+<tbody>
+    <tr>
+      <td><b>0 Middle Paleolithic</b></td>
+      <td>Stone tools, fire, gestural and proto-linguistic communication, aculturation</td>
+      <td>| Animism<br>
+              &uarr; Totems</td><td> &mdash; </td></tr>
+
+<tr class="grn">
+      <td><b>1  Urzeit</b></td>
+      <td>Language; Helpful bicameral guides<br>
+              <b>Not necessary to kill strangers on sight</b></td>
+      <td><b>&uarr;</b> Earth-Totem<br>
+              <b>&uarr;</b> Earth-Mother</td>
+      <td><b>13</b></td></tr>
+
+    <tr class="red">
+      <td><b>2 Saharasia</b></td>
+      <td>Parasitic warfare as a way of life<br>
+              Irreversible armoring of desert populations</td>
+      <td><b>&darr;</b> Tribal<br>
+                      <b>&darr;</b> Patriarchal</td>
+      <td><b>13</b></td></tr>
+
+    <tr class="grn">
+      <td><b>3 Axial Age</b></td>
+      <td>God conjecture is not necessary for civil behavior<br>
+        Naturalistic ethics are possible</td>
+      <td><b>&uarr;</b> Taoism<br>
+              <b>&uarr;</b> Buddhism</td>
+      <td><b>14</b></td></tr>
+
+    <tr class="red">
+      <td><b>4 Kali Yuga</b></td>
+      <td>Zero-sum politico-economics<br>
+              Intellectual stagnation</td>
+      <td><b>&darr;</b> Paulinity<br>
+              <b>&darr;</b> Islam</td>
+      <td><b>14</b><br>
+               <b>15</b></td></tr>
+
+    <tr class="grn">
+      <td><b>5  Enlightenment</b></td>
+      <td>Naturalistic explanation of universe is possible<br>
+    Political concords work better than theological dicta</td>
+      <td><b>&uarr;</b> Deism</td>
+      <td><b>16</b></td></tr>
+
+    <tr class="red">
+      <td><b>6 Bloody Centuries</b></td>
+      <td>20th: Governments kill 262 million of their citizens<br>
+       21st: Fossil-fuel exhaustion, global heating, population peak</td>
+      <td><b>&darr;</b>Fundamentalism</td>
+      <td><b>17&ndash;20</b></td></tr>
+
+    <tr class="grn">
+      <td><b>7  Recovery?<br>(or not)</b></td>
+      <td>
+        Sustainable population, energy, economics?<br>
+        Expansion into solar system and galaxy?</td>
+      <td>
+        <b>&uarr;</b> Eirenic?<br>
+        <b>&uarr;</b> Gaian?</td>
+      <td><b>21&ndash;24</b></td></tr>
+  </tbody>
+</table>
+
+
+<p>Figure 13.1 is a cartoon of Cyrus&apos;s Achmaenid Empire in 530 BCE. Four regions are marked for attention. Yehud, aka Israel, started its Axial age some 200 years earlier, with the &lsquo;later prophets&rsquo; like Isaiah, blowing the whistle on a corrupt government. Ionia will produce the Pre-Socratics in a few decades, the first philosophers to question the god conjecture and begin the investigations that 2300 years later led to the Enlightenment. Far in the east is Gandhara, where Greek and Buddhist philosophy met a couple of centuries later, to produce what must have been one of the most promising cultures ever.
+</p>
+
+<p>Note too the northern position of Arabia &mdash; at a time when Islam&apos;s Traditional Account describes Mecca (nearly at the bottom edge of the map) as having been a thriving entrep&ocirc;t for 2000 years; but at the time clearly not worth conquering.
+</p>
+
+
+<figure>
+<img class="fl" width="100%"
+src="../_D/D-Images/13.1_Achmaenid.png"
+ftp://phaner:@ftp.powweb.com//htdocs/evoligion/_D/D-1.shtmlalt="../_D/D-Images/13.1_Achmaenid.png">
+
+<figcaption>
+<a class="tri" href="#F13.0">&#9664;&emsp;&emsp;</a>
+<a href="#!"   id="F13.1"> Fig. 13.1 </a> &nbsp;
+<a class="tri" href="../_D/D13.shtml#F13.2">&emsp;&emsp;&#9654;</a>
+Cartoon of Cyrus&apos;s Achmaenid Empire ~530 BCE, known for &lsquo;sound and farsighted administrative planning, brilliant military maneuvering, and <a  href="http://www.iranchamber.com/history/achaemenids/achaemenids.php#sthash.kapkPN7u.dpuf">a humanistic worldview</a>&rsquo; &mdash; and apparently the best government the region has ever known.
+</figcaption></figure>
+
+
+<p>&lsquo;Intellectual stagnation&rsquo; and &lsquo;Islam&rsquo; showed up on the same row of Table 13.1 more or less by accident, for by expanding synthetic kinship over an area ranging from the Atlantic to the Yellow River, Islam fostered information exchange. The unanswerable question is always what would have happened in the absence of the Arab Conquest, its perpetual infighting, slave taking, and its senseless destruction of anything beyond its meager understanding. One of these was Persia&apos;s Zoroastrianism, whose monotheism reinforced Muhammad&apos;s own, but whose better ideas he could not comprehend. Fortunately, a few Zoroastrians escaped to India, where they thrive in Mumbai. Worse was the destruction of Gandhara. Here grew up a peaceful Greco-Buddhism, which, had it maintained contact with the Academy,
+		<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-NewIdea3.gif" alt="New-idea"></a>
+might have become the most promising culture of all time, combining the best elements of the Axial Age. Thanks to the little-known <a href="http://www.silk-road.com/artl/heph.shtml">White Huns</a>, destructive nomads of the 5th century (probably Turkic), and the later arrogance and intolerance of Islam, it is known only through remnants of its art &mdash; including the shards of the <a class="fn">Bamiyan Buddhas<span>
+	Islam has learned nothing in 1400 years, continuing its destruction of things beyond its understanding with the 2001 demolition of the Buddhas, in accordance with shari&apos;a law, despite offers to preserve the statues by removal to Japan. Mullah Mohammed Omar was widely reported as saying, &lsquo;Muslims should be proud of smashing idols. It has given praise to God that we have destroyed them&rsquo;. Investigations after the destruction revealed previously unknown painted caves, and pieces of another monumental reclining Buddha destroyed, it appears, by Muslims in earlier centuries. <br><br>
+	Similar destruction of historical artefacts continues, with recent examples in Cyprus, Egypt, Iraq, Malayasia, Mecca, Palestine, and Tunisia, as proofs of the &lsquo;superiority&rsquo; of Islam over other religions, and of Moslems over moderates. Khomeini wanted to redestroy Persepolis. &lsquo;Annihilate the Other!&rsquo;
+<br>-----------<br>
+	Agence France-Presse (2008-11-08) press release reporting archaeologist Zemaryalai Tarzi&apos;s findings.
+</span></a>.
+</p>
+
+<p>Book D examines these oscillations between the ascendancies of Instincts I and II. Religions are present throughout, and their helpfulness oscillates along with the Instincts. Even in the good times, the helpful religions are a minority viewpoint.</p>
+
+<p>Table 13.1 may not fit well with our self-congratulatory beliefs in a steady advance toward perfection, whose <i>summum bonum</i> is either Paulinity and globalized gangster capitalism, or possession of all the ancient wisdom, or a divine commission to batter others into accepting an outmoded &lsquo;religion&rsquo;. A negative Stage 6, in particular, goes counter to popular perception, for we have made tentative steps into the solar system, and Internet and miniature computers have put the world&apos;s knowledge base in our pockets. It seems unfair that facts and trends we have resolutely denied should pick a time like this to rear up and bite us, but they have shed their milk teeth and grown fangs while we weren&apos;t paying attention. Civilizations <i>do</i> collapse &mdash; often when least expected &mdash; and we have farther to fall than any of the previous examples.<span class="fr">◼
+</p>
+
+<p class="cen">
+<a class="fn" href="../_C/C-1.shtml#C-2">C &#9756;&emsp;&emsp;</a>
+<a href="D13.shtml">&#9661;</a>
+<a class="fn" href="../_E/E-1.shtml#E-2">&emsp;&emsp;&#9758; E</a>
+</p>
+
+<br><hr><div class="cen">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+</div>
+</body></html>
+

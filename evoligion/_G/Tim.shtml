@@ -1,0 +1,1512 @@
+
+<!-- 05/11/2017 17:50  Timeline -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>Timeline</title>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="../../CS/S-setp.css">
+<link rel="stylesheet" type="text/css" href="../../CS/S-anch.css">
+<link rel="stylesheet" type="text/css" href="../../CS/S-chap.css">
+<link rel="stylesheet" type="text/css" href="../../CS/S-code.css">
+<link rel="stylesheet" type="text/css" href="../../CS/S-imli.css">
+<link rel="stylesheet" type="text/css" href="../../CS/S-long.css">
+<link rel="stylesheet" type="text/css" href="../../CS/S-spec.css">
+<link rel="stylesheet" type="text/css" href="../../CS/S-tabl.css">
+
+</head>
+
+<body id="HED">
+<p class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b></p>
+<br>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<!--#include virtual="TocTim.shtml" -->
+
+
+<h2>When Things May Have Happened</h2>
+
+<p class="epi">Perhaps there was indeed a great invasion, with battle after battle between tens of thousands of opposing soldiers over the course of several years (629 to 636 CE). But if there were, it would seem that at the time, nobody noticed. &mdash; <a class="fn">
+	Y Nevo, J Koren (2003),<span><cite>Crossroads to Islam</cite> (Prometheus Books, Amherst NY): 135
+</span></a> commenting on the Traditional Account of the Arab Conquest of Syria.
+</p>
+
+<p>I have included my own perhaps controversial hypotheses, (and a few from others). They are listed without comment, just as though they were established facts, in order to show how they fit into the established schema. If you mention these in public, be prepared to be challenged!
+</p>
+
+
+
+<div>
+<style scoped>
+  .table2, th { font-size:2em; font-weight:bold; }
+  .table2, td { border: thin solid transparent ; padding-right:16px;
+  color: black;
+  font-family : Arial, Helvetica, sans-serif ; }
+  thead.th   {text-align: center ; font-variant: small-caps; font-size: 0.7em; }
+
+  .ar {text-align:right; padding-right:12px;}
+  .al {text-align:left;}
+  .rl {text-align:left;color:red; font-weight:700;letter-spacing:1px;}
+
+  tr:nth-of-type(odd)  { background : transparent ; }
+  tr:nth-of-type(even) { background : #cdc ; }
+
+</style>
+
+<br><hr>
+<table class="table2">
+<colgroup>
+    <col width="135px">
+    <col>
+</colgroup>
+
+<caption style="font-size:14pt;">
+Timeline. Many apparently exact dates are reported with 5- to 25-year differences in different sources. No attempt has been made to resolve such conflicts, so do not accept any of these dates as definitive. Many &lsquo;Traditional Account&rsquo; Arab dates are from a timeline compiled by the late Norman O. Brown.<hr></caption>
+
+<thead class="th">
+<tr id="01"><th>~Date</th><th>
+<a class="tri" href="#17">&#9660;&emsp;&emsp;</a>
+<a href="#TOC"> COSMIC EVENTS </a>
+<a class="tri" href="#02">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+
+<tbody>
+<tr><td class="ar">13.7 eons</td>
+	<td class="al">Local Big Bang, the beginning of the visible universe. Other such bangs may occur now and then, but they do not interact with our universe.</td></tr>
+<tr><td class="ar">4.55 eons</td>
+	<td class="al">Accretion of Earth from solar disc. Formation of Solar System</td></tr>
+<tr><td class="ar">4.32 eons</td>
+	<td class="al">One <i>kalpa</i> or day of Brahma, according to the <cite>Srimad-Bhagavatam</cite>.</td></tr>
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="02"><th>~Date</th><th>
+<a class="tri" href="#01">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> PALEOLITHIC </a>
+<a class="tri" href="#03">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">2,000 ka</td>
+	<td class="al">First <i>H. sapiens</i>, in Africa</td></tr>
+<tr><td class="ar">1,500&ndash;250 ka</td>
+	<td class="al">Lower Paleolithic. Africa & Europe: Acheulean hand axes of <i>Homo erectus</i>.</td></tr>
+<tr><td class="ar">200&ndash;130 ka</td>
+	<td class="al">Alps: Riss glaciation; <i>H. sapiens</i> in Africa.</td></tr>
+<tr><td class="ar">150 ka</td>
+	<td class="al">&lsquo;Eve Mitochon&rsquo; in Africa.</td></tr>
+<tr><td class="ar">130&ndash;110 ka</td>
+	<td class="al">Europe: Eemian interglacial.</td></tr>
+<tr><td class="ar">110&ndash;12ka</td>
+	<td class="al">Alps: Würm glaciation.</td></tr>
+<tr><td class="ar">100-40 ka</td>
+	<td class="al">Middle Paleolithic; Mousterian industry of <i>H.  neanderthalensis</i>; 200 tools/site.</td></tr>
+<tr><td class="ar">90 ka</td>
+	<td class="al">&lsquo;Adam Wychro&rsquo; in Africa.</td></tr>
+<tr><td class="ar">72±2 ka</td>
+	<td class="al">Super-eruption of Toba in Java.</td></tr>
+<tr><td class="ar">65 ka</td>
+	<td class="al"><i>H. sapiens</i> Out Of Africa along Indian Ocean shoreline (below today&apos;s sea level). This route provides a constant ecotope with a known, reliable food source.</td></tr>
+<tr><td class="ar">50 ka</td>
+	<td class="al">Australoids reach Australia, having left colonies en route.</td></tr>
+<tr><td class="ar">41 ka</td>
+	<td class="al">Denisovans in the Altai &mdash; a little known sister species?</td></tr>
+<tr><td class="ar">40 ka</td>
+	<td class="al">Upper Paleolithic; Earliest cave paintings.</td></tr>
+<tr><td class="ar">38 ka</td>
+	<td class="al">&lsquo;<a href="../_C/C10.shtml#21">Evolutionario 1</a>&rsquo;: Invention of racism.</td></tr>
+<tr><td class="ar">35 ka</td>
+	<td class="al">&lsquo;<a href="../_D/D13.shtml#05">Evolutionario 2</a>&rsquo;: Invention of religion.</td></tr>
+<tr><td class="ar">35- ka</td>
+	<td class="al">Pax Gravettica? </td></tr>
+<tr><td class="ar">35&ndash;22 ka</td>
+	<td class="al">Upper Paleolithic; Aurignacian/Cro-Magnon cultures of <i>H. sapiens</i> in Europe; 600 tools/site.</td></tr>
+<tr><td class="ar">33-26 ka</td>
+	<td class="al">Proto-Indo-European (PIE) serves as the language of the Gravettian culture that develops on the Don and then spreads across Europe.</td></tr>
+<tr><td class="ar">29 ka</td>
+	<td class="al">Neandertals extinct.</td></tr>
+<tr><td class="ar">27.5 ka</td>
+	<td class="al">Cave bears (<i>Ursus spelaeus</i>) extinct.</td></tr>
+<tr><td class="ar">27 ka</td>
+	<td class="al">Gravettians master weaving, make figurines.</td></tr>
+<tr><td class="ar">26 ka</td>
+	<td class="al">Indo-European (IE) speakers who enter Anatolia split, giving rise to proto-Hittite, proto-Tocharian, proto-Armenian, and proto-Greco-Phrygian.</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="03"><th>~Date</th><th>
+<a class="tri" href="#02">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> LGM (Last Glacial Maximum) </a>
+<a class="tri" href="#04">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">22-17 ka</td>
+	<td class="al">This is the Würm glaciation. <i>H. sapiens</i> in refugia:  Cantabria (Solutrean industry, <i>Proto-Celtic</i>); Italy (<i>Proto-Italic</i>); Balkans: (<i>Balkan</i>); Black Sea: (<i>Germanic</i>); Caspian Sea: (<i>Baltoslavic</i>); Aral Sea: (<i>Indoiranian families of IE</i>); Anatolia: (<i>Greece, Armenia, Tarim Basin</i>).</td></tr>
+<tr><td class="ar">22-10 ka</td>
+	<td class="al">Pax Gravettica?            §Long-distance trade, Mother-of-All-Totems figurines  </td></tr><tr>
+<td class="ar">22-12 ka</td>
+	<td class="al">Proto-Celtic (?) Solutrean industry (best stone tools). This is a possible predecessor of the NE US Clovis industry (c 13.5 ka), suggesting an early Out Of Europe route along the edge of the North Atlantic sea ice.</td></tr>
+<tr><td class="ar">16 ka</td>
+	<td class="al">Interglacial IV &mdash; the one we are in.</td></tr>
+<tr><td class="ar">16-14 ka</td>
+	<td class="al">Magdalenian industry (cave art). Proto-Germanics follow retreating glaciers from southern France to England, Germany, and southern Scandinavia.</td></tr>
+<tr><td class="ar">15-13ka</td>
+	<td class="al">Indo-Iranians migrate from the Caspian and Aral Seas along the Amu Darya (Oxus) to northern Afghanistan and the Indus Valley.</td></tr>
+<tr><td class="ar"></td>
+	<td class="al">Tocharians move east from Anatolia to northern Iran and then to the Tarim Basin.</td></tr>
+<tr><td class="ar">13-10 ka</td>
+	<td class="al">Baltic speakers emigrate north from the Ukraine.</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="04"><th>~Date</th><th>
+<a class="tri" href="#03">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> HOLOCENE </a>
+<a class="tri" href="#05">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">10,000-4500</td>
+	<td class="al">Neolithic &mdash; New Stone Age</td></tr>
+<tr><td class="ar">10 ka</td>
+	<td class="al">Celts migrate from western Iberia to the lands around the Irish Sea</td></tr>
+<tr><td class="ar">9500-9000</td>
+	<td class="al">Azilian Epipaleolithic (type site Le Mas-d&rsquo;Azil, French Pyrenees), impoverished tail end of the Magdalenians.</td></tr>
+<tr><td class="ar">9 ka</td>
+	<td class="al">Greeks bring agriculture from southwestern Anatolia and the islands of the Aegean to the Greek mainland. Sesklo.</td></tr>
+<tr><td class="ar">8000</td>
+	<td class="al">First of proto-city Jericho&apos;s often rebuilt wall.  Rain agriculture in Subartu (Assyria)</td></tr>
+<tr><td class="ar">6700&ndash;6000</td>
+	<td class="al">Nests of decapitated skulls in Grobe Ofnet & Hohlestein.</td></tr>
+<tr><td class="ar">6000</td>
+	<td class="al">Ubaid period: villages in Akkad & Sumer.</td></tr>
+<tr><td class="ar">5560</td>
+	<td class="al">Melting glaciers raise sea level, Mediterranean&ndash;Black Sea Dam breaks, allowing salt water to raise water level 155 m and giving rise to various stories of The Flood.</td></tr>
+<tr><td class="ar">5500</td>
+	<td class="al">Late LBK (Linear Bandkeramik) war parties set out to eradicate whole villages and annihilate most of their inhabitants. During these vicious and competitive struggles, LBK society collapsed (Gronenborn, 1999, p.189). Fleeing the Flood?</td></tr>
+<tr><td class="ar">4500-3500</td>
+	<td class="al">Uruk period:  first cities in Sumer: Eridu, Ur, Uruk. </td></tr>
+<tr><td class="ar">4500-3000</td>
+	<td class="al">Chalcolithic &mdash; Copper Stone Age</td></tr>
+<tr><td class="ar">4004</td>
+	<td class="al">23 Oct; Bishop Usher&apos;s date for creation of world.  10 Nov; Adam and Eve driven from Paradise.</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="05"><th>~Date</th><th>
+<a class="tri" href="#04">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> PREHISTORY </a>
+<a class="tri" href="#06">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">4000</td>
+	<td class="al">Bronze Age begins in Middle East. Earliest writing on clay. </td></tr>
+<tr><td class="ar">3761</td>
+	<td class="al">Start of Jewish calendar (year of creation)</td></tr>
+<tr><td class="ar">3600</td>
+	<td class="al">Troy I (Hisarlik) founded</td></tr>
+<tr><td class="ar">3500</td>
+	<td class="al">Egypt united by Menes (possibly a collective name for Ka, Scorpion, & Narmer, but see <a href="../_A/A02.shtml#27">here</a> for more on &lsquo;ka&rsquo;). Numerals. Linen in Sumer</td></tr>
+<tr><td class="ar">3201–3204</td>
+	<td class="al">7-planet conjunction marks beginning of Kali Yuga. (Not the goddess Kali, but a reprobate demon with a different a-vowel.</td></tr>
+<tr><td class="ar">3200</td>
+	<td class="al">Skara Brae, New Grange, Stonehenge</td></tr>
+<tr><td class="ar">3150</td>
+	<td class="al">Narmer unifies Egypt</td></tr>
+<tr><td class="ar">3100</td>
+	<td class="al">Egyptian Pyramid texts</td></tr>
+<tr><td class="ar">3100-2500</td>
+	<td class="al">Archaic Sumerian Cuneiform literature </td></tr>
+<tr><td class="ar">3,000-2,500</td>
+	<td class="al">Bronze Age &mdash; Early Bronze Age</td></tr>
+<tr><td class="ar">
+	<td class="al">Semites occuy Subartu (Assyria). Phoencians at Tyre & Sidon </td></tr>
+<tr><td class="ar">
+	<td class="al">Crete settled.  European Danubian culture. Cheop&apos;s pyramid</td></tr>
+<tr><td class="ar">
+	<td class="al">Systematic astronomy in Egypt/Sumer/India. Metal coins.</td></tr>
+<tr><td class="ar">
+	<td class="al">Wheel/horse/chariot in central Asia.  City states.</td></tr>
+<tr><td class="ar"><td>
+	</td></tr>
+
+<tr><td class="ar">2800</td>
+	<td class="al">Etana of Kish unites Sumerian city-states</td></tr>
+<tr><td class="ar">2800</td>
+	<td class="al">Oral <cite>I Ching</cite></td></tr>
+<tr><td class="ar">2772</td>
+	<td class="al">Egyptian 365-day calendar without adjustments
+	</td></tr>
+<tr><td class="ar">2750</td>
+	<td class="al">Gilgamesh king of Uruk builds walls</td></tr>
+<tr><td class="ar">2,500-2,000</td>
+	<td class="al">Middle Bronze Age</td></tr>
+<tr><td class="ar"><td>Memphis in Egypt. Libraries. Isis/Osiris resurrection cult
+	</td></tr>
+<tr><td class="ar"><td>Ishtar/Inanna cult. Minoan (Crete) snake/bull cult.
+	</td></tr>
+<tr><td class="ar">2500</td>
+	<td class="al">Iron tools used in pyramids</td></tr>
+<tr><td class="ar">2500-2300</td>
+	<td class="al">Classical Sumerian Cuneiform literature (records of Lagash) </td></tr>
+<tr><td class="ar">2300</td>
+	<td class="al">Yao period of China</td></tr>
+<tr><td class="ar">2500-1500</td>
+	<td class="al">Indus valley civilization in India: Mohenjo Daro, Harappa </td></tr>
+<tr><td class="ar">2450-1850</td>
+	<td class="al">Early Akkadian Cuneiform literature</td></tr>
+<tr><td class="ar">2400-2350</td>
+	<td class="al">Lugalzaggisi king of Uruk (Erech)</td></tr>
+<tr><td class="ar">2350</td>
+	<td class="al">Town of Ai destroyed and abandoned (Hebrew &lsquo;ay:H5857 implies &lsquo;a ruin&rsquo;)</td></tr>
+<tr><td class="ar">2334-2279</td>
+	<td class="al">Sargon king of Akkad: controls Sumer also, &lsquo;King of the 4 Quarters&rsquo;</td></tr>
+<tr><td class="ar">2300-2000</td>
+	<td class="al">New Sumerian Cuneiform: Akkadian (Semitic) becomes dominant</td></tr>
+<tr><td class="ar">2300</td>
+	<td class="al">Earliest named author: priestess Enheduana writes Sumerian temple hymns</td></tr>
+<tr><td class="ar">2254-2218</td>
+	<td class="al">Naram-Sin king of Sumer: controls Akkad also
+	</td></tr>
+<tr><td class="ar">2200-1700</td>
+	<td class="al">Egypt defeated and ruled by Hyksos &lsquo;Shepherd Kings&rsquo; </td></tr>
+<tr><td class="ar">2200-525</td>
+	<td class="al">Dynasty of Pharaohs in Egypt</td></tr>
+<tr><td class="ar">2200</td>
+	<td class="al">Troy 2 (Hisarlik) sacked in Great Fire</td></tr>
+<tr><td class="ar">2100</td>
+	<td class="al">Laws of Ur-Nammu, king of Ur of Sumer, first extant law code
+	</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="06"><th>~Date</th><th>
+<a class="tri" href="#05">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> LATE BRONZE AGE </a>
+<a class="tri" href="#07">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">2000-1500</td>
+	<td class="al">Hittite Empire of Asia Minor, King Cecrops of Attica Greece; Egyptian alphabet of 24 signs; 1st novel <cite>Story of Sinuhe</cite>, <cite>Book of the Dead</cite>, Thutmose I builds 1st tomb in Valley of Kings, knotted ropes of 3-4-5 right triangles, Edwin Smith Papyrus of medicine and surgery; Semitic alphabet, Babylon Marduk cult & Zodiac signs, Stonehenge, 1st Palace of Mycenae, 1st Palace of Minos at Knossus Crete, Cretan decimal system, Indian polished marble water dam and four basic elements of earth/air/fire/water</td></tr>
+<tr><td class="ar">2000</td>
+	<td class="al">Horse riders invade from central Asia: Scythians, Centaurs, Satyrs</td></tr>
+<tr><td class="ar">1950</td>
+	<td class="al">Abraham leaves Ur for Canaan</td></tr>
+<tr><td class="ar">1934-1924</td>
+	<td class="al">Laws of Lipit-Ishtar of Sumer</td></tr>
+<tr><td class="ar">1900-1595</td>
+	<td class="al">Amorites rule Akkad and Sumer (North and South Babylonia) </td></tr>
+<tr><td class="ar">1887-1849</td>
+	<td class="al">Sesostris III of Egypt: invades Canaan</td></tr>
+<tr><td class="ar">c 1850-1700</td>
+	<td class="al">Abraham & Sarah, Isaak & Ishmael</td></tr>
+<tr><td class="ar">1800</td>
+	<td class="al">Babylonian <cite>Enuma Elish</cite></td></tr>
+<tr><td class="ar">1800-1500</td>
+	<td class="al">Vedic period of Indian Sanskrit literature</td></tr>
+<tr><td class="ar">c. 1792-1750
+	<td class="al">Hammurabi of Babylon: king of united Babylonia (Akkad & Sumer) </td></tr>
+<tr><td class="ar">1758</td>
+	<td class="al">Laws of Hammurabi king of Babylonia, includes fees for eye surgery &hellip;</td></tr>
+<tr><td class="ar">1750</td>
+	<td class="al">Collapse of Indus Valley (Harapan) culture</td></tr>
+<tr><td class="ar">1750-550</td>
+	<td class="al">Persian Empire</td></tr>
+<tr><td class="ar">1680</td>
+	<td class="al">Eruption of Thera destroys &lsquo;Atlantis&rsquo; and the Minoan civilization</td></tr>
+<tr><td class="ar">1600</td>
+	<td class="al">Hebrews go to Egypt</td></tr>
+<tr><td class="ar">1595</td>
+	<td class="al">Mursil I the Hittite raids Babylon ending Hammurabi (Amorite) dynasty</td></tr>
+<tr><td class="ar">1570&ndash;1280</td>
+	<td class="al">Hebrews enslaved in Egypt</td></tr>
+<tr><td class="ar">1570-1200</td>
+	<td class="al">Amosis I (1570-45) liberates Egypt from Hyksos, begins &lsquo;New Kingdom&rsquo;</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="07"><th>~Date</th><th>
+<a class="tri" href="#06">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> IRON AGE </a>
+<a class="tri" href="#08">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">1500-1000</td>
+	<td class="al">Hittites near Black Sea, &lsquo;metal from heaven&rsquo;: meteorites. Phrygians leave Thrace for Asia Minor; Assyrian King Shalmaneser I founds Numrud, Ethiopian independence, Dorians conquer Peloponnesus, Medon 1st Archon abolishes monarchy in Athens, Greek alphabet Linear-B at Cnossus, height of Mycenaean culture, Hittite library has tablets in 8 languages, Laws of the Hittites, mural in Thebes of female musicians, Kikkuli of Mitanni writes on horsemanship, Corinth founded, Phoenicians mine tin for bronze in England, Egypt: Cleopatra&apos;s Needle obelisk, water-flow meter in tomb of Amenhotep III;</td></tr>
+<tr><td class="ar">1490-1436</td>
+	<td class="al">Thutmosis III of Egypt: conquers and annexes Canaan and Syria </td></tr>
+<tr><td class="ar">1439-1406</td>
+	<td class="al">Amenophis II of Egypt: 3 Asian (Canaan & Syria) military campaigns </td></tr>
+<tr><td class="ar">1406-1398</td>
+	<td class="al">Thutmosis IV of Egypt: &lsquo;Conqueror of Haru (Canaan & Syria)&rsquo; </td></tr>
+<tr><td class="ar">1369-1353</td>
+	<td class="al">Akhenaten of Egypt: 1st Monotheist, <cite>Hymns to Aton</cite>, Ps 118:22-23? The first non-bicameral individual we know of. </td></tr>
+<tr><td class="ar">1353-1342</td>
+	<td class="al">Tutankhamen of Egypt: Akhenaten&apos;s Monotheism is rejected
+<tr><td class="ar">1308-1290</td>
+	<td class="al">Seti I of Egypt: military campaigns into Canaan</td></tr>
+<tr><td class="ar">1300</td>
+	<td class="al">Lion Gate of Mycenae built, ancient site of Jericho abandoned
+<tr><td class="ar">1300? 1250?&ndash;1200</td>
+	<td class="al">1st wave of Hebrew Canaan invasion from Kadesh-barnea by Joshua [Nm33]</td></tr>
+<tr><td class="ar">1290-1224</td>
+	<td class="al">Rameses II of Egypt: time of the Hebrew (Egyptian: &lsquo;Apiru?) Exodus?</td></tr>
+<tr><td class="ar">1285</td>
+	<td class="al">Battle of Kadesh, Egypt v. Hittites, Hittites advance south to Damascus</td></tr>
+<tr><td class="ar">1280</td>
+	<td class="al">Moses leads Exodus of Hebrews out of Egypt</td></tr>
+<tr><td class="ar">1280&ndash;1250</td>
+	<td class="al">Hebrews wander in wilderness of Sinai</td></tr>
+<tr><td class="ar">1269</td>
+	<td class="al">peace treaty between Rameses II of Egypt and Hattusilis III the Hittite, Egyptian bases at Damascus and Sumur on coast, Hittites just north in Syria</td></tr>
+<tr><td class="ar">1250-1200</td>
+	<td class="al">Lachish, Kirjath-sepher/Debir, Eglon, Hazor, Bethel destroyed </td></tr>
+<tr><td class="ar">1250</td>
+	<td class="al">Troy 6 (Hisarlik) destroyed (Homer&apos;s Trojan War? Earthquake? &hellip;</td></tr>
+<tr><td class="ar">1250?
+	<td class="al">2nd wave of Hebrew Canaan invasion from Kadesh-barnea by Leah [Nm21:21]</td></tr>
+<tr><td class="ar">1250?
+	<td class="al">Lachish Bowl, 1935, 7 letters of proto-Canaanite left-to-right writing</td></tr>
+<tr><td class="ar">1234</td>
+	<td class="al">Tukulti-Ninurta I of Assyria sacks Babylon. Another non-bicameral individual.</td></tr>
+<tr><td class="ar">1224-1214</td>
+	<td class="al">Pharaoh Merneptah: plunders Canaan, defeats Askelon, captures Gezer  annihilates Yaro&rsquo;am (town just south of Lake Galilee): &lsquo;Israel [male gender, a tribe not a land] is laid waste; his seed is no longer&lsquo;, earliest known reference to Israel [Unauthorized Version, R.L. Fox, 1991, p.225-226]</td></tr>
+<tr><td class="ar">1220</td>
+	<td class="al">Philistines (The Sea Peoples) attack Egyptian western Delta
+<tr><td class="ar">1214-1198</td><td class="al">Period of anarchy in Egypt, perhaps invasion from north? Jg3:3-10?</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr></tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="08"><th>~Date</th><th>
+<a class="tri" href="#07">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> HISTORY </a>
+<a class="tri" href="#09">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">1200</td>
+	<td class="al">Beginning of general breakdown of bicamerality and emergence of introspective consciousness.</td></tr>
+<tr><td class="ar">1200&ndash;1020</td>
+	<td class="al">Judges rule in Israel</td></tr>
+<tr><td class="ar">1200</td>
+	<td class="al"><cite>Epic of Gilgamesh</cite> written in Uruk (Erech), Babylonia (see 2750)</td></tr>
+<tr><td class="ar">1200</td>
+	<td class="al">Domestication of camel, fully nomadic Arabian desert tribes flourish</td></tr>
+<tr><td class="ar">1200</td>
+	<td class="al">Hittite empire mysteriously disappears (Philistines?) </td></tr>
+<tr><td class="ar">c 1250-1200</td>
+	<td class="al">Exodus from Egypt, Sinai Torah, Canaan Entry</td></tr>
+<tr><td class="ar">1198-1166</td>
+	<td class="al">Rameses III of Egypt: last period of Egyptian influence in Canaan</td></tr>
+<tr><td class="ar">1187</td>
+	<td class="al">Rameses III records battles against raiding Philistines in Canaan</td></tr>
+<tr><td class="ar">1180</td>
+	<td class="al">Troy 7a (Hisarlik) sacked (Philistines?)</td></tr>
+<tr><td class="ar">1157</td>
+	<td class="al">Elam conquers Babylonia, ends Kassite dynasty, takes Marduk gold statue</td></tr>
+<tr><td class="ar">1146-1123</td>
+	<td class="al">Nebuchadnezzar I king of Babylonia: reclaims Marduk idol from Elam</td></tr>
+<tr><td class="ar">1143</td>
+	<td class="al">Written version of <cite>I Ching</cite></td></tr>
+<tr><td class="ar">1125?</td>
+	<td class="al">Battle of Deborah, Israel v. Canaan, key battle for Hebrews [Judg4,5]</td></tr>
+<tr><td class="ar">1114-1076</td>
+	<td class="al">Tiglath-pileser I of Assyria: conquers Babylonia but prevented from entering Syria by Arameans who control and occupy Syria at this time</td></tr>
+<tr><td class="ar">1100?</td>
+	<td class="al">Izbet Sartah Abecedary ostracon: Old Hebrew script left to right</td></tr>
+<tr><td class="ar">1050?</td>
+	<td class="al">Philistines settled in Gaza, Ashkelon, Ashdod, Gath and Ekron </td></tr>
+<tr><td class="ar">1050?</td>
+	<td class="al">Philistines defeat Hebrews in battle of Aphek, Shiloh sacked [1Sam4 &hellip;]</td></tr>
+<tr><td class="ar">c 1050-1450</td>
+	<td class="al">Hebrew prophets (Samuel-Malachi)</td></tr>
+<tr><td class="ar">c 1030-1010</td>
+	<td class="al">Saul (transitional king)</td></tr>
+<tr><td class="ar">1006-1004</td>
+	<td class="al">Saul first king of Israel: defeated by Philistines [1S11:15 &hellip;]</td></tr>
+<tr><td class="ar">1004-965</td>
+	<td class="al">King David of united Israel: capital/fortress Jerusalem, Ark of Covenant, gains control of "King&apos;s Highway" trade route from Damascus to Edom, trades with Phoenicians at Tyre and Sidon, quells internal revolts &hellip;</td></tr>
+<tr><td class="ar">10th</td>
+	<td class="al">Ionians exiled from Greece to Asia Minor where they found 12 cities inc. Miletus and Ephesus, Hebrew alphabet: <cite>Song of Deborah</cite> [Jdg5], <cite>Song of Miriam</cite> [Exo15:1-18] & <cite>Song of Songs</cite> earliest lit., Greek script based on old Semitic-Phoenician + vowels, Classical Greek Paganism & Temple of Hera in Olympia, India: steel, 360 day year with solar adj.; Chaldeans use water filled cube to measure time, weight and length</td></tr>
+<tr><td class="ar">1586&ndash;1000</td>
+	<td class="al">first period (Classical) of Hebrew literature in Old Hebrew script</td></tr>
+<tr><td class="ar">965-928</td>
+	<td class="al">King Solomon: builds Jerusalem Temple, height of Israeli culture, a reign of peace, establishes control of Via Maris &lsquo;Sea Road&rsquo; trade route along coast through Philistia, builds leading trade state between Egypt and Asia Minor, marries daughter of Pharaoh, establishes spice trade with Queen of Sheba, sea route from Ezion-geber on Red Sea to Ophir&apos;s African mines &hellip;</td></tr>
+<tr><td class="ar">950?</td>
+	<td class="al">&lsquo;Ten Commandments&rsquo; (Decalog) written in Israel (Northern Kingdom)</td></tr>
+<tr><td class="ar">945</td>
+	<td class="al">Shishak of Egypt, hostile to Israel, harbors rebel Jeroboam & seeds split</td></tr>
+<tr><td class="ar">928</td>
+	<td class="al">United Israel splits into Israel and Judah; Ammon, Moab, Edom independent</td></tr>
+<tr><td class="ar">928-907</td>
+	<td class="al">Jeroboam I king of Israel (Northern Kingdom, 10 tribes) </td></tr>
+<tr><td class="ar">928-917</td>
+	<td class="al">Rehoboam I king of Judah (Southern Kingdom, 2 tribes: Judah/Benjamin)</td></tr>
+<tr><td class="ar">923</td>
+	<td class="al">Shishak of Egypt sacks 150 cities of Israel and Judah [1K14:25], Jerusalem spared after Rehoboam pays tribute of Temple and Palace treasures</td></tr>
+<tr><td class="ar">917-908</td>
+	<td class="al">Abijam king of Judah: son of Rehoboam, campaigns against N. Kingdom</td></tr>
+<tr><td class="ar">908-867</td>
+	<td class="al">Asa king of Judah</td></tr>
+<tr><td class="ar">907-906</td>
+	<td class="al">King Nadab of Northern Kingdom: son of Jeroboam</td></tr>
+<tr><td class="ar">906-883</td>
+	<td class="al">Baasha ben Ahijah king of N. Kingdom: kills entire Jeroboam family</td></tr>
+<tr><td class="ar">9th</td>
+	<td class="al">Babylonian Akkadian Cuneiform becomes common language of Middle East</td></tr>
+<tr><td class="ar">884-859</td>
+	<td class="al">Ashur-nasirpal II king of Assyria
+<tr><td class="ar">883</td>
+	<td class="al">Ben-hadad of Damascus sacks N. Kingdom for Asa king of Judah [1K15:17-20]
+<tr><td class="ar">882-871</td>
+	<td class="al">Omri king of Northern Kingdom: alliance with Judah and Tyre
+<tr><td class="ar">879</td>
+	<td class="al">Omri builds Samaria as capital of Northern Kingdom (Beth-Omri)
+<tr><td class="ar">871-852</td>
+	<td class="al">Ahab king of Northern Kingdom: son of Omri, regains King&apos;s Highway, marries Jezebel (daughter of king of Tyre) who introduces cult of Melqart the Baal of Tyre into Northern Kingdom, erects temple to Melqart in Samaria</td></tr>
+<tr><td class="ar">859-824</td>
+	<td class="al">Shalmaneser III king of Assyria</td></tr>
+<tr><td class="ar">853</td>
+	<td class="al">Battle of Qarqar, Assyria v. Syrian alliance which includes Ahab and wins</td></tr>
+<tr><td class="ar">851-842</td>
+	<td class="al">Jehoram king of Northern Kingdom: son of Ahab</td></tr>
+<tr><td class="ar">850</td>
+	<td class="al">Mesha Victory Stele, 1868, stone in Old Hebrew, records victory (attr. to Chemosh god) of king Mesha of Moab against kings Omri and Ahab [cf. 2K3]</td></tr>
+<tr><td class="ar">850?</td>
+	<td class="al">Homer, Greek epic poet, (pseudonym?), <cite>Iliad</cite> and <cite>Odyssey</cite>; (Loeb Classics)</td></tr>
+<tr><td class="ar">849,848,845</td>
+	<td class="al">Assyria continues campaign against Syrian alliance</td></tr>
+<tr><td class="ar">842</td>
+	<td class="al">Jehu, a general and king of N. Kingdom, (aided by Elisha the prophet), kills Jehoram, Jezebel, Ahaziah king of Judah, all Ahab&apos;s offspring and all followers of Baal cult, destroys Baal temple in Samaria [2K9]</td></tr>
+<tr><td class="ar">814</td>
+	<td class="al">Hazael of Syria (Aram) takes Ammon/Moab/Edom; threatens Israel and Judah</td></tr>
+<tr><td class="ar">814-800	</td>
+	<td class="al">Jehoahaz king of Northern Kingdom: son of Jehu</td></tr>
+<tr><td class="ar">8th</td>
+	<td class="al">Greeks settle on Spanish coast, found Messina and Syracuse in Sicily, Etruscans enter Italy, Egyptian fable: <cite>Battle between Head & Belly</cite>, Syria adopts Aramaic, woman as high priest at Thebes, Apollo worshiped at Delphi, Spartan Laws of Lycurgus, Laws of Minos of Cnossus, Babylonian 5 and 7 tone scales, 1st Roman king Romulus develops 10 month calendar, Chinese perfect precision bronze casting, <cite>Shih ching</cite> (Book of Odes): some 300 poems curated by Confucius</td></tr>
+<tr><td class="ar">800-500</td>
+	<td class="al">Dharma-sutra period of Indian Sanskrit literature</td></tr>
+<tr><td class="ar">798-769</td>
+	<td class="al">Amaziah king of Judah: regains Edom, loses war with Israel 2K14:7-21</td></tr>
+<tr><td class="ar">796</td>
+	<td class="al">Adad-nirara III (810-782) of Assyria sacks Damascus, Syria [2K13:5]</td></tr>
+<tr><td class="ar">785</td>
+	<td class="al">King Joash of N. Kingdom(800-784) sacks Jerusalem, raids Temple 2K14:7-21</td></tr>
+<tr><td class="ar">784-748</td>
+	<td class="al">Jeroboam II: son of Joash, last important ruler of Northern Kingdom</td></tr>
+<tr><td class="ar">784-733</td>
+	<td class="al">Uzziah: prince-regent then king of Judah, son of Amaziah [2Chr26]</td></tr>
+<tr><td class="ar">776</td>
+	<td class="al">first recorded Olympic Games, perhaps as early as 1350, women excluded</td></tr>
+<tr><td class="ar">775?</td>
+	<td class="al">Elowist (E) source of Gn/Ex (Mosaic Law) written in Northern Kingdom</td></tr>
+<tr><td class="ar">753</td>
+	<td class="al">first year in Roman calendar, Rome founded (A.U.C. = anno urbis conditae)</td></tr>
+<tr><td class="ar">750?</td>
+	<td class="al">Hosea, Amos (bicameral), Micah; written in Northern Kingdom </td></tr>
+<tr><td class="ar">750?</td>
+	<td class="al">Yahwist (J) source of Gn/Ex/Lv/Nm (Mosaic Law) written in Judah, Gn2:5.</td></tr>
+<tr><td class="ar">745-727</td>
+	<td class="al">Tiglath-pileser III of Assyria: conquers Babylonia, dominant power</td></tr>
+<tr><td class="ar">730-700</td>
+	<td class="al">Hesiod, Greek poet, 1st Greek lit. on origins of gods: <cite>Theogony</cite>,  also <cite>Works & Days</cite>, <cite>Shield of Heracles</cite>; names the 9 Muses: (Clio: history, Euterpe: music, Thalia: comedy, Melpomene: tragedy, Terpsichore: dance, Erato: elegy, Polyhymnia: lyric-poetry, Ourania: astronomy, Calliope: eloquence)</td></tr>
+<tr><td class="ar">732</td>
+	<td class="al">Tiglath-pileser III of Assyria captures and occupies Damascus, Syria transformed into an Assyrian province, likewise Galilee becomes Magiddu</td></tr>
+<tr><td class="ar">727-722</td>
+	<td class="al">Shalmaneser V king of Assyria: son of Tiglath-pileser III </td></tr>
+<tr><td class="ar">727-698</td>
+	<td class="al">Hezekiah king of Judah</td></tr>
+<tr><td class="ar">722</td>
+	<td class="al">Northern Kingdom Israel and capital Samaria fall to Shalmaneser V of Assyria. [2K17:3-6] All Jews are expelled and a new nation is formed called Samerina.  These are the &lsquo;lost tribes&rsquo;, &lsquo;lost sheep&rsquo; as called by Jesus.</td></tr>
+<tr><td class="ar">720</td>
+	<td class="al">Sargon of Assyria quells rebellion in Samaria, recaptures Syro-Palestine</td></tr>
+<tr><td class="ar">715-672</td>
+	<td class="al">Numa Pompilius 2nd king of Rome: adds Jan/Feb to Romulus&rsquo; 10-month calender.</td></tr>
+<tr><td class="ar">705</td>
+	<td class="al">Sargon killed in battle, mass rebellion throughout Assyrian empire</td></tr>
+<tr><td class="ar">705-681</td>
+	<td class="al">King Sennacherib of Assyria</td></tr>
+<tr><td class="ar">705?</td>
+	<td class="al">Siloam Inscription, 1880, Old Hebrew in Jerusalem water tunnel [2K20:20]</td></tr>
+<tr><td class="ar">702</td>
+	<td class="al">Sennacherib of Assyria regains control of Babylon</td></tr>
+<tr><td class="ar">701</td>
+	<td class="al">Sennacherib sacks Jerusalem then quickly retreats [2K18:13-19:37,I36-37]</td></tr>
+<tr><td class="ar">7th</td>
+	<td class="al">1st Isaiah (1-39) written, Indian Vedas completed, Greeks worship Apollo & Dionysus, golden age of divination in Assyria, 1st Doric columns in Peloponnesus, 1st Ionic columns on Samos, Athenian Acropolis, Babylonian Marduk Temple (Tower of Babel?), Assurbanipal&apos;s library of 22,000 clay tablets, Glaucus of Chios invents iron soldering (brazing?), Pharaoh Nechos starts canal between Nile & Red Sea, Sennacherib 1st recorded alpinist, Lydian coins of electrum gold-silver alloy, Aramaic common language of Middle East, Murabba&rsquo;at Palimpsest oldest extant Hebrew papyrus </td></tr>
+<tr><td class="ar">690-638</td>
+	<td class="al">Manassseh king of Judah: sacrificed his son to Molech &hellip; [2K21:2-7]</td></tr>
+<tr><td class="ar">689</td>
+	<td class="al">Sennacherib destroys Babylon, Euphrates diverted to flood site </td></tr>
+<tr><td class="ar">681-669</td>
+	<td class="al">Esarhaddon king of Assyria: son of Sennacherib</td></tr>
+<tr><td class="ar">679</td>
+	<td class="al">Esarhaddon defeats Tirhakah of Egypt in Philistia & gains coastal control</td></tr>
+<tr><td class="ar">671</td>
+	<td class="al">Esarhaddon conquers the Nile Delta region, controlled until 649</td></tr>
+<tr><td class="ar">669-627</td>
+	<td class="al">Ashurbanipal king of Assyria: son of Esarhaddon</td></tr>
+<tr><td class="ar">650</td>
+	<td class="al">Sappho of Lesbos, Greek poetess; (Loeb Classics with Alcaeus) </td></tr>
+<tr><td class="ar">648</td>
+	<td class="al">Ashurbanipal of Assyria sacks Babylon</td></tr>
+<tr><td class="ar">638-609</td>
+	<td class="al">Josiah king of Judah: institutes reforms [2K22-23, 2Ch34] </td></tr>
+<tr><td class="ar">627</td>
+	<td class="al">Babylon revolts, neo-Babylonian (Chaldean) empire founded by Nabopolassar</td></tr>
+<tr><td class="ar">621</td>
+	<td class="al">Deuteronomy (2nd Mosaic Law) found in Temple wall: 700-660? [2Ki22-23, 2Ch34]</td></tr>
+<tr><td class="ar">621</td>
+	<td class="al">Draco of Athens writes: "Draconian Laws"; death for most offenses</td></tr>
+<tr><td class="ar">614</td>
+	<td class="al">Medes of Persia sack city of Ashur, Assyria</td></tr>
+<tr><td class="ar">612</td>
+	<td class="al">Ninevah destroyed by Babylonians and Medes, end of Assyrian empire</td></tr>
+<tr><td class="ar">610?
+	<td class="al">core of Book of Kings (I & II) written in Jerusalem</td></tr>
+<tr><td class="ar">609</td>
+	<td class="al">Pharaoh Necho dethrones Jehoahaz of Judah, installs Jehoiakim as king</td></tr>
+<tr><td class="ar">605-562</td>
+	<td class="al">Nebuchadnezzar II king of Babylonia</td></tr>
+<tr><td class="ar">605</td>
+	<td class="al">Nebuchadnezzar II defeats Pharaoh Necho at battle of Carchemish</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr></tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="09"><th>~Date</th><th>
+<a class="tri" href="#08">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> 600 BCE </a>
+<a class="tri" href="#10">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">586</td>
+	<td class="al">Judah falls to Nebuchadnezzar of Babylon.  Babylonian exile</td></tr>
+<tr><td class="ar">c 550</td>
+	<td class="al">Judean Prophet &lsquo;Second Isaiah&rsquo;</td></tr>
+<tr><td class="ar">538</td>
+	<td class="al">Edict of Cyrus (first return from Exile)</td></tr>
+<tr><td class="ar">520-515</td>
+	<td class="al">Second Temple rebuilt</td></tr>
+<tr><td class="ar">490&ndash;429</td>
+	<td class="al">Pericles</td></tr>
+<tr><td class="ar">470&ndash;399</td>
+	<td class="al">Socrates</td></tr>
+<tr><td class="ar">450-400</td>
+	<td class="al">Reformation led by Ezra and Nehemiah</td></tr>
+<tr><td class="ar">c 450</td>
+	<td class="al">Torah (Pentateuch = first division of Jewish Scriptures)</td></tr>
+<tr><td class="ar">444</td>
+	<td class="al">Nehemiah rebuilds Jerusalem and its walls</td></tr>
+<tr><td class="ar">443&ndash;429</td>
+	<td class="al">Periclean Athens.  High point of rationality and critical analysis</td></tr>
+<tr><td class="ar">427&ndash;347</td>
+	<td class="al">Plato</td></tr>
+<tr><td class="ar">387</td>
+	<td class="al">The Academy founded; survives for 900 years</td></tr>
+<tr><td class="ar">384&ndash;322</td>
+	<td class="al">Aristotle</td></tr>
+<tr><td class="ar">382&ndash;289</td>
+	<td class="al">Mencius</td></tr>
+<tr><td class="ar">356&ndash;323</td>
+	<td class="al">Alexander the Great discovers that marching 60 miles/day lets him conquer city-states.</td></tr>
+<tr><td class="ar">333-331</td>
+	<td class="al">Alexander the Great conquers Palestine</td></tr>
+<tr><td class="ar">313</td>
+	<td class="al">Ptolemy of Egypt (Alexander&apos;s successor) rules Palestine</td></tr>
+<tr><td class="ar">287&ndash;212</td>
+	<td class="al">Archimedes</td></tr>
+<tr><td class="ar">275&ndash;195</td>
+	<td class="al">Eratosthenes measures astronomical distances</td></tr>
+<tr><td class="ar">273&ndash;232</td>
+	<td class="al">Asoka makes Buddhism state religion of India</td></tr>
+<tr><td class="ar">c 250
+	<td class="al">Septuagint, translation of Torah into Greek</td></tr>
+<tr><td class="ar">c 230-146</td>
+	<td class="al">Roman Empire Expands into east Mediterranean</td></tr>
+<tr><td class="ar">168-163 BCE
+	<td class="al">Jewish Maccabean revolt & Hasmonean rule</td></tr>
+<tr><td class="ar">165</td>
+	<td class="al">Jerusalem recaptured, Temple rededicated (25 Kislev = Hanukka)</td></tr>
+<tr><td class="ar">63</td>
+	<td class="al">Rome (Pompey) annexes Palestine</td></tr>
+<tr><td class="ar">37</td>
+	<td class="al">Herod appointed local king by Rome</td></tr>
+<tr><td class="ar">20</td>
+	<td class="al">Herod begins restoration of the Temple</td></tr>
+<tr><td class="ar">
+	<td class="al">Hillel & Shammai (Jewish sages): turn of the era
+
+<tr><td class="ar"><br></td> <td></td></tr></tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="10"><th>~Date</th><th>
+<a class="tri" href="#09">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> COMMON ERA </a>
+<a class="tri" href="#11">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">4 BCE-c 30 CE <td>Yeshua (&lsquo;Savior&rsquo;) aka Jesus aka Christ</td></tr>
+<tr><td class="ar">33</td>
+	<td class="al">Crucifixion of Jesus by order of Pontius Pilate</td></tr>
+<tr><td class="ar">fl. 36-64</td>
+	<td class="al">Paul &lsquo;the apostle&rsquo; (Hellenic &lsquo;Christian&rsquo;)</td></tr>
+<tr><td class="ar">c 37-100</td>
+	<td class="al">Josephus (Jewish leader, historian)</td></tr>
+<tr><td class="ar">c 50-125</td>
+	<td class="al">Christian Testament (NT) writings</td></tr>
+<tr><td class="ar">66-73</td>
+	<td class="al">First Jewish Revolt against Rome. Destruction of 2nd Temple</td></tr>
+<tr><td class="ar">
+	<td class="al">Yohanan ben Zacchai, or &lsquo;Rabiz&rsquo;, founder of Rabbinic Judaism, smuggled out of Jerusalem in coffin. The Temple and its altar having been destroyed, he persuades Jews to replace traditional animal sacrifice with prayer.</td></tr>
+<tr><td class="ar">70</td>
+	<td class="al">Jerusalem razed by Titus Flavius</td></tr>
+<tr><td class="ar">114-117</td>
+	<td class="al">Jewish Revolts against Rome outside Palestine</td></tr>
+<tr><td class="ar">130</td>
+	<td class="al">Hadrian builds new Roman colony, Capitolina Aelia, on ruins of Jerusalem; Jews forbidden to enter</td></tr>
+<tr><td class="ar">132-135</td>
+	<td class="al">Bar Kokhba rebellion (Second Jewish Revolt)</td></tr>
+<tr><td class="ar">c 135&ndash;200</td>
+	<td class="al">Jewish Qumran community</td></tr>
+<tr><td class="ar">c 200</td>
+	<td class="al">Mishnah compiled/edited under Judah the Prince</td></tr>
+<tr><td class="ar">200-254</td>
+	<td class="al">Origen (Christian scholar, biblical interpreter)</td></tr>
+<tr><td class="ar">c 220</td>
+	<td class="al">Babylonian Jewish Academy founded at Sura by Rab</td></tr>
+<tr><td class="ar">240-276</td>
+	<td class="al">Rise of Mani and the Manichaean World Religion synthesis</td></tr>
+<tr><td class="ar">250-330</td>
+	<td class="al">Early development of Christian monasticism in Egypt</td></tr>
+<tr><td class="ar">263-339</td>
+	<td class="al">Eusebius (Christian author, historian)</td></tr>
+<tr><td class="ar">31-313</td>
+	<td class="al">Emperor Constantine embraces Christianity</td></tr>
+<tr><td class="ar">324</td>
+	<td class="al">Jerusalem under Byzantine rule</td></tr>
+<tr><td class="ar">325</td>
+	<td class="al">First Ecumenical Council, at Nicea (Asia Minor)</td></tr>
+<tr><td class="ar">330</td>
+	<td class="al">Jerusalem Christian construction under Constantine, Helena</td></tr>
+<tr><td class="ar">c 325-420</td>
+	<td class="al">Jerome (Christian author, translator)</td></tr>
+<tr><td class="ar">354-430
+	<td class="al">Augustine (Christian author in North Africa)</td></tr>
+<tr><td class="ar">380/391</td>
+	<td class="al">Christianity becomes official religion of Roman Empire</td></tr>
+<tr><td class="ar">c 400</td>
+	<td class="al">Palestinian Talmud edited</td></tr>
+<tr><td class="ar">c 400/-224</td>
+	<td class="al">Luhayy adds stone idols from a Syrian spring to the Ka&rsquo;aba. As in earlier cultures, these idols may have spoken to bicameral worshippers.</td></tr>
+<tr><td class="ar">c 400-600</td>
+	<td class="al">Babylonian Talmud edited</td></tr>
+<tr><td class="ar">410</td>
+	<td class="al">Rome sacked by Visigoths</td></tr>
+<tr><td class="ar">451</td>
+	<td class="al">Ecumenical Council of Chalcedon</td></tr>
+<tr><td class="ar">476&ndash;550</td>
+	<td class="al">Aryabhata, Indian astronomer and mathematician: algebra, trigonometry, powers and roots, quadratic equations</td></tr>
+<tr><td class="ar">c 480/-143 AH</td>
+	<td class="al">Mohammed&apos;s ancestor Qusayy buys custodianship of Ka&rsquo;aba for a skinful of wine and a lute [Tabari VI:21], and anachronically enforces 5 Pillars of Islam
+<tr class="rr"><td class="ar">570</td>
+	<td class="al">Justinian, withdrawing from uprofitable desert, stops subsidies to Gassanids and other Arab tribes employed for Byzantine border defense</td></tr>
+<tr><td class="ar">590-604</td>
+	<td class="al">Pope Gregory the Great
+
+<tr><td class="ar"><br></td> <td></td></tr></tbody></table><br><hr>
+
+
+<p>Items in <span style="color:red; font-weight:700;
+letter-spacing:1px;">red</span> are from Nevo & Koren&apos;s highly non-traditional interpretation of the foundation of the Arab state, based on non-Arab documents, numismatics, and inscriptions from the Negev, the only place they can be studied today. Their thesis is that Byzantium deliberately downsized the Empire as Saharasian desiccation made areas unproductive and untaxable, gradually withdrawing to Antioch, subsidizing Arab tribes to replace border garrisons, fostering heretical churches to replace Chalcedonian (Byzantine) supervision, and encouraging self-rule in the provinces, all of which left a power vacuum into which Arab tribes moved and squabbled, eventually being subdued by Mu&rsquo;awiyah, the first &lsquo;Arab king&rsquo; mentioned in non-Arab sources {Ch 4}. Although this thesis infuriates Muslims, it is consistent with external history, as the Traditional Account is not.
+</p>
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="11"><th>~Date</th><th>
+<a class="tri" href="#10">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> MUHAMAD </a>
+<a class="tri" href="#12">&emsp;&emsp;&#9661;</a>
+	</th></tr></h2>
+</thead>
+
+<tbody>
+<tr><td class="ar">c 570-632/-52 AH</td>
+	<td class="al">Mohammed (←Abdallah←Abdul Muttalib←Hashim←Abd Manaf←Qusayy {E: 3})
+<tr style="color:red;"><td class="ar">584</td>
+	<td class="al">Byzantine Emperor Maurice abolishes Gassanid buffer state.  Byzantium gradually withdraws northward.</td></tr>
+<tr><td class="ar">c 595/-27</td>
+	<td class="al">Mohammed marries Khadija</td></tr>
+<tr><td class="ar">c 610/-12</td>
+	<td class="al">Prophetic call and start of Qur&rsquo;anic revelation. First convert: 10-year-old Ali.</td></tr>
+<tr><td class="ar">614/-8</td>
+	<td class="al">Jerusalem falls to Persia. Persians remove Chalcedonians (loyal to Byzantium.)</td></tr>
+<tr><td class="ar">615/-7</td>
+	<td class="al">1st Muslims find refuge in Ethiopia</td></tr>
+<tr><td class="ar">619/-3</td>
+	<td class="al">Death of Khadija and Abu Talib, Mohammed&apos;s disbelieving uncle and protector</td></tr>
+<tr><td class="ar">
+	<td class="al">Bat qol at al-Aqaba</td></tr>
+<tr><td class="ar">622</td>
+	<td class="al">Byzantine Emperor Heraclius introduces Monotheletism, &lsquo;one will&rsquo;, an alternative to Chalcedon, further diminishing al Sham&apos;s dependence on Byzantium</td></tr>
+<tr><td class="ar">622/0</td>
+	<td class="al">The <i>hijra</i> (hegira, emigration) from Mecca to Medina
+<tr><td class="ar">624/2</td>
+	<td class="al">Muslim Conquests begin with Battle of Badr</td></tr>
+<tr><td class="ar">625/3</td>
+	<td class="al">Muslim loss at Uhud</td></tr>
+<tr><td class="ar">627/5</td>
+	<td class="al">Muslims siege of Medina
+<tr class="rr"><td class="ar">628</td>
+	<td class="rl">Byzantium defeats Persia; ignores Palestine</td></tr>
+<tr><td class="ar">628/6</td>
+	<td class="al">Muslims capture Mecca</td></tr>
+<tr><td class="ar">629</td>
+	<td class="al">The Christological doctrine Monotheletism emerges among Christians in Syria and Armenia. It holds that •••</td></tr>
+<tr><td class="ar">630/8</td>
+	<td class="al">Capitulation of Mecca, rededication of Ka'aba</td></tr>
+<tr class="rr"><td class="ar">632/11</td>
+	<td class="rl">Heraclius stops subsidies to tribes in interface between Palestine and Arabia
+<tr><td></td><td class="al">Mohammad dies</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr></tbody></table><br><hr>
+
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="12"><th>~Date</th><th>
+<a class="tri" href="#11">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> ARAB CONQUEST </a>
+<a class="tri" href="#13">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+
+<tbody>
+<tr><td class="ar">632-661/<br>11 AH</td>
+	<td class="al">The four Rashidun (&lsquo;rightly guided&rsquo;) caliphs of Islam are known only from Arab sources.</td></tr>
+<tr><td class="ar">632-634<br>11-13</td>
+	<td class="al">Abu Bakr ibn Qhuhafah (<b>Caliph 1</b>). Father-in-law (Aisha) of Mohammed. First task: the Wars of Apostasy, forcing the Arabian peninsula to acknowledge Allah and pay <i>zakat</i>. <b>Died of illness</b>.
+<tr><td class="ar">633</td>
+	<td class="rl">Sophronius (anti-Monothelete) patriarch of Jerusalem
+<tr><td class="ar">634-640/13-20</td>
+	<td class="rl">Arabs move into power vacuum in Trans-Jordan and Syria
+<tr><td class="ar">634/13</td>
+	<td class="rl">Arabs &mdash; called &lsquo;godless barbarians&rsquo; by Sophronius &mdash; raid around Bethlehem</td></tr>
+<tr><td class="ar">634-644<br>13-23</td>
+	<td class="al">&lsquo;Umar ibn al-Khattab (<b>Caliph 2</b>). <b>Assassinated</b> by a Persian slave.
+	</td></tr>
+<tr><td class="ar">634</td>
+	<td class="al">Greek source has Muhammed still living</td></tr>
+<tr><td class="ar">634</td>
+	<td class="al">&lsquo;Umar&apos;s Edict formalized dhimmitude</td></tr>
+<tr><td class="ar">636</td>
+	<td class="al">Muslims conquer Syria</td></tr>
+<tr><td class="ar">636/15</td>
+	<td class="al">Traditional date of Battle of Yarmuk (east of Sea of Galilee)</td></tr>
+<tr><td class="ar">638
+	<td class="al">Caliph &lsquo;Umar captures Jerusalem, placing it under Arab Muslim rule.</td></tr>
+<tr><td class="ar">638
+	<td class="al">Jews permitted to return to Jerusalem under Islam</td></tr>
+<tr><td class="ar">640/18-19</td>
+	<td class="al">Muslims conquer Egypt
+<tr><td class="ar">643/22</td>
+	<td class="rl">Mu&rsquo;awiyah controls al Sham from Damascus; no indication of interest in Palestine; negotiates control of Egypt</td></tr>
+<tr><td class="ar">
+	<td class="al">In Byzantium, Heraclius dies, followed by Constantine II.
+<tr><td class="ar">
+	<td class="rl">First epigraphic evidence of monotheism among Arabs</td></tr>
+<tr><td class="ar">643</td>
+	<td class="al">Triumphalist construction of the Dome of the Rock begins &mdash; see 690</td></tr>
+<tr><td class="ar">644-656<br>23-35</td>
+	<td class="al">&lsquo;Uthman ibn Affan (<b>Caliph 3</b>), twice son-in-law of Mohammed (Ruqayyah, Umm Kulthum); greatly disliked. <b>Assassinated</b> by &lsquo;1000 Egyptians&rsquo;.</td></tr>
+<tr><td class="ar">645</td>
+	<td class="al">Buddhism reaches Tibet</td></tr>
+<tr><td class="ar">649/28</td>
+	<td class="al">Muslims take Cyprus
+<tr><td class="ar">650/31ff
+	<td class="rl">Arab coins show &lsquo;Indeterminate Monotheism&rsquo; (non Islamic)</td></tr>
+<tr><td class="ar">c650/29</td>
+	<td class="al">Traditional date for canonical Qur&rsquo;an</td></tr>
+<tr><td class="ar">651</td>
+	<td class="al">Islam conquers Persia</td></tr>
+<tr><td class="ar">655</td>
+	<td class="al">Battle of the Masts, opening the Mediterranean to the Muslims.</td></tr>
+<tr><td class="ar">656-661<br>35-40</td>
+	<td class="al">Ali ibn Abi Talib (<b>Caliph 4; 12er Imam 1</b>), nephew of Mohammed and last of the &lsquo;rightly guided&rsquo; caliphs. <b>Assassinated</b> in the mosque, by Ibn Muljam, with a poisoned sword.</td></tr>
+<tr><td class="ar">656-661</td>
+	<td class="al">First Fitna (civil war between the Religions of Peace), triggered by the assassination of Uthman, and ending when Ali's heir Hasan ibn Ali acknowledged Mu’awiyah as the first Umayyad caliph.</td></tr>
+<tr><td class="ar">656/36</td>
+	<td class="rl">Mu&rsquo;awiyah defeats &lsquo;Ali at Battle of Siffin</td></tr>
+<tr><td class="ar">659/39</td>
+	<td class="rl">Arabs pay tribute to Byzantium, indicating a negotiated transfer of control of al Shams (Palestine).</td></tr>
+<tr><td class="ar">659&ndash;713</td>
+	<td class="al">Ali ibn Husayn (12er Imam 4; Shia Imam 3) poisoned by Walid</td></tr>
+<tr><td class="ar">
+	<td class="al">Sunni and Shi'a branches of Islam split over succession to caliph.
+<tr class="rr"><td class="ar">
+	<td class="rl">&lsquo;Indeterminate Monotheism&rsquo; (non Islamic) inscriptions in Arabian peninsula
+<tr><td class="ar">
+	<td class="al">Mu&rsquo;awiyah official caliph; respects Christians</td></tr>
+<tr><td class="ar">661</td>
+	<td class="al">Hasan ibn Ali (<b>Caliph 4.1</b>), if only for a few months, after which he abdicated in favor of Mu’awiyah.</td></tr>
+
+
+
+<tr><td class="ar">661/40</td>
+	<td class="al">Husayn al-Sajjad (12er Imam 2)</td></tr>
+<tr><td class="ar">661-749<br>40-132</td>
+	<td class="al">Umayyad Dynasty of Islam in Damascus (Syria) </td></tr>
+<tr><td class="ar">670/50</td>
+	<td class="al">Caliph Hasan ibn Ali (Imam 2) <b>poisoned</b> by his wife on the orders of Mu&rsquo;awiyah.</td></tr>
+<tr><td class="ar"></td>
+	<td class="al">Foundation of Qairawan, Tunisia</td></tr>
+<tr><td class="ar">672</td>
+	<td class="al">Bede born</td></tr>
+<tr><td class="ar">669, 674
+	<td class="al">Muslim Attacks on Christian Constantinople </td></tr>
+<tr><td class="ar">680/61</td>
+	<td class="al">Caliph Ali ibn al-Husayn (12er Imam 3) and Shiites <b>massacred</b> at Karbala (Iraq)</td></tr>
+<tr><td class="ar">680-692
+	<td class="al">2nd civil war.
+<tr><td class="ar">
+	<td class="rl">Mu&rsquo;awiyah dies
+<tr><td class="ar">680/681</td>
+	<td class="rl">6th Ecumenical Council (Constantinople) rejects Monotheletism and Monophysitism (non-Chalcedonian), indicating final Byzantine abdication of ecclesiastical control over al Sham (Palestine)
+<tr><td class="ar">685/65</td>
+	<td class="rl">&lsquo;Abd al Malik caliph; Ibn Zubayr&apos;s rebellion</td></tr>
+<tr><td class="ar">688</td>
+	<td class="al">Charles Martel born
+<tr class="rr"><td class="ar">689/69</td>
+	<td class="rl">&lsquo;Abd al Malik defeats Ibn Zubayr in Iraq; controls Iraq and al Sham</td></tr>
+<tr><td class="ar">690/71</td>
+	<td class="al">&lsquo;Abd el-Malik begins construction of Dome of the Rock &mdash; see 643
+<tr class="rr"><td class="ar">691/71</td>
+	<td class="rl">First mention of Mohammed on Arab coin minted in Damascus
+<tr class="rr"><td class="ar">692/72</td>
+	<td class="rl">Byzantium contributes to construction of Dome of the Rock.  Inscriptions are Judaeo-Christian + Mohammed as god's messenger, suggesting that Byzantium sees Mohammedanism as one more heresy to be supported in aid of downsizing the Empire
+<tr class="rr"><td class="ar">694/75</td>
+	<td class="rl">Ibn Zubayr defeated in Hijaz.
+<tr class="rr"><td class="ar">
+	<td class="rl">Hajjaj b. Yusuf (&lsquo;Abd al Malik&apos;s deputy) in Iraq.  Traditions say he began compilation of the Qur&rsquo;an while destroying many texts including &lsquo;Alid (?)
+<tr class="rr"><td class="ar">
+	<td class="rl">Inscription in the Negev continue Indeterminate Monotheism, some with Judaeo-Christian overtones
+<tr class="rr"><td class="ar">696/77</td>
+	<td class="rl">&lsquo;Abd al Malik&apos;s coins have Mohammedan inscriptions with concept of &lsquo;guidance&rsquo;</td></tr>
+<tr><td class="ar">697</td>
+	<td class="al">Dogeships in Venice; Muslims capture Carthage</td></tr>
+<tr><td class="ar">701</td>
+	<td class="al">Japanese law codified</td></tr>
+<tr><td class="ar">705/86</td>
+	<td class="al">Walid becomes Caliph; display of crosses forbidden; church destroyed to build Great Mosque at Damascus</td></tr>
+<tr><td class="ar">711/92</td>
+	<td class="al">Muslims under Tariq reach Spain from Morocco</td></tr>
+<tr><td class="ar">713/94</td>
+	<td class="al">Spain falls</td></tr>
+<tr><td class="ar">713/94</td>
+	<td class="al">Muslims reach the Indus; Multan captured</td></tr>
+<tr><td class="ar">713/94</td>
+	<td class="al">Ali ibn Husayn (Imam 4) <b>poisoned</b> by Valid</td></tr>
+<tr><td class="ar">714/95</td>
+	<td class="al">Capture of Samarkand</td></tr>
+<tr><td class="ar">717–718</td>
+	<td class="al">Siege of Constantinople. Umayyads under Al-Malik fail to take Constantinople, delaying Moslem advance into SE Europe for centuries.
+<tr><td class="ar">721</td>
+	<td class="al"><b>Beginning of 771-year Reconquista.</b> Duke Odo of Aquitaine defeats Moslems besieging Toulouse under Al-Khawlani (governor of Al-Andalus) checking the Moslem radiation out of Narbonne.
+<tr><td class="ar">722</td>
+	<td class="al">Visigoth leader Pelagius refuses to pay jizya, defeats Umayyads under Al-Qama at Covadonga, kills Moslem governor Munuza, founds Kingdom of Asturias in the mountains of NW Spain.
+<tr class="rr"><td class="ar">724/105</td>
+	<td class="rl">Hisham becomes caliph; Ibn Ishaq begins collecting material for a Life of Mohammed
+<tr class="rr"><td class="ar">724-743/<br>105-125</td>
+	<td class="rl">Jahili pagan revival in Negev</td></tr>
+<tr><td class="ar">728/110</td>
+	<td class="al">Hassan al-Basri d., earliest Sufi
+<tr class="rr"><td class="ar">730/112</td>
+	<td class="rl">First dated Mohammedan inscriptions in Negev</td></tr>
+<tr><td class="ar">732/114</td>
+	<td class="al">Charles Martel repulses Islam at Tours (France), gateway to Europe</td></tr>
+<tr><td class="ar">733/114</td>
+	<td class="al">Muhamad Baqir (12er Imam 5; Shia Imam 4) <b>poisoned</b> by Ibrahim ibn Valid</td></tr>
+<tr><td class="ar">741</td>
+	<td class="al">Charles Martel dies</td></tr>
+<tr><td class="ar">742</td>
+	<td class="al">Charlemagne born
+<tr class="rr"><td class="ar">743/125</td>
+	<td class="rl">John of Damascus knows name of Mohammed as Arab leader, and of collections of Qur&rsquo;anic material including some not in Qur&rsquo;an.</td></tr>
+<tr><td class="ar">751</td>
+	<td class="al">Pepin I king of the Franks</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+//      al-Naqi
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="13"><th>~Date</th><th>
+<a class="tri" href="#12">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> ISLAM&apos;s GOLDEN AGE </a>
+<a class="tri" href="#14">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">749-1258/132-
+	<td class="al">&lsquo;Abbasid Dynasty in Iraq </td></tr>
+<tr><td class="ar">750-754</td>
+	<td class="al">Caliph As-Saffah</td></tr>
+<tr><td class="ar">751/134</td>
+	<td class="al">Chinese prisoners of war introduce paper making to Islam</td></tr>
+<tr><td class="ar">754-775</td>
+	<td class="al">Caliph Al-Mansur</td></tr>
+<tr><td class="ar">759</td>
+	<td class="al">Pepin I conquers Narbonne and drives Muslims out of Septimania (~Languedoc-Roussillon) </td></tr>
+<tr><td class="ar">762/145</td>
+	<td class="al">Foundation of Baghdad by Caliph Al-Mansur</td></tr>
+<tr><td class="ar">765/148</td>
+	<td class="al">Jafar Sadiq &mdash; astronomer, alchemist, philosopher, physician, and physicist &mdash; (Imam 6) <b>poisoned</b> by Caliph Mansur</td></tr>
+<tr><td class="ar">765/148</td>
+	<td class="al">Imam of the &lsquo;Seveners&rsquo; goes into Occultation
+<tr><td class="ar">702&ndash;765</td>
+	<td class="al">Jafar Sadiq (12er Imam 6; Shia Imam 5) <b>poisoned</b> by Caliph Mansur</td></tr>
+<tr><td class="ar">767/150</td>
+	<td class="al">Abu Hanifa d., great early legist</td></tr>
+<tr><td class="ar">775-785</td>
+	<td class="al">Caliph Al-Mahdi
+<tr class="rr"><td class="ar">775/160</td>
+	<td class="al">Pagan centers in Negev destroyed</td></tr>
+<tr><td class="ar">778</td>
+	<td class="al">Battle of Roncesvalles (French: Roland; Spanish: Orlando; Basque: Roldan)</td></tr>
+<tr class="rr"><td class="ar">780/164</td>
+	<td class="al">First dated inscriptions in Negev identifiable as Muslim</td></tr>
+<tr><td class="ar">785-786</td>
+	<td class="al">Caliph Al-Hadi</td></tr>
+<tr><td class="ar">786-809/193</td>
+	<td class="al">Caliph Harun ar-Rashid rules in &lsquo;1001 Nights&rsquo; style</td></tr>
+<tr><td class="ar">795/179</td>
+	<td class="al">Malik ibn Anas d., founder of 2nd school of law</td></tr>
+<tr><td class="ar">797</td>
+	<td class="al">Empress Irene deposes her son Constantine</td></tr>
+<tr><td class="ar">799/183</td>
+	<td class="al">Musa al-Kazim (12er Imam 7) <b>poisoned</b> by Harun al Rashid</td></tr>
+<tr><td class="ar">800</td>
+	<td class="al">Charlemagne crowned Holy Roman Emperor</td></tr>
+<tr><td class="ar">809-813</td>
+	<td class="al">Caliph Al-Amin, like Al-Mamun, a son of Harun al-Rashid</td></tr>
+<tr><td class="ar">813-833</td>
+	<td class="al">Caliph Al-Ma&rsquo;mun, greatest Islamic patron of science and philosophy. Attempted to instill a rational version of Islam.</td></tr>
+<tr><td class="ar">c 815/200</td>
+	<td class="al">Caliph Ma&rsquo;mun sponsors translations of Greek learning into Arabic</td></tr>
+<tr><td class="ar">819/203</td>
+	<td class="al">Ali ibn Musa&rsquo;r ar-Rida (12er Imam 8) <b>poisoned</b> by Caliph Ma&rsquo;mun</td></tr>
+<tr><td class="ar">820/204</td>
+	<td class="al">Abu &lsquo;Abdallah al-Shaf&rsquo;ri d., founder of 3rd school of law</td></tr>
+<tr><td class="ar">827/212</td>
+	<td class="al">Al-Ma&rsquo;mun proclaims Mu&rsquo;tazilite doctrine</td></tr>
+<tr><td class="ar">833-842</td>
+	<td class="al">Caliph Al-Muttasim</td></tr>
+<tr><td class="ar">835/220</td>
+	<td class="al">Muhamad al-Taqi (12er Imam 9) <b>poisoned</b> by Caliph Mutasim</td></tr>
+<tr><td class="ar">836/221</td>
+	<td class="al">Great Mosque of Qairawan, Tunis</td></tr>
+<tr><td class="ar">842-847</td>
+	<td class="al">Caliph Al-Watthiq</td></tr>
+<tr><td class="ar">846</td>
+	<td class="al">Muslims sack the churches of St Peter and St Paul in Rome</td></tr>
+<tr><td class="ar">847-861</td>
+	<td class="al">Caliph Al-Mutawakkil</td></tr>
+<tr><td class="ar">850-859</td>
+	<td class="al">Christians in Cordoba executed for blasphemy</td></tr>
+<tr><td class="ar">855/241</td>
+	<td class="al">Death of Ahmad ibn Hanbal, founder of 4th school of law</td></tr>
+<tr><td class="ar">861-862</td>
+	<td class="al">Caliph Al-Muntasir</td></tr>
+<tr><td class="ar">862-866</td>
+	<td class="al">Caliph Al-Musta&rsquo;in</td></tr>
+<tr><td class="ar">865&ndash;923</td>
+	<td class="al">Ar-Razi, Persian anti-Muslim chemist, physician, mathematician, philosopher,</tr><br>
+<tr><td class="ar">866-869</td>
+	<td class="al">Caliph Al-Mu&rsquo;tazz</td></tr>
+<tr><td class="ar">868/254</td>
+	<td class="al">Ali al-Naqi (12er Imam 10) <b>poisoned</b></td></tr>
+<tr><td class="ar">869-870</td>
+	<td class="al">Caliph Al-Muhtadi</td></tr>
+<tr><td class="ar">870-892</td>
+	<td class="al">Caliph Al-Mu&rsquo;tamid</td></tr>
+<tr><td class="ar">870/256</td>
+	<td class="al">Death of Al-Bukhari, traditionalist and collector of hadiths</td></tr>
+<tr><td class="ar">873/259</td>
+	<td class="al">Death of Hunain ibn Ishaq, scholar, translator, and biographer of Muhamad</td></tr>
+<tr><td class="ar">874/260</td>
+	<td class="al">Hasan al-&lsquo;Askari 12er (Imam 11) <b>poisoned</td>
+	</tr>
+<tr><td class="ar">875/261</td>
+	<td class="al">death of Muslim, collector of hadiths</td></tr>
+<tr><td class="ar">870-950</td>
+	<td class="al">Al-Farabi, Peripatetic philosopher with non-Qur&rsquo;anic world view; Islamic &lsquo;Aristotle&rsquo;</td></tr>
+<tr><td class="ar">878/264</td>
+	<td class="al">al-Mahdi (<b>12er Imam 12<b>), <b>not</b> poisoned, goes into occultation</td></tr>
+<tr><td class="ar">879/265</td>
+	<td class="al">Building of Mosque of Ibn Tulun, Cairo</td></tr>
+<tr><td class="ar">892-902</td>
+	<td class="al">Caliph Al-Mutadid</td></tr>
+<tr><td class="ar">902-908</td>
+	<td class="al">Caliph Al-Muktafi</td></tr>
+<tr><td class="ar">908-932</td>
+	<td class="al">Caliph Al-Muqtadir</td></tr>
+<tr><td class="ar">909/297</td>
+	<td class="al">Rise of Fatimids in North Africa</td></tr>
+<tr><td class="ar">923/311</td>
+	<td class="al">Abu Ja&rsquo;far al-Jabari d., annalist and commentator</td></tr>
+<tr><td class="ar">925/313</td>
+	<td class="al">Abu Bakr ar-Razi d., greatest (anti-)Muslim physician and chemist</td></tr>
+<tr><td class="ar">926-1021</td>
+	<td class="al">Al-Hakim &mdash; the mad caliph &mdash; rules in Egypt</td></tr>
+<tr><td class="ar">932-934</td>
+	<td class="al">Caliph Al-Qahir</td></tr>
+<tr><td class="ar">934-940</td>
+	<td class="al">Caliph Ar-Radi</td></tr>
+<tr><td class="ar">935/324</td>
+	<td class="al">Al-Ashari d., theologian</td></tr>
+<tr><td class="ar">940-944</td>
+	<td class="al">Caliph Al-Muttaqi</td></tr>
+<tr><td class="ar">941/329</td>
+	<td class="al">Greater Gayba, or occultation, of the Mahdi, 12th Imam Mohammed bin al-Hanifiya in the Rażwā mountain west of Medina</td></tr>
+<tr><td class="ar">944-946</td>
+	<td class="al">Caliph Al-Mustakfi</td></tr>
+<tr><td class="ar">946-974</td>
+	<td class="al">Caliph Al-Muti</td></tr>
+<tr><td class="ar">c 950-1150</td>
+	<td class="al">Golden Age in Spain (Islamic Umayyad dynasty)</td></tr>
+<tr><td class="ar">956/344</td>
+	<td class="al">Seljuk Turks accept Islam</td></tr>
+<tr><td class="ar">965–1040</td>
+	<td class="al">Abū ʿAlī al-Ḥasan ibn al-Ḥasan ibn al-Haytham,      &lsquo;Alhazen&rsquo;, polymath, philosopher: astronomy, mathematics, meteorology, optics.</td></tr>
+<tr><td class="ar">966/356</td>
+	<td class="al">Fatimids in Egypt; Founding of Cairo</td></tr>
+<tr><td class="ar">969/358</td>
+	<td class="al">Founding of al-Azhar University</td></tr>
+<tr><td class="ar">979-1036/426
+	<td class="al">Ibn Sina (Avicenna), Muslim Platonist philosopher</td></tr>
+<tr><td class="ar">994-1064</td>
+	<td class="al">Ibn Hazm, authority for abrogated Qur&rsquo;anic verses</td></tr>
+<tr><td class="ar">1009</td>
+	<td class="al">Mad Caliph Hakim orders destruction of churches and synagogues in Palestine</td></tr>
+<tr><td class="ar">1010</td>
+	<td class="al">Burning of church of the Holy Sepulcher; will trigger Crusades</td></tr>
+<tr><td class="ar">1034</td>
+	<td class="al">Balance of power in Spain shifts toward Christians</td></tr>
+<tr><td class="ar">1040-1105</td>
+	<td class="al">Rashi (Rabbi Solomon ben Isaac; Jewish sage)</td></tr>
+<tr><td class="ar">1050/442</td>
+	<td class="al">Al-Biruni d.. linguist and natural scientist</td></tr>
+<tr><td class="ar">1053/54</td>
+	<td class="al">Final split (&lsquo;schism&rsquo;) between Latin and Greek Christian Churches</td></tr>
+<tr><td class="ar">1057/449</td>
+	<td class="al">Abu-l-&rsquo;Ala al-Ma&rsquo;ari d., poet and sceptic</td></tr>
+<tr><td class="ar">1058-1111</td>
+	<td class="al">Al-Ghazali (Persian Muslim scholar and mystic)
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="14"><th>~Date</th><th>
+<a class="tri" href="#13">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> TIME IMMEMORIAL </a>
+<a class="tri" href="#15">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+<tbody>
+<tr><td class="ar">1066</td>
+	<td class="al">William the Conquerer (Norman) takes England</td></tr>
+<tr><td class="ar">1071/463</td>
+	<td class="al">Seljuq Turks occupy Jerusalem</td></tr>
+<tr><td class="ar">1080</td>
+	<td class="al">Hasan-i-Sabbah (Hasan-the-Sevener), Ismaili, inagurates the Assassins</td></tr>
+<tr><td class="ar">1090-1153</td>
+	<td class="al">Bernard of Clairvaux (Christian mystic, Founder of Knights Templars)</td></tr>
+<tr><td class="ar">1095-1291</td>
+	<td class="al">Crusades (Christian warfare with Islam in Palestine)</td></tr>
+<tr><td class="ar">1099 /492</td>
+	<td class="al">Crusaders capture Jerusalem</td></tr>
+<tr><td class="ar">1111/505</td>
+	<td class="al">Abu Hamid al-Ghazali d., great architect of Islamic spirituality</td></tr>
+<tr><td class="ar">1118</td>
+	<td class="al">Alfonso el Batallador reconquers Zaragoza (capital of Aragon) from the Moslem Banu Hud.</td></tr>
+<tr><td class="ar">????-1130</td>
+	<td class="al">Ibn Tamert</td></tr>
+<tr><td class="ar">????&ndash;1132</td>
+	<td class="al">Omar Khayyam, tent maker, Persian Sufi poet</td></tr>
+<tr><td class="ar">????-1138</td>
+	<td class="al">Ibn Bajah</td></tr>
+<tr><td class="ar">????-1185</td>
+	<td class="al">Ibn Tofayl</td></tr>
+<tr><td class="ar">1124/518</td>
+	<td class="al">Hasan i Sabbah d.</td></tr>
+<tr><td class="ar">1126-1198</td>
+	<td class="al">Ibn Rushd (Averroes) tried to harmonize Islam with Aristotleian philosophy</td></tr>
+<tr><td class="ar">1135-1204</td>
+	<td class="al">Maimonides, or &lsquo;Rambam&rsquo;, Rabbi Moses ben Maimon; Jewish scholar.</td></tr>
+<tr><td class="ar">1149-1209</td>
+	<td class="al">Fakhraddin al-Razi, 30 books of Qur&rsquo;anic commentary</td></tr>
+<tr><td class="ar">1162?&ndash;1192</td>
+	<td class="al">Rashid al-Din Sinan, Ismaili in Syria.  Metempsychosis.</td></tr>
+<tr><td class="ar">1164</td>
+	<td class="al">Hasan II frees Ismailis/Nizaris from shari&rsquo;a with the Resurrection (qiyama)</td></tr>
+<tr><td class="ar">1165-1240/648</td>
+	<td class="al">Ibn Al-Arabi (Spanish Muslim mystic poet)</td></tr>
+<tr><td class="ar">1166/561</td>
+	<td class="al">&lsquo;Abd al-Qadir al-Jilani d., founder of Qadiriyyah Order of Sufis</td></tr>
+<tr><td class="ar">1169/564</td>
+	<td class="al">Accession to power of Kurdish Salah al-Din (Saladin)</td></tr>
+<tr><td class="ar">1171</td>
+	<td class="al">Saladin (1138-1193) overthrows Fatimid dynasty in Egypt</td></tr>
+<tr><td class="ar">c 1181-1226
+	<td class="al">Francis of Assisi (Christian mystic; first Christian to notice animals)</td></tr>
+<tr><td class="ar">1187</td>
+	<td class="al">Saladin recaptures Jerusalem from Crusaders</td></tr>
+<tr><td class="ar">1192</td>
+	<td class="al">Richard Coeur de Lion fails to capture Jerusalem</td></tr>
+<tr><td class="ar">1201&ndash;1274</td>
+	<td class="al">Nasir al-Din Tusi, Ismaili philosopher and scientist, secretary to Hulagu</td></tr>
+<tr><td class="ar">1203</td>
+	<td class="al">Muhammad Ghuri (Islam) conquers northern India</td></tr>
+<tr><td class="ar">1207-1273</td>
+	<td class="al">Jalal al-Din Rumi, Sufi mystic and poet</td></tr>
+<tr><td class="ar">1212</td>
+	<td class="al">300 French and English rabbis settle in Jerusalem</td></tr>
+<tr><td class="ar">1213&ndash;1292</td>
+	<td class="al">Roger Bacon, dies in prison for suggesting &lsquo;empirical investigation of nature&rsquo;</td></tr>
+<tr><td class="ar">1219&ndash;1227</td>
+	<td class="al">Chinghis Kahn, Mongol, slaughters millions in Transoxiana and Iran</td></tr>
+<tr><td class="ar">c 1230</td>
+	<td class="al">Inquisition by Christians in Spain</td></tr>
+<tr><td class="ar">1225-1274
+	<td class="al">Thomas Aquinas (Christian scholar)</td></tr>
+<tr><td class="ar">1244</td>
+	<td class="al">Jerusalem sacked by Tartars</td></tr>
+<tr><td class="ar">c 1250</td>
+	<td class="al">Omar Khayyam, Sufi and greatest mathematician of his generation, writes <cite>The Rubaiyat</cite>, in which the &lsquo;thou&rsquo; of &lsquo;We&rsquo;ve Paradise beneath the bough&rsquo; is masculine.</td></tr>
+<tr><td class="ar">1254-1517
+	<td class="al">Fatimid Mamluks (new Islamic dynasty) rule in Egypt</td></tr>
+<tr><td class="ar">1255&ndash;1265</td>
+	<td class="al">Chinghis&apos;s grandson Hulagu invades westward; Kublai goes east.</td></tr>
+<tr><td class="ar">1258</td>
+	<td class="al">Hulagu Khan sacks Baghdad, killing 800,000.  Fall of Islamic &lsquo;Abbasid dynasty.  &lsquo;Never was so great and splendid a civilization so swiftly consumed with fire and quenched with blood.&rsquo;</td></tr>
+<tr><td class="ar">
+	<td class="al">Al-Shadhili d., founder of Shahiliyyah Order</td></tr>
+<tr><td class="ar">1259</td>
+	<td class="al">Jerusalem sacked by Mongols</td></tr>
+<tr><td class="ar">1260</td>
+	<td class="al">Mameluke Baybar expels Mongols from Syria.  Mamalukes rule Egypt for 250 years</td></tr>
+<tr><td class="ar">1263-1328</td>
+	<td class="al">Ibn Tamiyya, Hanbali theologian</td></tr>
+
+<tr><td class="ar">12733</td>
+	<td class="al">Melevi Order (Whirling Dervishes) founded in Konya, by Rumi&apos;s disciple Chelebi.
+	</td></tr>
+
+
+<tr><td class="ar">1284&ndash;1291</td>
+	<td class="al">Iran turns Buddhist under Argun</td></tr>
+<tr><td class="ar">1290-1291</td>
+	<td class="al">Expulsion of Jews from England</td></tr>
+<tr><td class="ar">1291</td>
+	<td class="al">Expulsion of Christian Crusaders from Syria</td></tr>
+<tr><td class="ar">1300-1517</td>
+	<td class="al">Italian Renaissance:</td></tr>
+<tr><td class="ar">1306-1394</td>
+	<td class="al">Expulsions of Jews from France</td></tr>
+<tr><td class="ar">1332&ndash;1406<br>732&ndash;808</td>
+	<td class="al">Ibn Khaldun, Arab sociologist, philosopher, historian. Recognizes astrology as worthless and harmful. </td></tr>
+<tr><td class="ar">1315/715</td>
+	<td class="al">Raymond Lull d., Christian apostle to Islam</td></tr>
+<tr><td class="ar">1347</td>
+	<td class="al">Jerualem reconquered by Mamelukes</td></tr>
+<tr><td class="ar">14th century
+	<td class="al">Rise of the Ottoman Muslim dynasty in Turkey</td></tr>
+<tr><td class="ar">1336-1405</td>
+	<td class="al">Timurlane/Tamurlane, Turkic despot in central Asia</td></tr>
+<tr><td class="ar">1400</td>
+	<td class="al">Damascus sacked by Timurlane</td></tr>
+<tr><td class="ar">1404/807</td>
+	<td class="al">Timurlane d.</td></tr>
+<tr><td class="ar">1453/859</td>
+	<td class="al">Fall of Constantinople (Istanbul) to Ottoman Muslims</td></tr>
+<tr><td class="ar">1456</td>
+	<td class="al">Gutenberg Bible printed (invention of printing press)</td></tr>
+<tr><td class="ar">1467&ndash;1536</td>
+	<td class="al">Erasmus; will translate New Testament from the Greek</td></tr>
+<tr><td class="ar">1483-1546</td>
+	<td class="al">Martin Luther breaks with Catholic dogma</td></tr>
+<tr><td class="ar">1492</td>
+	<td class="al"><b>Completion of 771-year Reconquista</b> with the fall of the Alhambra as Los Reyes (Isabella of Castile and Ferdinand of Aragon) defeat Nasrid ruler Boabdil (Muhammad XIII) of Granada.
+	</td></tr>
+<tr><td class="ar">1492–1496</td>
+	<td class="al">Christian expulsion of Moors and Jews from Spain, Portugal
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="15"><th>~Date</th><th>
+<a class="tri" href="#14">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> REFORMATION </a>
+<a class="tri" href="#16">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+
+<tbody>
+<tr><td class="ar">c 1500-1650</td>
+	<td class="al">Protestant Christian Reformation</td></tr>
+<tr><td class="ar">1514</td>
+	<td class="al">Copernicus shows Heliocentric Solar system to friends</td></tr>
+<tr><td class="ar">1517</td>
+	<td class="al">Luther posts&rsquo;95 theses&rsquo; in Wittenburg, Germany</td></tr>
+<tr><td class="ar">1517/923</td>
+	<td class="al">Salim I conquers Egypt; last &lsquo;Abassid caliph taken to Istanbul</td></tr>
+<tr><td class="ar">1517-1918</td>
+	<td class="al">Ottoman Caliphs in Istanbul</td></tr>
+<tr><td class="ar">1520-66/921-74</td>
+	<td class="al">Suleyman I, &lsquo;the Magnificent&rsquo;, greatest of the Ottomans</td></tr>
+<tr><td class="ar">1529</td>
+	<td class="al">Muslim defeat at Vienna</td></tr>
+<tr><td class="ar">1535</td>
+	<td class="al">Sulayman rebuilds Jerusalem walls</td></tr>
+<tr><td class="ar">1543</td>
+	<td class="al">Copernicus, dying, publishes heliocentric solar system</td></tr>
+<tr><td class="ar">1548&ndash;1600</td>
+	<td class="al">Giordano Bruno, stars are distant suns, infinite universe; burnt at the stake.</td></tr>
+<tr><td class="ar">1560</td>
+	<td class="al">Tycho begins accurate astronomical observations</td></tr>
+<tr><td class="ar">1563/971</td>
+	<td class="al">Akbar, greatest of the Mughals, comes to power in India</td></tr>
+<tr><td class="ar">1564&ndash;1616</td>
+	<td class="al">William Shakespeare</td></tr>
+<tr><td class="ar">1564&ndash;1642</td>
+	<td class="al">Galileo Galilei</td></tr>
+<tr><td class="ar">1565</td>
+	<td class="al">6000 Knights Hospitallers defeat 30,000 (or 48,000) Ottomans trying to capture Malta.</td></tr>
+<tr><td class="ar">1571</td>
+	<td class="al">Battle of Lepanto; Catholic coalition decisively defeats Ottoman fleet, killing 30,000 irreplaceable Muslim bowmen.</td></tr>
+<tr><td class="ar">1596-1650
+	<td class="al">Rene Descartes (scholar-philosopher) defines the scientific method.</td></tr>
+<tr><td class="ar">1609</td>
+	<td class="al">Kepler finds elliptical orbits</td></tr>
+<tr><td class="ar">1622/1031</td>
+	<td class="al">Mulla Sadra d., major Islamic philosopher, cognizant of the Ionians and Greeks.</td></tr>
+<tr><td class="ar">1623-1662</td>
+	<td class="al">Blaise Pascal (scholar)</td></tr>
+<tr><td class="ar">1632-1677</td>
+	<td class="al">Baruch/Benedict Spinoza (scholar, converted Jew)</td></tr>
+<tr><td class="ar">1641-1660</td>
+	<td class="al">British Inns of Court: sovereignty of Parliament, independence of judges, right to silence, freedom from arbitrary arrest, religious tolerance</td></tr>
+<tr><td class="ar">1649</td>
+	<td class="al">John Cooke prosecutes King Charles I (Stuart) for the new crime of tyranny</td></tr>
+<tr><td class="ar">1650</td>
+	<td class="al">Archbishop Usher calculates that Adam was created in 4004 BCE</td></tr>
+<tr><td class="ar">165x
+	<td class="al">Newton, law of gravity</td></tr>
+<tr><td class="ar">1700</td>
+	<td class="al">Judah the Pious settles Jerusalem with 1000 followers</td></tr>
+<tr><td class="ar">1707/1119</td>
+	<td class="al">Aurangzib d.; decline of Mughal India</td></tr>
+<tr><td class="ar">1765/1179</td>
+	<td class="al">Shah Wali Ullah d., pioneer of modern Indian Islam
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="16"><th>~Date</th><th>
+<a class="tri" href="#15">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> U.S. </a>
+<a class="tri" href="#17">&emsp;&emsp;&#9661;</a>
+	</th></tr>
+</thead>
+
+<tbody>
+<tr><td class="ar">1776</td>
+	<td class="al">US Declaration of Independence; First nation based on Enlightenment ideals</td></tr>
+<tr><td class="ar">1798/1213</td>
+	<td class="al">Napoleon in Egypt</td></tr>
+<tr><td class="ar">1803/1218</td>
+	<td class="al">Wahhabism victorious in Mecca and Medina</td></tr>
+<tr><td class="ar">1819-1850</td>
+	<td class="al">The Bab (&lsquo;Gate&rsquo;), Mirza &lsquo;Ali-Muhammad</td></tr>
+<tr><td class="ar">1823</td>
+	<td class="al"><cite>Book of Mormon</cite> by Joseph Smith</td></tr>
+<tr><td class="ar">1830/1246</td>
+	<td class="al">French occupation of Algeria</td></tr>
+<tr><td class="ar">1831</td>
+	<td class="al">Mehemet Ali of Egypt conquers Jerusalem</td></tr>
+<tr><td class="ar">1835-1849</td>
+	<td class="al">Finnish <cite>Kalevala</cite> by Lönnrot</td></tr>
+<tr><td class="ar">1840</td>
+	<td class="al">Jerusalem reconquered by Turks</td></tr>
+<tr><td class="ar">1844</td>
+	<td class="al">Declaration of faith by the Bab</td></tr>
+<tr><td class="ar">1844</td>
+	<td class="al"><a class="n">Jerusalem population:<span>
+	E Tal (1944)<cite>Whose Jerusalem?</cite> (International  Forum for a United Jerusalem).
+</span></a> 7120 Jews, 5760 Muslims, 3390 Xians</td></tr>
+<tr><td class="ar">1849/1265</td>
+	<td class="al">Death of Muhammad &lsquo;Ali, founder of modern Egypt</td></tr>
+<tr><td class="ar">1857/1274</td>
+	<td class="al">Indian Mutiny/War of Independence</td></tr>
+<tr><td class="ar">1859</td>
+	<td class="al"><cite>Origin of Species</cite> by Darwin</td></tr>
+<tr><td class="ar">1859/1276</td>
+	<td class="al">Death of Al-Sanusi, founder of Sanusiyyah Order in N. Africa</td></tr>
+<tr><td class="ar">1861&ndash;1864</td>
+	<td class="al">US Civil War</td></tr>
+<tr><td class="ar">1869/1286</td>
+	<td class="al">Suez Canal completed</td></tr>
+<tr><td class="ar">1869/1286</td>
+	<td class="al">Ottoman Mejelle Code of law reform</td></tr>
+<tr><td class="ar">1871</td>
+	<td class="al"><cite>Descent of Man</cite> by Darwin</td></tr>
+<tr><td class="ar">1875/1294</td>
+	<td class="al">Reign of Sultan &lsquo;Abd al-Hamid begins</td></tr>
+<tr><td class="ar">1881/1298</td>
+	<td class="al">French occupation of Tunis; British occupation of Egypt</td></tr>
+<tr><td class="ar">1883/1300</td>
+	<td class="al">Amadiyyah movement in Indian Islam</td></tr>
+<tr><td class="ar">1888</td>
+	<td class="al"><cite>The Secret Doctrine</cite> by H.P. Blavatsky</td></tr>
+<tr><td class="ar">1890-1922</td>
+	<td class="al"><cite>The Golden Bough</cite> by Frazer</td></tr>
+<tr><td class="ar">1898/1316</td>
+	<td class="al">Sayyid Ahmed Khan d., Indian Muslim reformer, founder of Aligarth College
+
+<tr><td class="ar"><br></td> <td></td></tr>  </tbody></table><br><hr>
+
+
+
+<table class="table2"><col width="135px"><col>
+<thead class="th">
+<tr id="17"><th>~Date</th><th>
+<a class="tri" href="#16">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> 20TH CENTURY </a>
+<a class="tri" href="#01">&emsp;&emsp;&#9650;</a>
+	</th></tr>
+</thead><tbody>
+
+<tr><td class="ar">1902/1320</td>
+	<td class="al">Qasim Amin pioneers Egyptian feminism</td></tr>
+<tr><td class="ar">1905/1323</td>
+	<td class="al">M. Abduh d., first Arab &lsquo;modernist&rsquo;</td></tr>
+<tr><td class="ar">1905/1323</td>
+	<td class="al">Rise of Ibn Sa&rsquo;ud</td></tr>
+<tr><td class="ar">1908/1325</td>
+	<td class="al">&lsquo;Young Turks&rsquo; in Istanbul; new &lsquo;liberalism&rsquo;</td></tr>
+<tr><td class="ar">1909</td>
+	<td class="al"><cite>Voyage of the Beagle</cite> by Darwin</td></tr>
+<tr><td class="ar">1910/1330</td>
+	<td class="al">Oil prospecting in Persia</td></tr>
+<tr><td class="ar">1916&ndash;1918</td>
+	<td class="al">&lsquo;Great Arab Revolt&rsquo; led by Lawrence and Abdullah. (&lsquo;A sideshow to a sideshow.&rsquo;)</td></tr>
+<tr><td class="ar">1921/1342</td>
+	<td class="al">Cairo Conference allots Cisjordan (26% of Mandate Palestine) to Jews, Transjordan to Arabs, with League of Nations approval in 1922. There was no historical basis for this border.</td></tr>
+<tr><td class="ar">1924/1342</td>
+	<td class="al">Abolition of Caliphate and seculariztion of Turkey under Ataturk</td></tr>
+<tr><td class="ar">1926/1344</td>
+	<td class="al">&lsquo;Ali &lsquo;Abd al-Raziq and Islamic re-interpretation</td></tr>
+<tr><td class="ar">1928/1347</td>
+	<td class="al">Hassan al-Banna founds Muslim Brotherhood</td></tr>
+<tr><td class="ar">1931/1350</td>
+	<td class="al">M &lsquo;Ali d., Indian Khalifatist leader</td></tr>
+<tr><td class="ar">1932/1351</td>
+	<td class="al">End of British Mandate in Iraq</td></tr>
+<tr><td class="ar">1938/1357</td>
+	<td class="al">M. Iqbal d., poet and philosopher</td></tr>
+<tr><td class="ar">1945/1364</td>
+	<td class="al">End of Mandate in Syria and Lebanon</td></tr>
+<tr><td class="ar">1945</td>
+	<td class="al">Nag Hammadi (Gnostic) library discovered</td></tr>
+<tr><td class="ar">1947/1366</td>
+	<td class="al">Partition of India and creation of Pakistan; 15 million die.</td></tr>
+<tr><td class="ar">1947-1956</td>
+	<td class="al">Qumran (Dead Sea) scrolls discovered</td></tr>
+<tr><td class="ar">1947/1366</td>
+	<td class="al">UN vote partitioning Palestine and creating the States of Israel and Jordan (74%)</td></tr>
+<tr><td class="ar">1948</td>
+	<td class="al"><cite>White Goddess</cite> by Robert Graves</td></tr>
+<tr><td class="ar">1950/1370</td>
+	<td class="al">New Islamic states in Africa and Asia bring the total to 55</td></tr>
+<tr><td class="ar">1952/1371</td>
+	<td class="al">Egyptian Revolution; rise of &lsquo;Abd al-Nasr</td></tr>
+<tr><td class="ar">1958/1377</td>
+	<td class="al">Maulana Azad d., Indian Muslim leader</td></tr>
+<tr><td class="ar">1967/1386</td>
+	<td class="al">Israel occupies Jerusalem, West Jordan, Sinai</td></tr>
+<tr><td class="ar">1971/1391</td>
+	<td class="al">East Pakistan becomes Bangladesh</td></tr>
+<tr><td class="ar">1977</td>
+	<td class="al">Nag Hammadi library published</td></tr>
+<tr><td class="ar">1979</td>
+	<td class="al">Iranian Islamic revolution</td></tr>
+<tr><td class="ar">1992</td>
+	<td class="al">Dead Sea scrolls published by bootleg microfiche</td></tr>
+<tr><td class="ar">2001</td>
+	<td class="al">24 April, unmanned Global Hawk <cite>Southern Cross II</cite> flies non-stop from US to Australia</td></tr>
+<tr><td class="ar">2001</td>
+	<td class="al">11 September, planes hit World Trade Center Buildings 1 and 2, leaving small holes and smoky fires. If there were passengers, no one collected flight insurance. Buildings 1, 2, (and evidently in sympathy, 7) collapse into their footprints as in controlled demolition; Building 6 is destroyed, leaving a large hemispherical hole in the ground and considerable evidence of an accompanying <a href="http://wtcdemolition.blogspot.fr/2008/05/summary-of-evidence-of-emps.html">electromagnetic</a> <a href="http://www.rense.com/general76/reak.htm">pulse.</a> An unidentified man hands a police detective an Arab passport. Three working flight recorders are recovered but are never thereafter in evidence. Legally required examination of failed building components is not performed. The official investigation is widely regarded as politically manipulated and &lsquo;a tissue of lies&rsquo;.
+	</td></tr>
+
+<tr><td class="ar"><br></td> <td></td></tr>
+</tbody></table>
+
+<!--
+
+<tr><td class="ar">
+	<td class="al">Mahdi (Imam 12) disappears, beginning the Minor Occultation</td></tr>
+</tbody></table>
+
+<p>Helpful sources:
+<br>Brown, N.O. Personal notes
+<br>Gutas, Dimitri <cite>Greek Wisdom Literature in Arabic <br>Translation: A Study of the Graeco-Arabic Gnomologia</cite>
+<br>Nevo, Y & J Koren (2003) <cite>Crossroads to Islam: The 	Origins of the Arab Religion and the Arab State</cite> 	(Prometheus Books, Amherst NYC).
+-->
+<br><hr>
+<b>Last update: <!--#echo var="DATE_GMT" --></b>
+</body></html>
+

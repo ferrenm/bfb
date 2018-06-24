@@ -1,0 +1,1760 @@
+
+<!-- E20 Bloody Centuries   2018-03-18  09:30 -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>E20: Bloody Centuries</title>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");body { background-image:
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+</style>
+
+<body id="!">
+<p  class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-04-15 16:00 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h3>Book 5: Its Status</h2>
+<!--#include virtual="TocE20.shtml"-->
+
+
+<a class="tri" href="../Index.shtml" id="01">&#11152;&emsp;</a>
+<a class="tri" href="#PM"> &#9660;&emsp;&emsp;</a>
+<h3><a href="#!"> BLOODY CENTURIES </a></h3>
+<a class="tri" href="#04.5">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#02"> &emsp;&emsp;&#9661;</a>
+
+<p class="epi">Power kills; absolute power kills absolutely. &mdash; R.J. Rummel.
+</p>
+
+<p>We know what kind of world we could have, we know how to get there, we know what we should and shouldn&apos;t be doing &mdash; and we have made a mess of it. When there are things we are uncertain about, we know how to learn which is the best approach. Anyone in a position of power should be terminally embarrassed.
+</p>
+
+<h3>
+<a class="tri" href="#01">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="02"> STAGE 6: The Rot behind the Façade </a>
+<a class="tri" href="#03">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">Viewed from almost any perspective; be it geopolitics, economics, climate, spreading warfare that threatens to unleash a global orgy of bloodletting, rising energy prices, documented energy shortages, fresh water shortages, biological warfare, the repression of civil liberties at home and abroad, or any of a dozen other issues; planet earth and all of its inhabitants are in great danger. &mdash; Michael Ruppert
+</p>
+
+
+
+<h3>
+<a class="tri" href="#02">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="03"> The Case for Optimism </a>
+<a class="tri" href="#03.5">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Let us begin a rather depressing chapter with a glimpse of what is happening on one of the better <a class="fk" href="https://arxiv.org/pdf/0903.2211.pdf">parallel worlds.<span>
+	OK, so it&apos;s a chance to play utopiast without having to write the novel. But &mdash; if the Many Worlds interpretation of quantum mechanics is correct &mdash; this section also describes a world as real as Earth, and the only reason I am not living on it is that after a calamitous love affair I chose exile, volunteering to spread its ideas to backwater worlds in need of them.
+<br>--------------------<br>
+	V Allori &amp;3a (2009) &lsquo;Many-Worlds and Schrödinger&apos;s First Quantum Theory&rsquo; arXiv:0903.2211v2 [quant-ph] 1 Aug 2009.
+</span></a> This world opted for rational choices that made better use than we have of its social, economic, and environmental capital. Can we catch up? If this is not an &lsquo;ultimate concern&rsquo; of religion &mdash; what is?
+</p>
+
+<p>It is characteristic of such projections by scientists that they underestimate the progress that will be made because they are always conscious of the limits in their own specialty. (My own horizon in sci-fi writing turns out to be an uninspiring decade. Poets and dreamers do a better job of prognostication.)
+</p>
+
+<hr>
+<p class="lh">PEACE</p><ul>
+<li>The Warring States of Europe continue their 2-generation freedom from internecine war.</li>
+
+<li>They have restrained those who wish to bomb somebody back to the Stone Age.</li>
+
+<li>They have experimental evidence to show that asymmetrical warfare results in equivalent if asymmetric damage to both parties.</li>
+
+<li>The atomic bomb dropped on Tel Aviv was answered by 25 bombs on the usual suspects, after which the survivors seemed a bit appalled by the spasm. The water supply was a better match to the reduced population, but a lot of ion exchange was needed to remove radioactive isotopes.
+</li></ul>
+
+<p class="lh">GOVERNMENT</p><ul>
+<li>Liberal democracy is the norm. Their Congressional Democrats did not waste 45 years (as ours have) but continued to pass the economic, social, and environmental reforms that ours have considered and rejected since the 1970s.
+</li>
+
+<li>They have noticed that crowd-sourced (direct democratic) political decisions are better than those of representative governments when corporations have purchased the representatives and control the media.</li>
+
+<li>They are approaching the ability to model the consequences of political decisions before implementing them.</li>
+
+<li>Election is by votes per campaign dollar. Registered lobbyists are no more numerous than Congresscritters. One industry representative per regulatory agency; one from a watchdog quango.</li>
+
+<li>Voting is compulsory, registration automatic, Election Day a midweek holiday, with one-person-one-vote (no Electoral College), preferential ranked voting that waste no votes, &lsquo;none-of-the-above&rsquo; a negative rank allowed, blank ballots and postal votes accepted, a paper trail, mandatory recounts on demand, and a penalty option for anyone messing with the system: 10 years incarceration for the responsible individual(s), and/or a 10% penalty in the next election for the party.</li>
+</ul>
+
+
+
+<p class="lh">INFORMATION</p><ul>
+<li>Their internet makes knowledge universally available because it has been kept it free of political and corporate control. Khan-Academy-type tutorials augment classrooms.
+
+<li>Their aging populations have accumulated great stores of wisdom.</li>
+
+<li>FOSS (Free and Open Source Software), public resistance to corporate piracy of intellectual property created by individuals, and government-proof encryption all work to optimize information exchange. Their chip makers resisted the temptation to provide back doors in the hardware and spyware in the operating systems.</li>
+
+<li>Education is free, with a requirement for some public service in return for advanced degrees (i.e., providing quality teaching and medicine care for a few years in the boondocks). Schooling can also be bought from accredited private institutions. </li>
+</ul>
+
+<p class="lh">LABOR</p><ul>
+<li>Robots are replaced humans at most <a class="fn">boring jobs.<span>
+	Our first driverless truck is on the road as I write. Google's driverless cars have driven 1.7 million miles with 8 fender-benders in urban traffic &mdash; when someone hit them.
+</span></a> The work week has shrunk to 24 hours in most occupations.
+</li>
+
+<li>Soil- and labor-intensive agriculture, an order of magnitude more productive than monoculture agribusiness, but too complex for robots, provides employment for many.</li>
+
+<li>The self-selected bottom third of society is entertained with (largely computer-generated) TV, and free recreational drugs that are better than sex and conducive to a live-fast-and-die-young life style. &lsquo;Their candles burn at both their ends, and give a lovely light &hellip;&rsquo;, so they are happy and nondestructive. This process compresses the normal IQ curve by thinning the bottom third. It remains to be seen what happens to the upper third.
+</li>
+
+<li>They have created an economic system in which no-one is poor and no one particularly rich &mdash; in effect, both a minimum and maximum wage.</li></ul>
+
+
+<p class="lh">INDUSTRY</p><ul>
+<li>&lsquo;Things&rsquo; work ever better: exotic materials have substantially increased the efficiency of electromagnetic devices, batteries have gotten lighter, lights brighter, motors smaller, and photovoltaic collectors have reached 50% of maximum theoretical efficiency.</li>
+
+<li>Emissions of CO₂ from the energy sector were  eliminated with available technologies at reasonable cost.</li>
+
+<li>Renewable energy sources limited climate change to non-lethal levels.
+
+<li>Corporations, like churches, have no political power beyond that of their members as individuals.</li></ul>
+
+
+<p class="lh">SOCIAL POLICY</p><ul>
+<li>Economic inequality is scaled quadratically, which is quite adequate to reward ambition, expertise, competence, and hard work. If you are twice as good as the next guy, you get 4 times his pay (not 100 times, as our 1&permil; want it. Loss of their exponentially scaled wealth distressed their 1&permil;, and some pitchforks were required for persuasion. This seems to be a social universal.
+</li>
+
+<li>Medical care, non-profit, is normal. Robots can do much, but doctoring employs many people who know their patients and their idiosyncrasies.</li>
+
+<li>Worldwide, the military and police are about as significant as they are in the Iceland we know.</li>
+
+<li>The money supply is proportional to the population, and not allowed to reach the log-normal distribution it aspires to.</li>
+</ul>
+<hr>
+
+
+<p>Given our limited experience with all of the above conditions, nothing in that list is beyond possibility for our own world, and we know it can be done because the parallel world did it. In short, nothing but &lsquo;they&rsquo; &mdash; the 1&permil;, the Establishment, Instinct-1 &mdash; prevents us from creating a reasonably utopian world within a generation, if we choose to. We probably won&apos;t want to, because the price is too high:
+</p>
+
+
+<ul>
+<li>We&apos;d have to change our reproductive behavior; and
+<li><a class="fn">Steinbeck&apos;s Syndrome.<span>
+	&lsquo;Socialism never took root in America because the poor&rsquo; [were taught to] &lsquo;see themselves not as an exploited proletariat, but as temporarily embarrassed millionaires.&rsquo;
+</span></a>
+</ul>
+
+
+<p>Recall the <a href="../_A/A01.shtml#14a">corollary to Gibbon&apos;s Gambit</a>, the necessity that belief-sets should affect survival primarily through social, rather than environmental, interactions. One result is that we are limbicly sensitive to the social consequences of intellectual constructs like policy and religion, but blinded to their environmental effects. This scarcely mattered until our population passed 3 billion, after which it has become increasingly deadly.
+</p>
+
+
+<h3>
+<a class="tri" href="#03">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="03.5"> And Otherwise </a>
+<a class="tri" href="#04">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">[Cultural] collapses have occurred frequently in the past five thousand years, and are often followed by centuries of economic, intellectual, and population decline. &mdash; <a class="fn">
+	S Motesharrei, J Rivas, E Kalnay (2014)<span>&lsquo;A Minimal Model for Human and Nature Interaction&rsquo; <cite>Ecological Economics</cite> <b>101</b>: 90&ndash;102; doi:10.1016/j.ecolecon.2014.02.014.
+</span> </a>
+</p>
+
+<p>American Exceptionalism, which maintains that we are the beacon of the future, destined to lead the world to liberal democracy and material abundance, does not allow us to recognize the ubiquity of civilizational collapse mentioned in the <a href="../_D/D-1.shtml#00a">Pr&eacute;cis of Ch. 13</a>. Things like that <b>do not happen to us</b>. End of story.
+</p>
+
+<p>It appears that there are 3 causes of civilizational decay. The one we are most cognizant of is the superficial trigger described in the history books, which documents in each case a particular and obvious rationale. To quote the epigraphic paper (which incidentally seems to have stirred up a lot of unnecessary controversy), triggers include:
+</p>
+
+<blockquote>volcanoes, earthquakes, droughts, floods, changes in the courses of rivers, soil degradation (erosion, exhaustion, salinization, etc), deforestation, tribal migrations, foreign invasions, changes in technology (such as the introduction of ironworking), changes in the methods or weapons of warfare (such as the introduction of horse cavalry, armored infantry or long swords), changes in trade patterns, depletion of particular mineral resources (e.g.silver mines), cultural decline and social decadence, popular uprisings, and civil wars.
+</blockquote>
+
+<p>This conglomeration allows us to overlook what appear to be the common underlying causes, which turn out to be the fundamental concerns of religion. Motesharrei and his colleagues used a very simple model (Human And Nature DYnamics, or HANDY) which focusses on Ecological Strain and Economic Stratification, otherwise the Gaian and Eirenic considerations central to religion. The model logically views humans as predators on nature, and uses the standard population-biology  model (<a class="fn">Lotka<span>
+	A J Lotka (1925) <cite>Elements of Physical Biology</cite> (Williams and Wilkins, of, apperantly, no fixed abode).</span></a>,
+<a class="fn">Volterra<span>
+	V Volterra (1926) &lsquo;Variazionie flutuazioni del numero dindividui in specie animali conviventi&rsquo; <cite>Memoria Accademia dei Lincei, Roma)</cite> <b>2</b>: 31&ndash;113.</span></a>)
+for the Gaian aspect, with a 2-level predator consisting of Elites <a class="fn">preying <span>
+	AA Drăgulescu, VM Yakovenko (2001) &lsquo;Exponential and power-law probability distributions of wealth and income in the United Kingdom and the United States&rsquo; <cite>Physica A: Statistical Mechanics and its Applications</cite> <b>299</b>(1-2): 213&ndash;221.
+</span></a> on Commoners for the Eirenic aspect. All in all, it seems a very neat adjunct to synthetic kinship and the definition of religion used herein. (I wish I had thought of it myself, as it offers a potential way of quantifying aspects of religion.)
+</p>
+
+<p>It is tempting to show one of the graphical &lsquo;collapses&rsquo; from the epigraphic paper in support of their conclusion:
+
+<blockquote>[O]ver-exploitation of natural resources and strong economic stratification can independently result in a complete collapse. Given economic stratification, collapse is very difficult to avoid and requires major policy changes, including major reductions in inequality and population growth rates.
+</blockquote>
+
+<p class="flu">However, none of their dozen examples is as realistic as the more sophisticated <a href="#F20.11">Fig. 20.11</a> from the 1970s. In assessing such models, some caveats are critically important:
+</p>
+
+
+<ol>
+<li>Almost any desired result can be obtained from such models by adjusting the parameters (and it is difficult to extract some of the parameters from statistics about the society).</li>
+
+<li>Most Volterra models do not incorporate feedback representing a change of socioeconomic behavior on the part of society as it approached undesirable conditions. (This is justified, in modeller&apos;s eyes, by the fact that no known society <i>has</i> changed its behavior &mdash; nor has ours shown any indication of heeding generation-old warnings.) </li>
+
+<li>The underlying statistical model of money distribution here assumes conservation of money in financial transactions. This is obvious in personal finances, but &mdash; as <a class="fn">&lsquo;Universal patterns of inequality&rsquo;<span>
+	A Banerjee, VM Yakovenko (2010) &lsquo;Universal patterns of inequality&rsquo; <cite>New J Phys</cite> <b>12</b>(#7) 075032; doi: 10.1088/1367-2630/12/7/075032.
+</span></a> points out &mdash; it does not describe banks and the growth of the M3 money supply. My guess is that this simplification underestimates the model&apos;s rate of inequality growth. An aside in this paper points out that &lsquo;The net result of [a stockmarket] bubble is the transfer of money from the lower to the upper class under the cover of <q>retirement investment</q>&rsquo; (which no doubt accounts for the promotion of such bubbles).
+</ol>
+
+
+<p>On <i>prima facie</i> evidence, reduction in inequality is the last thing that the current US Senate and Supreme Court want, but if we don&apos;t correct that tendency, population reduction will take care of itself and inequality reduction will follow, by pitchfork if we can&apos;t manage it by legislation.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#03.5">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="04"> &lsquo;Wolf!&rsquo; &lsquo;Wolf!&rsquo; &lsquo;Nice Doggie&rsquo; </a>
+<a class="tri" href="#04.5">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">[T]here is a great hesitancy of catastrophe to comply with prophecy, but to aver that catastrophe will never happen is to ignore the lessons of history. &mdash; &lsquo;McClarinJ&rsquo;, on the web.
+</p>
+
+<p>In 1967, the Paddock brothers, one a diplomat with extensive service in 3rd-world countries, the other an academic researcher who directed the &lsquo;finest agricultural college in Latin America&rsquo;, joined forces to write <a class="fn"><cite>Famine &mdash; 1975!</cite><span>
+	P and W Paddock (1967) <cite>Famine 1975!</cite> (Little, Brown, Boston): 222.
+</span></a> Writing when the US still exported food to 111 countries, they acknowledged that &lsquo;something might turn up&rsquo; to prove them wrong, but anticipating that we would soon have to import food ourselves, they suggested a triage system: India, Egypt, and Haiti &lsquo;could not be saved&rsquo;; Libya and the Gambia might survive on their own (or not); Tunisia and Pakistan showed enough promise so that US assistance could help them to <a class="fn">self sufficiency.<span>
+	At the time, the US Dept. of Agriculture and the President&apos;s Science Advisory Committee agreed with the Paddocks, differing only in the hope that famine could be delayed until 1985.
+</span></a>
+</p>
+
+<p>What &lsquo;turned up&rsquo; <a class="fn">the following year<span>
+	WS Gaud (1968) &lsquo;The Green Revolution: Accomplishments and Apprehensions&rsquo; <cite>AgBioWorld</cite> 1968-03-18.
+</span></a> was Borlaug&apos;s Green Revolution (with its energy-dependent need for water, fertilizer, herbicides, and <a class="fn">pesticides<span>
+	Borlaug remained poorly informed about soil-intensive organic agriculture at least as late as 2000.
+<br>----------------<br>
+	L Hickman (2009) &lsquo;Against the grain on Norman Borlaug&rsquo; <cite>The Guardian</cite> 2009-09-15.
+</span></a>), so if we remember the Paddocks at all, we remember them as alarmists. Indian sociologist <a class="fn">
+	Ramachandra Guha<span> (1989) &lsquo;American Environmentalism and Radical Preservation: A Third World Critique&rsquo;, in JB Callicot & MP Nelson (eds.) <cite>The New Great Wilderness Debate</cite> (University of Georgia Press, Athens GA).
+</span></a> saw our Malthusian concerns as one more form of colonialism, in which upper-class white male Americans valued the concept of <i>tiger</i> over the fact of real human communities struggling to survive in a world which no longer had room for <a class="fn">real tigers.<span>
+	a) There are a billion Indians, and 10,000 tigers &mdash; and it&apos;s their world too.<br>
+	b) If there were 300 million Indians, they wouldn&apos;t be struggling to survive, and neither would the tigers.<br>
+	c) We know how to make more Indians if we want them; there&apos;s no way to make more tigers if we run out.<br>
+	d) Top predators are essential to the smooth working of an ecosystem; humans are useless in this role because we seldom know the rules and never play by them.
+</span></a> Such innumerate thinking resonated with the genetic imperative for unfettered growth that had once served us well.
+</p>
+
+<p>The Paddocks were not alarmists, but prophets. What changed was our perception, as we adapted to events. In 1967, philosophically unacceptable famine was &lsquo;tens of thousands of deaths&rsquo;. In 2007, something between 3 and 14 million children died hungry, as the Paddocks and <a class="fn">
+	Paul Ehrlich<span>(1971) <cite>The Population Bomb</cite> (Bucaneer Books, Cutchogue NY, 1995).</span></a>
+had predicted. Numerical data scatters all over the place, influenced by poor data, agendas, and politics, because &lsquo;contraception&rsquo; is still a dirty word. In 40 years we had gone from agonizing over 10,000 starving children to acceptance of millions of dead children, this being preferable to mentioning birth control. (As caring Christians have explained to me, it is better to die starving but baptized, than not to have been born at all. This &lsquo;logic&rsquo; may be a consequence of a malnourished childhood, leaving the brain incapable of abstract thought.)
+</p>
+
+
+
+<h2>
+<a class="trs" href="#04">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#01">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="04.5"> EXP(<i>RT</i>)</a>
+<a class="tri" href="#07">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#04.7">&emsp;&emsp;&#9661;</a></h2>
+
+<p>The real dichotomy that divides our decision-makers is not whether private wealth or public welfare is the greatest good, it is awareness &mdash; or not &mdash; of the exponential function of the section heading and Fig. 20.0. There are generational thinkers who are unaware of it (even though their long-range view covers their lifetime), and centennial thinkers who understand it.
+</p>
+
+
+<figure>
+<img class="fl"  width="66%"
+src="E-Images/20.0_ert.jpg"
+alt="E-Images/20.0_ert.jpg">
+
+<figcaption>
+<a class="tri" href="#F20.17">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.0"> Fig. 20.0 </a>
+<a class="tri" href="#F20.1">&emsp;&emsp;&#9654;</a><a class="fn">exp(<i>rt</i>)<span>
+	e<i><sup>rt</sup></i> and exp(<i>rt</i>) are 2 ways of writing the exponential function. &lsquo;Linear growth&rsquo; describes equal <b>additive</b> increments with time (1, 1.3, 1.6, 1.9, &hellip;); &lsquo;exponential growth&rsquo; describes equal <b>multiplicative</b> increments with time (1, 2, 4, 8, &hellip;).
+</span></a>. The only difference in the graphs is the time scale: the two functions (thin black = linear, thick red = exponential) are the same in both plots, and go through the same pair of points. (The growth rate <i>r</i> is that of the human population.) <b>Left</b>; The exponential function rings no alarm bells in those with a short-term view of the future. <b>Right</b>: With a longer look ahead, the exponential becomes a matter for concern.
+</figcaption></figure>
+
+
+<p>Why &mdash; given Borlaug&rsquo;s wildly popular Green Revolution &mdash; do we still see headlines claiming &lsquo;<a class="fn">Millions at Risk<span>
+	E.g.: &lsquo;Drought causes food crisis for 10 million in the Sahel&rsquo; {<cite>GW</cite> 2010-06-11 p8}.
+</span></a>&rsquo;? How has a death rate 100 times that of the Paddock&apos;s alarming<cite> Famine!</cite> become mere background noise within a generation?
+</p>
+
+<p> The root cause is that our problems are exponential and our fixes linear, and thus <a class="fn">temporary<span>
+	A web search for &lsquo;exponential function&rsquo; will turn up a number of fun videos. They are worth watching. The worry comes later, as comprehension sinks in. A working appreciation of the exponential makes it very hard to be sanguine about the future. Many take refuge in the currently popular idea that once we have eradicated poverty, the population will stabilize. The catch is that the anticipated &lsquo;equilibrium&rsquo; number is far above the sustainable population, and probably unreachable without making the Earth unlivable.<br>
+	Obviously, &lsquo;unlivable&rsquo; and &lsquo;sustainable population&rsquo; depend upon available energy and acceptance of living conditions. J.H. Fremlin long ago showed that if we could extract the nuclear energy of the deuterium in seawater, we could refrigerate a closed earth surrounded by a radiator at 1000&#8451;, with a population of 10<sup>16&ndash;18</sup> inside. &lsquo;One could expect some ten million Shakespeares and rather more Beatles to be alive at anyone time.&rsquo; Badescu and Cathcart suggest a less ambitious (1.6&ndash;4)·10<sup>15</sup> if solar energy is used to refrigerate the planet. If we want things like (real) sunsets, mountains, oceans, wilderness and wildlife, 3·10<sup>9</sup> is a good target.
+<br>-------------------<br>
+	&bull; JH Fremlin (1964) &lsquo;How Many People Can the World Support?&rsquo; <cite>New Scientist</cite> <b>415</b>: 285&ndash;287.<br>
+	&bull; V Badescu, RB Cathcart (2006) &lsquo;Environmental thermodynamic limitations on global human population&rsquo; <cite>Int J Global Energy Issues</cite> <b>25</b>(#1/2): 129&ndash;140.
+</span></a>. We treat the symptoms, but fail to tackle the problem itself. Borlaug shortened the stalks so cereals could put more energy into seeds, and solved the immediate problem of feeding 3 gigapeople. His many fans note that he saved a billion lives, and see this as a praiseworthy humanitarian act. No one addressed the underlying problem, epitomized by the 6 children per family in Africa&apos;s most populous country in 1960 and the 6 children per family 50 years later. If you mention that the number of starving people has doubled since 1968, and that they now have automatic weapons and an agenda instead of spears and tribal despair, you will be seen &mdash; to quote the web &mdash; as a &lsquo;profoundly narcissistic pseudo-scientific misanthrope&rsquo; by the &lsquo;generational thinkers&rsquo; who firmly believe that some god will provide a magical solution.
+</p>
+
+<p>The Green Revolution &lsquo;worked&rsquo; for 25 oil-rich years, during which the world population doubled, from 3.3 to 6.6 billion &mdash; with most of the increase stunted and brain damaged by malnutrition &mdash; the raw material of failed states, and today just as hungry as they were before the Revolution. By 2010 the UN was talking up insects for dietary protein, food prices were rising 5% in a month {<cite>GW</cite> 2010-09-10 p 1}, the FAO was calling a meeting to discuss the &lsquo;new&rsquo; food crisis, blaming it on speculators, and Russia extended a ban on wheat export for another year. Speculators will tell you that it is their job to balance supply and demand by adjusting the market price &mdash; an adjustment that simply ignores the majority of the human race that lives outside the market.
+</p>
+
+<p>Since 2008, the plan has been to genetically modify rice from C3 <a href="http://c4rice.irri.org/" class="fn">photosynthesis<span>
+	With more efficient CO₂ scavenging, C4 plants can close their stomata a bit, reducing evaporation while using less water and nitrogen fertilizer. Don&apos;t get me wrong: to a chemist, the incorporation of C4 into rice is an entertaining challenge. Still, the First Green Revolution did not reduce the number of starving people. We solve the easy problems instead of the right ones.
+</span></a> to C4, nominally increasing yield by 50% and halving water use. This will allow us to feed 6 gigapeople satisfactorily, while the total population grows to ~12 gigapeople, half of them <a class="fn">malnourished into stupidity.<span>
+	P Gerland &amp;13a (2014) &lsquo;World population stabilization unlikely this century&rsquo; <cite>Science</cite>  prepubliction doi: 10.1126/science.1257469.
+</span></a>
+</p>
+
+<p>The Green Revolution and C4 Rice are Faustian bargains. In order to outperform the original land races, the dwarf cereals need water, fertilizer, pesticides, and petroleum-driven machinery. Seed companies have bought legislation that makes it illegal for a farmer to save fertile seed, and legal for them to sell seed with a &lsquo;terminator&rsquo; gene (the seeds of the next generation are infertile). Laws also prevent you from asking (through research) what the long-term effects of genetically modified crops are on human health and natural ecosystems. (The argument is that genetic modifications might be relevant to these questions, and thus a threat to corporate profits, and everybody understands that profits are more important than health.) As fuel, water, and fertilizer increase steadily in price, it turns out that we could produce more food if we still had the 100s of native landraces adapted to local conditions, drought-defying, soil-improving, and pest-resistant &mdash; but slightly less productive per plant. The consequences of C4 Rice remain to be seen, but experience suggests that there will be &lsquo;side effects&rsquo;, most of them unpleasant.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#04.5">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="04.7"> Extinctions </a>
+<a class="tri" href="#05">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Although we talk of the current human monopolization of ecoosystems and resulting loss of biological diversity as the &lsquo;Sixth Extinction&rsquo;, Fig. 20.1 shows that this is a rather arbitrary count, for the 5 <a class="fn">canonical extinctions<span>
+	AG Fischer, MA Arthur (1977) in HE Cook, P Enos (eds) &lsquo;Secular variations in the pelagic realm&rsquo; <cite>Deep-Water Carbonate Environments</cite> (Society of Economic Paleontologists &amp; Mineralogists, Tulsa OK) Spec. Publ. <b>25</b>: 19&ndash;50.
+</span></a> are numbered in red. (<a class="fn">Early suggestions<span>
+	DM Raup, JJ Sepkoski Jr (1984) &lsquo;Periodicity of extinctions in the geologic past&rsquo; <cite>Proc Natl Acad Sci USA</cite> <b>81</b>: 801&ndash;805.
+</span></a> of a 26-Ma periodicity in this record have not held up.)
+</p>
+
+
+<figure>
+<img class="fl" width="66%"
+src="E-Images/20.1_Extinctions.jpg"
+alt="E-Images/20.1_Extinctions.jpg">
+
+<figcaption class="fc">
+<a class="tri" href="#F20.0">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.1"> Fig. 20.1 </a>
+<a class="tri" href="#F20.2">&emsp;&emsp;&#9654;</a>
+Extinction intensity. Percent of genera lost per bin-width. Only marine fossils are counted, because the sea floor offers better statistics and stratigraphy than land deposits. Although there is little correlation between families and the genera shown here, the marine-extinction background rate is 2&ndash;5 taxonomic <i>families</i> per million years. The red line estimates vulcanism as the mantle cools. (Source: <a href="http://en.wikipedia.org/wiki/File:Extinction_intensity.svg">Wikipedia</a>.)
+</figcaption></figure>
+
+
+<p>The currently favored common feature of major extinctions is <a class="fn">extended volcanic events.<span>
+	VA Kravchinsky (2012) &lsquo;Paleozoic large igneous provinces of Northern Eurasia: Correlation with mass extinction events&rsquo; <cite>Global and Planetary Change</cite> <b>86&ndash;87</b>: 31&ndash;36.
+</span></a> The black dots in Fig. 20.1 mark some of the extinctions associated with <a class="fn">vulcanism.<span>
+	The evidence for &lsquo;extended volcanic events&rsquo; includes flood basalts, like the Siberian and Deccan Traps, and rift vulcanism associated with continental breakup. Some of this evidence is missing, having been returned to the mantle by subduction.
+</span></a> An &lsquo;extended event&rsquo; occurs when a hot and <a class="fn">upwelling superplume<span>
+	M Ishida &amp;4a (1999) &lsquo;Superplume Project: Towards a new view of whole Earth dynamics&rsquo; <cite>Earth Planets Space</cite> <b>51</b>(#1): i&ndash;v.
+</span></a> reaches the mantle-crust boundary, producing a series of 100,000 year eruptions over a 15-million-year period. (This is so utterly beyond human scale that it is not something to worry about.) In addition, some of the extinctions were expedited by additional events, such as the Chicxulub impactor at 65 Ma (canonical 5) that did in the dinosaurs.
+</p>
+
+<p>Natural selection guarantees that plants will evolve to maximize photosynthetic efficiency and animals to maximize metabolic efficiency, so that by the Pleistocene, biomasses should be maximal. Changes will primarily reflect climate and glaciation &mdash; at least until a new factor intervenes, which it clearly has, since &lsquo;current rates of extinction are about <a class="fn">1000 times the likely background rate<span>
+	SL Pimm &amp;8a (2014) &lsquo;The biodiversity of species and their rates of extinction, distribution, and protection&rsquo; <cite>Science</cite> <b>344</b>(#6187); doi: 10.1126/science.1246752 </span></a>
+This current extinction was originally described as <a class="fn">&lsquo;Pleistocene overkill&rsquo;,<span>
+	PS Martin (1967) &lsquo;Prehistoric overkill&rsquo; in PS Martin, HE Wright <cite>Pleistocene extinctions: The search for a cause</cite>  (Yale Univ. Press, New Haven CT).</span></a>
+and thought of as something that happened when humans first colonized a new area. Having grown up in evolutionary equilibrium with African animals, we evidently caused few problems for them for the first 160,000 years when predation kept our own population in ecological balance.
+</p>
+
+<p>Figure 20.2 includes the history of this <a href="http://arxiv.org/ftp/arxiv/papers/1309/1309.1804.pdf" class="fn">extinction,<span>
+	A polemical, unrefereed paper by Ron W Nielsen aka Jan Nurzynski attacking the Barnosky paper behind this figure can be ignored. It claims that the human-population numbers for this sketch were fabricated (by Hern), and that the correlation with extinction is erroneous because human growth is presumed continuous and extinction stepwise and episodic. Granted, Hern uses a simple calculation for the growth of pre-<i>sapiens</i> humans, but his numbers for the relevant period agree closely with estimates by paleontologists. The correlation with extinction is stepwise because we invaded different regions at different times, and extinction of the most vulnerable species was rapid. Nielsen also failed to see that &lsquo;biomass conversion&rsquo; is ultimately a matter of competition for solar energy.
+<br>---------------------<br>
+	&bull; RW Nielsen (aka J Nurzynski) (2013) &lsquo;Extinction of megafauna: How could the research get so wrong?&rsquo; <br>
+	&bull; WM Hern (1999) &lsquo;How many times has the human population doubled? Comparisons with cancer&rsquo; <cite>Population and Environment</cite> <b>21</b>(#1): 59&ndash;80.
+</span></a> beginning at 100 ka with an estimated maximized  &lsquo;Wild&rsquo; megafaunal biomass of 0.16 Pg (where &lsquo;megafauna&rsquo; is sheep-sized and up, and Pg is petagram, 10<sup>15</sup> grams). Nothing important happens until OOA (Out Of Africa) Africa at 65 ka. Thereafter we meet naïve animals, who go extinct as we consume 100 unprepared genera. The irregularities in the descent resulted from our stepwise colonization of Eurasia, Australia, and the Americas. Climatic and glacial events also contributed to the Neolithic minimum at point M.
+</p>
+
+<p>By 8 ka (in the Neolithic), the wild megafaunal biomass has dropped to its current &lsquo;human-proof&rsquo; value &mdash; 183 species who are either inedible or more work than they are worth to catch &mdash; weighing in at 0.055 Pg. American glyptodonts, ground sloths, and saber-toothed cats were among the last to be killed off. (After the Industrial Revolution, the Wild line again starts dropping, but this is not shown in Fig. 20.2.)
+</p>
+
+
+<figure   id="F20.2">
+<img class="fl" width="66%"
+src="E-Images/20.2_Megafauna.jpg"
+alt="">
+
+<figcaption class="fc">
+<a class="tri" href="#F20.1">&#9664;&emsp;&emsp;</a>
+<a href="#TOC">      Fig. 20.2 </a>
+<a class="tri" href="#F20.3">&emsp;&emsp;&#9654;</a>
+Megafaunal biomass. 100,000 years ago, solar energy supported a sustainable megafaunal biomass of 0.16 Pg, shown shaded. This mass decreased when we left Africa (OOA) and started eating the biodiversity of Australia, Asia, and the Americas, reaching a minimum of 0.055 Pg in the Neolithic at M. At C, about 400 years ago the total megafaunal biomass (Wild + Humans + Livestock) exceeded its natural value. C and H are the moments of <i>naturally sustainable</i> human biomass as carnivores and herbivores, respectively. The diagram is schematic; estimates from <a href="http://ib.berkeley.edu/labs/barnosky/newlabpubs.htm" class="fn">Barnosky (2008).<span>
+	Note that the apparent slowing of growth approaching the present is an artifact of the logarithmic time scale, which <i>never reaches the present moment</i> and flattens <i>any</i> growth curve whatsoever. This appearance has lulled more than one professional demographer &mdash; along with the public and politicians who read their work &mdash; into a totally inappropriate Alfred E. Neumann view of population: &lsquo;What! Me worry?&rsquo;.
+	I thank Michael Gl&uuml;ck and his CorelDRAW for this graph, when MVXForth on OSX was going to require a serious rewrite of my own graphics program.
+<be>-----------------<br>
+	&bull; Click for more details.<br>
+	&bull. AD Barnosky (2008) &lsquo;Megafauna biomass tradeoff as a driver of Quaternary and future extinctions&rsquo; <cite>Proc Natl Acad Sci US</cite> <b>105</b> Supplement 1: 11543&ndash;11548; doi 10.1073/pnas.0801918105.<br>
+	&bull; V Smil (2011) &lsquo;Harvesting the Biosphere: The Human Impact&rsquo; <cite>Population and Development Review</cite> <b>37</b>(#4): 613&nb dash;636;
+	&bull; JS Deevey (1960) &lsquo;The human population&rsquo; <cite>Scientific American</cite> <b>203</b>(#3).
+</span></a>
+</figcaption></figure>
+
+
+<p>Our population at 8 ka, point M, was ~20 million (which is a high estimate), for a mass of 0.001 Pg, essentially invisible on the graph. At the right edge, 7 billion somewhat heavier people weigh in near 0.45 Pg. The question arises: How it is possible to support more biomass now than the solar equilibrium megafaunal biomass of the shaded area (0.16 Pg?). We have managed this for some 400 years, since point C, so it can&apos;t be difficult, and we have reached the 9-fold-higher cumulative value of 1.45 Pg with no obvious problems. This must be a clear example of human ingenuity, right?
+</p>
+
+<p>In a natural system, almost all of the ~5 ppm of CO₂ cycled annually through the biosphere is returned by bacterial oxidation of fallen leaves, and only a small fraction is used by megafauna. Under human management, trees are replaced by fodder, and the &lsquo;fallen leaves&rsquo; are eaten by first by livestock, and 10% by us.
+</p>
+
+<p>It is difficult to estimate the effect of cropland increase, but a factor of 3 seems large, and 9 unreasonable. Since the Industrial Revolution, the excess biomass has been supported by eating fossil carbon, (which powers irrigation, fertilizer production, farm machinery, and food processing); making and spreading pesticides; and growing and transporting high-protein crops for animal feed. To the extent that our food (the excess livestock) depends upon this existing infrastructure, it is vulnerable to the petroleum supply, which goes far to explain the desperate efforts to find oil in risky and environmentally sensitive regions.
+</p>
+
+<p>A more comprehensive interpretation of points C and H is that they mark the last moments that a sustainable human biomass could be supported by photosynthesis alone, as carnivores and herbivores, <a class="fn">respectively.<span>
+	Food-chain theory suggests that C and H should be separated by a 10-fold difference in human population. The smaller actual difference relates to the ability of the herbivores we eat to employ protoctists to digest cellulose, and in general, consume vegetation that we cannot.
+</span></a> At present, all of the white area under the +Humans curve is supported by oil.
+</p>
+
+<p>A generation ago it was pointed out that we already <b>monopolized</b> <a class="fn"><b>15&ndash;50% of the solar energy</b><span>
+	&bull; BA Maurer (1996) &lsquo;Relating human population growth to the loss of biodiversity&rsquo; <cite>Biodivers Lett</cite> <b>3</b>: 1–5.<br>
+	&bull; PM Vitousek &amp;3a (1986) &lsquo;Human appropriation of the products of photosynthesis&rsquo; <cite>Bioscience</cite> <b>36</b>: 368&ndash;373.<br>
+	&bull; PM Vitousek &amp;3a (1997) &lsquo;Human domination of earth&apos;s ecosystems&rsquo; <cite>Science</cite> <b>277</b>: 494&ndash;499; doi: 10.1126/science.277.5325.494.
+</span></a> convertible into food, including that reaching the ocean. The result is that:
+</p>
+
+<blockquote>If biodiversity is actually a tradeoff between human biomass and other species&rsquo; biomass, as both the Quaternary Megafaunal Extinction and theoretical considerations indicate, then depletion of fossil fuels without replacement by alternative energy sources would mean that a biomass crash is imminent, this one <b>depleting human biomass</b>&hellip; &mdash; <a class="fn">
+	AD Barnosky (2008)<span> &lsquo;Megafauna biomass tradeoff as a driver of Quaternary and future extinctions&rsquo; <cite>Proc Natl Acad Sci US</cite> <b>105</b> suppl. 1: 11543–11548.</span></a>,
+emphasis added.
+</blockquote>
+
+<p>Anthropologist <a class="fn">Marvin Harris<span>
+	&bull; M Harris (1977) <cite>Cannibals and Kings</cite> (Vintage, NYC).<br>
+	&bull; M Harris (1979) <cite>Cultural Materialism</cite> (Random House, NYC).<br>
+	&bull; M Harris (1988) <cite>Culture, People, and Nature</cite> (HarperCollins, NYC).
+</span></a> saw that history has little to do with politics, conquests, ideologies, and human intentions, and much to do with our response to demographics (population pressure) and ecology (resource depletion) &mdash; our Eirenic and Gaian religious concerns. The world is on course to deplete human biomass and make Harris-style history with a vengeance, for all biomass above the Pleistocene equilibrium is at risk and subject to culling in unpleasant natural ways.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#04.7">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="05"> Futurology </a>
+<a class="tri" href="#06">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">After about three-fourths of the human family have died of hunger, or been killed, the remainder, constituting, by the law of the survival of the fittest, the most powerful and brutal, will find it necessary, for self-defense against each other, to form squads or gangs. The greatest fighter in each of these will become chief, as among all savages. Then the history of the world will be slowly repeated. A bold ruffian will conquer a number of the adjacent squads, and become a king. [&hellip;] Men will exchange liberty for protection. [&hellip;] And so, step by step, mankind will re-enact the great human drama, which begins always with a tragedy, runs through a comedy, and terminates in a catastrophe. &mdash; Boisguilbert, <cite>Caesar&apos;s Column</cite>, 1890.
+</p>
+
+<p>The future has always been uncertain, but perhaps never quite so dramatically as today. The 20th century was by far the world&apos;s <a href="http://necrometrics.com/warstats.htm#Mainseq" class="fn">bloodiest.<span>
+	Rummel&apos;s count gives 133 million murdered by democide prior to the 20th century, and twice that (262 million) during the 20th century alone. But see Matthew White&apos;s website for cautionary criticism of Rummel and the statistics of atrocity, body counts, a bibliography, and some interesting maps. [Click for more.]
+</span></a> Its only competitor will be the 21st, which began with 4.5 times as many people in harm&apos;s way, greatly improved techniques of harming, a US in which the 1&permil; controls all branches of government with the intellectual skill of a spoiled 6-year-old brat, and the prospect of debacles that are more serious than we have ever faced. Extrapolating the trends and responses and history, one can easily arrive at a world in terminal decay.
+</p>
+
+
+<figure>
+<img class="fl"  width="66%"
+src="E-Images/20.3_Democide.jpg"
+alt="">
+<figcaption class="fc">
+<a class="tri" href="#F20.2">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.3"> Fig. 20.3 </a>
+<a class="tri" href="#F20.4">&emsp;&emsp;&#9654;</a>
+Democide. &lsquo;Power kills&rsquo;. As totalitarian governments are replaced by democracies, the number of murdered citizens drops. After <a class="fn">
+	RJ Rummel (1999).<span><cite> Statistics of Democide: Genocide and Mass Murder since 1900</cite> (Lit Verlag, Berlin).
+</span></a>
+</figcaption></figure>
+
+
+<p>On the other hand, historian of genocide R.J. Rummel pointed out that as the number of democratic regimes has increased in recent years, murder by government has dropped as shown in Fig. 20.3. Jihad &mdash; and responses to it &mdash; may be doing their best to compensate, but so far are not even close to equaling the mid-century paroxysms. (Nevertheless, history shows that they are willing and capable of doing so.)
+</p>
+
+<p>This is encouraging. Let us list again some optimistic aspects:
+</p>
+
+<p>Liberal democracies are relatively safe to live in; totalitarian and theocratic states are not, and totalitarian states are on the wane &mdash; although the urge to establish totalitarian states by the 1&permil;, and theocratic states by fundamentalists, is increasing. The driving force for theocracy seems to be the illusion that as soon as infidels and heretics are killed, there will be peaceful unanimity. Alas, neither the Christian Middle Ages, nor the pre-British-Raj history of India, nor the 1400 years of the Islamic umma, nor the history of China, support this illusion.
+</p>
+
+<p>By focussing on what is just possible with available technology, ideas, and resources, life at the end of the century can be described in glowing terms. Steve Jobs&apos;s success marketing Moore&apos;s law (the one that should continue to double the power of integrated circuits every 2 years until <a class="fn">at least 2018)<span>
+	By which time quantum computing may have become practical, changing the hardware but not the progression.
+</span></a> gave this approach a patina of authenticity, and we hear that bread is relatively cheaper than at any time in <a     href="http://marketskeptics.com/2009/07/world-facing-food-crisis-in-second-half.htm" class="fn">history<span>
+	Strange arithmetic! In 2008, the price doubled, the purchasing power of my income halved, and my income dropped by 1/3. An African stem-rust mutant, Ug9 &mdash; to which few current wheat cultivars are resistant &mdash; has the potential to decimate the world wheat crop {<cite>GW</cite> 2009-03-06 p32}, and has the potential to defeat rust-resistance genes Sr24 that protects Great Plains wheat and Sr36 that protects Asian wheat.
+</span></a> People can do remarkable things when they have to. This is Lester Brown&apos;s approach in <a class="fn"><cite>Plan B 4.0</cite><span>
+	Brown keeps trying! His books have evolved through <cite>Plan B</cite> (2003), <cite>Plan B 2.0</cite> (2006), <cite>Plan B 3.0</cite> (2008), and <cite>Plan B 4.0</cite> (2009), with topical monthly updates.
+</span></a> &mdash; see chapters <a href="../_F/F22.shtml#03">22</a> and <a href="../_F/F23.shtml#09">23</a> &mdash; when he says &lsquo;Plan B is shaped by what is needed to save civilization, not by what may currently be considered politically feasible&rsquo;.
+</p>
+
+<p>It is, as Brown says, our choice &mdash; and our descendants live (or die) as a result. Let me play devil&apos;s advocate, showing what the wrong choice might look like, and why we are all too likely to drift into it.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#05">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="06"> The Status Quo </a>
+<a class="tri" href="#07">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The Global Americana Institute provided a progress report on the first decade of the millennium, suggesting that if George W. Bush is remembered at all, it will be for:
+</p>
+
+
+<ol class="u1">
+<li>The constitutional coups of 2000&ndash;2004, in which Bush was declared the winner of elections he had lost, making the rest of the list possible.</li>
+
+<li>Stagnating worker wages, and the emergence of a new monied [klepto]cracy.</li>
+
+<li>Health, housing, and food security decreased for ordinary Americans.</li>
+
+<li>Pollution/destruction of the environment. The Bush administration was the worst on record on environmental issues.
+
+<li>The imperial presidency was ensconced in ways it will be difficult to pare back, with continued destruction of the labor movement, the political bargaining power of workers and the middle class; with increased facilities to harass and disrupt peace, rights and environmental movements, including executive, legislative, and judicial abrogation of the Bill of Rights.
+
+<li>The hurricane, flood, and the destruction of much of historic African-American New Orleans. [Katrina <i>who</i>?].
+
+<li>The post-2002 mishandling of Afghanistan, where the Taliban had been overthrown successfully in 2001.</li>
+
+<li>The (first) Iraq War.</li>
+
+<li>The T$12 Bank &lsquo;Bailout&rsquo;.</li>
+
+<li>The 9/11 attacks. Whichever of the conspiracies was responsible, the subsequent handling was a masterwork of incompetence, panic, or inept obfuscation.</li>
+</ol>
+
+
+<p>If these are not matters of ultimate concern, we have already returned to the Dark Ages, and the only hope of a decent experience lies in an afterlife. The church can return to propagating fables.
+</p>
+
+<p>With this much under our belts, let us look at what lies ahead. First, however, we need to realize just how precisely the status quo was predicted 200 years ago.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#06">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#04.5">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="07"> MALTHUS GOT IT RIGHT </a>
+<a class="tri" href="#10">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#07.5">&emsp;&emsp;&#9661;</a></h2>
+
+<p class="epi">There seems to be a concerted effort, locally, nationally, and globally to marginalize the modern Malthusian message and to talk about sustainability, using terms and concepts which don&apos;t offend anyone. This marginalization requires that we make no mention of the facts. &mdash; Emeritus professor of physics <a class="fn">
+Albert Bartlett.<span>
+	A Bartlett (2004) <cite>The Essential Exponential: For the Future of our Planet</cite> (U. Nebraska Press, Lincoln NE): 98.</span></a>
+</p>
+
+<p class="epi">Thousands upon thousands of children are consumed by Death every day. &hellip; Take defensive action! &mdash; Rev. Paul J. Hill, murderer of an abortion doctor.
+</p>
+
+<p>We start with Rev. Hill. Reading his first sentence, I thought, &lsquo;Good! Here&apos;s someone who realizes that 21,000 children die every day from malnutrition, disease, poverty, neglect, and simple <a class="fn">superfluity&rsquo;.<span>
+	The US under-5 mortality rate is 7&permil;, over twice the asymptote for industrialized countries (Andorra, Cyprus, Finland, Iceland, Japan, Luxembourg, Singapore, Sweden) at 3&permil;. The asymptote probably represents the tail end of the (largely prenatal) genetic error-correction process, and thus &mdash; however harrowing it is to parents &mdash; may be a fact of life that we must live with. The world rate is 17 times this, and something we do <i>not</i> have to live with.
+<br>------------------<br>
+	World Bank Development Indicators, http://data.worldbank.org/indicator/SH.DYN.MORT (as of 2014-05-25)
+</span></a> It was a shock to find that his idea of &lsquo;defensive action&rsquo; was to <i>increase</i> the number of unwanted children. Not a cortical thinker, then.
+</p>
+
+<p>We continue with a clergyman who <i>was</i> a cortical thinker, and who observed that <b>all populations have limits</b>. Our ability to increase the food supply was, at best, &lsquo;<a class="fn">arithmétic<span>
+	He was wrong in this: Our food supply has grown &lsquo;geometrically&rsquo; &mdash; but slowly, and linearization is a legitimate approximation to a slow exponential when there is no data to suggest otherwise. On the other hand, <i>all</i> exponential processes eventually fail.
+</span></a>&rsquo; (linear); while population grows &lsquo;geometrically&rsquo; (exponentially). Within a century, he suggested, human population would outstrip the <a class="fn">food supply,<span>
+	This estimate was right on: The intersection of the US biological and technagog lines occurs in 1904 in Fig. 20.5. Malthus&apos;s first edition was written in 1800, the 6th in 1826. The effects of Vice did not have a visible effect until 1829, so Malthus never saw the data that confirmed his suggestion. In fact, Fig. 20.5 appears to be the first mathematical recognition that he had provided an accurate description of the future.
+</span></a> and then one of 3 things would limit us:
+</p>
+
+
+<ul>
+<li><b>Moral Restraint:</b> &lsquo;chastity and late marriage&rsquo;;</li>
+
+<li><b>Misery:</b> &lsquo;vicious customs, unwholesome occupations, too severe labor, extreme poverty, disease, epidemics, war, plague, famine, blood feuds, bad government, infanticide&rsquo;, and in his day, insalubrious towns; or</li>
+
+<li><b>Vice:</b> delicately left undefined by our clergyman, but he meant birth control and abortion.</li>
+</ul>
+
+<p class="flu">Today it is useful to distinguish 2 components of &lsquo;Misery&rsquo; as controls in their own right. &lsquo;Bad government&rsquo; (or gangster capitalism, or corporate sociopathy, however one choses to characterize the pillage) is the first of these:
+</p>
+
+<ul>
+<li><b>Feudofascism:</b> which kills offhandedly for profit, with MIC-wars, depleted uranium weapons, patents, deforestation, over-fishing, monoculture, pesticides, climate change, democide, inequality, poor health care, and anything else it can monetize.</li>
+</ul>
+
+<p class="flu">Finally, in Malthus&apos;s day, Islam (as &lsquo;vicious custom&rsquo; or &lsquo;blood feud&rsquo;) was sufficiently quiescent so that he could ignore it. Today it is killing statistically significant numbers of infidel populations (including &lsquo;internal infidels&rsquo;), so we append:
+</p>
+
+<ul>
+<li><b>Jihad:</b> which continues along the bloody borders &mdash; external and internal &mdash; of Islam.
+</ul>
+
+<p>The Malthusian controls are equivalent. It is their result that is unavoidable, obtained by whichever control we elect. Malthus decried Vice and advocated Moral Restraint, which has <a class="fn">never worked.<span>
+	By 2005 the Bush administration had wasted M$170 by preaching &lsquo;abstinence-only&rsquo;. The result was a reversal of 2 decades of decline in sexually transmitted disease among teen-agers. Unwanted pregnancies increased to 53 per 1000 (vs 5 per 1000 in the Netherlands, where advice and contraceptives are openly available). This was Bush&apos;s concept of the emperor &lsquo;acting to create his own reality&rsquo;, basing decisions on gut feelings and ignoring facts, experts, history, and common sense. {<cite>GW</cite> 2009-08-07 p19}].
+</span></a> This left Misery. Knowing how the innumerate blank out equations, he omitted all arithmétic details from his book (although he was one of the best <a class="fn">mathematicians<span>
+	He was 9th wrangler at Cambridge. This is important: most of Malthus&apos;s critics are critical because they are innumerate and do not instinctively think in mathematical terms. Like deaf people at a symphony, they miss part of the performance.
+</span></a> of his generation).
+</p>
+
+<p>Part of the problem is that Malthus was ahead of his time in applying mathematics to biology. It would be another 45 years before biologists described the simple <a class="fn">&lsquo;fruitfly&rsquo; equation<span>
+	PF Verhulst (1845) &lsquo;Recherches mathematiques sur la loi d&rsquo;accroissement de la population&rsquo; <cite>Nouv. Mem. Acad. Roy. Soc. Belle-lettr. Bruxelles</cite> <b>18</b>: 1-38.
+</span></a> of Fig. 20.4. (This equation can be demonstrated quantitatively with a glass jar, a pair of <i>Drosophila</i>, and a daily spoonful of apple sauce &mdash; that is, an environment in which the food supply is constant &mdash; so it is not a difficult concept <i>once the basic idea of environmental control is understood</i>.) Malthus&apos;s key insight about people <i>might</i> have been more easily accepted had it first been firmly established for other species. Or maybe not: see the endnote<a class="en" id="071" href="#PM"><sup><b>H</b></sup></a>  for details of the slow acceptance of the idea that &lsquo;Be fruitful, and multiply&rsquo; might have a limit.
+</p>
+
+<p>Putting his equation into words instead of symbols, Malthus said, &lsquo;All of the children born beyond [the supportable limit], must <a class="fn">necessarily perish&rsquo;.<span>
+	TR Malthus (1890) <cite>Malthus on Population</cite>, reproduced from the last (6th) edition of <cite>An Essay on the Principle of Population &hellip;</cite> (1798-1826), with an introduction by GT Bettany (Ward, Lock & Co., London): Bk IV, ch v.
+</span></a> In fact, all of the children conceived beyond the supportable limit <i>have</i> perished, if not by Vice, then by Misery. When abortion is illegal, only the rich have abortions; the poor have infant mortality, and this seems to be the way Rev. Hill, many Christians, and conservatives like it. <i>How</i> the excess perishes does not matter to the equation or to fundamentalists &mdash; yet it matters deeply to the compassionate.
+</p>
+
+
+<figure>
+<img class="fc" width="90%"
+src="E-Images/20.4_PopModels.jpg"
+alt="E-Images/20.4_PopModels.jpg">
+
+<figcaption>
+<a class="tri" href="#F20.3">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.4"> Fig. 20.4 </a>
+<a class="tri" href="#F20.5">&emsp;&emsp;&#9654;</a>
+Population growth. All graphs have the same growth rate <b><i>r</i></b>; what differs is the carrying capacity <b><i>K</i></b> of the environment. The Exponential, with no limit, is the unsustainable &lsquo;Capitalist/Fundamentalist&rsquo; model. The Fruitfly, with a fixed capacity, applies to all animal populations. The Malthusian, with an arithmetically growing food supply, is a good approximation to humans, while the Technagog, with a (slow) geometrically growing food supply, is exact for the US population of Fig. 20.5. (These examples do not exhaust the ability of the underlying &lsquo;logistic&rsquo; equation to describe populations: both oscillatory and chaotic variants exist, but they have growth rates <b><i>r</i></b> in excess of human experience.)
+</figcaption></figure>
+
+<p>Of the 40 national census records Malthus examined, only the US was sufficiently free of Misery to have grown smoothly &mdash; and it was, as he suggested, a <a class="fn">perfect exponential<span>
+	It is a straight line (linear) in the plot &mdash; the axis scaling makes it exponential.
+</span></a> (see the 200 years of &lsquo;biological growth&rsquo;, 1640&ndash;1840, in Fig. 20.5).
+</p>
+
+<p>Malthusian controls not being mentioned in Genesis, everyone who heard about Malthus immediately knew he was wrong. His centennial editor observed, &lsquo;of the multitudes who have denounced <cite>Malthus on Population</cite>, very few have read the book&rsquo;. Responding to 20 years of criticism, <a class="fn">Malthus<span>TR Malthus (1890) <cite>
+	Malthus on Population</cite>, reproduced from the last (6th) edition of <cite>An Essay on the Principle of Population &hellip;</cite> (1798-1826), with an introduction by GT Bettany (Ward, Lock & Co., London): Appendix.
+</span></a> complained that he could find little to reply to except &lsquo;absurdity, inconsistency, and unfounded assertion&rsquo;. Some things never change: the same arguments are used against him today. Every media mention of Malthus I have seen in 70 years has said that he was wrong; mentions in a religious contexts tend to say &lsquo;discredited&rsquo;. There is, however, one inconvenient fact, inaccessible to the ignorant and innumerate, and unknown to the media, politicians, and churchmen:
+</p>
+
+<table id="mal">
+<tr><td style=" padding:15px;">
+Had Malthus been wrong, the population of the US would have continued along the &lsquo;biological&rsquo; line <b><i>B</i></b> in Fig. 20.5, reaching the peak of the blue area at 6.9 billion &mdash; the world population &mdash; by Census 2010, more than 20 times its <a class="fn">actual size.<span>
+	Imagine, if you can, the smog and congestion of Los Angeles with 20 times as many cars, your house with 3 times the number of people in it, and 7 times as many cities and towns in your region.
+</span></a> We exactly obeyed his prediction while vigorously denying it. We laughed at Moral Restraint; <a class="fn">escaped Misery<span>
+	As long as one excludes the homeless, unemployed, and other unfortunates from consideration!
+</span></a> with oil, tractors, irrigation, fertilizer, and plant genetics; but Vice was essential. We raised 1/5 of the number of children that we might have. Of the 110 billion person-years that would have been lived in the US without condoms, the Pill, and abortions (that is, including the blue area in Fig. 20.5), we actually lived only 20 billion (the <a class="fn">green area.<span>
+	Note that the logarithmic scaling makes the green area appear larger than the blue. On a linear graph, the population in 1828 is still hugging the bottom of the graph.
+</span></a>) This is the reality of Vice, whatever fundamentalists may wish.
+</td></tr></table>
+
+
+<figure>
+<img class="fl"  width="66%"
+src="E-Images/20.5_USPopulation.jpg" alt="E-Images/20.5_USPopulation.jpg" >
+<figcaption>
+<a class="tri" href="#F20.4">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.5"> Fig. 20.5 </a>
+<a class="tri" href="#F20.6">&emsp;&emsp;&#9654;</a>
+US population growth from the US Census. The equation for <i>p</i>&prime; in the upper left is Verhulst&apos;s diffential logistic, used throughout <a class="fn">population biology; <span>
+	R MacArthur, EO Wilson (1967) <cite>Theory of Island Biogeography</cite> (Princeton University Press, Princeton NJ, 2001).
+</span></a> the equation for <b><i>K</i></b> is MacIntyre&apos;s technagog (&lsquo;led by technology&rsquo;). The early overshoot in the Census data is immigration, corrected by 1700. See text for explanation of the 1828 and 1982 dates. The 3 triangular points, 1940&ndash;1960, are detailed in Fig. 20.6. The 5 solid points were added after the graph was first drawn, providing half a century of verification. After <a class="fn">
+F MacIntyre (2005). <span>
+	&lsquo;The Maltho-Marxian Hypothesis <q>Economics Controls Population</q>: A Test and a Projection&rsquo; <cite>Population Review</cite> <b>44</b>(#2): 24-49.
+</span></a>
+</figcaption></figure>
+
+
+<p>The &lsquo;<b><i>r</i></b>-strategy appropriate&rsquo; and &lsquo;<b><i>K</i></b> only&rsquo; comments below the arrows in Fig. 20.5 take their names from the parameters of the growth equation, and apply population biology to people. The &lsquo;<b><i>r</i></b>-strategy&rsquo; is named from the rate of biological growth, and is the unrestrained reproduction of rats, weeds, bacteria, Neolithic humans, and Neolithic religions: lots of offspring, some will survive. The &lsquo;<b><i>K</i></b>-only&rsquo; strategy is named for the limiting parameter. For other animals, <b><i>K</i></b> is a constant; for humans, the slow exponential of the red line forces us to grow more slowly than we could when we were fewer. The <b><i>K</i></b>-only strategy is characteristic of animals like whales, elephants and great apes, who have few children and invest much parental care in them. Our response as we approached the supportable limit was unpredicted, unconscious, and long <a class="fn">unnoticed,<span>
+	Only in a semilog plot is there an apparent slowing of population growth. With a linear vertical scale, the line continues upward with an ever-steepening slope, as in Fig. 20.4. Many politicians (for instance) can live their whole lives without ever drawing a semilog plot, which may help explain why Malthus is so misunderstood.
+</span></a> but what we did between 1828 and 1982 was to reduce the US growth rate from the 3.3% per year of biological growth to the 0.7% per year growth of the supportable limit. This was the demographic transition &mdash; or, giving credit where credit is due, the Malthusian transition.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#07">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="07.5"> Malthusian Pressure </a>
+<a class="tri" href="#08">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">No country can now afford to sustain high technology military establishments on a significant scale. &mdash; Economic analyst Brian Fleay.
+</p>
+
+<p class="epi">[The] New Deal &hellip; saved the system with <b>government spending to do what private capital found unprofitable but would bring destruction to the system if left undone</b>. &mdash; <a href="http://legalienate.blogspot.fr/">Frank Scott (2014-12-02)</a>
+
+<p>Figure 20.5 suggests that we respond unconsciously to what we might call &lsquo;Malthusian pressure&rsquo; exerted by the limits drawn as the <i><b>B</b></i> and <i><b>K</b></i> lines (and staying slightly farther from the latter).
+	<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-Research3.gif" alt="Research"/></a>
+How we sense these limits, and why they have appeared to be nearly independent of social and historical events, remain to be investigated. Both rates are constrained from above by more or less fundamental processes, but nothing prevents them from decreasing. Undernourish <i><b>K</b></i> (by lack of basic research, for instance), and it will drop.
+</p>
+
+<p>As we recover from the bankster excesses of 2008, we find many features in common with the earlier recovery from 1929: bloated inequality, high unemployment, homelessness, and rising fascism. Last time the way out was initially provided by the socializing efforts of the New Deal, and ultimately by the full employment engendered by the waste and destruction of WW II. The only portion of this solution that our CEOs seem to understand is &lsquo;growth&rsquo;, their code word for less government interference with basic greed.
+<p>
+
+<p>The problem with Fleay&apos;s epigraph is that it is ignored by our decision makers. The 1&permil; has figured out that union busting, part-time employment, and off-shoring can turn taxes and borrowed money into dividends, and wars are the simplest way to increase taxes and borrowing. (This is inefficient in the short term and civilization-destroying in the long term, but income lost by the inefficiency is apparently compensated by its political opacity and perennial regeneration, and &lsquo;long-term&rsquo; in politics is the next election.) As long as Congress lives off of corporate largess, chauvinism will continue to support belligerence.
+</p>
+
+<p>Socialization &mdash; that is, any governmental action that &lsquo;promotes the <i>general</i> Welfare&rsquo; &mdash; would still help, but not as much as we might expect. The reason is simple: Malthusian pressures are higher than ever, as per-capita resources decrease. Given the current business model of privatization of profit, socialization of costs, and a Congress dedicated to demonstrating that government doesn&apos;t work, we are proving unable to preserve the existing social infrastructure, for The American Society of Civil Engineers gives Congress a <a class="fn">grade of D<span>
+	ASCE (2013) &lsquo;2013 Report Card for America&apos;s Infrastructure&rsquo; (ASCE Press, Reston VA).
+</span></a> for its maintenance, indicating that we are not bothering to preserve the hardware of what civilization we have built. The last time we were in this predicament, we elected a government which buckled down to work for the common Welfare, producing the alphabet soup of the New Deal (Table 20.1), which bailed us out by providing jobs and loans to people, and creating infrastructure for business and society. (As shown by <a href="../_F/F23.shtml#F23.1">Fig. 23.1</a>, this not co-incidentally stopped the growth of feudalism, which is why Republicans still hate Roosevelt.
+</p>
+
+<hr>
+<table class="tcen">
+<caption>
+<a class="tri" href="#T20.3">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T20.1"> Table 20.1 </a>
+<a class="tri" href="#T20.2">&emsp;&emsp;&#9654;</a>
+Public agencies from days when the government actually tried to &lsquo;promote the general Welfare&rsquo;. (Some of these still work so well that they are prime targets for privatization, presumably on the flexible theory that even though they are engaged in the theoretically evil process of helping the lazy, indigent, and non-WASP population, each could be replaced by a dozen private-profit corporations with monstrously overpaid mismanagement teams.)
+</caption>
+
+<thead>
+<tr><th>Acronym</th>
+	<th>Agency</th>
+	<th>Function</th></tr>
+</thead>
+
+<tbody>
+<tr><td>AAA</td>
+	<td>Agricultural Adjustment Administration</td>
+	<td>Reduce farm production to raise farmers&apos; buying power</td></tr>
+<tr><td>CCC</td>
+	<td>Civilian Conservation Corps</td>
+	<td>Structures and trails in national parks</td></tr>
+<tr><td>FHA
+	</td><td>Federal Housing Administration</td>
+	<td>Regulate mortgages and housing (ie: Prevent the 2008 debacle.)</td></tr>
+<tr><td>FSA</td>
+	<td>Farm Security Administration</td>
+	<td>An attempt to combat rural poverty</td></tr>
+<tr><td>HOLC</td>
+	<td>Home Owners Loan Corporation</td>
+	<td>Refinancing, foreclosure avoidance</td></tr>
+<tr><td>NRA</td>
+	<td>National Recovery Administration</td>
+	<td>SCOTUS: &lsquo;an unconstitutional delegation of legislative authority&rsquo;</td></tr>
+<tr><td>PWA</td>
+	<td>Public Works Administration</td>
+	<td>Economic stimulus by public works</td></tr>
+<tr><td>REA</td>
+	<td>Rural Electrification Administration</td>
+	<td>Loans to rural electricity co-ops </td></tr>
+<tr><td>SSA</td>
+	<td>Social Security Administration</td>
+	<td>Combat widespread poverty among senior citizens </td></tr>
+<tr><td>TVA</td>
+	<td>Tennessee Valley Authority</td>
+	<td>Encourage development of the Tennessee Valley </td></tr>
+<tr><td>WPA</td>
+	<td>Work Projects (Progress) Administration</td>
+	<td>Create jobs; create infrastructure (roads, buildings)</td></tr>
+</tbody></table>
+
+
+<p>The &lsquo;supportable limit&rsquo; clearly contains a psychological component. In <a href="#F20.5">Fig. 20.5</a> we might call this &lsquo;the American Dream&rsquo;. In contrast to the high-mortality cultures of the Neolithic (which shaped the &lsquo;Old Testament&rsquo; <b><i>r</i></b>-strategy view of life), and the &lsquo;huddled masses&rsquo; from which European immigrants escaped, the &lsquo;empty&rsquo; continent (from the European point of view) endowed the US with aspirations of abundance, a better life for their children, and a consequent <b><i>K</i></b>-strategy attitude. Offspring were no longer the <i>sine qua non</i> of a life well lived. 2.2 children, yes &mdash; but suburban homes, big cars, electronic toys, and college for the kids. All of these things are possible with a <a class="fn">smaller population.<span>
+	As of 2014, the big cars are problematic because there is no known substitute for the energy density of hydrocarbons. Compressed air is inefficient; batteries are still limiting.
+</span></a> Later immigrants without the &lsquo;frontier&rsquo; mystique of US culture bring with them an expectation of more children and an acceptance of a less expansive life. And so we squabbled.
+</p>
+
+<p>The typical <i><a class="gl" href="../_G/Glo.shtml#po">popoco</a></i> response to a graph like Fig. 20.5 is that it demeans humans by treating them like a biological species &mdash; but that is what we are. The problem that the antimalthusians have is speciesism. Their self image seems to be corroded by the idea that the world and its other contents were not created especially for their use, and they resent being lumped with other animals as objects of study. <i><a class="gl" href="../_G/Glo.shtml#po">Popoco&apos;s</a></i> horror is compounded when it detects an <a class="fn">equation<span>
+	Note that the logistic equation (at the top of Fig. 20.5, is a differential equation: <i>p′ = dp/dt</i> gives the instantaneous rate of change of the population. The integrated form is harder to interpret, but <i>p′</i> = <b>r</b><i>p</i> is a simple exponential of line B. The parenthesized term (1-<i>p/<b>K</b></i>) ensures that the rate drops to 0 when <i>p = <b><i>K</i></b></i>. The problem with the &lsquo;technological fix&rsquo; is that in the technagog equation, <b><i>K</i></b> is itself an exponential and keeps rising, so <i>p</i> never catches up. Each generation of politicians compromises by preserving 50% of what&apos;s left (diversity, wilderness, wild rivers, green space, land races, etc.) for future generations.
+</span></a> in use: human beings are being reified into mere countable objects! <a class="fn">Thomas Robertson&apos;s<span>
+	TB Robertson (2005) <cite>The Population Bomb: Population Growth, Globalization, and American Environmentalism, 1945-1980</cite> (University of Wisconsin).
+</span></a> heartfelt critique of Paul Ehrlich&apos;s <cite>The Population Bomb</cite> was that Ehrlich reduced humans to &lsquo;simplistic, biological actors&rsquo;. This would be an accurate description if we added &lsquo;unconscious&rsquo; to the qualifiers. If we had <i>planned</i> to follow the Malthusian equation, instituting tax incentives and family-planning clinics and a careful <a class="fn">time table,<span>
+	Democracies being what they are, if we had <i>planned</i> to limit population by the observed factor of 22.5, fundamentalists would have thundered about &lsquo;fruitful and multiply&rsquo;, conservatives would have legislated against wasting tax money, liberals would have agonized over totalitarian manipulation, and free-market think-tanks would have obsessed about the loss of customers crippling the economy.
+</span></a> then indeed, we might take credit for being &lsquo;conscious, complex, intelligent actors&rsquo; responding creatively to optimize the quality of life in changing <a class="fn">circumstances.<span>
+	Precisely because our behavior is unconscious, Fig. 20.5 is optimized only from the point of view of a single species. Judging by the numbers who join pressure groups favoring other species, such as the Audubon Society and Friends of the Sea Otter, about 0.2% of the population regard the welfare of other species as a matter of human concern.
+</span></a>
+</p>
+
+<p>The phrase Robertson was groping for &mdash; not available to the innumerate &mdash; was, &lsquo;How elegant!&rsquo; What Fig. 20.5 tells us is that  Malthus enables us to describe 350 years of human reproductive behavior on the basis of 4 numbers. Under sufficiently ideal conditions &mdash; and the US supplied them for the full 350 years &mdash; it is possible to ignore every other consideration and reduce our behavior to simple biology. The first number is the raw reproductive rate of the group in question, here 3.3% per annum. The 2nd is the starting population, here about 30,000 in 1640. The 3rd is the technological growth rate, here about 0.7% per annum &mdash; although this is in fact determined from the Census data, and about 1/3 the size of official &lsquo;growth&rsquo; estimates which include transfer payments as economic activity. The 4th is the carrying capacity in 1640, here determined from the data (about 32 million), but a number which, with more study, might represent a measure of a region&apos;s size and resource density and diversity. These 4 numbers (and an absence of disrupting influences such as invasions, epidemics, cometary strikes, etc.) allows us to ignore a range of historical and sociological events which one might think would have influenced us.
+</p>
+
+<p>Events that had no effect include: Colonial immigration, the Revolution, the opening and closing of the frontier, the Civil War, emancipation, a second round of immigration, World War I, the influenza epidemic, the Depression, World War II, 2-income families, and the sexual revolution.  (The effect of the second round of immigration and the Great Depression can be seen in the expanded scale of Fig. 20.6 &mdash; where they are rapidly compensated by unnoticed changes in our reproductive behavior.) If the reproduction of people en masse were not predictable, graphs like Fig. 20.5 could not be drawn, and we could not deduce rational conclusions about observable facts from them. We would be limited to hand-waving demagoguery and wishful thinking. We might throw money and solutions at a problem (say, famine in Africa) for a century, and discover, at the end, that we had twice the problem we <a class="fn">started with,<span>
+	Just for fun, you might look up estimates of the number of underfed, under-employed, unhealthy Africans in 1900 and 2000.
+</span></a> with fewer resources and less money to throw. We might find that the problem now has assault rifles instead of spears, and a view of history which sees our charity as a mask for exploitation.
+</p>
+
+<p>Ever since Genesis 1:28 told us to &lsquo;Be fruitful, and multiply&rsquo; we have assumed that the <b><i>r</i></b>-strategy was for all time. Ever since the first self-catalyzing molecule replicated, there has been nothing to stop the process. We end up with too many people for the Earth to support. Behind the bullying, sex, greed, power-grabbing and thievery of the alpha male/CEO lies the self-replicating molecule, out of which evolved all of these lovely traits to aid self-replication. &lsquo;All things in moderation&rsquo;, said Apollo, as we left the bicameral mind behind. &lsquo;Nothing succeeds like excess&rsquo;, sneered Alpha. And now we are paying.
+</p>
+
+<p>The technological trick that made <b><i>K</i></b> an exponential &mdash; instead of the constant experienced by all other animals &mdash; was that we could convert 10 kilojoules of oil energy into 1 kilojoule of food energy. This trick works really well, especially if <a class="fn">there is oil.<span>
+	In Fig. 20.5, note the intersection of the <b><i>K</i></b> and <b><i>r</i></b> lines in 1905 &mdash; just when we began to exploit oil. Without oil, the <b><i>K</i></b>-line would have been horizontal, freezing the US population at a very unhappy 200 million.
+</span></a>
+</p>
+
+
+
+<h3>
+<a class="tri" href="#07.5">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="08">Malthus was Exactly Right</a>
+<a class="tri" href="#09">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>In a numerate society, Fig. 20.5 would settle 2 centuries of argument in favor of Malthus. Perhaps more convincing (if only to that putative numerate society), is the enlarged view of Fig 20.6, which plots the difference between the Census and technagog theory, so that the &lsquo;0&rsquo; line represents growth from 18 to 271 million. This graph omits the first 200 years because the difference is insignificant at the scale of the graph. Between 1870 and 1920, 17 million immigrants raised the Census count above the <a class="fn">theoretical line,<span>
+	&lsquo;Splined Census&rsquo; means that an algorithm drew a smooth curve through the discrete Census points. The algorithm draws a piecewise cubic; the little bump between 1920 and 1930 is an artefact of this process. A piecewise cubic closely approximates the curve of a real spline &mdash; a piece of springy plastic constrained to go through all the points.
+</span></a> but in 1920 and 1930 the population had adjusted and was back on the technagog curve. After 1930, the Great Depression hit, and people responded as though the carrying capacity of the nation had suddenly decreased, dropping 13 million below expectations by July of 1946. The economic stimulus of WW II then turned the economy around, and the population proceeded to climb back to where it belonged. Prior to the technagog, this growth was not interpreted as a return to the theoretical level, but as an unprecedented &lsquo;baby boom&rsquo;.
+</P>
+
+
+<figure>
+<img class="fl" width="66%"
+src="E-Images/20.6_Depression.jpg"
+alt="Mismatch between data and theory is insignificant from 1640 to 1840. Small oscilations from the Civil war and immigration occur until 1910. The 1920 and 1930 Census conform to theory. Then comes a Gausian dip (red) for the Depression, to nearly 12 million below theory, returning to theory by 1965 (the &lsquo;baby boom&rsquo;). Census 2000 and 2010 essayed to count the homeless, and possibly a flux of Latino immigrants, and rise 9 million above theory.">
+
+<figcaption>
+<a class="tri" href="#F20.5">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.6"> Fig. 20.6 </a>
+<a class="tri" href="#F20.7">&emsp;&emsp;&#9654;</a>
+The US Depression. The graph amplifies the small departure of data from theory in Fig. 20.5. The message of this curve is, &lsquo;Reduce the perceived carrying capacity, and the population follows&rsquo;. All that changed was economics and people&apos;s expectations about the future: progress continued in the research labs so that after the war the population climbed to where it would have been had the Depression never happened. Census 2010 confused the statistical series by attempting to count the homeless for the first time, and may have <a href="http://www.cnsnews.com/blog/terence-p-jeffrey/2010-census-counting-homeless-people-twice">counted some twice.</a> After <a class="fn">MacIntyre (2005).<span>
+	F MacIntyre (2005) &lsquo;The Maltho-Marxian Hypothesis <q>Economics Controls Population</q>: A Test and a Projection&rsquo; <cite>Population Review</cite> <b>44</b>(#2): 24&ndash;49. To the best of my knowledge I am the only person who ever read this paper, which is paywalled.</span></a>
+</figcaption></figure>
+
+
+<p>Of particular interest is the sharp break when the population returns to its theoretical limit in the mid 1960s. There is actually a small oscillation as it settles in to where it belongs. Census 2000 represents a new approach to counting which tried to include the homeless for the first time. It appears that there were 3 million of them previously uncounted. Other data suggest several million uncounted immigrants between 1990 and 2010. (This is still within the estimated 4% error of the Census.
+</p>
+
+<p>No one has yet suggested an explanation for the technagog equation. The US population behaved as though it sensed the approaching collision of population and carrying capacity in 1905, and deliberately slowed its growth, at a time when birth control was &mdash; as in Malthus&apos;s day &mdash; still an illegal vice. The 150 years of the demographic transition passed unnoticed by the people involved in it. The &lsquo;Depression Dip&rsquo; is important to our thesis because it shows how quickly and unconsciously people respond to the perceived carrying capacity.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#08">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="09"> Inhumanism? </a>
+<a class="tri" href="#10">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The minimalist definition of life is &lsquo;anything that reproduces&rsquo;. From molecules catalyzing their own synthesis to missionaries seeking to convert more people to their preferred story, the intent of life is MORE. With 3.8 billion years of this drive behind us, we cannot easily consider it on its merits. Of the billion biological species that have lived on the planet, apparently only 0.1&permil; among the <a class="fn">humans<span>
+	Again, a fraction estimated from membership in pressure groups such as Zero Population Growth.
+</span></a> are sufficiently numerate to question the idea that &lsquo;more is better&rsquo;. Most of us, presented with a valid Malthusian argument, will react with denial or find a biological, colonial, economic, elitist, familial, feminist, historical, humanitarian, imperialist, Marxist, moral, practical, philosophical, political, racist, religious, sociological, theoretical, or other limbic rebuttal demonstrating the absurdity and irredeemable wrongness of questioning the idea of infinite growth. Only numeracy can prevent this <a class="fn">mindless response.<span>
+	My experience teaching biology majors suggests that many of them chose &lsquo;life science&rsquo; as an escape from mathematics. Even if the course I was teaching had Differential Equations as a prerequisite &mdash; required precisely because this is the natural way to describe anything that changes in a regular manner, be it a tree, population, tumor, or fingernails &mdash; the preference was for an emotional rather than analytical approach to biology. If I put the fundamental equation of growth &mdash; the exponential equation <i>p′ = rp</i> &mdash; on the blackboard as a description of what was happening, the response would be, &lsquo;We did that last year&rsquo;, with an implied, &lsquo;and having passed the exam, forgot it over the summer.&rsquo; If I persisted, class numbers dropped sharply. What does one do? Dumb down and hope that some of the consequences of exponential growth will trickle down to many, or try to teach a few an analytical approach to problems?
+</span></a>
+</p>
+
+<p>Awareness of overpopulation is now called &lsquo;Neo-Malthusianism&rsquo;, as though Malthus had been properly buried and some ghouls were trying to resurrect him. An undergraduate thesis by a totally innumerate sweet young thing in the Honors College of Wesleyan University displays the conventional Christian eisegesis that &lsquo;Neo-Malthusianism stem[s from] hostility toward humankind&rsquo;, as though mathematics could be trumped by wishful thinking. This confuses the logical categories of &lt;mathematics&gt; and &lt;emotions&gt;, an error that would not be tolerated by a competent <a class="fn">thesis supervisor.<span>
+	Why would anyone at a sectarian college be expected to have read Malthus before writing a thesis about his hypothesis?
+</span></a> &lsquo;Hostility toward humankind&rsquo; &mdash; which was Nero&apos;s charge against the Christians when he blamed them for the <a class="fn">burning of Rome<span>
+	PC Tacitus (109) <cite>The Annals</cite> Transl. AJ Church, WJ Brodribb (Random House, 1942): XV.44.
+</span></a> &mdash; is specifically, and rather nastily, imputed to the Sierra Club on the basis of its Wilderness Conference of 1969 &mdash; a meeting celebrating 20 years of such conferences, which attract professionals concerned with environmental management: congressmen, senators, representatives of the Forest Service and Bureau of Land Management, government research agencies, the Smithsonian Institution, the Audubon Society, a dozen universities, and in this case, Paul Ehrlich and Buckminster Fuller. Garrett Hardin&apos;s keynote lecture is used as an example.
+</p>
+
+<blockquote>Seeing wilderness as a place that must be safeguarded from the intrusion of too many people, Hardin proposes that a system must be put in place to determine which people would be permitted to visit. Dismissing purchase, lines, and lotteries, Hardin advocated for [sic] a merit system, that &lsquo;the criterion for admission to the wilderness [be] great physical vigor.&rsquo; &mdash; <a class="fn">
+	S. O. Reed, (2008)<span><cite>The Publication of Paul Ehrlich&apos;s The Population Bomb by the Sierra Club, 1968: Wilderness-Thinking, Neo-Malthusianism, and Anti-Humanism</cite> (Bachelor&apos;s Thesis, History Dept, Wesleyan University, Middleton CT).
+</span></a>
+</blockquote>
+
+<p>Clearly no backpacker, the author missed the significance of Hardin&apos;s title &mdash; Goethe&apos;s &lsquo;We must earn again for ourselves what we have inherited&rsquo; &mdash; and his motivation, which was choosing among 3 possibilities:
+</p>
+
+<blockquote>1. The wilderness can be opened to everyone. The end result of this is complete disaster.<br>
+2. Close wilderness areas to everyone.<br>
+3. We can allow only limited access to the wilderness. This is the only course of action that can be rationally defended.
+[&hellip; W]e can (in principle) work out a theory for <b>maximizing enjoyment of wilderness under a system of limited access</b>
+ &mdash; <a class="fn">
+	Garrett Hardin (1971)<span>&lsquo;We must earn again for ourselves what we have inherited&rsquo; In M McCloskey (ed.) <cite>Wilderness, The Edge of Knowledge</cite> (Sierra Club, San Francisco): 261.
+</span></a>.
+</blockquote>
+
+<p>Why is this needed? Because by this time, the <a class="fn">Muir Trail,<span>
+	The 210-mile Sierra Nevada section of the Pacific Crest Trail, running from the summit of Mt Whitney to Yosemite Valley.
+</span></a> when it came to a mountain meadow, took the form of 4 parallel ruts 12" deep, worn in the fragile soil by vibram-soled mountaineering boots &mdash; as clear a sign of &lsquo;too many people&rsquo; (or at least, <a class="fn">too many boots)<span>
+	In those days, as a good Sierra Club member, I backpacked the Sierra barefoot. I got the idea from a poster of a Mt Everest base camp, where 4 Western heroes posed in the snow wearing gaudy down-filled expedition parkas and trousers, calf-length boots, crampons, a coil of kernmantel rope and an ice axe &mdash; while in the background, 35 Sherpas filed past in grey loin cloths, backpacking 50-lb boxes of supplies, <b>barefoot</b>. This suggested (correctly) that there was something about feet that I had not yet learned.
+</span></a> as one could wish. The thesis failed to recognize the problem Hardin was addressing, and it neglected to mention what he said next. The lecture was my introduction to <a class="fn">Garrett Hardin,<span>
+	A few years later I would teach his Human Ecology class on days when he was not on campus.
+</span></a> and the impression he gave was not &lsquo;hostility toward humankind&rsquo;, but intellectual honesty. After proposing &lsquo;great physical vigor&rsquo; as the criterion for wilderness entry and enjoyment, he went on, waving his crutches over his head as he said:
+</p>
+
+<blockquote>I myself cannot pass the test I propose. I had polio at the age of 4, &hellip; and now require crutches. Until today, I have not traded on my infirmity. But today I must, for it is an essential part of my argument. &hellip; I can speak loudly where abler men would have to hesitate. &mdash; Garrett Hardin {263}
+</blockquote>
+
+<p>Hardin suggested putting the parking lot 10 miles from Yosemite Valley (this being somewhat above the distance that beer cans, condoms, general litter &mdash; and remarkably, shopping carts &mdash; penetrate along the trails, and are packed out by Sierra Clubbers).
+</p>
+
+<p>The thesis also neglected to mention that the Park Service, fully cognizant of the problem of overuse, had considered payment, reservations, and first-come-first-serve approaches to rationing wilderness use, and settled on reservations &mdash;  thereby no doubt exhibiting its own &lsquo;hostility toward spontaneity&rsquo;. The thesis then chided environmentalists for not welcoming technological fixes for all problems &mdash; such as <a class="fn">asphalting<span>
+	Hardin described a burocrat who had enthused over exactly this possibility, totally unable to see a contradiction between &lsquo;asphalt&rsquo; and &lsquo;wilderness&rsquo;.
+</span></a> wilderness trails.
+</p>
+
+
+<figure style="clear both;">
+<img class="fl"  width="72%"
+src="E-Images/20.7_Spiral.jpg"
+alt="A spiral on a surface like the interior of a trumpet, facing up, and exponentially narrowing with depth. The spiral passes labels: &lsquo;More people&rsquo; to &lsquo;More environmental pressure&rsquo; to &lsquo;Less functional environment&rsquo; to &lsquo;Less homeostasis&rsquo; to &lsquo;More technological fixes&rsquo; to &lsquo;Fewer reasons to protect environment&rsquo; to &lsquo;Less reason to limit population&rsquo; to &lsquo;More people&rsquo;, this time a step lower on the funnel.">
+
+<figcaption>
+<a class="tri" href="#F20.6">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.7"> Fig. 20.7 </a>
+<a class="tri" href="#F20.8">&emsp;&emsp;&#9654;</a>
+Positive feedback (destabilizing) between quantitative and qualitative aspects of our environmental crisis. Perhaps the single greatest challenge facing life on Earth is how to break this spiral: Evolution has seen to it that most people are blind to the consequences of overpopulation.
+</figcaption></figure>
+
+<p>Figure 20.7 might help explain a more philosophical reason that the technofix is not necessarily a desirable option, and why Hardin&apos;s &lsquo;And then what?&rsquo; is the first question to ask about any suggested &lsquo;fix&rsquo;.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#09">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#07">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="10"> PEOPLE AND OIL </a>
+<a class="tri" href="#13">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#11">&emsp;&emsp;&#9661;</a></h2>
+
+<p class="epi">Energy is the source of all growth and social complexity. &mdash; Chris Martenson.
+</p>
+
+<p><a class="fn">M. King Hubbert<span>
+	MK Hubbert (1956) &lsquo;Nuclear Energy and the Fossil Fuels&rsquo; <cite>Drilling and Production Practice</cite>.
+</span></a>
+predicted in 1956 that US Peak Oil would occur about 1970. This unpleasant idea was met with denial by the oil industry, scientists, economists, and politicians, yet the peak occurred on schedule in October 1970, as shown in Fig. 20.8. The small Hubbert cycles since 1960 represent the Gulf of Mexico and Alaska, and a broad peak in 2002 generated by enhanced recovery techniques.
+
+<figure>
+<img class="fl" width="66%"
+src="E-Images/20.8_USOilProduction.jpg"
+alt="A rough triangle, peaking in 1970. On the right, a small patch added on for Alaskan oil, and another smaller one for Deepwater oil. The downslope curves and trails off after 2030.">
+<figcaption>
+<a class="tri" href="#F20.7">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.8"> Fig. 20.8 </a>
+<a class="tri" href="#F20.9">&emsp;&emsp;&#9654;</a>
+US Oil Production. The large Hubbert cycle was the 1956 prediction. The filled Hubbert cycle peaking near 2012 is <a class="fn">Tad Patzek&apos;s<span>
+	T Patzek (2012) &lsquo;Peak, What Peak?&rsquo; http://patzek-lifeitself.blogspot.fr/2012/11/peak-what-peak.html
+</span></a> prediction for the much hyped Bakken and Eagle Ford shale plays. (Patzek currently fills Hubbert&apos;s shoes.) The right-most black curve is a hypothetical 7 billion barrels of oil from Alaska&apos;s Arctic Natural Wildlife Refuge.
+</figcaption></figure>
+
+
+<p>The <a class="fn">customary response<span>
+	MC Lynch (2003) &lsquo;The New Pessimism about Petroleum Resources: Debunking the Hubbert Model (and Hubbert Modelers)&rsquo; <cite>Minerals &amp; Energy</cite> <b>18</b>: 21-32.
+</span></a> to analyses of world Peak Oil is, &lsquo;Well, yes, Hubbert got the US right, but that doesn&apos;t mean he&apos;s right about the world&rsquo;. This is either Wall Street propaganda (where real information about energy supplies is apparently thought to be a threat), or a feeling that the multiple curves of Fig. 20.8 somehow negate the decline. The rapid implementation of horizontal drilling and fracking has caused great confusion, leading to diametrically opposite opinions:
+</p>
+
+
+<ul class="u1">
+<li><a href="http://www.meforum.org/3388/israel-energy-reserves">Lawrence Solomon,</a> executive director of the Energy Probe Research Foundation of Toronto, optimistically hopes that 38 countries, including the US, having &lsquo;plentiful global resources of shale oil and shale gas reserves, &hellip; could achieve energy self-sufficiency&rsquo;, thereby destroying the Moslem &lsquo;oil weapon&rsquo; that turned Europe against Israel.
+
+<li>On the other hand, the Bakken oil &lsquo;play&rsquo; (the one that is supposed to make us energy self-sufficient, appears as a minor bump in Tad Patzek&apos;s estimate (Fig. 20.8). He sees the Bakken as more of an <a class="fn">investment bubble<span>
+	Patzek was lured away from 18 years at Berkeley (Clearly, here is someone willing to make personal sacrifices in the hope of reaching more people with his message.) by the University of Texas at Austin with the offer of Chairmanship of the Petroleum and Geosystems Engineering Department, indicating that he has serious standing in the petroleum world.
+</span></a> than a panacea.
+</ul>
+
+
+<p>This is denial once again, because Figure 20.9 appears to have captured the essentials.
+</p>
+
+
+<figure>
+<img class="fl"   width="66%"
+src="E-Images/20.9_WorldOilProduction.jpg"
+alt="World oil suppply and demand, 1992-2011. Both rise together, reaching 85 Mbl/day in 2007. Production remains constant from 2006, demand keeps rising at the same slope.">
+
+<figcaption>
+<a class="tri" href="#F20.8">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.9"> Fig. 20.9 </a>
+<a class="tri" href="#F20.10">&emsp;&emsp;&#9654;</a>
+World Oil Production. 2006 was not &lsquo;Peak Oil&apos;, but apparently &lsquo;Plateau Oil&apos;. As of 2015, the slope is slightly negative. See <a href="#F20.12">Fig. 20.12</a>. After <a href="http://www.theoildrum.com/node/9622">Tverberg (2012) Fig. 4</a>.
+</figcaption></figure>
+
+
+<p>An indication of the US disconnection from petroleum reality is Dick Cheney&apos;s speech to the London Institute of Petroleum in Nov 1999, when he was chairman of Haliburton: &lsquo;[B]y 2010 we will need on the order of an additional 50 million barrels a day&rsquo;. This is the thinking that got us into the MIC-wars in Iran and Afghanistan. Do you begin to see why we lag so far behind, say, Germany, which was getting nearly 75% of its energy from sustainable sources by mid 2014?
+</p>
+
+<p>The oil industry continues to call biofuels &lsquo;green&rsquo;, but they are not. They replace cropland or rainforest, and they are inefficient: &lsquo;a mediocre photovoltaic cell is about <a class="fn">100 times<span>
+	T Patzek (2005) &lsquo;The United States of America Meets the Planet Earth&rsquo; (Presented on 23Aug 2005, at the National Press Club Conference, Washington DC).
+</span></a> more efficient in delivering work than&rsquo; <a class="fn">corn ethanol.<span>
+	Raw photovoltaic sunshine-to-electricity efficiency is approaching 45% for expensive 3-layer silicon devices in the lab, and 24% for commercial silicon; major operational inefficiencies come from night, clouds, dust, reflection, shadows, and non-tracking of the sun. Raw photosynthetic sunshine-to-sugar efficiency is 8%; overall efficiency to harvestable biomass is maximally 0.6%. Bioethanol from corn &mdash; needing  transport, starch depolymerization, sugar fermentation to ethanol, and distillation &mdash; uses more energy than it generates. Lignocellulose from tree plantations is (intentionally on the part of trees) resistant to chemical conversion, so that overall efficiency of sunshine to shaft work is also negative.
+<br>-------------<br>
+	T Patzek (2005) &lsquo;Thermodynamics of Energy Production from Biomass&rsquo; <cite>Critical Reviews in Plant Sciences</cite> <b>24</b>(#5&ndash;6), 327&ndash;364.
+</span></a> The popularity of biofuels is that they can convert electrical energy into liquid fuel for internal-combustion engines. We are so dependent upon automotive transport that almost any inefficiency in the generation of liquid fuels is acceptable in the short term.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#10">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="11"> Oil is not Alone </a>
+<a class="tri" href="#11.5">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">The sea in them days swarmed with every description of fish that ever put a fin in wather, and the fishermen never used hook or net, but just bailed the fishes into their boats with an ould bucket. &mdash; <a class="fn">
+	Seumas MacManus (1899)<span> &lsquo;The Apprentice Thief&rsquo;, from <cite>In Chimney Corners</cite> (Doubleday and McClure, NYC): 208.</span></a>
+While this is Irish folk lore, it is an accurate recollection of the Grand Banks before commercial fishing (&lsquo;I heerd me gran&apos;father say that he heered his gran&apos;father say that he heerd his great gran&apos;father tellin&rsquo; him &hellip;&rsquo; describing the situation around 1700). Folk memories are long. Early travellers to the US reported schools of fish that were dense enough to stop a sailing vessel, with exactly this method of reprovisioning. Hence the Irish song, &lsquo;Shoals of Herring&rsquo;.
+</p>
+
+<p class="epi">The global picture of ongoing depletions of fish stocks, the degradation of food webs, threats to seafood security and poor quality of most fishing management is alarming and demonstrates that recent more optimistic outlooks are misplaced. &mdash; <a class="fn">
+	IPSO (2013)<span><cite>The State of the Ocean 2013: Perils, Prognoses</cite> (International Programme on the State of the Ocean, 2013-10-03).
+</span></a>
+</p>
+
+<p>Oil is not the only commodity in decline. Table 20.2 lists other peaks which should have alerted us to impending problems.
+</p>
+
+
+
+<hr>
+<table class="tcen">
+<caption>
+<a class="tri" href="#T20.1">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T20.2"> Table 20.2 </a>
+<a class="tri" href="#T20.3">&emsp;&emsp;&#9654;</a>
+Peaking of Essential Commodities. Various sources.
+</caption>
+
+<thead>
+<tr><th>Commodity</th><th>Year</th></tr>
+</thead>
+
+<tfoot>
+<tr><td colspan="2">* US average stocks: 358 Mbu in the &apos;80s, 133 Mbu in the &apos;90s, 0 by mid-2008.</td></tr>
+</tfoot>
+
+<tbody>
+<tr><td>Arable land per capita</td><td>1948</td></tr>
+<tr><td>Irrigation per capita</td><td>1978</td></tr>
+<tr><td>Oil per capita</td><td>1979</td></tr>
+<tr><td>Fish production per capita</td><td>1980</td></tr>
+<tr><td>Grain production per capita</td><td>1984</td></tr>
+<tr><td>Fertilizer production</td><td>1989</td></tr>
+<tr><td>Reserve grain stocks*</td><td>1998</td></tr>
+</tbody>
+</table>
+
+
+<p>The Tigris and Euphrates rivers are drying up. Ethiopia&apos;s dam on the Blue Nile has the potential to cut Egypt&apos;s water supply by half. Unlike biological resources (which sometimes regenerate if given a chance) drought will only increase with climate change. Thirsty people support the politics of desperation, which is never peaceful.
+</p>
+
+<p>While a half-pound of grain a day suffices for bread, breakfast cereals, and other direct use as flour, the US consumes nearly 10 times as much <a class="fn">indirectly,<span>
+	This is the classical inefficiency along the food chain, as each level consumes 90% of its intake in maintenance rather than growth. If people could eat grass, we could support 10 times as many vegetarians as carnivores on the same solar input.
+</span></a> as meat, milk, eggs, and alcohol. This at least allows some elasticity in the demand for grain as bread replaces meat up the social scale. Elasticity is not a feature of the demand for oil.
+</p>
+
+<p>Figure 20.10 shows an estimate of the time history, and future, of one of these problems. There was no hard data, so this was reconstructed from anecdotal evidence (including conversations with Jacques Cousteau, Basque whalers&apos; extermination of the Atlantic Grey Whale, and Farley Mowat&apos;s <cite>Sea of Slaughter</cite>). Government fishery agencies concentrated on increasing the catch, not recording the depletion of the stock.
+
+<figure>
+<img class="fl"  width="66%"
+src="E-Images/20.10_Cousteau.jpg"
+alt="">
+<figcaption>
+<a class="tri" href="#F20.9">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.10"> Fig. 20.10</a>
+<a class="tri" href="#F20.11">&emsp;&emsp;&#9654;</a>
+Commercial Marine Biomass. Using various estimates from anecdotal data (for lack of any real numbers), this was a best guess about the removal of commercial biomass from the sea. It is is consistent with the British realization 15 years later that &lsquo;19th-century fishermen were landing 4 times as much as today&rsquo; {<cite>GW</cite> 2010-05-14 p16} with primitive equipment and much less effort. See <a class="fn">Myers &amp; Worm (2003).<span>
+	RA Myers, B Worm (2003) &lsquo;Rapid worldwide depletion of predatory fish communities&rsquo; <cite>Nature</cite> <b>423</b>: 280&ndash;283; doi:10.1038/nature01610.
+</span></a>
+</figcaption></figure>
+
+
+<p>Responses to the problem displayed in Fig. 20.10 are 3-fold. <a class="fn">Approximately 1/3<span>
+	United Nations Food and Agriculture Organization (2007) <cite>The State of World Fisheries and Aquaculture 2006</cite> Rome: FAO Fisheries and Aquaculture Department.</span></a>
+of marketed fish now come from commercial aquaculture, much of it in Asia. This works for species that are sessile or can be confined. <a class="fn">Stavins<span>
+	RN Stavins (2011) &lsquo;The Problem of the Commons: Still Unsettled after 100 Years&rsquo; <cite>American Economic Review</cite> <b>101</b> (February 2011): 81&ndash;108 http://www.aeaweb.org/articles.php?doi= 10.1257/aer.101.1.81.</span></a>
+points out that since 1986, regulation by <i>individual transferable quotas</i> of &lsquo;some 150 major fisheries of 170 species in seventeen countries has been effective, largely eliminating overfishing, restoring stocks to sustainable levels, and increasing fishermen&apos;s profits&rsquo;. This works within the 200-mile exclusive economic zone. In international waters (as for whaling), &lsquo;the challenges become much greater&rsquo;, and environmental vigilantes like Sea Shepherd play an essential role.
+</p>
+
+<p>All of the above is public knowledge. It would be both irresponsible and naïve of our politicians if they were not aware of these considerations. One might expect the developed nations to encourage population limitation at home and abroad after, say, 20 years of failure to increase any of the items in <a href="#T20.2">Table 20.2.</a> There seems to have been no response whatsoever to 6 of the entries. Peak Oil hit economic nerves, resulting in the whole-hog Instinct-1 response crafted by Vice President Cheney&apos;s secret National Energy Policy <a href="http://www.halliburtonwatch.org/about_hal/energytf.html" class="fn">Development Group.<span>
+	NEPDG was &lsquo;assisted&rsquo; by: American Coal Company, Barbour, Griffith &amp; Rogers (energy lobbyists), Bechtel, Chevron, the Coal Council, CSX, Enron, General Motors, possibly Halliburton (Cheney&apos;s old compaNYC), Kerr-McGee, the National Mining Association, the National Petroleum Council, Nuclear Energy Institute, Small Refiners Association, with nary an environmental consultant in sight.
+</span></a> The response (which was vehemently shielded from prior public inspection, in defiance of a GAO suit), ultimately addressed &lsquo;the problem of Peak Oil in the most<a class="fn"> brutal, venal, and shortsighted<span>
+	M Ruppert (2004) <cite>Crossing the Rubicon</cite> (New Society Publishers, Gabriola Island BC Canada): 47.
+</span></a> way available: by using military force to commandeer what remains of the world&apos;s rapidly vanishing petroleum&rsquo;, triggering apparently permanent warfare in the Middle East.
+</p>
+
+<p>Despite a half-century advance notice of the oil crisis, the US government failed to encourage public transport, wind-driven freight ships, population management, county-sized wind farms, combination solar photovoltaic+hot-water rooftop panels, or other logical measures. This is the price we pay for electing mediocre and innumerate politicians. Another fact which has received no attention is the <a href="http://jutiagroup.com/2010/05/14/peak-oil-the-end/" class="fn">age structure<span>
+	M Simmons (2010) &lsquo;Peak Oil: The End&rsquo; [Click to read.] </span></a>
+of the energy workforce, 2/3 of whom will retire in the next few years. The financial collapse of 2008 resulted in young replacements being fired, so technical experience will be in short supply as we move from sweet light crude to heavy, sour, feedstocks requiring new refinery processes.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#11">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="11.5">Cassandra All Over Again</a>
+<a class="tri" href="#12">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">Prediction is very difficult, especially if it&apos;s about the future. &mdash; Danish physicist Niels Bohr, or perhaps Yogi Berra.
+</p>
+
+<p>Even economists are noticing that there is a relation between the availability of energy and economic growth. 40 years ago, <a class="fn">
+	The Club of Rome,<span>D Meadows &amp;3a (1972) <cite>The Limits to Growth: a Report for the Club of Rome's Project on the Predicament of Mankind</cite> (Universe Books, NYC).
+</span></a> self-described as &lsquo;a group of world citizens, sharing a common concern for the future of humanity&rsquo; published the results of the first world-systems model created by MIT&apos;s mathematical modellers in <cite>The Limits of Growth</cite>. This book was the first popularized result of MIT&apos;s systems dynamics, the 5 systems being:
+</p>
+
+
+<ul>
+<li>Population,</li>
+<li>Food production,</li>
+<li>Industrial production,</li>
+<li>Pollution, and</li>
+<li>Consumption of non-renewable natural resources.</li>
+</ul>
+
+
+<figure>
+<img class="fl" width="50%"
+src="E-Images/20.11_ClubOfRome.jpg" alt="E-Images/20.11_ClubOfRome.jpg">
+<figcaption class="fc">
+<a class="tri" href="#F20.10">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.11"> Fig. 20.11 </a>
+<a class="tri" href="#F20.12">&emsp;&emsp;&#9654;</a>
+The Club of Rome&apos;s so-far accurate prediction of
+the future, using what was known about the world, and the interactions of its component systems, in the 1970s.
+</figcaption></figure>
+
+
+<p class="flu">The authors were roundly castigated for blaspheming the governing myth of the century, and business continued as usual. A review 36 years later by Australia&apos;s CSIRO found good agreement between 3 decades of historical data and the Club&apos;s &lsquo;standard run&rsquo; scenario, and concluded that &mdash; surprise! &mdash; &lsquo;the global system remains on an <a class="fn">unsustainable trajectory&rsquo;,<span>
+	G Turner (2008) &lsquo;A Comparison of The Limits To Growth with Thirty Years of Reality&rsquo; (CSIRO, Canberra NSW).
+</span></a> and has not profited from the suggested &lsquo;stabilizing behaviour and policies&rsquo;. <a class="fn">Academics<span>
+	JH Brown &amp;10a (2011) &lsquo;Energetic Limits to Economic Growth&rsquo; <cite>BioScience</cite> <b>61</b>: 19–26.
+</span></a> still write papers describing the &lsquo;Energetic Limits to Economic Growth&rsquo;, but alpha males do not notice. The reality of the limits will become increasingly noticeable in the guise of inflation, unemployment, industrial stagnation, fiscal desperation, climate change, civil wars, migrations, and calls for the replacement of economics founded on the myth of eternal growth. We <i>do</i> know what lies ahead!
+</p>
+
+<p>Think about that for a moment. Politicians, business leaders,  and bishops tend to think of themselves as elites, smarter than <i>hoi polloi</i>, and among the elect of some god. Everything that they are currently doing wrong was known, publicized, and discussed 40 years ago, explained in detail by dedicated and disinterested professionals with years of training and experience.
+</p>
+
+
+<h3>
+<a class="tri" href="#11">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="12"> Alternatives </a>
+<a class="tri" href="#13">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">[O]il was the nearest thing to &lsquo;free energy&rsquo; the human race ever found, and there is no real way to replace it. &mdash; <a class="fn">
+	P Eytchison (2005).<span> &lsquo;Oil Depletion, Greens, the Left (and the Left Behind)&rsquo; <cite>Synthesis/Regeneration</cite> <b>37</b>
+</span></a>
+</p>
+
+<p class="epi">Well, they dug for their coal till the land was forsaken<br>
+Then they wrote it all down as the progress of man. &mdash; John Fogarty, <cite>Paradise</cite>, better known as a John Denver song (&lsquo;Mr Peabody&apos;s coal train has hauled it away&rsquo;).
+</p>
+
+<p>While the range of alternatives energy sources is large &mdash; hydropower, geothermal power, methane hydrates, microbial biodiesel, nuclear fission, photovoltaics, poplar plantations, solar-thermal electricity, sugar-cane, thermal depolymerization, tidal power, wave power, wind turbines, nuclear fusion, orbiting mirrors, and <a class="fn">involuntary liposuction,<span>
+	There is enough excess body fat in the US to power the country for a decade. The problem is efficient harvesting.
+</span></a> many of these face serious problems. Among much discussed possibilities of unconventional oil, Central Asian, and corn ethanol have already proven disappointing, and the profitability of fracking depends upon tax breaks and exemption from environmental regulations.
+</p>
+
+<p>&lsquo;Zero-point energy&rsquo; &mdash; although it inspires glossy investment prospectuses targeting the thermodynamically naïve &mdash; is not included here because it is exactly equivalent to describing the ocean as a source of hydropower. To be sure, if we could pull a plug and drain the ocean, we could extract power as it flowed down a gravitational potential. But there is no plug: the ocean is at the zero point of gravitational potential for water. Zero-point energy is in the same situation: there is no lower level. This is how it got its name.
+</p>
+
+<p>The most <a class="fn">reliable estimate<span>
+	A Makhijani (2007) (IEER Press, Tacoma Park MD).</span></a>
+of what is technically &mdash; if not politically &mdash; possible is probably <cite>Carbon-Free and Nuclear-Free: A Roadmap for U.S. Energy Policy</cite>, whose dozen recommendations (in 2007) would have led to the title conditions, 30 to 50 years down the road &mdash; had they not been anathema to vested interests.
+</p>
+
+<p>Table 20.3 indicates an often overlooked problem with alternative energy sources: all of them use more energy to obtain energy than the 20th-century petroleum that shaped our expectations.
+</p>
+
+
+<hr />
+<table class="tcen">
+<caption>
+<a class="tri" href="#T20.2">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T20.3"> Table 20.3 </a>
+<a class="tri" href="#T20.1">&emsp;&emsp;&#9654;</a>
+Energy Profit Ratio (EPR, [energy produced]/[energy consumed]) for various sources. All cases except coal-scrubbing exclude the energy costs of clean up, restoration, public health, and any other considerations which would make energy extraction unfeasible. Cost data from <a class="fn">
+	<cite>Annual Energy Outlook 2014</cite>.<span> (Energy Information Administration, Washington, DC).
+</span></a>
+</caption>
+
+<thead>
+<tr><th>Energy Source
+	<th>EPR
+	<th>$/MW-hr</th>
+	<th>Comment
+</thead>
+
+<tfoot>
+<tr><td colspan="4">* The fear that clouds and calm days doomed sun and wind as power sources appear to be addressable by improved batteries, smart electrical grids, and a broader geographic base for the power-collection net.</td>
+</tfoot>
+
+<tbody>
+<tr><td>Initial &lsquo;gusher&rsquo; oil</td>
+	<td>100</td>
+	<td>?</td>
+	<td>Long gone</td></tr>
+
+<tr><td>Initial coal</td>
+	<td>50</td>
+	<td>?</td>
+	<td>"</td></tr>
+
+<tr><td>Wind*</td>
+	<td>50</td>
+	<td>$80<br>$204 (offshore)</td>
+	<td>Best bet</td></tr>
+
+<tr><td>Orbital solar collection</td>
+	<td>?</td>
+	<td>?</td>
+	<td>No estimate available</td></tr>
+
+<tr><td>Solar photovoltaic*</td>
+	<td>5</td>
+	<td>$200 (utility-scale)</td>
+	<td>Best DIY</td></tr>
+
+<tr><td>Hydroelectricity</td>
+	<td>1</td>
+	<td>$138</td>
+	<td>Very limited potential remains</td></tr>
+
+<tr><td>Oil Today</td>
+	<td>3-10</td>
+	<td>$96</td>
+	<td>EPR steadily decreasing</td></tr>
+
+<tr><td>Natural gas</td>
+	<td>10</td>
+	<td>$75&ndash;150</td>
+	<td>Finite supply</td></tr>
+
+<tr><td>Coal Today</td>
+	<td>8</td>
+	<td>$96</td>
+	<td>See below</td></tr>
+
+<tr><td>Thermal depolymerization</td>
+	<td>6.7</td>
+	<td>?</td>
+	<td>Optimal for organic waste disposal</td></tr>
+
+<tr><td>Ground-source heat pump</td>
+	<td>3</td>
+	<td>$50</td>
+	<td>Suitable for space heating</td></tr>
+
+<tr><td>Coal + sequestration</td>
+	<td>2.5</td>
+	<td>$147</td>
+	<td>Realistic for coal today</td></tr>
+
+<tr><td>Fracked Natural gas</td>
+	<td>2</td>
+	<td></td>
+	<td>Short well lifetime; aquifer contamination</td></tr>
+
+<tr><td>Liquified Natural Gas</td>
+	<td>2</td>
+	<td></td>
+	<td>Finite supply</td></tr>
+
+<tr><td>Tar sand</td>
+	<td>1.5</td>
+	<td></td>
+	<td>Not including pollution costs</td></tr>
+
+<tr><td>Nuclear</td>
+	<td>1&ndash;1.5</td>
+	<td>$96</td>
+	<td>"</td></tr>
+
+<tr><td>Corn-ethanol</td>
+	<td>&lt;1</td>
+	<td>$103 (biomass)</td>
+	<td>"</td></tr>
+
+<tr><td>&lsquo;Hydrogen economy&rsquo;</td>
+	<td>&lt;1</td>
+	<td> &mdash; </td>
+	<td>An energy store, not a source</td></tr>
+
+</tbody></table>
+
+
+<p>Interestingly, an <a class="fn">analysis in 2010,<span>
+	N Malyshkina, D Niemeier (2010) &lsquo;Future Sustainability Forecasting by Exchange Markets&rsquo; <cite>Environmental Science &amp; Technology</cite> <b>44</b>(#23): 9134&ndash;9142;doi: 10.1021/es100730q.
+</span></a>
+paying no attention to resources or techniques, and based solely on historical investment behavior, suggests that oil will run out 90 years before replacements are available, because savvy investors have found nothing among the possibilities that looks profitable to them.
+</p>
+
+<p>Electricité de France (with the cheapest energy in Europe) make a big point of their relative independence of fossil fuels, since 90% of their energy comes from nuclear power. They neglect to mention that France passed the peak of uranium mining in the late 1980s, but they are quietly moving toward wind power.
+</p>
+
+<p>The generally low EPR of Table 20.3 means that the estimates behind Fig. 20.10 are optimistic. The much touted &lsquo;hydrogen economy&rsquo; uses hydrogen as a portable substitute for petrol, but &mdash; like corn ethanol &mdash; producing the hydrogen takes more energy than it yields. Nuclear fusion has yet to produce as much energy as is needed to initiate fusion. (Not included in Table 20.3 are long shots like muon-catalyzed deuterium-tritium fusion, which remains a tantalizing approach to controllable nuclear fusion that <a class="fn">almost works.<span>
+	If the muon catalyzed 400 fusions before sticking to a helium nucleus, it would work {Jack57}. Unfortunately, muons last only about 150 fusions {Jone86}, and this seems to be a fact of nature outside of our control, like other radioactive half-lives.
+<br>----------------<br>
+	&bull; JD Jackson (1957) &lsquo;Catalysis of Nuclear Reactions between Hydrogen Isotopes by μ−Mesons&rsquo; <cite>Physical Review</cite> <b>106</b>: 330.<br>
+	&bull;SE Jones &amp;9a (1983) &lsquo;Muon-Catalysed Fusion Revisited&rsquo; <cite>Nature</cite> <b>321</b>: 1127&ndash;133; doi:10.1038/321127a0.
+</span></a>
+</p>
+
+
+<p>The Intergovernment Panel on Climate Change 5th Assessment based its future CO₂ estimates on a set of 40 coal-mining scenarios, some of them showing production in 2100 that was 5 times today&apos;s and rising. Only slightly less sanguine, the industry-funded World Coal Institute maintained that coal production would increase by 60% and last for 120 years. This is wholly unrealistic, and a data-constrained analysis shows that peak coal came and went rather sharply in 2011, as shown in Fig. 20.11, presaging a &lsquo;major restructuring and shrinking of the global economy&rsquo;. The sharpness of the peak apparently represents the current coal-mining activity of China, but just such precipitous declines in resource use &mdash; in contrast to the symmetrical bell-curves of Hubbert &mdash; were predicted by Garrett Hardin (and others: &lsquo;Hurry up and paint the fence before the paint runs out!&rsquo;).
+</p>
+
+
+<figure>
+<img class="fl" width="66%"
+src="E-Images/20.12_Coal.jpg"
+alt="20.12_Coal.jpg">
+<figcaption>
+<a class="tri" href="#F20.11">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.12"> Fig. 20.12 </a>
+<a class="tri" href="#F20.13">&emsp;&emsp;&#9654;</a>
+
+Peak Coal. EJ/y is exajoules/year, &lsquo;exa-&rsquo; being 10<sup>18</sup>, with the US using just under 100 exajoules a year. After <a class="fn">Patzek &amp; Croft 2010.<span>
+    TW Patzek, GD Croft (2010) &lsquo;A global coal production forecast with multi-Hubbert cycle analysis&rsquo; <cite>Energy</cite> <b>35</b>: 3109&ndash;3122.
+</span></a> By  early
+2016, 3 of the largest coal companies (Alpha, Arch, and Peabody) were bankrupt, with expectations that they will not pay legally required cleanup costs. In typical corporate manner, the bankrupt companies also <a href="http://www.commondreams.org/views/2016/04/13/4-things-know-about-peabody-energy-bankruptcy">&lsquo;requested</a> multi-million dollar bonus packages to retain the talented executives who drove them into bankruptcy, while petitioning to jettison all pension obligations to miners&rsquo;.
+</figcaption></figure>
+
+
+<p>A new oil field (such as Iran&apos;s 8.8 Gbl field {<cite>GW</cite> 2009-09-11 p28} &mdash; &lsquo;larger than any found in the North Sea&rsquo; &mdash; is a 15-week supply for the world. Brazil&apos;s &lsquo;supergiant&rsquo; find (2 Gbl) will fuel the world for 24 days {<cite>GW</cite> 2009-09-18 p17}. The point to remember is that Hubbert&apos;s calculations anticipated these small finds, so they change nothing in the long view.
+</p>
+
+<p>US imports from Venezuela peaked in 2003; from Mexico in 2006; Saudi Arabia produced 10 Mbl/d at its peak, promised 50 and then 12, and is struggling to reach 8. Alaska&apos;s &lsquo;giant&rsquo; Prudhoe Bay field is down to 0.5 Mb/d. Canada remains our principal supplier. Between 2002 and 2008, global oil demand increased about 9%, while the price of oil <a class="fn">went up 600%.<span>
+	Recall the 1980 wager between environmentalist Paul Ehrlich and libertarian Julian Simon? Ehrlich bet that the price of 5 strategic metals (chromium, copper, nickel, tin, and tungsten) would increase by 1990 &mdash; and he lost the bet. Therefore, concluded the &lsquo;cornucopians&rsquo;, we will always find substitutes for scarce materials, or better ways to extract them.<br>
+	This has happened once again with petroleum: as liquid fossil carbon runs down, ways have been found to extract previously unreachable gaseous carbon. The catch is that we cannot burn all of the available fossil carbon without raising atmospheric CO₂, shortening the IR absorption length in the atmosphere, and raising the surface temperature of the planet more than we can cope with.
+<br>--------------------<br>
+	P Sabin (2013) <cite>The Bet</cite> (Yale University Press, New Haven CT).
+</span></a>
+</p>
+
+<p>Sugar, wheat, and corn are now listed as fuel feedstocks in IEA (International Energy Agency) tables. By the end of 2009 it had become clear that the US has pressured the IEA into issuing unduly optimistic reports. Initial predictions of reaching 120 Mb/d have been scaled down to 105, with full realization that 90 is impossible &mdash; but admitting this would upset financial markets {<cite>GW</cite> 2009-11-13 p1}. Even though IEA figures are used to &lsquo;formulate [government] policy and design business plans&rsquo;, erroneous policy and disastrous plans somehow seemed preferable to upsetting the market. Let the next Administration deal with it.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#12">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#10">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="13">SIMPLIFYING THE PROBLEM</a>
+<a class="tri" href="#18">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#13.5">&emsp;&emsp;&#9661;</a></h2>
+
+<p class="epi">Beginning with Malthus (1798), both ecologists and economists have called attention to the essential dependence of economies on natural resources and have pointed out that near-exponential growth of the human population and economy cannot be sustained indefinitely in a world of finite resources&hellip;. However, these perspectives have not been incorporated into mainstream economic theory, practice, or pedagogy. &mdash; <a class="fn">JH Brown &amp;10a (2011).<span>
+	&lsquo;Energetic Limits to Economic Growth&rsquo; <cite>BioScience</cite> <b>61</b>: 19–26.
+</span></a>
+
+<p class="epi"> It is like we are sleepwalking into some horrible trap. &mdash; Barbara Stocking, outgoing head of Oxfam.
+</p>
+
+<p>As an example of the failure mentioned by Brown&apos;s epigraph, in 2014 the UN&apos;s Population Division, a candidate for the current world authority, <a class="fn">suggest<span>
+	P Gerland &amp;13a (2014) &lsquo;World population stabilization unlikely this century&rsquo; <cite>Science</cite> / prepubliction doi: 10.1126/science.1257469.</span></a>
+that extrapolating current fertility trends leads to a possible <a class="fn">12 billion people<span>
+	The majority of the UN delegates come from 3rd-world countries where numerous children have been seen as desireable &mdash; indeed, indispensable &mdash; since time immemorial. They were needed both for agricultural labor and to support the parental generation in old age. These attitudes die slowly, and only <i>after</i> social change makes them unnecessary. China&apos;s one-child limit resulted in a 1.5-child average where it was most rigidly enforced. It was abandoned in 2016 in favor of a 2-child limit. Minority populations tend to regard such limits as genocidal. The UN is emotionally convinced that they will all be able to enjoy the consumptive life-style popularized by US TV shows.
+</span></a> by 2300.
+</p>
+
+<p>Most people do not like graphs. This is probably because we prefer to think about one thing at a time, and we resent the graph for forcing a second parameter upon us. The &lsquo;one thing&rsquo; that I want us to think about is <i>the future</i>. Unfortunately, the future is a many-splendored thing, with literally hundreds of aspects to be considered, and no one can consider them all, let alone the more numerous pairwise interactions between them. The 5 things thought about by the Club of Rome&apos;s computers were evidently too many for decision makers, because no action followed. I am going to try a simpler approach, 3 things, and those only changing linearly.
+</p>
+
+<p>The 3 inter-related things are <b>time, population, and energy &mdash; the latter a proxy for the standard of living</b>. We take the beginning of 20th century as our basis. The population in 1900 was 2 billion; the energy source was solar in its <a class="fn">many forms<span>
+	 Water, wind, and wood, plus whale oil, and (cheating) some use of coal.
+</span></a> (some no longer available); and the mean world standard of living of 1900 becomes the floor of our graph: horse-powered transport, blacksmiths, candles, long-johns, and turnips. We linearize the relationships so that no computers are required and any 8th-grader can do the sums. It is not the math that causes difficulties, but the inconvenient facts that emerge from the arithmetic.
+</p>
+
+<p>Figure 20.13 is a 3-axis graph (with the important data approximated by the horizontal red line). The graph can also be seen as a big tank partitioned internally. (The vertical dimension is foreshortened by the point of view, chosen to make the cube diagonal <a class="fn">horizontal.)<span>
+	The original scaling of the drawing had the cube edges 10/(3<sup>1/2</sup>)=5.774 units so the cube diagonal was 10 units, to simplify placing the non-linear temperature ticks.
+</span></a> The green partition represents the 1 Terabarrel (10<sup>12</sup> barrels) of oil consumed during the 20th century &mdash; which was the easily extracted half of the world’s petroleum.
+
+<p>The changes during the century are that the population grew from 2 to 6 billion, and the standard of living (represented by the mean per-capita annual oil consumption) rose from 0 to 7.5 bbl/py (barrels/person-year). These changes are represented in Fig. 20.13 by the green area, with our location on the data line at that time indicated by the white circle. The red numbers are the resulting increase in global mean temperature since 1900.
+</p>
+
+
+<figure>
+<img class="fl" width="98%"
+src="E-Images/20.13_ComponentsOfClimateChange.png"
+alt="E-Images/20.13_ComponentsOfClimateChange.png">
+
+<figcaption>
+<a class="tri" href="#F20.12">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.13"> Fig. 20.13 </a>
+<a class="tri" href="#F20.14">&emsp;&emsp;&#9654;</a>
+The 3 Components of Climate Change. This graph shows the temperature (at the top) as the result of linear extrapolation of the 20th century&apos;s population growth and carbon burning (as oil equivalent). The 21st century is arrived at with arithmetic an 8-year-old can understand (no supercomputers needed), and a business plan known to every corporation. It is the &lsquo;Business-as-usual&rsquo; scenario. No thinking required, and an extinction-level event in the making. In both centuries the population rises by 4 billion, and per-capita fossil-carbon use rises by 7.5 bbl/py (barrels of oil per person-year). The 2-billion base population continues to be supported by the many forms of solar energy, as it was in 1900. This simple approach is in fact the worst possible scenario (excluding events that didn’t happen in the 20th century, such as melting of methane clathrates and social responses like nuclear war).<br>
+
+The image can be seen as either a 3-axis graph (Time <i>t</i>, Population <i>p</i>, Energy use <i>e</i>), or a 3-dimensional oil tank with a sloping bottom (think &lsquo;triangular swimming pool&rsquo;), consisting of a diagonal half-cube sliced open by a cut from top edge to opposite bottom corner. The height of the front surface &mdash; which appears in Fig. 20.14 in true scale &mdash; is foreshortened by the <a class="fn">downward view.<span>
+	SketchUp, the graphics program used to create this image, has camera views which &mdash; like the ordinary isometric projection &mdash; are not identical to what we see, but like architectural cameras with tilting lenses and film backs, produce right angles where our eyes see tilts and tapers but our brains, knowing that buildings are right angled and straight, <i>interprets</i> what the retina sees as right angles and straight buildings. The &lsquo;tank&rsquo;, if real, would not look as it does here &mdash; nor would most photographs of buildings look &lsquo;right&rsquo; if they were not adjusted by cameras or an image-manipulation program like Photoshop or free alternatives like GIMP and Fotoxx.
+</span></a>
+<br>
+The green partition of the tank was once filled by 1 trillion barrels of oil, the easily accessible half of the world&apos;s oil. It is now empty. The brown partition contains the remaining (expensive) trillion barrels of conventional oil, and another 6 trillion equivalent barrels of oil energy in the form of coal, tar sands, oil shale, petroleum gas, etc.<br>
+For the sake of argument, let us pretend that we are still at the white circle: the year is 2000, the world is using 7.5 barrels of oil per person year (the US is using 11.75), atmospheric CO<sub>2</sub> has risen by 150 ppm, and the temperature has risen by 0.8°C. Continuing business-as-usual, we hit 2100 with 10 billion people, a standard of living that consumes 15 barrels of oil per person year, a CO<sub>2</sub> rise of 1,200 ppm, and a temperature increase of 6.4°C.
+</figcaption></figure>
+
+
+<p>One can quibble with Fig. 20.13. There was some CO<sub>2</sub> added to the atmosphere prior to 1900, and some temperature rise. There is probably not enough fossil carbon to reach the end point of the red line in 2100. Population doesn’t grow linearly. Pick your own quibble: none of this matters much because civilization as we know it will not survive a 4&#8451; rise and the resultant disruption of agriculture and flooding of the world&apos;s coastal cities. The point of the graph is to show legislators and CEOs that three safely linear processes can lead to deceptively fast growth of temperature &Delta;T, which is the product of the three linear equations and thus a cubic function:
+</p>
+
+<p class="cen">&Delta;T(<i>t<sup>3</sup></i>) = (A·<i>t</i>)(B·<i>p·t</i>)(C·<i>e·t</i>) = D(<i>p·e</i>)<i>t</i><sup>3</sup> = G<sub>t</sub><i>t</i><sup>3</sup>
+</p>
+
+<p>We cannot currently separate D(<i>p·e</i>) into its <a class="fn">components,<span>
+	<i>A, B</i>, and <i>C</i> are unknown scale factors; <i>D</i> is their product, all of which are subsumed, together with the observed <i>p</i> and <i>e</i>, into <i>G<sub>t</sub></i>, which in this linear approach is taken as a constant. This is not necessarily realistic, but it simple, and certainly leads to more appealing consequences than, say, the exponential (compound-interest-like) extrapolations beloved of Wall Street.
+</span></a> so we accept the function G<sub>t</sub> as &lsquo;growth&rsquo;, the panacea of the 20th century and booby trap of the 21st. Containing both <i>p</i>(<i>t</i>) and <i>e</i>(<i>t</i>), it represents <i>growth for growth&apos;s sake</i> &mdash; which, as often noted, is the philosophy of a cancer cell. Both the Koch brothers, with their capitalist success, and the proud mother of 3 strapping children, are equally responsible for our plight &mdash; yet neither these people, nor the groups they represent, show any sign of responsibility for what they have collectively achieved.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#13">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="13.5">Thinking About 5 Things</a>
+<a class="tri" href="#14">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>A useful feature of Fig. 20.13 is its &lsquo;Population&rsquo; face, which allows the detailed 2-dimensional plot of possible futures shown in Fig. 20.14. Recall that in the heady days of Rio we thought that we could simultaneously limit temperature rise to 2&#8451;, increase the population above 6 billion, and continue economic growth above the world mean of 7.5 bbl/person-year. One-sixth of the century is gone, and this no longer looks possible, 2&#8451; is known to be too much, and it is hard to find a point in Fig. 20.14 is both ecologically desirable and politically accessible.
+</p>
+
+
+<figure>
+<img class="fl" width="63%"
+src="E-Images/20.14_Temp.png"
+alt="E-Images/20.14_Temp.png">
+
+<figcaption>
+<a class="tri" href="#F20.13">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.14"> Fig. 20.14 </a>
+<a class="tri" href="#F20.15">&emsp;&emsp;&#9654;</a>
+The &lsquo;Population&rsquo; face of Fig. 20.13 is redrawn here to show the full range of possible population/fossil-carbon/temperature   outcomes. The red area includes presumed reserves prior to the development of fracking. The top right corner, at 10 billion people, 15 bbl/py, and 6.4&#8451;, is the point reached in Fig. 20.13.
+The gold dot approximates Lovelock&apos;s sustainable retreat <a href="#F20.16">(Fig. 20.16)</a> in 2100. As far as I know, this is the only projection which considers a population in 2100 less than 6 billion, this not being considered a politically acceptable option. Note, however, that the 2015 Paris talks hope to limit
+	<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-BellTheCat3.gif" alt="BellTheCat"></a>
+the rise to a less disruptive 1.5&#8451;. This seems very optimistic, especially given the number of politicians who don&apos;t &lsquo;believe in&rsquo; global heating.
+</figcaption></figure>
+
+
+
+<h3>
+<a class="tri" href="#13.6">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="14">Growth is not the Answer</a>
+<a class="tri" href="#15">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Figures 13 and 14 are didactic rather than predictive.
+
+Realpolitik suggests that we will not intentionally try to control the population. But global heating is a <i>force majeure</i> that is already working on the problem in ways that we do not like.
+</p>
+
+<p>The civil wars in Sudan and the Middle East are exacerbated by climate change and overpopulation, and the US is feeling the damping effect of population growth and energy shortage on its standard of living. A surprising fraction of articulate people are in denial of such heresy, which decreases the chances of constructive response. &lsquo;IMF gives stark warning: boost spending to save the economy&rsquo;, runs the headline, hoping to spur growth and bolster <a class="fn">property values<span>
+	I once deliberately sold a house for what I had paid for it, plus inflation. This infuriated the real-estate peddler I had bypassed, but 30 years later the buyer tracked me down via the web and thanked me: a pleasant, affordable house had made all the difference in raising her family. &lsquo;Increasing property value&rsquo; is a zero-sum manipulation that contributes nothing to society and benefits only those who take 6% for shuffling paper.
+</span></a> as the universal panacaea {<cite>GW</cite> 2012-07-27 p17}.
+</p>
+
+<p>The problem is that <i>growth</i> is the only paradigm our financial gurus understand. It seems that no economics course or population conference has ever addressed the <a class="fn">optimum population.<span>
+	GR Taylor (1970) <cite>The Doomsday Book</cite> (Book Club Assoc., London, 1972): 225 ff.
+</span></a> No high-profile economic conclave &mdash; Bretton Woods, G8, G20, Davos, &amp;c &mdash; ever contemplated a stable, sustainable economy, because it is incompatible with capitalism, and offers few opportunities for financial exploitation.
+</p>
+
+<p>This economic purblindness is madness as we watch the system flounder, with never a suggestion except more of the same. <a class="fn">Kingsley Davis<span>
+	K Davis (1967) &lsquo;Population Policy: Will current programs succeed?&rsquo; <cite>Science</cite> <b>156</b>: 730&ndash;739.</span></a>
+introduced the idea of Zero Population Growth in 1967 (although I <a href="../_A/A03.shtml#16">claim</a> intellectual, if not publication, priority). The responsible US government agency <a class="fn">responded favorably<span>
+	Committee on Population Growth and the American Future (1972) &lsquo;Report&rsquo; (GPO, Washington DC).
+</span></a> but without discussing how to bell this cat. Nothing happened, because:
+</p>
+
+<ol>
+ <li>Capitalism requires expanding markets,</li>
+
+ <li>People think reproductive freedom is a natural right, and</li>
+
+ <li>&lsquo;God said &hellip;&rsquo;</li>
+</ol>
+
+
+<p> Books like <a class="fn"><cite>The No-Growth Society</cite>,<span>
+	M Olson, HH Landsberg (1975) (Norton, NYC).
+</span></a> sponsored by <cite>The Journal of the American Academy of Arts and Sciences</cite> and Resources for the Future, explore the many issues &mdash; and are thereafter quietly ignored.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#14">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="15">About that Force Majeure</a>
+<a class="tri" href="#16">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">If you are so sure that [nuclear reactors] are safe, why not build them in the center of the city, instead of hundreds of miles away where you lose half the electricity in the wires? &mdash; <a class="fn">Hirose Takahashi<span>
+	T Hirose (1981) <cite>Tokyo e, Genpatsu wo!</cite> (<cite>Nuclear Power Plants to Tokyo!</cite>) (Shueisha). This book has apparently not been translated.</span></a>
+</p>
+
+<p><a href="../_F/F22.shtml#04">Experience</a> and <a href="#F20.13">Fig. 20.13</a> show that to a first approximation, each trillion-barrel unit of oil consumed leads to a prompt global-mean-temperature increase of 0.8&#8451; (1.4°F), plus a delayed rise from positive feedback effects, which is higher by a presently unknown amount. The total fossil store of 5.5 units (plus an unknown amount from fracking) creates a minimum 4.4&#8451; rise. Experience with the 0.8&#8451; rise suggests that 2&#8451; is not as acceptable as was believed in 1992 when the cosmetic Rio summit chose it as a remote target for later politicians to worry about, and 4&#8451; is likely to put a serious crimp in the world food supply.
+</p>
+
+<p>The real point of Fig. 20.13 is the vertical right-hand surface of Frame E, a 2-dimensional plot of possible futures shown with more detail in Fig. 20.15. Recall that in the heady days of Rio we thought that we could simultaneously limit temperature rise to 2&#8451;, increase the population above 6 billion, and continue economic growth above the world mean of 7.5 bbl/person-year. As the gold dot in Fig. 20.13 shows, linear extrapolation suggests that we are unlikely to accomplish this.
+</p>
+
+
+<p>Figure 20.15 ignores positive feedbacks and continues the observed linear rise of 0.8&#8451; for each trillion bbl of <a class="fn">oil burned.<span>
+	One way around the high-school physics of linear models is to invoke a &lsquo;saturation&rsquo; effect, in which adding more CO₂ to the atmosphere produces less and less heating. The dense CO₂ atmosphere of Venus, and its 465&#8451; surface temperature, suggest that this does not happen.
+</span></a> Unfracked fossil energy runs out at the &lsquo;5.5&rsquo; curve, but the 4&#8451; temperature rise (reached earlier) is likely to reduce food production below that needed for 10 billion people. The gold dot suggests a population and living standard that are difficult to reach. We do not take kindly to thoughts of population reduction or to a lower standard of living. If we want to do better than this by 2100, it has to be done with non-CO₂-producing energy. (The smaller the population, the easier this will be.)
+</p>
+
+
+<figure>
+<img class="fl" width="63%"
+src="E-Images/20.15_OtherPredictions.jpg" alt="E-Images/20.15_OtherPredictions.jpg">
+
+<figcaption>
+<a class="tri" href="#F20.14">&#9664;&emsp;&emsp;</a>
+<a href="#TOC" id="F20.15"> Fig. 20.15 </a>
+<a class="tri" href="#F20.16">&emsp;&emsp;&#9654;</a>
+Complex Temperature Projections. Lest you think the 3-dimensional linear extrapolation of Fig. 20.13 is too simplistic to be reliable, this graph shows the results of an 82-dimensional meta-analysis which shows the range of results from the world&apos;s coupled ocean-atmosphere general-circulation models, .incorporating dozens of CO<sub>2</sub> sources, sinks, and dynamic processes. The upper band is the &lsquo;business-as-usual&rsquo; scenario preferred by Big Oil, the Christian right, and their employees in Congress. The linear extrapolation lies inside the range occupied by 80% of the supercomputer models. The lower band requires that we cut our fossil fuel use in half by 2050, either with sustainable energy or by <a class="fn">reducing the world population.<span>
+	A cynical thought. Consider 2 interpretations of the 21st-century US warfare  in the Middle East:<br>
+	1) In an ill-judged effort to get control of Middle Eastern oil, the US lied its way into a disastrous regional destabilization, an entanglement of unwinnable permanent wars of all against all, emigrant populations welcome nowhere, and a desert contaminated with teratogenic depleted-uranium dust.
+	<br>Alternatively:<br>
+	2) Understanding that the sustainable world population of 3 billion would not be attained voluntarily, and that for best results the survivors should preferentially be from the Enlightenment countries, one of Cheney&apos;s smarter friends encouraged his delusions, leading to alternative 1.
+	<br>
+	How might we distinguish between these approaches?
+</span></a> Source: <a class="fn">M Meinshausen &amp;7a (2000).<span>
+	&lsquo;Greenhouse-gas emission targets for limiting global warming to 2&#8451;&rsquo; <cite>Nature</cite> <b>458</b>: 1158&ndash;1163; doi:10.1038/nature08017.</span></a>
+</figcaption></figure>
+
+
+<p>The only immediate resonse to Fig. 20.16 came from Jerry Brown, the Governor of California, who announced that the state of California would seek 50% of its electricity from renewable sources <a class="fn">by 2030.<span>
+	Showing, once again, why I identify myself to foreigners as a Californian rather than an American.
+</span></a> While this is a commendable policy, it does nothing about the State&apos;s structural need to take the freeway to the grocery store.
+</p>
+
+<p>Bear in mind that the predictions of the linearized model suffer the same limitations as any other guess about the future. The value of linearization is its easily understood and reasonably optimistic projection. It would be difficult to support more people at a higher living standard, than suggested by Fig. 20.13. That said, there are many reasons why <i>any</i> projection may fail. Ocean acidification consumes CO₂ by converting coral reefs and carbonate shells to bicarbonate ions, and may increase oceanic uptake of anthropogenic CO₂, slowing the rate of global heating but <a href="http://www.esajournals.org/doi/abs/10.1890/14-0802.1" class="fn">upsetting ocean ecology.<span>
+	B Gaylord &amp;19a (2015) &lsquo;Ocean acidification through the lens of ecological theory&rsquo; <cite>Ecology</cite> <b>96</b>(#1): 3&ndash;15
+</span></a> More likely, melting of arctic methane-ice may overwhelm CO₂ as a greenhouse gas, greatly increasing global heating. The big models include <a class="fn">many processes,<span>
+	H Le Treut &amp;7a (2007) &lsquo;Historical Overview of Climate Change&rsquo; in: <cite>Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change</cite> [S Solomon &amp;7a (eds.)] (Cambridge University Press, Cambridge UK and NYC): 104, FAQ 1.2, Fig. 1.
+</span></a> but they are still much simpler than the real world.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#15">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="16"> Public Disutilities </a>
+<a class="tri" href="#17">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">Short of assassination there is little people can do when their political masters have forgotten the true meaning of the democracy. &mdash; <a class="fn">
+	George MacDonald Fraser (2008)<span>&lsquo;The last testament of Flashman's creator: How Britain has destroyed itself&rsquo; <cite>Mail Online</cite> 2008-01-05.
+</span></a>
+</p>
+
+<p>The rational conclusion from Fig. 20.15 is that economic growth in the immediate future should be concentrated on sustainable energy rather than the mindless consumption preferred by existing corporations. A possible response is suggested by Earth Day 1970, which sounded the alert and gave us a 50-year lead time &mdash; which we failed to use. The early 1970s saw a healthy response by entrepreneurs designing small-scale ways to capture and use renewable energy. We lost this opportunity for one rather nasty reason: Public-utility monopolies saw this as a threat and responded immediately by lobbying to co-opt Federal support for alternative-energy research, including recommendations to <a class="fn">sell patents<span>
+	DM Berman, JT O&apos;Connor (1996) <cite>Who Owns the Sun?</cite> (Chelsea Green, White River Junction VT).</span></a>
+to the monopolies for commercial development.</p>
+
+<p>A direct result of such preemption was that although a design for an efficient solar hot-water <a class="fn">collector<span>
+	Vacuum-insulated heat pipes, with water at low pressure as the transfer fluid.
+</span></a> was available ca 1975, it was 35 years before Chinese manufacturers (no doubt ignoring US  patents) produced such collectors at a reasonable price. (I should perhaps mention that in the <i>1870s</i> my great-grandparents successfully used cheap, inefficient, black-painted water pipes for solar hot water in southern California, long before the rise of the public utilities.) If we have energy problems today, thank the schools that taught MBAs to think in terms of 90-day profit.
+</p>
+
+<p>Another result is that in Germany, 65% of renewable energy resources are owned by individuals or cooperatives, vs 2% in the US. Accordingly, Germany already gets 25% of its energy from renewable sources, and plans 80&ndash;100% by 2050 &mdash; &lsquo;A very American idea,&rsquo; said Arne Jungjohann, a director at the Heinrich Boll Stiftung (foundation). &lsquo;We got this from <a class="fn">Jimmy Carter.&rsquo;<span>
+	Jimmy Carter had hot-water solar panels on the White House roof by 1979. Ronald Reagan, in his Alzheimer years, tore them off in 1986 (they ended up on the cafeteria at Maine&apos;s Unity College). Barack Obama installed solar photovoltaic panels in 2013 and solar hot-water in 2014.
+</span></a>
+</p>
+
+<p>The necessary corrective steps include:
+</p>
+
+<ul class="u1">
+<li>A deliberate rejection of the corporate mindset and its PR;
+<li>A strictly enforced criminalization of corporate political spending;
+<li>A return to the grass-roots &lsquo;crowd-sourced&rsquo; enterprise of the 70s; and
+<li>A government more friendly to cooperatives than to corporations.</li>
+</ul>
+
+
+
+<h3>
+<a class="tri" href="#16">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="17"> Contrarians </a>
+<a class="tri" href="#18">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">There will be days when you will say, &lsquo;Blessed are the womb which has not conceived and the breasts which have not given milk&rsquo;. &mdash; <cite>Gospel of Thomas</cite> 79.
+</p>
+
+<p>	  Figure 20.16 provides an interesting fit to world population since 1700 with a green <b>Pimentel logistic</b> (solar-supported) plus a magenta <b>Hubbert peak</b> (fossil-fuel-supported), and then a range of choices. In white, a <b>Lovelock sustainable retreat</b>, and in blue, magenta, red, and black, various less desireable trajectories made available by fracking and global heating.
+</p>
+
+<p>Cornell thermodynamicist and sustainability guru David Pimentel <a class="fn">calculates<span>
+	&bull; D Pimentel &amp;10a (2010) &lsquo;Will Limited Land, Water, and Energy Control Human Population Numbers in the Future?&rsquo; <cite>Hum Ecol</cite> on-line 2010-08-12; DOI 10.1007/s10745-010-9346-y<br>
+	 &mdash; but he said it first at<br>
+	&bull; D Pimentel &amp;7a (1999) &lsquo;Will Limits of the Earth's Resources Control Human Numbers?&rsquo; <cite>Environment, Development and Sustainability</cite> <b>1</b>(#1):19&ndash;39, which is paywalled.
+<br>--------------------------<br>
+	Actually, he suggested 2 billion, at  the European standard of living, which is about half the US standard. 3 billion seems to give a better fit, and photovoltaics steadily become more efficient.
+</span></a> that ground-collected solar energy will support 3 billion people at a perfectly adequate 1/3 of the US standard of living. The first 200 years of data in Fig. 20.17 closely follow a &lsquo;Pimentel Solar Logistic&rsquo;. The Hubbert peak makes no assumptions about how oil is converted to people; it merely uses a century of data to fit a half Gaussian, which closely approximates Hubbert&apos;s oil-production curve. The logistic and Gaussian curves separate just after 1900, when oil becomes an important energy source. Such curve fitting, often derided as meaningless formalism, can also be a sensitive integrator of complex social, technological, and economic processes whose detailed interactions we do not understand.
+</p>
+
+
+<figure>
+<img class="fl"  width="75%"
+src="E-Images/20.16_PopConsensus.jpg" alt="E-Images/20.16_PopConsensus.jpg">
+<figcaption>
+<a class="tri" href="#F20.15">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F20.16"> Fig. 20.16 </a>
+<a class="tri" href="#F20.0">&emsp;&emsp;&#9654;</a>
+Population Consensus. A nearly perfect match to 310 years of the world population is obtained by combining a green Pimentel solar logistic stabilizing at 3 billion, with the upslope of a magenta Hubbert fossil-fuel Gaussian whose parameters are determined by the 1900&ndash;2010 population data. As before, the gold dot marks a likely landmark on Lovelock&apos;s sustainable retreat.
+</figcaption></figure>
+
+
+<p>Apparently only those capable of serious abstract thinking will appreciate Fig. 20.16. This includes the contrarians of the leading paragraph: Steven Hawking (&lsquo;How can the human race survive the next 100 years?&rsquo;), the authors of &lsquo;<a class="fn">Doomsday&rsquo;,<span>
+	H von Foerster, PM Mora, LW Amiot (1960) &lsquo;Doomsday: Friday, 13 November, A.D. 2026&rsquo; <cite>Science</cite> <B>132</b>(#3436): 1291&ndash;1295.
+</span></a> the Russian <a class="fn">authors<span>
+	  A Korotayev, A Malkov, D Khaltourina(2006) &lsquo;Introduction to Social Macrodynamics: Compact Macromodels of the World System Growth&rsquo; (Editorial URSS, Moscow, USSR), 128 pp.
+</span></a> of another paper showing that World System growth &lsquo;can be described mathematically in a rather accurate way with rather simple models&rsquo;, and others who understand thermodynamics, population, ecology, and are free of superstition. Combining their insights results in a curve that passes through the world data from 1700 to 2010,
+	<img class="im" src="../Images/K-NewIdea3.gif"
+	alt="New Idea road sign"/>
+and peaks close to the Doomsday Singularity instead of continuing to climb.
+</p>
+
+<p>As carefully explained in the Doomsday paper, 2000 years of population data was precisely fitted by an equation developed by von Foerster&apos;s research group for the growth of tumors. Since others had called attention to the similarities of human population growth and <a class="fn">cancer<span>
+	&bull; A Gregg (1955) &lsquo;A Medical Aspect of the Population Problem&rsquo; <cite>Science</cite> <b>121</b>: 681&ndash;682.<br>
+	&bull; WM Hern (1993) &lsquo;Has The Human Species Become A Cancer On The Planet?: A Theoretical View Of Population Growth As A Sign of Pathology&rsquo; <cite>Current World Leaders</cite> <b>36</b>(#6): 1089&ndash;1124.
+</span></a> (as we noted <a href="../_C/C11.html#12">earlier</a>, this was not an unreasonable choice). The singularity in the case of tumors is the death of the organism, which incidentally kills the tumor. The connection is straightforward: Tumors &lsquo;cheat&rsquo; by encouraging the formation of additional blood vessels to bring them more than their share of nutrients; humans &lsquo;cheat&rsquo; by using advancing technology to monopolize increasing fractions of the Earth&apos;s productivity. In both cases, collapse occurs upon reaching the limit to what is <a class="fn">available.<span>
+	This &lsquo;Doomsday&rsquo; is presumably unrelated to the Carter-Leslie-Gott &lsquo;Doomsday Argument&rsquo; which has one draw a numbered ball from one of 2 identical urns, finds that it reads &lsquo;6&rsquo;, and asks, &lsquo;Did the urn that you drew #6 from contain 10 balls or a million?&rsquo;. The probability that it contained only 10 is 0.99999. From this one concludes that since you are number 6e10 in birth order, you are far more likely to belong to a universe where the total number of humans will be 10e10 than 10e18 (ie, humans have expanded throughout the galaxy), and &lsquo;an impending doomsday is much more probable than you have previously thought&rsquo;. No one has found a flaw in this argument, so it remains a hot topic among anthropic cosmological philosophers. See {Bost02}, or search for &lsquo;Self-Indicating Assumption&rsquo;.<br><br>
+
+    A counter-argument I have not seen elsewhere is that <i>mutatis mutandis</i>, the same prediction can be made at any time in the past, beginning 150,000 years ago &mdash; and also any time in the future. This would appear to compromise its logical inevitability.
+<br>-----------------<br>
+	N Bostrom (2002) <cite>ANTHROPIC BIAS: Observation Selection Effects in Science and Philosophy</cite> (Routledge, NYC).
+</span></a>
+</p>
+
+<p>Singularities are common in physics. They indicate that something has happened which prevents the equation from describing events on the other side of the singularity. The freezing of water is a common example: water needs one set of equations to describe it; ice needs another. No one finds this unreasonable.
+</p>
+
+<p>Von Foerster also explained how it was possible for the human population to grow faster than the exponential growth that characterizes even the most enthusiastic single-celled organisms. It is the same process that marks the critical moment in <a href="http://electromontis.net/evoligion/_C/C09.html#F9.9">Fig. 9.9</a>: we are able to form coalitions in our game against nature, remember the past, create tools, and alter the environment for our own benefit.
+</p>
+
+<p>Doomsday&apos;s message was that human reproductive behavior was going to change by 2026, willy-nilly. You may have noticed that as of 2016, it has <i>not</i> changed <a class="fn">(except for China).<span>
+	This may be a result of the 8-point IQ advantage of Orientals over Caucasians. Still, the one-child limitation, imposed in 1979, was phased out in 2015 in favor of a 2-child policy, with the claim of 400 million prevented birth, among which were 336 million abortions. The policy was popular inside China and controversial elsewhere. With no experience in raising singletons, &lsquo;lack of self discipline and social adaptability&rsquo; are a common outcome. As of 2009 the Chinese population was still growing at nearly 0.5% annually.
+	(Chinese Statistical Press, 2010).
+</span></a>
+</p>
+
+<p>Von Foerster did <i>not</i> explain the cause of the Doomsday Singularity. It merely fell out of <a class="fn">the data.<span>
+	If you look closely at the original graph in <cite>Science</cite>, you will see that the impression of a good fit is augmented by a bit of graphical trickery. Political, and strictly unscientific, this deception &mdash; which no one commented on &mdash; is nevertheless wholly justified by Fig. 20.13.
+</span></a> As it happens, its date is tightly constrained by the upslope of the population curve, which in turn governed by the Hubble oil-production curve. The upslope knows nothing about unconventional oil, and the peak is not influenced by energy sources that were not important during the 20th century.
+</p>
+
+<p>The composite curve benefits from 50 years of data that was unavailable to von Foerster, and it includes a mechanistic explanation that Doomsday did not. In this sense it is a better predictor. While its peak appears to explain the otherwise puzzling singularity, its gentle downslope &mdash; the green diamonds of Lovelock&apos;s sustainable retreat &mdash; is broadened to include fossil sources that were too expensive to be used during the upslope. A smooth downslope probably also requires a return of the urban unemployed to small-scale soil-intensive farming, which &mdash; <i>given expertise and water</i> &mdash; can be many times as productive as inefficient oil-intensive corporate agribusiness. The blue-shaded area contains possible non-catastrophic futures; the red-to-black area has room for many unpleasant surprises.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#17">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#13">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="18"> A MISMATCH </a>
+<a class="tri" href="#22">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#19">&emsp;&emsp;&#9661;</a></h2>
+
+<p>The astute reader will have noticed that the discussion above bears little resemblance to what one finds in the media. Consider one example: According to the <a class="fn">
+	<cite>New York Times</cite>,<span>J Brooke (2004) &lsquo;Japan and China Battle for Russia&apos;s Oil and Gas&rsquo; 2004-02-03.
+</span></a> &lsquo;the political and economic dynamics of northeast Asia stand to be profoundly shaped for <i>years to come</i>&rsquo; by where Russia locates the terminus of a Far East pipeline. The added emphasis is there because the amount of oil available does not support the interpretation suggested by the <cite>Times</cite>: Russia&apos;s total proven reserves amount to a 23-month supply for the world.
+</p>
+
+<p>The big models of the IPCC converge toward a 4&#8451; rise by 2100 for most of their scenarios. They do not model agriculture or fossil-fuel reserves. Most scenarios see a population peak at mid-century, followed by a gentle decline, entirely from reduced fertility resulting from the education of women. For political credibility, the IPCC has worked hard to include scientists from all nations. Their science already rocks the boat more than their respective politicians want to accept, and like the UN, they assume the desirability and possibility of continued growth. While not entirely realistic, this is as close as realpolitik can come. The &lsquo;consensus&rsquo; of Fig. 20.16 does not share such political constraints.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#18">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="19"> Another View </a>
+<a class="tri" href="#20">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The sustainable-population estimates above may suffer from &lsquo;consumer bias&rsquo;. During the cold war, US intelligence analysts (living at the bloated lifestyle of the US) examining satellite pictures of Moscow could not believe its reported population of 10 million. &lsquo;Where is the infrastructure? Where are the warehouses, the rail yards, the oil tanks, the truck depots? There can&apos;t be more than 3 million living there.&rsquo; It is the affluent who will feel the pinch as oil dwindles and climate warms. Those already living on $2/day may hardly notice.
+</p>
+
+<p>A plausible result of business-as-usual is that megalopoleis will be hardest hit. The elimination of 800 million from each continent would return the planet to its historical 3rd-world condition, needing neither to feed the affluent nor to use fossil fuel themselves, and no use for titanium or indium. This would soon recreate the social strucutre of New Guinea in 1930, with a sustainable culture and a population stabilized by Malthusian misery (perhaps continuous neighborly warfare killing 60 million people annually, conducted with javelins and arrows)` and little else of interest occurring until the sun expands.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#19">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="20"> Stability </a>
+<a class="tri" href="#21">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Sustainability guru David Pimentel and ecological thermodynamicist Tad Patzek suggest that the population might stabilize at 2 billion; independent scientist James Lovelock suggests 1.3 billion; Fig. 20.13, intentionally optimistic, suggests 3 billion. These estimates are unrelated: I have had philosophical communications with the others, and we share the data of the scientific literature, but we have not talked models, assumptions, or equations.
+</p>
+
+<p>Politicians and economists have little experience with a declining population. In some local historical cases (e.g., Greenland), we abandoned failing experiments and returned home (to Europe). This will not work today. The novels of Victorian England may be a good preview of future urban life: in Disraeli&apos;s <cite>Sybil</cite>, orphans are encouraged to play in the street so that they might be run down by a carriage. (The California version is &lsquo;Go play on the freeway!&rsquo;) A realistic possibility might be a return to late Neolithic population and living standards. The late Neolithic was pretty dismal, with puny people and an 18-year life expectancy. If you can lay your hands on a variety of rust-resistant wheat that grows in your territory, and it survives until harvest, and no one steals it &mdash; what do you then <a class="fn">do with it?<span>
+	If milling and bread-making are locally lost arts, whole wheat, boiled, is chewy but edible. Pre-cooked bulgur and couscous are less chewy. You still need to understand threshing and winnowing.
+</span></a> It might be important to know things like this. It will be a bad time to be a dog or cat. Does the movie <cite>Delicatessen</cite> ring a bell? Long pig? Russian Duck?
+</p>
+
+
+
+<h3>
+<a class="tri" href="#20">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="21"> The Technological Fix </a>
+<a class="tri" href="#22">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="flu">is supposed to save us. It always comes to our rescue, right? Some clever boffin will come up with an infinite energy source so business can continue as usual. There&apos;s enough deuterium in seawater to fuel civilization for a million years.
+</p>
+
+<p>Remember alchemy? For centuries, we sought ways to turn base metals into gold. Today we know exactly how to do this &mdash; so why aren&apos;t we all rolling in gold? What happened was that we learned to manipulate the electrical force and use it to induce nuclear fusion. We can make any amount of gold we want &mdash; but the cost of energy required is prohibitive, the process is grossly inefficient, and the easiest element to turn into gold is <a class="fn">platinum.<span>
+	&lsquo;God is an iron&rsquo;.
+</span></a>
+</p>
+
+<p>Now we hope to learn to manipulate the nuclear forces, use them to extend the lifetime of the muon, and make muon-induced cold fusion workable. It is as seductive an idea as making gold &mdash; with, I suspect, the same sort of twist to the story.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#21">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#18">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="22"> THE REALITY OF RIO </a>
+<a class="tri" href="#PM">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#23">&emsp;&emsp;&#9661;</a></h2>
+
+<p class="epi">We talk about the developing world and the developed world, but this is the deteriorating world. &mdash; Geographer Sarah O&apos;Hara
+</p>
+
+<p>There remains the downward portion of the curve in Fig. 20.16. This is, I suggest, the optimum available, and the gentlest of possible futures. It approximates what Lovelock described as a much needed &lsquo;sustainable retreat&rsquo;. The red area of Fig. 20.14 consumes known coal and oil reserves. Moving into the white region requires natural gas from fracking.
+
+If we continue the behavior preferred by short-term economics &mdash; coal and fracking,
+
+
+
+If we continue muddling through, by the time we reach 2100 we will either have no fossil fuel remaining, or we will be sufficiently cowed by global heating, food shortage, climate-change wars, and the intransigence of stressed and armored populations that we will be very chary of using what remains.
+</p>
+
+<p>The sustainable retreat is shown crossing 2100 at a population of about 5.5 billion. This can be done with a nominal temperature rise of 2&#8451; <i>if</i> the total fossil-fuel use is kept to 2.5 trillion bbl. To make this choice something that politicians can contemplate, we need renewable non-polluting sources equivalent to 5 bbl/person-year. This is marked by the black-ringed yellow circle in Fig. 20.12 at a very low level of fossil-fuel energy, about 0.5 bbl/person-year, or about 25 gallons of petrol (100 liters), none of which is for personal use. Biodiesel can be freely used, since it contributes no net CO₂. The best use of fossil carbon is plastic feedstock.
+</p>
+
+<p>Any improvement in the projected standard of living must come from sustainable energy and a smaller population. Any religion worthy of its name (and despite its scripture) would suggest to its congregation that &mdash; <i>whatever its scriptures said in earlier millennia</i> &mdash; these are the <i>sine qua non</i> of human welfare. The larger the population, the greater the misery that lies ahead. If things get sufficiently miserable for those with nuclear weapons, nuclear weapons will be used irrationally. Even at this late date, realistic education from the pulpit could help to minimize hardship and trauma.
+</p>
+
+<p style="color:red;">To the best of my knowledge, Fig. 20.12 represents the first numerical attempt to answer Hawking&apos;s question and explore the significance of the Rio agreement that if we want a civilized future, it would be a good idea to limit the temperature rise to 2&#8451;. The numbers, although only crude estimates, are anathema to traditions that we hold dear. &lsquo;Sustainable growth&rsquo; is an oxymoron. In the best possible outcome, the population <i>and</i> the standard of living both drop (and environmental degradation still rises).  Population growth will slow, but <b>the population is unlikely to drop voluntarily</b>. The nastier Malthusian controls will do what we cannot do for ourselves. (Hence the chapter title.) The golden dot of Fig. 20.12 is, <i>deo volente</i><img class="im" src="http://electromontis.net/evoligi../Images/K-TakeHome3.gif" alt="TakeHome road sign"/> and touch wood, the best future still accessible. <span class="fr">◼</span>
+</p>
+<hr>
+
+
+<h2>
+<a class="trs" href="#22">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#22">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="23"> Further Reading: PLANETARY GEOPHYSIOLOGY </a>
+<a class="tri" href="#PM">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<ul>
+<li>Darwin, CG (1953) <cite>The Next Million Years</cite> (Doubleday, Garden City NYC).</li>
+<li>Duncan, RC (2000) &lsquo;The Olduvai Theory: An Illustrated Guide&rsquo; Pardee Keynote Symposia, (Geological Society of America, Summit 2000, Reno NV).</li>
+<li>Eiseley, L (1970) <cite>The Invisible Pyramid</cite> (University of Nebraska Press, Lincoln NE).</li>
+<li>Forrester, J (1973) <cite>World Dynamics</cite> (Wright-Allen Press, Cambridge MA).</li>
+<li>Gibbons, JH, PD Blair, & HL Gwin (1989) &lsquo;Strategies for Energy Use&rsquo; <cite>Scientific American</cite> <b>261</b>(#3): 86&ndash;93.
+<li>Hoyle, F (1964) <cite>Of Men and Galaxies</cite> (University of Washington Press, Seattle).</li>
+<li>McHarg, I (1971) &lsquo;Man, Planetary Disease&rsquo; Vital Speeches of the Day (October). p. 634-640.</li>
+<li>Meadows, DH &amp;3a (1974) <cite>The Limits to Growth</cite> (New American Library, NYC).</li>
+<li>Meadows, DH, DL Meadows & J Randers (1992) <cite>Beyond the Limits: Confronting Global Collapse, Envisioning a Sustainable Future</cite> (Chelsea Green, Post Mills VT).</li>
+<li>Morrison, R (1999) <cite>The Spirit in the Gene: Humanity&apos;s Proud Illusion and the Laws of Nature</cite> (Cornell University Press, Ithaca, NYC).</li>
+<li>HR Pulliom, NM Haddad (1994) &lsquo;Human Population Growth and the Carrying Capacity Concept&rsquo; <cite>Bulletin of the Ecological Society of America</cite> <b>75</b>(#3): 141&ndash;157.</li>
+<li>Romer, RH (1985) <cite>Energy: Facts and Figure</cite> (Spring Street Press, Amherst MA).</li>
+<li>Tainter, JA (1988) <cite>The Collapse of Complex Societies</cite> (Cambridge University Press, UK).</li>
+<li>Weatherford, JM (1994) <cite>Savages and Civilization: Who Will Survive?</cite> (Crown, NYC).</li>
+<li>White, L (1949) <cite>The Science of Culture: A Study of Man and Civilization</cite> (Farrar, Strauss, NYC).</li>
+</ul>
+
+
+
+<hr>
+<h2>
+<a class="trs" href="#23">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#21">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="PM"> ENDNOTE: Population Models </a>
+<a class="tri" href="#01">&emsp;&emsp;&#9650;</a>
+</h2>
+
+<p><a class="en" href="#071"><sup><b>H</b>&nbsp;</sup></a>A bit of history. Until 1940 it was possible to believe that human population growth followed that of fruitflies, because Verhulst&apos;s &lsquo;logistic equation&rsquo; of 1845, with a constant carrying capacity <b><i>K</i></b>, gives a nearly perfect fit to the US population from 1640 to
+1940. <a class="fn">Raymond Pearl and L.J. Reed<span>
+&bull; R Pearl, LJ Reed (1920) &lsquo;On the rate of growth of the population of the United States since 1870 and its mathematical representation&rsquo; <cite>Proc. Nat. Acad. Sci.</cite> <b>6</b>: 275-288.<br>
+&bull; R Pearl, LJ Reed (1930) &lsquo;The Logistic Curve and the Census Count of 1930&rsquo; <cite>Science</cite> <b>72</b>: 399–401.<br>
+&bull; R Pearl, LJ Reed, JF Kish (1940) &lsquo;The logistic curve and the Census count of 1940&rsquo; <cite>Science</cite> <b>92</b>: 486-488.</span></a> of the US Census Bureau independently reinvented Verhulst&apos;s model and applied it to Census data, explaining with much ingenuity how the US might support the improbable maximum population of 186 million it predicted.
+</p>
+
+<p>The upslope of the Gaussian in <a href="#F20.4">Fig. 20.4</a> (the &lsquo;baby boom&rsquo;) apparently discredited simple models in the minds of demographers. Although some  demographers later claimed to have predicted the &lsquo;boom&rsquo;, <cite>Scientific American</cite> in 1951 could find no-one who had, and only <a class="fn">Cox<span>PR Cox (1970) <cite>Demography</cite> 4th ed. (Cambridge University Press): 444.</span></a> observed &mdash; 30 years later &mdash; that they should have been able to.
+</p>
+
+<p>Replacements were multi-state component-cohort models which follow the births, deaths, and migration of social cohorts, such as <a class="fn">Lotka&apos;s<span>
+	AJ Lotka (1924) <cite>Elements of Physical Biology</cite> (Williams & Wilkins, Baltimore) (reprinted as <cite>Elements of Mathematical Biology</cite> (Dover, NY, 1956).</span></a>
+&lsquo;birth trajectory of the renewal equation&rsquo;, coupled with the dogma that simple equations were passé. The new approach required integral equations (with the unknown on both sides of the equation, once under an integral), much data (or many guesses), and considerable mathematical skill, and were limited to projections of a <a class="fn">decade or less<span>
+	JM Monro (1993) &lsquo;World population forecasts&rsquo; <cite>Nature</cite> <b>363</b>: 215-216.</span></a>
+because the behavior of cohorts changes quickly. It would be 2 generations before <a class="fn">Ahlburg<span>
+	DA Ahlburg (1995) &lsquo;Simple versus complex models: evaluation, accuracy and combining&rsquo; <cite>Mathematical Population Studies</cite> <b>5</b>(#3): 281&ndash;290.</span></a>
+succeeded in publishing the obvious fact that simple and complex approaches were equally valid and answered different questions.
+</p>
+
+<p>Meanwhile, W.E. Howland at Purdue (memorialized there by a web server bearing his name), combined the insights of Malthus and Verhulst, but peer review consistently rejected the papers he submitted to mainstream demographic journals. (He was, after all, an interloper, a mere engineer, with no credentials in demography.) His only successful publication was a <a class="fn">short letter<span>
+	WE Howland (1961) &lsquo;Letter&rsquo; <cite>Science</cite> <b>133</b>: 939.</span></a>
+to <i>Science</i>. MacIntyre explains:
+<p>
+
+<blockquote>Howland&apos;s model, with <b><i>K</i></b> rising linearly, required the transcendental exponential integral, which in precomputer days was painful to work with. Shortly before he died, Howland sent me his pencilled nomographs on which the solution could be read from a ruler going through chosen values of <b><i>r</i></b> and <b><i>K</i></b>. One of his asides was that he obtained a better fit to the US data if he increased the slope of the limit midway through the period. This was a clear indication that an exponential limit for <b><i>K</i></b> would improve the fit and simplify the arithmetic, making the nomographs unnecessary. Had he lived a bit longer he would surely have discovered this himself.
+</blockquote>
+
+<p>Demographic journals are still uneasy with single-equation fits, despite their respectable ancestry, simplicity, and good statistics. This is all part of what Albert Bartlett described as a &lsquo;concerted effort&rsquo; to marginalize Malthus &mdash; a dismissal which is an axiom of capitalist theory and apparently an entrenched aspect of Christian dogma. This effort is not necessarily conscious: <i>E. coli</i> wants lots of people too, and parasites/symbionts are well known for being able to influence the behavior of their hosts for their own benefit. Our reluctance to contemplate a stable population could be characterized as &lsquo;thinking with the contents of our large intestines&rsquo;.
+</p>
+
+<p>I thank Joel Cohen, Ward Elliott, the late Garrett Hardin, Georgia Lee, Nicholas Morely, and Stuart Umpleby for comments on the above material, which continues to be regarded as controversial, if not plain crackpot.<a class="en" href="#071"><b>&nbsp;H</b></a>
+</p>
+<span class="fr">◼</span>
+
+<br><hr><div class="cen">
+<a href="../_E/E19.shtml">&vltri;&emsp;&emsp;</a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+<a href="../_F/F21.shtml">&emsp;&emsp;&vrtri;</a>
+</div>
+</body></html>

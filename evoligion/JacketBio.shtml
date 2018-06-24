@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en"><head>
+
+<title>Jacket Bio</title>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>ß
+<![endif]-->
+</head>
+
+<body style="width: 3in; margin:4px; line-height:90%;  hyphens:auto;">
+<p class="date"><!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<span style="font-size : 50%;"><b>Last edit: 2018-05-01 15:00 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- </span>
+</b></p>
+
+<h5><a href="Index.shtml">Jacket Bio</a></h5>
+
+<div style="border : 1px solid black; padding : 2px; background-color: #fff8e8;font-size : 75%">
+
+<p>B. F. Becula’s expectations of society were permanently warped by formative years (0~30) in the 2 most liberal/progressive/civilized communities in the US: Berkeley and Cambridge. A high-school economic dropout, he worked at what was available (ditch digger, truck driver, welder, machinist, aircraft loftsman, machine designer, &hellip;). Driven by an abiding curiosity, he looked for answers in seminary, MIT (PhD, physical chemistry), and an academic career in thalassochemistry. The working years (30~60) taught him that science answered <i>How Come?</i> but not <i>Why?</i>, and that theology answered <i>Why?</i> from a wholly inadequate base.</p>
+
+<p>He devoted a third of his thinking years (60~90 &hellip;) to <i>Why?</i> before (like many others) reluctantly accepting projection: gods are very like us. His professorial interpretation has them seeking experimental answers to a difficult problem, with us as colleagues/lab-rats – and vanishing when no longer needed.
+</p>
+
+<p>Descended from hereditary bards of the Lord of the Isles, Becula weaves Gravesian mythopoesis and contemporary science into an optimistic and explanatory <i>theory of religion</i>. Among his sources are the
+<ul style="list-style-type:none; padding:0 0 0 5px;">
+<li>evolutionary biology of Lynn Margulis,</li>
+<li>primatology of Allison Jolly,</li>
+<li>human ecology of Garrett Hardin,</li>
+<li>psychology of Wilhelm Reich,</li>
+<li>sociology of Herbert Gintis,</li>
+<li>geopsychology of James DeMeo,</li>
+<li>bicamerality of Julian Jaynes,</li>
+<li>Gaian vision of James Lovelock,</li>
+<li>Enlightenment aspirations of the Founding Fathers,</li>
+<li>mathematical intuitions from Plato to Tegmark,</li>
+<li>and a nod to quantum field theory</li></ul>
+<p>— most of which were unknown to 200-odd earlier theories he summarizes. If some of his sources seem unlikely, he replies: ‘They had their problems, but also deep insights. The point of higher education is to learn to distinguish wheat from chaff.’</p>
+</div></body></html>

@@ -1,0 +1,1587 @@
+
+<!--  F22 Gaian Repairs   -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>F22: Gaian Repairs</title>
+
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+</style>
+</head>
+
+<body id="!">
+<p  class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-05-23 12:30 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h3>Book 6: Its Repair</h2>
+<!--#include virtual="TocF22.shtml" -->
+<br><br>
+
+
+<a class="tri" href="../Index.shtml" id="01">&#11152;&emsp;&emsp;</a>
+<a class="tri" href="#AP"> &#9660;&emsp;&emsp;</a>
+<h3><a href="#!"> GAIAN REPAIRS </a></h3>
+<a class="tri" href="#04">&#9661;&emsp;&emsp;</a>
+<a class="trs" href="#02"> &#9661;&emsp;&emsp;</a>
+
+
+<p class="epi">In a Senate hearing, James Watt &mdash; Reagan&apos;s Secretary of the Interior &mdash; invoked the Rapture to explain his policy of devastating public lands: &lsquo;after the last tree is felled, Christ will come back&rsquo;.
+</p>
+
+<p class="epi">First the trees go, then the soil, and finally the society itself. &mdash; Lester R. Brown
+</p>
+
+
+<p>
+As noted in the <a href="../_A/A00.shtml#01">Preface</a>, the gods seem to expect us to do the heavy lifting of implementing Moral Justice ourselves, now that they have created a universe in which the concept has arisen. This turns out to be a long slow process, with a necessary precondition of cultural longevity. But all of our historically dominant civilizations have ended in unanticipated collapse. We might have been the exception, since as much as <a class="fn">5% of the politically active population<span>
+	According to an ephemeral Quinnipiac University Poll of the 2016 Iowa Primary Caucus, 11% of Democrats thought climate change was important, vs &lt;1% of Republicans. (My assessent is that with business-as-usual, global heating will prove to be a culture-breaker and population-reducer.)
+</span></a> is aware of the possibility &mdash; although our dominant culture characteristically denies any weakness, either social or environmental. In this situation, the private aspects of religion (belief, church attendance, prayers, tithes, meditation, confession, and whatever personal comfort they bring us) are secondary to its public duty of helping us live together. This means, first of all, <i>survival</i>, or, in more detail, the establishment of a sustainable culture in which energy, population, and resources are in balance. Because survival is not a priority of the market economy &mdash; which at best can only equalize supply and demand at a profit, and its economic &lsquo;long term is tomorrow morning&rsquo; &mdash; this requires serious societal reconstruction. Philosophically, the basic need is to extend synthetic kinship beyond the human community, to encompass the planet, and this is something that forward-looking churches could have help with. We are all in this together.
+</p>
+
+
+
+<h3 id="02">
+<a class="tri" href="#01">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> The Gaia Hypothesis </a>
+<a class="tri" href="#03">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">Ecology is the study of what economics tries to manage. &mdash; Ferren MacIntyre
+</p>
+
+<p>The ideas of Gaian religion, and the geophysiological Gaia of <a class="fn">Dr James Lovelock,<span>
+	&bull; JE Lovelock (1972) &lsquo;Gaia as seen through the atmosphere&rsquo; <cite>Atmospheric Environment</cite> <b>6</b>(#8): 579&ndash;580.<br>
+	&bull; JE Lovelock, L Margulis (1974) &lsquo;Atmospheric homeostasis by and for the biosphere: The Gaia hypothesis&rsquo; <cite>Tellus</cite> <b> 26</b>(#1): 2&ndash;10.
+	</span></a> are distinct but interlocked. Lovelock noticed 2 apparently unrelated facts about the Earth:
+</p>
+
+<ul>
+<li>Its atmosphere is maintained in extreme chemical disequilibrium by living organisms.
+<li>Its surface temperature has not exceeded the range tolerated by life while the sun has <a class="fn">increased its output<span>
+	As nuclear fusion converts hydrogen to helium (nuclearly inert at this point, the helium, 4 times as heavy, falls to the center. The active &lsquo;hydrogen-burning&rsquo; shell outside the inert core is pushed outward, and as its area increases, the solar output increases. This will continue until our oceans boil, by which time we should long since have sent colonies to more hospitable sites.
+</span></a> by 25%.
+</ul>
+
+<p>Given these facts, he suggested the Gaia <i>Hypothesis</i> of 1972: &lsquo;The whole system of life and its material environment is self-regulating at a state comfortable for the organisms&rsquo;. Many scientists found this idea teleological and untestable, and looked for other explanations, one of which was:
+</p>
+
+<blockquote>[C]arbon dioxide in the atmosphere is buffered, over geological time, by negative feedback in which the rate of weathering of silicates (followed by deposition of carbonates) depends on surface temperature, and surface temperature, in turn, depends on carbon dioxide through the greenhouse effect. &mdash; <a class="fn">Walker, Hays, Kasting (1981)<span>
+	JCG Walker, PB Hays, JF Kasting (1981) A negative feedback mechanism for the long-term stabilization of Earth&apos;s surface temperature. <cite>J. Geophys. Res.</cite> <b>86</b>(C10): 9776&ndash;9782; doi:10.1029/JC086iC10p09776.
+</span></a>
+</blockquote>
+
+<p>The question boils down to subtle geochemistry, but whenever the choice is dumb luck (weathering rate) vs evolutionary adaptation (Gaia), evolution is a good bet. However, as it happens, the hypotheses are not mutually exclusive. Lichens, covering 8% of the Earth’s surface, can accelerate or retard the rate of <a  class="fn">rock weathering<span>
+	J Chen, H-P Blume, Lothar Beyer (2000) &lsquo;Weathering of rocks induced by lichen colonization &mdash; a review&rsquo; <cite>Catena</cite> <b>39</b>: 121&ndash;146.
+	concludes, &lsquo;Further comparative studies of different habiting environments should be carried out to determine in which environments lichens accelerate or retard weathering processes.&rsquo;
+</span></a><a href="http://www.geo.mtu.edu/~raman/papers2/ChenetalCatena00.pdf">⬆︎</a>, suggesting that perhaps lichens can (like the black and
+	<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-Research3.gif" alt="Research" /></a>
+white daisies of Lovelock&apos;s toy model <a class="fn" ><cite>Daisy World</cite><span>
+	Click for a description of the model DaisyWorld, and an oppportunity to run the simulator,
+</span></a><a href="https://en.wikipedia.org/wiki/Daisyworld">⬆</a> provide an adaptive feedback to stabilize the surface temperature.
+</p>
+
+<p>Gaia <i>Theory</i> is the extension of the Gaia Hypothesis by Lovelock and the late Dr Lynn Margulis, which describes the biosphere and its biota as forming a single living macro-organism complete with homeostatic feedback loops. Gaia is this organism &mdash; or, as one of Margulis&apos;s students put it, &lsquo;Gaia is symbiosis seen from space&rsquo; &mdash; described in <a class="fn"><cite>The Ages of Gaia</cite><span>
+	J Lovelock (1988) <cite>The Ages of Gaia: A biography of our living Earth</cite> (Oxford University Press, Oxford).</span></a>.
+There is a <a href="#RL">reading list</a> on Gaia Theory &mdash; pro and con &mdash; at the end of the chapter, for those who wish to explore. We move in the more practical direction of sustainability.
+</p>
+
+<p>There is a well-attested <a href="http://www.esp.org" class="fn">hypothesis <span>
+	&bull; TR Malthus (1798) <cite>An essay on the principle of population</cite> (Electronic Scholarly Publishing Project,
+	1998).<br>
+	&bull; SA LeBlanc, KE Register (2003) <cite>Constant battles: The myth of the peaceful, noble savage</cite> (St. Martin&apos;s Press, NYC).
+</span></a>that it is theoretically improbable and practically impossible for ecologically unaware human populations to be in long-term balance with the resources they require. A second <a class="fn">hypothesis <span>
+	L Keeley (2014) &lsquo;War Before Civilization—15 Years On&rsquo; in TK Shackelford, RD Hansen (eds.) <cite>The Evolution of Violence</cite> (Springer, Berlin) ISBN: 978-1-4614-9313-6. Ch. 2.
+</span></a>observes that warfare increases during &lsquo;hard times&rsquo; when the balance breaks down. A third <a class="fn">hypothesis <span>
+	RP Turco &amp;4a (1983) &lsquo;Nuclear Winter: Global Consequences of Multiple Nuclear Explosions&rsquo; <cite>Science</cite> <b>222</b>(#4630): 1283&ndash;1292; doi:10.1126/science.222.4630.1283.
+</span></a> argues that nuclear war could take us all back to the Stone Age (at best). The combination suggests that the US Congress, or the UN, or <i>somebody</i> ought to be paying attention to overpopulation!
+</p>
+
+
+
+<h3 id="03">
+<a class="tri" href="#02">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> <cite>Plan B 4.0</cite> </a>
+<a class="tri" href="#04">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">The food supply must have first call on the world&apos;s remaining oil and natural gas. &mdash; Economic analyst Brian Fleay. (This is just the opposite of the US response, which prior to fracking, subsidized the conversion of food to automotive ethanol to stabilize the price of oil and calm &lsquo;the market&rsquo;.)
+</p>
+
+<p>With respect to the world as a whole, Table 22.1 presents a carefully thought-out list of priorities from Lester Brown. Complete details may be found in his <a href="http://www.earth-policy.org/Books/"><cite>Plan B 4.0</cite></a> (Table 13-2).
+</p>
+
+
+<hr> <table class="tcen" id="T22.1">
+<caption>
+<a class="tri"  href="../_F/F22b.shtml#T22.6">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"> Table 22.1 </a>
+<a class="tri" href="#T22.2">&emsp;&emsp;&#9654;</a>
+Restoring Earth&apos;s productivity. Annual cost over a 20-year period. The question is not &lsquo;Can we afford to do this?&rsquo;, but &lsquo;Can we afford not to?&rsquo; &lsquo;The choice will be made by our generation, but it will affect life on earth for all generations to come.&rsquo; Everything here pays for previous mistakes.
+</caption>
+
+<thead>
+<tr><th colspan="3">Gaian Responsibilities</th></tr></thead>
+
+<tfoot><tr><td>World Armaments, 2008</td><td>1,460<td> &mdash; of which 41% (G$680) is American.</td></tr>
+</tfoot>
+
+<tbody>
+<tr><th>Ecosystem </th>
+	<th>G$</th>
+	<th>Method</th></tr>
+
+<tr><td>Restoring rangelands</td>
+	<td>&nbsp;9</td>
+	<td>Eliminate overstocking; fallow years</td></tr>
+
+<tr><td>Stabilizing water tables</td>
+	<td>10</td>
+	<td>Increase efficiency of water use. (See below.)</td></tr>
+
+<tr><td>Restoring fisheries</td>
+	<td>13</td>
+	<td>30% of ocean as marine reserve</td></tr>
+
+<tr><td>Reforestation (flood control; CO₂ sequestration)</td>
+	<td>23</td>
+	<td>Replanting</td></tr>
+
+<tr><td>Protecting topsoil</td>
+	<td>24</td>
+	<td>Retire most erodable 10%; no-till agriculture</td></tr>
+
+<tr><td>Protecting biological diversity</td>
+	<td>31</td>
+	<td>Park management; wetland restoration; no-go reserves; interconnect reserves</td></tr>
+
+<tr><td><b><cite>Plan B</cite> Subtotal</b></td>
+	<td><b>110</b>
+	</td><td></td></tr>
+
+<tr><td>Global Heating</td>
+	<td>&nbsp;30</td>
+	<td><a class="fn">Source: <cite>
+Stern Report</cite><span>Sir Nicholas Stern (2006) <cite>Stern Review on the Economics of Climate Change</cite> (HM Treasury, London).</span></a></td></tr>
+
+<tr><td><b>Gaian Subtotal</b></td>
+	<td><b>140</b></td>
+	<td></td></tr>
+</tbody>
+</table>
+
+
+<p>Brown&apos;s work is authoritative because for 30 years, in annual <cite>State of the World</cite> books, his Worldwatch Institute tracked the efforts of those who are trying to do that often disparaged thing: save the world. We delay the details of financing until the next chapter. Suffice it to say here that the cost is not unreasonable, and we are already paying it in destructive ways, both directly and indirectly. As an example of indirect payment, consider deforestation in China, which between 1950 and 1980 logged 75 million hectares without regard for watershed protection or soil conservation. As a result, droughts in 1997 caused the Yellow River to dry up for 267 days, affecting industrial, agricultural and residential water users in northern China. Floods in 1998 resulted in the loss of 4,150 lives, displacement of millions of people, and economic damages estimated at G$30, with an ongoing annual net loss of G$12 until the forest regrows. When the market price of wood was $57/m<sup>3</sup>, the total cost, including environmental effects, was $102/m<sup>3</sup>. The problem, as always, is that the rich received the $57 and the poor paid the $102, and this is the way the 1&permil; want it: <b>Privatize the profit, socialize the cost!</b>
+</p>
+
+<p> UNEP, the UN Environment Program, eventually noticed the need to protect biological diversity, and in mid 2010 allowed its logo to appear on a watered-down European document called <a class="fn"><cite>
+	TEEB &ndash; The Economics of Ecosystems and Biodiversity Report for Business</cite><span>P Sukhdev (2010) <cite>TEEB &mdash; The Economics of Ecosystems and Biodiversity Report for Business</cite> (UNEP, Nairobi).</span></a>.
+Because only 27% of sociopathic global CEOs expressed concern about biodiversity loss (and less than 15% of US CEOs), UNEP carefully proclaimed, &lsquo;The views expressed in this report &hellip; may not in any circumstances be regarded as stating an official position of the organisations involved.&rsquo; This might be considered a recognition of where the cause of the problem lies, and of the baleful influence that proponents of business-as-usual exert on decision-makers.
+</p>
+
+<p>The decade of inaction since <cite>Plan B 1.0</cite> has raised the estimated annual cost of protective measures from G$31 to G$45. Still, the annual benefits are appraised at T$4&ndash;5. Despite the 100:1 return on investment &mdash; rather more than is usually available &mdash; this is of no interest to our financial sector, because the return is distributed across the world and into the future. Much of the return appears as avoidance of costs, rather than anything bankable. It is the sort of investment one makes, thinking to leave a better world for his children. The immediate cost &mdash; part of which is creating land and sea reserves to remove critical regions from commercial exploitation &mdash; will be seen by the short-sighted as unwarranted interference with their god-given right of pillage (Gen. 1:26).
+</p>
+
+<p><cite>Plan B</cite> is optimistic in several respects, but this is not the place for details. It does, however, cover the  matter of global heating rather lightly.
+</p>
+
+
+<h2 id="04">
+<a class="trs" href="#03">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#01">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> DEEP ECOLOGY </a>
+<a class="tri" href="#4.5">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#4.5">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p>Arne Naess, who gave us the concept of Deep Ecology in 1973, spent a week in April of 1984 camping in Death Valley with George Sessions, during which they set out basic principles which may have been startling to people at the time, but which seem pretty obvious today:
+</p>
+
+<ol>
+<ul><br>The well-being and flourishing of life on Earth have value in themselves which are independent of the usefulness of the non-human world for human purposes.</ul>
+
+<ul><br>Richness and diversity of life forms contribute to the realization of these values and are also values in themselves.</ul>
+
+<ul><br>Humans have no right to reduce this richness and diversity except to satisfy <i>vital needs</i>.</ul>
+
+<ul><br>The flourishing of human life and cultures is compatible with a substantial decrease of the human population. The  flourishing of nonhuman life requires such a decrease.  [This is the only point that needs comment. The idea of reducing the human population is so contrary to both our DNA (read <i>sex drive</i>) and culture, that this principle has gotten Deep Ecology called &lsquo;fascist&rsquo; and &lsquo;hateful toward humanity&rsquo; by the innumerate. A little thought shows that the sustainable population of the Earth is ~3 billion. How do we know this? Because the world population up to 1910, when the oil age began, was a smooth solar-supported logistic which looks as though it would level off at <a href="../_E/E20.shtml#F20.16">this number</a>. See <a href="#F22.6">Fig. 22.6</a> for the only approach proposed so far to increase the sustainable number.</ul>
+
+<ul><br>Present human interference with the non-human world is excessive, and the situation is rapidly worsening.</ul>
+
+<ul><br>Policies must therefore be changed.  These policies affect basic economic, technological, and ideological structures.  The resulting state of affairs will be deeply different from the present.</ul>
+
+<ul><br>The ideological change is mainly that of appreciating life quality (dwelling in situations of inherent value) rather than adhering to an increasingly higher standard of living. There will be a profound awareness of the difference between big and great.</ul>
+
+<ul><br>Those who subscribe to the foregoing points have an obligation directly or indirectly to try to implement the necessary changes.</ul>
+
+</ol>
+
+<br><br>
+<hr>
+
+<h2 id="4.5">
+<a class="trs" href="#04">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#01">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> GLOBAL HEATING </a>
+<a class="tri" href="#08">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#05">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p class="epi">THE <b>PROBLEM</b>:
+<ul class="o4">
+<li>1824, Fourier: The atmosphere <a href="../_F/F22b.shtml#03">traps heat</a>.</li>
+<li>1861, Tyndall: Changes in CO₂ might explain climate change.</li>
+<li>1896: Arrhenius outlines the effects of anthropogenic CO₂.</li>
+<li>1936, Callendar: Doubling CO₂ will raise temperature 2°C.</li>
+<li>1961, Keeling: Fossil-fuel use is steadily <a class="fn">increasing CO₂.<span>
+	I was hired, fresh out of grad school, on Keeling&apos;s recommendation, because he intended that I should join his group as a post-doc. Dean Roger Revelle thought I was too old for post-doc&apos;ing and annointed me Assistant Professor. Keeling was doing first-rate science and the needed response was obvious, so it never occurred to me &mdash; imbued with the idealism and naïvet&eacute; of the ivory tower &mdash; that the US would not respond immediately and intelligently to a clear and present danger . I didn&apos;t see why Keeling needed me, so with interesting problems of my own lacking obvious answers I went my own way &mdash; thereby missing my chance to become a household name.
+</span></a></li>
+
+<li>7th-grade science: known to all who have been paying attention:</li>
+
+<ul class="o5">
+<li>Adding CO₂ increases the altitude from which infrared radiation can escape to space.</li>
+<li>The radiation temperature of the Earth is at this altitude.</li>
+<li>Below this altitude, temperature increases adiabatically with pressure.</li>
+</ul>
+
+
+<li>1972, Sawyer: By 2000, CO₂ will increase by 25% and temperature by 0.6°C.</li>
+<li>2003, Root: 1200 species have responded to global heating by changing their behavior. <span class="rc">We are not among them. In fact, our ecocidal misbehavior is accelerating.</span></li>
+<li>2014, Hansen: A legal case can be made for children to sue the government for the harm they will endure if we continue to use fossil fuels.</li>
+<li>2016: US District Court Judge Ann Aiken rejects all arguments to dismiss raised by the Obama administation and fossil fuel industry. Said 16-year-old plaintiff Xiuhtezcatl (Shoah-tez-caht) Martinez: &lsquo;We&apos;re doing what so many people told us we were incapable of doing: holding our leaders accountable for their disastrous and dangerous actions.&rsquo;</li>
+
+</ul>
+
+<p class="epi">THE NATURAL, RATIONAL <b>RESPONSE</b>:</p>
+
+<ul class="o4">
+<li>1966: Obviously, one should do something about this, so &hellip;</li>
+<li>1982: I no longer need a car, or to heat or cool my house.</li>
+<li>2016: I sell electricity. &mdash; B.F. Becula</li>
+</ul>
+
+
+<p class="epi">[Climate change] is the greatest and widest-ranging market failure ever seen (<cite>Stern Report</cite>) &mdash;  because  the price of energy is based on current demand and supply, and not  on the costs to the planet in global heating, climate change, biodiversity loss, pollution, sea level rise, &hellip;
+</p>
+
+<p>The <a class="fn">superficial problem<span>
+	The deep problem is how one persuades a person connected to the real world only through the stock market that facts and data and logic are important, <i>even when they disagree with the market</i>. We failed, dramatically, to do this in 1929 (and a few of them withdrew from gene pool, but too late to do much good) and consistently since ~1970, and I haven&apos;t a clue how to deal with this problem. Like most scientists, I carry on with facts and data and logic and hope that some rubs off. It&apos;s a frustrating job, leading jackasses to water!
+</span></a> is shown in Fig. 22.1. The data is noisy, which makes it very hard to see small trends. The modeller&apos;s response is to separate noise from signal, which can be done by subtracting 2 simple equations from the &lsquo;climate&rsquo; data on the left, leaving the &lsquo;weather&rsquo; data on the right.
+</p>
+
+<figure id="F22.1">
+<img class="fc" width="90%"
+src="F-Images/22.1_GlobalHeating.jpg" alt="F-Images/22.1_GlobalHeating.jpg" />
+
+<figcaption>
+<a class="tri" href="../_F/F22b.shtml#F22.13">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"> Fig. 22.1 </a>
+<a class="tri" href="#F22.2">&emsp;&emsp;&#9654;</a>
+Global Heating. <b>Left:</b> The smooth curve is the best-fit exponential. It closely matches anthropogenic CO₂ production, with about half of the CO₂ absorbed by and acidifying the ocean. The blue area is an oscillation first spotted by oceanographer <a class="fn">Wallace Broecker<span>
+	WS Broecker (1975) &lsquo;Man&apos;s oxygen reserve&rsquo; <cite>Science</cite> <b>189</b>: 460&ndash;463.
+</span></a> at a time when Big Oil pretended that the red line was real and claimed that the lack of increase between 1900 and, ultimately, the late 1970s, &lsquo;proved&rsquo; that global heating <a class="fn">was not happening.<span>
+	Moral: <i>Ignore advertizing</i>. If corporations were persons they’d be incarcerated as dangerous sociopaths. By the end of 2015, it became apparent that Big Oil had long known a great deal about global heating, and had chosen to lie about it. So far, no Boards of Directors have faced a firing squad for this, but I don&apos;t know why not.
+</span></a> After wartime ship records were <a class="fn">digitized,<span>
+	EC Kent, SD Woodruff, DI Berry (2007) &lsquo;Metadata from WMO Publication No. 47 and an assessment of voluntary observing ship&apos;s observation heights in ICOADS&rsquo; <cite>J Atmos Ocean Technol</cite> <b>24</b>: 214&ndash;234.
+</span></a> it became clear that &lsquo;the sudden drop in [sea-surface temperatures (SST)] in late 1945 is consistent with&rsquo; changes in the way <a class="fn">SST was measured<span>
+	DWJ Thompson &amp;3a (2008) &lsquo;A large discontinuity in the mid-twentieth century in observed global-mean surface temperature&rsquo; <cite>Nature</cite> <b>453</b>(#29): 646&ndash;649.
+</span></a> (bucket vs engine cooling-water intake). Correction can be as much as 0.3°C. <b>Right:</b> This is what would be happening in the absence of fossil-fuel consumption and Wally&apos;s Wiggle, (both removed by subtraction of simple equations, implying simple underlying processes). Some of the low points are associated with large volcanic eruptions. The red line represents an 80-year pseudo-stillstand in the rise.
+</figcaption> </figure>
+
+
+<p>An 0.8°C (0.3%) increase in mean temperature might seem insignificant, but it represents a <a class="fn">2 W/m<sup>2</sup> (0.8%) additional<span>
+	1378 W/m<sup>2</sup> (solar input) * 0.7 (for reflected input) * 0.25 (for nights and spherical surface) = 241 W/m<sup>2</sup> mean energy received.
+</span></a> energy input to the earth&apos;s surface, and a non-steady-state distribution of that energy. The ocean moves heat poleward in concentrated surface currents (e.g., the Gulf Stream); the return flow is by cold deep water, but melting ice makes the surface of polar seas less dense and inhibits the return flow. The atmosphere moves heat from the tropics to the upper atmosphere, where it can radiate to space. The concomitant to moving hot moist air poleward is moving cold dry air equatorward. Planetary rotation complicates the process, and is largely responsible for weather. Storms are a consequence of this energy transport; increase the energy to be moved, and established weather patterns change and winds increase. The temperate zone does not see a steady rise in mean temperature, but higher-energy storms. The result is that the details of climate change are unpredictable and often counter-intuitive (where I live, we had a year&apos;s rainfall last month). This randomness makes it possible for the financially interested to deny that anything new is happening.
+<p>
+
+<p>As one &lsquo;unrelated&rsquo; consequence, shifting rainfall will exacerbate a problem whose primary cause is simple overpopulation. People fight wars over water, and water tables are sinking in all of the world&apos;s major aquifers: in some cases there is no recharge (Yemen), and in others extraction is 100 times recharge (parts of the Ogallala). On your next summer overflight of the Ogallala (which extends from South Dakota to Texas), notice the acre-sized &lsquo;crop circles&rsquo; created by center-pivot sprinklers, and contemplate &lsquo;increasing efficiency of water use&rsquo; by a factor of 100 &mdash; given that the sprinklers are considered a water-conserving method. Present urgency and forethought are such that &lsquo;increased oversight and regulation of the aquifer by the federal government does not appear to be forthcoming&rsquo; {Wikipedia}. The Great Lakes watershed authorities have problems of their own and do not welcome ideas about recharging the Ogallala from their lakes.
+</p>
+
+<p>Recall the &lsquo;<a class="fn">historical proportions<span>
+	E de Carbonnel (2009) &lsquo;Catastrophic Fall in 2009 Global Food Production&rsquo; http://www.marketskeptics.com/2009/02/2009-global-food-catastrophe.html (Accessed 2009-02-15).</span></a>&rsquo;
+of the droughts of 2009 in the US, Mexico, South America, Australia, Indian Ocean countries, and the dry strip from Mauritania to China; the 2012 drought in the US Midwest; the doubling of the (deflated) <a class="fn">price of food<span>
+	Food and Agriculture Organization (2012) <cite>Food Price Index</cite> (FAO, Rome).</span></a>
+between 2000 and 2012, and the failure of the Amazon rain forest to recover from the drought of 2005&ndash;2009 before the drought of 2012 {<cite>GW</cite> 2013-01-13 p9}. These annoying events are not unrelated to the 0.8°C increase in global mean temperature shown in Fig. 22.1.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#4.5">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="05"> Biased Data? </a>
+<a class="tri" href="#06">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">[Rejecting authority, the Americans] fall to denying what they cannot comprehend. &mdash; A philosophical consequence of democracy in America, observed as early as 1831 by Alexis de Toqueville.
+
+<p class="epi">Doubt is our product, since it is the best method of competing with the &lsquo;body of fact&rsquo; that exists in the minds of the general public. It is also the means of establishing a controversy. &mdash; Unknown tobacco executive stupid enough to write this in a memo.
+</p>
+
+<p>Ignoranti (such as Rush Limbaugh) claim that there are no data supporting climate change. This is not true. The American Meteorological Society offers <a class="fn">14 time series,<span>
+	<cite>State of the Climate</cite> Special Supplement to the <cite>Bulletin of the American Meteorological Society</cite> <b>95</b>(#7) July 2014
+</span></a> supported by 257 pages of detail, showing 8 things increasing that one expects to rise with global heating (e.g., land surface temperature, ocean heat content, &hellip;), and 6 things decreasing that one expects to fall (glacier volume, soil moisture, &hellip;). One has to be stupid, purblind, or bought, not to recognize that global heating is real.
+</p>
+
+<p>The Intergovernmental Panel on Climate Change&apos;s <a class="fn">
+	<cite>IPCC Reports</cite> <span>Intergovernmental Panel on Climate Change (2007) <cite>Climate Change 2007: The Physical Science Basis.</cite> (Cambridge University Press).</span></a>
+lag the data by about 5 years, but provide our best assessment of climate change. The current set draws on nearly every relevant research paper written through 2012. The <cite>Physical Science</cite> volume has 2 companions of similar import and size: <cite>Impacts, Adaptation and Vulnerability</cite>, and <cite>Mitigation of Climate Change</cite>. All are available for download <a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml#.T75_DtWxVPp">here</a>.
+</p>
+
+<p>Ameliorating global heating will cost money. It will generate business opportunities for some, and reduce them for others. Consequently, much tobacco-style FUD is aimed at the interpretation of  temperature proxies such as tree rings, marine sediments, ice cores, coral reefs, stalactites, &amp;c. In particular, there were indignant claims that the Medieval Warm Period (c. 950&ndash;1250) was just as hot as today (not true), so all is well (not true). The rationale seems to be this:
+</p>
+
+<blockquote>If we can just ignore the data, global heating will go away. Let us declare paleothermometry to be junk science and the Weather Bureau (and 100 other research centers) incompetent. They are obviously doing what we were taught in our expensive MBA courses: spread fear and lies to keep the research money rolling in.
+</blockquote>
+
+<p>Granted, each paleothermometer presents unique subtleties and is subject to confounding influences. This is why professionals devote their careers to testing and refining techniques and interpretations.
+</p>
+
+<p>Granted, the Weather Bureau cannot predict weather 2 weeks in advance, because the atmosphere is chaotic and weather happens at random in the right half of Fig. 22.1. This is why we focus on the smooth curve drawn through the left half of the figure.
+</p>
+
+<p>A typical denialist complaint is that it was not long ago that climate scientists were predicting another ice age. Now they‘re predicting heat waves, so obviously they don&apos;t know what they are talking about. (Denialists are uncomfortable with change, but clearly on speaking terms with fraud, since it is the first thing they think of to explain the erratic progress of science.) If you look at the temperature-vs-time curves from the 4 km of ice at Vostok in Antarctica, you see Fig. 22.2, with a sawtooth curve and a steep rise at the beginning of an interglacial, followed by a slow cooling into the next ice age. (There are now ice cores from 3 dozen sites, showing both general agreement and interesting local variation.) The sawtooth pattern was news in 1999 when it was <a class="fn">first published.<span>
+	JR Petit &amp;18a (1999) &lsquo;Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica&rsquo; <cite>Nature</cite> <b>99</b>: 429&ndash;436; doi:10.1038/20859
+</span></a> Checking their algorithms against this new data, climate models suggested that by now, 12,000 years since the initiation of the interglacial, the climate should have cooled enough so that eastern Canada would be accumulating ice once again. Hence the concept of a new ice age <i>90,000 years down the road</i>.
+</p>
+
+
+<figure>
+<img class="fl"  width="66%"
+src="F-Images/22.2_Vostok.jpg"
+alt="22.2_Vostok">
+<figcaption>
+<a class="tri" href="#F22.1">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F22.2"> Fig. 22.2 </a>
+<a class="tri" href="#F22.3">&emsp;&emsp;&#9654;</a>
+Vostok Temperature Data. The accumulation of ice begins as soon as insolation and the greenhouse between them are too weak to melt all of the winter&apos;s ice during the summer, approximately at the 0 line of temperature difference. The earlier ice ages suggested that we should be seeing year-old snow in eastern Canada by now, and the some climate models agreed. This is not happening, so our interglacial is not like the previous ones. Why not?
+</figcaption></figure>
+
+
+<p>But Canada is obviously <i>not</i> accumulating ice &mdash; and here we come to one of those situations that partition the world into 2 kinds of people: in this case, those who say, &lsquo;That&apos;s odd! I wonder what&apos;s happening?&rsquo;, and go to the laboratory or the field or the literature or the web to find out; and those who seize upon this as proof that the enterprise of trying to understand the world is Faustian and the work of the devil.
+
+<p>In 2003, <a class="fn">Ruddiman<span>
+	WF Ruddiman (2003) &lsquo;The Anthropogenic Greenhouse Era Began Thousands of Years Ago&rsquo; <cite>Climatic Change</cite> <b>61</b>: 261&ndash;293.
+</span></a> suggested that land clearance for Neolithic agriculture, beginning 8000 years ago, had injected enough anthropogenic greenhouse gases to make our interglacial different from the prototypes &mdash; a hypothesis he himself described as &lsquo;provocative and controversial&rsquo;, although I don&apos;t see why. Figure 22.3 shows the expected and actual changes in methane over the period in question, with methane being about 200 times more effective than CO₂ as a greenhouse gas. The graph for CO₂ shows a similar change of direction starting 8000 years ago.
+</p>
+
+
+<figure>
+<img class="fl" width="66%"
+src="F-Images/22.3_EarlyMethane.jpg"
+alt="F-Images/22.3_EarlyMethane.jpg">
+
+<figcaption>
+<a class="tri" href="#F22.2">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F22.3"> Fig. 22.3 </a>
+<a class="tri" href="#F22.4">&emsp;&emsp;&#9654;</a>
+Early Methane. Ruddiman noticed that CO₂ began inceasing ~8000 years ago, when we started clearing European forests for agriculture. Methane began increasing ~5000 years ago, when the Chinese started making rice paddies. (The dip labelled &lsquo;YD&rsquo; is the Younger Dryas, a millennial  cold dry period whose origin remains unexplained. Neither asteroid impact nor vulcanism appears to be responsible.) The coupling between low-latitude insolation and methane is probably through monsoon rains and lowland floods (stagnant water being a common source of methane). In short, Ruddiman suggests that we began changing the climate long before the Industrial Revolution.
+</figcaption></figure>
+
+
+<p>A typical <a class="fn">FUD paper<span>
+	D‘J Aleo, A Watts (2010) &lsquo;Surface Temperature Records: Policy‐Driven Deception?’ <cite>SPPI Original Paper</cite> 2010-08-27 http://scienceandpublicpolicy.org/originals/policy_driven_deception.html (2010-09-13),
+</span></a> claims that instrumental records suffer from urban heat islands, land-use change, relocation of stations, missing data, poorly placed thermometers, and undocumented &lsquo;adjustments&rsquo; that have left a record with a warming bias and no reliable way to correct it. The subphrase of its title, &lsquo;Policy-based deception?&rsquo;, strongly suggests psychological projection of the authors&apos; own <i>modus operandi</i>. The paper is part of a long carping suite of disinformation from the Heartland Institute, a raucous denier of climate change supported by and speaking for the <a class="fn">Koch coal billionaires.<span>
+	Who, be it noted, would not be billionaires if they paid miners a living wage.
+</span></a> In contrast to the FUD, careful analysis showed a slight <i>cooling</i> bias in US data, corresponding not to the suggested problems, but to the replacement of mercury thermometers by thermistors. This bias was removed by pairwise comparisons of trend lines spanning the period of replacement. The US Climate Reference Network (with some duplicate stations and triply redundant instrumentation) shows intercomparison uncertainties comparable to the precision of thermistors, in the <a class="fn">millikelvin<span>
+	JM Zurbuchen (2000) &lsquo;Precision Thermistor Thermometry&rsquo; (Measurement Specialties, Dayton OH).</span></a>
+range (±0.001°C). &lsquo;We find <a class="fn">no evidence<span>
+	MJ Menne, CN Williams Jr, MA Palecki (2010) &lsquo;On the reliability of the U.S. surface temperature record&rsquo;<cite> J Geophys Res</cite> <b>115</b> D11108, 9pp; doi:10.1029/2009JD013094.</span></a>
+that the US average temperature trends are inflated due to poor station siting&rsquo;.
+</p>
+
+<p>&lsquo;Figures don&apos;t lie, but liars do figure&rsquo;. Here are some misleading things one could truthfully say about Fig. 22.1:</p>
+
+<ul>
+<li> The mean temperature was the same in 1926 and 1978.</li>
+<li> 1944 was the hottest year of the [or &lsquo;a&rsquo;] century.</li>
+<li> The record shows 60 years of mean temperature decrease.</li>
+</ul>
+
+<p class="flu"> &mdash; and none of them changes the 0.8°C rise.
+</p>
+
+<p>Nor does the conservative FUD change the reality of global heating. &lsquo;Climate sceptics&rsquo;, apparently terrified of taxes, regulation, and loss of business, continue to exaggerate imaginary failings in the hope of discrediting scientists who study global heating. Accordingly, we look at a pair of indirect records whose data and interpretation &mdash; while still subtle &mdash; are independent, based on different techniques, and are perhaps more persuasive to the by-stander. These are the loss of Arctic sea ice and Antarctic land ice.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#05">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="06"> Melting the Ice </a>
+<a class="tri" href="#07">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">Virtually all [climatologists] are now convinced that global warming poses a clear and present danger to civilization. &mdash; glaciologist Lonnie Thompson
+</p>
+
+<p>The loss of ice is unarguable. Antarctic land-ice loss is accelerating at the rate of 28 Gtons/yr², as shown by the parabolic green trend line in Fig. 22.4. (The red line smooths seasonal variability.) Unlike the melting of Arctic sea ice, this loss contributes directly to sea-level rise.
+</p>
+
+
+<figure>
+<img class="fl"  width="74%"
+src="F-Images/22.4_AntarctIcIceLoss.jpg"
+alt="22.4_AntarctIcIceLoss">
+
+<figcaption>
+<a class="tri" href="#F22.3">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F22.4"> Fig. 22.4 </a>
+<a class="tri" href="#F22.5">&emsp;&emsp;&#9654;</a>
+Antarctic Ice Loss, measured by changes in gravity, thus integrating over the area without needing detailed ice-thickness <a class="fn">measurements.<span>
+	I Velicognam (2009) &lsquo;Increasing rates of ice mass loss from the Greenland and Antarctic ice sheets revealed by GRACE&rsquo; <cite>Geophysical Research Letters</cite> <b>36</b> L19503, 4 pp; doi:10.1029/2009GL040222.
+</span></a> The red line is seasonaly adjusted; the green line is the parabolic trend. The green line is widened to include a 33 Gt/yr <a class="fn">error estimate<span>
+	M Bevis &amp;13a (2009) &lsquo;Geodetic measurements of vertical crustal velocity in West Antarctica and the implications for ice mass balance&rsquo; <cite>Geochem. Geophys. Geosyst.</cite> <b>10</b>, Q10005; doi:10.1029/2009GC002642.
+</span></a> that includes glacial isostatic adjustment (the solid crust rising in the fluid mantle as the <a class="fn">ice-load lightens).<span>
+	The continental crust floats on the visco-elastic mantle. When the weight of the glacier is removed, the crust and mantle respond. Rise on the order of 1 cm/yr will continue for 10,000 years where the ice was thickest.
+</span></a>
+</figcaption></figure>
+
+
+<p>As of 2007, the best interpretation led the <a class="fn">
+	IPCC<span>Intergovernmental Panel on Climate Change (2007) <cite>Climate Change 2007: The Physical Science Basis.</cite> (Cambridge University Press): 17.</span></a>
+to say:
+</p>
+
+<blockquote>Current global model studies project that the Antarctic Ice Sheet will remain too cold for widespread surface melting and is expected to gain in mass due to increased snowfall.
+</blockquote>
+
+<p>This did not happen, and perversely, Antarctic <i>sea</i> ice is <i>increasing</i>. Poorly informed sceptics misinterpret this to deny global heating and display the incompetence of scientists, but the projection was from models that did not include circumpolar fluid thermodynamics with <a class="fn">sufficient subtlety.<span>
+	Just as a truly accurate map would be the same size as the terrain it represents, a truly accurate model would run as slowly as the real world. Each model now has thousands of hours of development time behind it, endeavoring to incorporate what its creators believe are the most important processes in realistic (and efficient) algorithms. The best way to appreciate the problems is to get involved. Laptops now have the capacity to run the super-computer models of the 1970s, so you could run your own first-order model. Even better, the Climateprediction.net runs a distributed computing project to which anyone with a home computer can contribute. They have run over 80,000,000 model years on 50,000 contributing personal computers, with an increasingly sophisticated series of global climate models.
+<br>-------------------<br>
+	H Le Treut &amp;7a (2007) &lsquo;Historical Overview of Climate Change&rsquo; In: S Solomon &amp;8a (eds) <cite>Climate Change 2007: The Physical Science Basis</cite> (Cambridge University Press).
+</span></a> Warmer water north of the Antarctic Convergence evaporates. Naïvely expected to increase precipitation on the land mass, it instead snows out before it reaches the coast, creating a fresh-water input that reduces the salinity and density of surface seawater, while raising its freezing point and increasing its vertical stability. This produces a cold, thin, quickly frozen surface layer. The present balance (not necessarily permanent) results in more sea ice. (After all, &lsquo;warming&rsquo; in Antarctica can mean going from -20°C to -17°C, and ice still forms.)
+</p>
+
+<p>The major concern in Antarctica is the West Antarctic Ice Sheet. Ice sheets are what glaciers turn into when they hit the ocean, and their size is a balance between glacial input and ice-edge calving of icebergs and melting. The Larsen A Ice Shelf (at the warm end of West Antarctica) collapsed in  1995, the adjacent Larsen B, about the size of Rhode Island, having been stable for 12,000 years, disintegrated in 3 summer weeks of 2002. The Ross Ice Shelf, about the size of France, showed signs of instability by May 2014. Its disintegration would not raise sea level (because it is floating ice), but it would unblock the glaciers that feed it, which have the mass to raise sea level by 3 meters in, say, <a class="fn">a century.<span>
+	This, incidentally, is why I built my house at 250 m above sea level, instead of down by the beach at the end of my river, with its warm water, interesting marine life, and topless girls. Glacial surges have been known to outrun people, and there is a high-water mark in the Thames Valley which appears to be the result of an Antarctic ice surge.
+<br>-------------------<br>
+	JT Hollin (1977) &lsquo;Thames interglacial sites, Ipswichian sea levels and Antarctic ice surges&rsquo; <cite>Boreas</cite> <b>6</b>: 33&ndash;52; doi: 10.1111/j.1502-3885.1977.tb00694.x
+</span></a>
+</p>
+
+
+<figure>
+<img class="fl"  width="72%"
+src="F-Images/22.5_ArcticSeaIce.jpg"
+alt="V">
+
+<figcaption>
+<a class="tri" href="#F22.4">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F22.5"> Fig. 22.5 </a>
+<a class="tri" href="#F22.6">&emsp;&emsp;&#9654;</a>
+Arctic sea-ice volume from a validated model by University of Washington&apos;s Polar Science Center. Inspired by Fig. 22.4, I have added the parabolic trend line. The loss of multi-year ice (cyan) and its summer infra-red reflectivity increase the rate of loss.
+</figcaption></figure>
+
+
+<p>Up in the north, the loss of thick multi-year Arctic sea ice was 50 km³/yr in 1972 and has increased at 10 km³/yr² since, as shown in Fig. 22.5. The Northwest Passage, sought by navigators for centuries, is now open and raising diplomatic questions about whether it is international water or an internal Canadian waterway.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#06">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="07">The &lsquo;Denatured&rsquo; Among Us</a>
+<a class="tri" href="#08">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">
+Meanwhile, back on SPACESHIP EARTH, the crew are:<br>
+&mdash;  Plundering the ship’s supplies<br>
+&mdash;  Tinkering with the temperature and life-support controls
+<br>
+&mdash;  Still looking for the instruction manual<br>
+&mdash;  Engaging in bloody skirmishes in every corner of the vessel<br>
+&mdash;  Increasing the size of the crew by 2 million PER WEEK. &mdash; <a class="fn">
+	P Creola<span>(2001) &lsquo;Future Strategic Issues/Future Warfare [Circa 2025]&rsquo; (NASA Langley, Hampton VA).
+</span></a>
+</p>
+
+<p>Another observation which undermines the attempts of climate sceptics to deny global heating comes from the biological world. By 2002, <a class="fn">Walther<span>
+	G-R Walther &amp;8a (2002) &lsquo;Ecological responses to recent climate change&rsquo; <cite>Nature</cite> <b>416</b>: 369&ndash;395.
+</span></a> could cite 97 papers describing climate-induced behavioral change in different groups of organisms. 1200 species (lacking thermostats and air conditioning) had <a class="fn">altered their behavior<span>
+	TL Root &amp;5a (2003) &lsquo;Fingerprints of global warming on wild animals and plants&rsquo; <cite>Nature</cite> <b>421</b>: 57&ndash;60.
+</span></a> a decade ago. Some have moved poleward at 6 km/decade, or to higher elevations. Other flower or mate earlier, by <a class="fn"> 2.3 days/decade.<span>
+	C Parmesan, G Yohe (2003) &lsquo;A globally coherent fingerprint of climate change impacts across natural systems&rsquo; <cite>Nature</cite> <b>421</b>: 37&ndash;42.
+</span></a> Systems such as bird reproduction in which one component responds to day length (migration) and another to temperature (insect food for nestlings) are confused: evolution will be rapid here. Heat- and drought-resistant alleles have spread into populations that never needed them.
+</p>
+
+<p>One of the more striking examples is the circumpolar Arctic walrus. Normally, walruses use ice floes to rest, sleep, raise their young, and scan the bottom for molluscs. By October of 2014 there was <a class="fn">so little<span>
+	Z Schlanger (2015) <cite>Newsweek</cite>
+</span></a> sea ice that 35,000 walruses hauled out on Alaska beaches &mdash; a habitat they had abandoned long ago because of predation by humans.
+</p>
+
+<p>In other words, <b>those who know what is going on have been adjusting for decades.</b> (Oddly, this includes trees and bugs &mdash; but not bankers, CEOs, or politicians.) The world of nature is exquisitely aware of what is happening &lsquo;out there&rsquo;, posessing a perspective known only to humans who are similarly in touch with the real world &mdash; bird-watchers, backpackers, gardeners, ecologists, field biologists, climatologists, and their ilk. Climate-change deniers are people who subsist in heated/air-conditioned space, unaware of reality. They are so insulated from the natural world that we might well call them &lsquo;denatured&rsquo;. In biological terms, they are non-adaptive. In the absence of technology (and the financial ability to protect themselves artificially), they would be the first to succumb to natural change. They are dead fossils walking. Unfortunately, we are letting them take the rest of us with them.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#07">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#4.5">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="08"> THE DETAILS </a>
+<a class="tri" href="#20">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#09">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p class="epi">Can we stabilize population by reducing fertility before nature takes over and stabilizes our numbers by raising mortality? &mdash;  Lester Brown. [Curiously, the mortality ratio of Ebola in Africa approximates the sustainable/current population ratio. Might this be an answer to Brown&apos;s question? Global warming also means that &lsquo;tropical&rsquo; diseases are migrating poleward.]
+</p>
+
+<p>Global temperature regulation is so complex, relevant information so remote from the non-scientist, the abhorrence of taking responsibility so ingrained, and the thought of spending corrective money so appalling, that it is easy for the denatured to deny:
+</p>
+
+<ul class="o3">
+<li>That global heating is happening;</li>
+<li>That it is caused by human activity;</li>
+<li>That we can alter its course; and</li>
+<li>That we could afford amelioration.</li>
+</ul>
+
+<p>Having established sufficient FUD, purblind economics can show that:</p>
+
+<ul class="o3">
+<li>In defiance of Zoroaster and evolution, we owe our descendants nothing, and</li>
+<li>They will be better able to cope.</li>
+</ul>
+
+<p>The <a class="fn">Cato Institute<span>
+	L Taylor, P van Dorn (2006) &lsquo;Stern Rebuke: Global insurance is a bad buy&rsquo;. <cite>National Revue</cite>, 20Nov06.
+</span></a> suggested that in 100 years the per-capita <a class="fn">GDP will be $321,684,<span>
+	This estimate appears to be a $16,000 base after a century of 3% annual growth. If inflation runs at 3.5% &mdash; a low estimate &mdash; the $321,684 will be worth $9,714, for a net purchasing-power loss of 39% over the century. The Cato Institute has fairly smart people (it would be invidious to add &lsquo;for conservatives&rsquo;), and it is unlikely that the authors cannot do arithmetic. This implies that they intentionally neglect inflation, which is dishonest and makes their result a deliberate lie. The <cite>National Review</cite> should be ashamed to publish such transparent political claptrap!
+	<br><br> This analysis also runs counter to the careful planning: if all goes well, by the next century the 1% will own 87% of the wealth &mdash; making it very difficult to squeeze money out the rest of us to pay for amelioration.
+</span></a> so:</p>
+
+<ul class="o3">
+<li>The only rational course of action is to get rich as fast as possible.</li></ul>
+
+
+<p>This is Instinct-1 talking. The most generous interpretation one can put on denial is that it is tightwad comedian Jack Benny&apos;s response to a mugger&apos;s repeated &lsquo;Your money or your life!&rsquo;: &lsquo;I&apos;m thinking, I&apos;m thinking.&rsquo;
+</p>
+
+<p>Despite smear campaigns &mdash; fueled by ignorance and greed &mdash; against people like James Hansen (the NASA researcher who first publicized climate change) and Al Gore (apparently a rare politician capable of understanding the science), the scientific consensus on global heating is now well established. Point by point:
+</p>
+
+
+
+<h4>
+<a class="tri" href="#08">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="09"> 1. It&apos;s Happening </a>
+<a class="tri" href="#10">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p class="epi">Recent observations confirm &hellip; the worst-case IPCC scenario trajectories are being realized. &mdash; <a class="fn" href="http://thinkprogress.org/climate/2012/10/14/1009121/science-of-global-warming-impacts-guide/">J. Romm (2012)<span>
+	J Romm (2012) &lsquo;An Illustrated Guide to the Science of Global Warming Impacts: How We Know Inaction Is the Gravest Threat Humanity Faces&rsquo;   [Click to read, as of 2013-09-18] <cite>Climate Progress</cite>
+</span></a>
+</p>
+
+<p>An obvious indication of heating is the new discipline of &lsquo;<a class="fn">ice-patch archaeology&rsquo;,<span>
+	J Dixon (2007) &lsquo;Archeology and Climate Change&rsquo; <cite>37th International Arctic Workshop</cite>, 2&ndash;4 May 2007, Skaftafell, Iceland.
+</span></a> resulting from the thawing of areas frequented by early man, from which organic artefacts have been recovered that decay in unfrozen sites. &Ouml;tzi, the trans-Alpine Ice Man, frozen in an Alpine glacier, is the poster boy for the field. The cautious IPCC said only:
+</p>
+
+<blockquote>Palaeoclimatic reconstructions show that the second half of the 20th century was likely the warmest 50-year period in the Northern Hemisphere in the last 1300 years. &mdash; <a class="fn">
+	IPCC (2007)<span>Intergovernmental Panel on Climate Change (2007) Fourth Assessment Report, <cite>Climate Change 2007: The Physical Science Basis</cite>: 702.
+</span></a>
+</blockquote>
+
+<p class="flu">Despite all the FUD about the Medieval Warm Period, Ötzi showed that the Alps are appreciably warmer today than they have been since he froze to death 5,300 years ago.
+</p>
+
+<p>In the Arctic, the situation is <a class="fn">even clearer.<span>
+	GH Miller &amp;4a (2013) &lsquo;Unprecedented recent summer warmth in Arctic Canada&rsquo; <cite>Geophys Res Lett</cite> <b>40</b>(#21): 5745&ndash;5751; doi: 10.1002/2013GL057188.
+</span></a> Moss clumps recently exposed by melting ice caps are a minumum of 44,000 years old, by C-14 dating. But only about 0.5% of the original radiocarbon remains by this time, so experimental error is high, and the moss could be much older. In fact, ice was thick at 44 ka, and combined data suggest that Baffin Island is warmer today than it has been for 120,000 years.
+</p>
+
+<p>The question to ask deniers is &lsquo;If we are burning buried carbon, what mechanism do you suggest that might <i>prevents</i> global heating?&rsquo;. (For a quick review of planetary thermodynamics, go to <a href="../_F/F22b.shtml">&#9658;</a> .)
+</p>
+
+
+<h4>
+<a class="tri" href="#09">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="10"> 2. We Are Causing It </a>
+<a class="tri" href="#11">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p class="epi">The most dangerous worldview, is the worldview of those who have not viewed the world. &mdash; Alexander von Humboldt
+</p>
+
+<p>The timing, distribution, and isotopic composition of atmospheric CO₂ increase matches anthropogenic production similar to the exponential of Fig. 22.1. The flatness of the data in the right-hand graph of Fig. 22.1 suggests no non-anthropogenic contributions to global heating on a centennial time scale. The grey band is the background noise, or &lsquo;weather&rsquo;. It is possible that this is coincidence and that our activity parallels some natural process, such as an increase in solar irradiation, but <a class="fn">the Goddard Institute<span>
+	J Hansen &amp;3a (2010) &lsquo;Global surface temperature change&rsquo; <cite>Rev. Geophys</cite> <b>48</b>, RG4004, doi:10.1029/2010RG000345.
+</span></a> for Space Science reports that the &lsquo;new record temperature in 2010 is particularly meaningful because it occurs when when the recent minimum of solar irradiance &hellip; is having its maximum &lsquo;<a class="fn">cooling effect<span>
+	The sun&apos;s magnetic field is quiescent and there is speculation that it might be entering another Maunder minimum. The last minimum coincided with the Little Ice Age in Europe.
+</span></a>&rsquo;. Whatever else is happening, anthropogenic CO₂ will make a bad situation worse, so <b>under any scenario</b> it is to our advantage to minimize CO₂ emissions. Consuming less than half of the remaining fossil-fuel reserves will take us well above the 2°C temperature rise accepted by 100 countries as the <a class="fn">tolerable limit<span>
+	M Meinshausen &amp;7a (2009) &lsquo;Greenhouse-gas emission targets for limiting global warming to 2 °C&rsquo; <cite>Nature</cite> <b>458</b>: 1158&ndash;1162; doi:10.1038/nature08017.
+</span></a>.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#10">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="11">3. We <i>Can</i> Take Corrective Action</a>
+<a class="tri" href="#12">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p class="epi">Ignoring public health [ie, the Ebola epidemic, with 50% mortality and a transmission factor of 1.7] is the cure for ignoring climate change. &mdash; <a class="fn">G2geek <span><cite>Daily Kos</cite> 2014-09-11.</span></a>
+</p>
+
+<p>In 50 years the US spent G$21 on nuclear
+fusion (always 50 years away). The problem is trying to do civil engineering at the temperature of stellar cores, in the absence of a gravitational field powerful enough to force charged nuclei together. Theoretical solutions fail to unexpected instabilities.
+</p>
+
+<p>For a number of not very good reasons, we also overlooked Oak Ridge&apos;s experiments with the
+<a href="https://whatisnuclear.com/articles/thorium_myths.html">thorium-fueled</a> Molten Salt <a class="fn" href="https://arxiv.org/pdf/nucl-ex/0506004.pdf">Breeder Reactor (MSBR)<span>
+     L. Mathieu &amp;9a (2005) The Thorium Molten Salt Reactor: Moving On from the MSBR.
+</span></a>. Look <a href="http://energyfromthorium.com/2010/04/16/looking-to-the-past-planning-for-the-future/">here</a> for a reasoned view at the problems of nuclear fuels.</p>
+
+<p>In the same period we spent only M$80 on sustainable satellite solar power. Eventually, the National-Security Space-Office Advanced-Concepts Office (aka &lsquo;Dreamworks&rsquo;) published a 75-page recommendation for space-based solar power (SBSP). This collects energy in orbit, where solar-power density is <a class="fn">10 times the average<span>
+	Nighttime, cloud shading, cosine-law intensity, and dust all take their toll.
+</span></a> from stationary ground-based collectors, and transmits it by microwave to the ground. The major problems are a long development time and a practical need for factories (and infrastructure) on the moon, but as Fig. 22.6 indicates, this is the probably the best option for sustainability.
+</p>
+
+
+<figure>
+<img class="fl" width="66%"
+src="F-Images/22.6_Fuel.jpg"
+alt="F-Images/22.6_Fuel.jpg">
+
+<figcaption>
+<a class="tri" href="#F22.5">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F22.6"> Fig. 22.6 </a>
+<a class="tri" href="#F22.7">&emsp;&emsp;&#9654;</a>
+Space-Based Solar Power. Molten-salt Thorium breeder reactors fail non-cataclysmically, unlike Chernoshima. Recent data suggests that producing biofuels is not as clean as hoped. Otherwise, this is the official assessment of the advantages of SBSP. Source: <a class="fn">
+	JD Rouge (2007).<span>&lsquo;Space-Based Solar Power as an Opportunity for Strategic Security, National Security Space Office Interim Assessment Phase 0 Architecture Feasibility Study, October 10, 2007.
+</span></a>
+</figcaption></figure>
+
+
+<p>The estimated cost for a 10 MWe demonstration SBSP pilot plant is G$9, which is 10% of what our banksters paid themselves in bonusses in 2013. It is astonishing that no intelligent, forward-thinking, socially indispensible paragons of entrepreneurial capitalists has had the wit to build one for himself.  A national commitment to such a project should (like a moon landing) generate enough cost overruns and boondoggles to satisfy corporate interests, and unlike the MIC wars, actually accomplish something useful. An attractive aspect is that much of the infrastructure is now standard aerospatial engineering. Low lunar gravity may mean that we need <a class="fn">O‘Neill habitats<span>
+	GK O'Neill (1977) <cite>The High Frontier: Human Colonies in Space</cite> New York: (William Morrow, NYC); ISBN 0-688-03133-1.
+</span></a> to house the workers.</p>
+
+<p>However, immune problems and the <a class="fn">shortening of life span<span>
+	M Boerma &amp;5a (2015) &lsquo;Space radiation and cardiovascular disease risk&rsquo; <cite>World J Cardiol</cite> <b>7</b>: 882–888; doi:10.4330/wjc.v7.i12.882 .
+</span></a> of anyone who has been outside the Earth&apos;s magnetosphere may preclude this approach.
+</p>
+
+<p>As of mid-2016, Andrea Rossi&apos;s E-Cat, the most widely discussed  Low-energy Nuclear Reaction (LENR) system, has yet to demonstrate unequivocally that it is not a scam. According to all that is surmised of its <a class="fn">operation<span>
+	The known reactions, with <sub>1</sub>p being the nucleus of a hydrogen atom, would be:<br>
+	<sub>58</sub>Ni + <sub>1</sub>p &rarr; <sub>59</sub>Cu<br>
+	<sub>59</sub>Cu &rarr; <sub>59</sub>Ni + &nu; + e<sup>+</sup><br>
+	e<sup>+</sup> + e<sup>&ndash;</sup> &rarr; 2&gamma;<br>
+	The Coulomb repulsion between the proton and the nickel nucleus is too large for this reaction under any conditions  known in the universe, including the interior of stars. No one has written an equation for a low-energy nuclear reaction. There is talk of neutron and helium production, but no gamma rays (emitted by all known nuclear reactions), no plausible reactions and no repeatable results. Rossi apparently has a rather checkered past, and has not allowed certain obvious experiments to be carried out in public.
+</span></a>, it should be producing lethal gamma radiation, and copper with an unusual isotopic composition, neither of which it does. The device is fed line power to bring it to operating temperature &mdash; but <a class="fn" href="http://www.elforsk.se/Global/Omv%C3%A4rld_system/filer/LuganoReportSubmit.pdf">no experiment<span>
+	G Levi &amp;5a (2015) &lsquo;Observation of abundant heat production from a reactor device and of isotopic changes in the fuel&rsquo;. [Click to download.]
+</span></a> to date eliminates the possibility of fraud. The main unanswered question is: If Rossi has a source of cheap energy, why is he asking for <a class="fn" href="http://www.forbes.com/sites/timworstall/2013/11/29/why-im-certain-that-the-rossi-e-cat-doesnt-work-as-advertised/">investment</a>, when he could finance development by selling energy? Rossi is a <a href="http://newenergytimes.com/v2/sr/RossiECat/Andrea-Rossi-Energy-Catalyzer-Investigation-Index2.shtml">convicted scam artist</a> who has been described as a <a href="http://www.e-catworld.com/2016/04/08/rossi-provides-explanation-about-1mw-plant-customer/">brilliant psychopath</a>. Of the many positive press releases, Larry Forsley, a nuclear physicist and friend with a long and hopeful interest in low-temperature fusion says simply, &lsquo;Don’t cut Rossi or any others so much slack. It demeans you, empowers them, and defrauds all of us&rsquo;.
+</p>
+
+<p><a class="fn">Wally Broeker<span>
+	WS Broecker, R Kunzig (2009) <cite>Fixing Climate</cite> (Hill and Wang, NYC).
+</span></a> (who coined the term &lsquo;global warming&rsquo; in 1975) suggested that we could remove CO₂ directly from the atmosphere by chemical reaction with common rocks. The problem is one of scale: this requires a larger industrial plant than coal mining and power generation together. The US produced 1.8 gigatons of CO₂ in 1999, or 5 megatons/day from 1.35 Mt of coal. Experimental CO₂-removal reactors run at 185°C and 150 atmospheres, using <a class="fn">powdered rock<span>
+	WD Guthrie, Jr &amp;6a (2000) &lsquo;Geochemical aspects of the carbonation of magnesium silicates in an aqueous medium&rsquo; http://www.netl.doe.gov/publications/proceedings/01/carbon_seq/6c4.pdf (as of 2010-10-15).
+</span></a>. This is a daily need for mining, transporting, pulverizing, heating, and processing 13 megatons of rock, adding 6 megatons of water, and disposing of 24 megatons of magnesium carbonate and silica slurry (moving 29 tons for every ton of coal).
+</p>
+
+<p>Another approach separates CO₂ from flue gas and injects it into exhausted oil fields, where it can force more oil to the surface, allowing us to increase CO₂ production even further. Alternatively, captured CO₂ is fed to engineered <i>Synechococcus elongatus</i> protoctists, who convert it photosynthetically to isobutanol (usable as fuel) and other <a class="fn">chemical feedstocks<span>
+	S Atsumi, W Higashide, JC Liao (2009) &lsquo;Direct photosynthetic recycling of carbon dioxide to isobutyraldehyde&rsquo; <cite>Nature Biotechnology</cite> <b> 27</b>: 1177&ndash;1180.
+</span></a>. This is elegant, but once again, the problem is one of scale: we are talking about plant investment many times the size of all the world&apos;s oil refineries.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#11">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="12"> 4. Immediate Action is Cost Effective </a>
+<a class="tri" href="#13">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p class="epi">[T]he costs of switching will be paid for in fuel savings between now and 2050. &mdash; <cite>MIT Technology Review</cite> 2014-05-19.</p>
+
+<p>The 700-page <a class="fn"><cite>Stern Report</cite><span>
+	Sir Nicholas Stern (2006) <cite>Stern Review on the Economics of Climate Change</cite> (HM Treasury, London).
+<br>----------------------<br>
+	I find a number of the <cite>Report&apos;s</cite> assumptions quite optimistic, but one example will suffice: Fig. 7.8, &lsquo;Availability of Oil by Price&rsquo;, plots oil consumed and oil still available in 2004 dollars. It shows that we have used a trillion barrels at $20/bbl (the cyan volume of Fig. 20.10) OPEC has another trillion at $15 (the red volume), a 3rd trillion is waiting at $25 (the green volume) &mdash; and only then does the price jump. Deep-water and Arctic oil, plus heavy oil and bitumen take us to 4.5 trillion bbl at prices below $60, and oil shale takes us to 5.5 trillion bbl at $70 (the yellow volume) &mdash; including costs to make these fuels comparable in CO₂ emission to conventional fuel.<br> In the real world, oil price hit $147/bbl before the <cite>Stern Report</cite> reached me (ie, during the $15 period!), and after a brief remission, is rising toward that value again. I do not think I am pessimistic, but in the early 70s, when my audience was reeling from $30/bbl, I predicted that they would live to see $300/bbl. Indeed, an IMF working paper led to a headline reading &lsquo;Oil Prices May Double&rsquo; [from $113/bbl] {<cite>GW</cite> 2012-05-18 p18).
+</span></a> &mdash; independent of the IPCC &mdash; initially concluded that the cost of &lsquo;reducing greenhouse gas emissions to avoid the worst impacts of climate change&rsquo; would be 1% of the GWP. However, the 1% would disproportionately reduce the income of the &lsquo;elite&rsquo;, and the initial costs of global heating fall upon what are commonly called &lsquo;useless eaters&rsquo;. Some see this as a benefit, overlooking the irreversible, global nature of the process, so nothing has happened. (The later costs, when mitigation will have no effect, will fall on developed countries and cities.)
+</p>
+
+<p>Delay can raise the cost above 20% of GWP &lsquo;now and forever&rsquo;, as sketched in Fig. 22.7. It is expensive to remove greenhouse gases from the atmosphere, and the number of problems increases rapidly with warming. (A new one is coastal erosion of, and salinity intrusion into, the agricultural Nile Delta as sealevel rises {<cite>GW</cite> 2009-09-18. p25} &mdash; in a nation so unsustainable that it already imports half its food.) Stern suggested in late 2009 that the cost had risen to 2% of GWP {<cite>GW</cite> 2009-09-18 p17}, already above the black curve of Fig. 22.7. Unfortunately, Fig. 22.7 provides all the incentive some need to postpone action until the curves cross. The only effective response to the political argument, &lsquo;We‘ll be dead by then: why pay for something that won&apos;t benefit us?’ is political death now, by a recall election. Or some faster method.
+<p>
+
+<figure> <img class="fl" width="66%"
+src="F-Images/22.7_Procrastination.jpg" alt="F-Images/22.7_Procrastination.jpg">
+
+<figcaption>
+<a class="tri" href="#F22.6">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F22.7"> Fig. 22.7 </a>
+<a class="tri" href="#F22.8">&emsp;&emsp;&#9654;</a>
+Procrastination. Annual cost of alternatives as a function of starting date of amelioration. The longer we wait to take protective action against global heating, the more costly and less effective our action becomes. (These simple curves are guesses that ignore fossil-fuel exhaustion and &lsquo;tipping points&rsquo; such as melting of methane clathrate as the <a class="fn">arctic warms<span>
+	FM O‘Connor &amp;10a (2010) &lsquo;Possible role of wetlands, permafrost, and methane hydrates in the methane cycle under future climate change: A review&rsquo; <cite>Reviews of Geophysics</cite> <b>48</b>: Rg4005, 33 pp.; doi:10.1029/2010RG000326.
+</span></a>.)
+</figcaption></figure><br>
+
+
+<h4>
+<a class="tri" href="#12">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="13"> 5. They‘re Your Grandchildren </a>
+<a class="tri" href="#14">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p class="epi">An ounce of prevention is worth a pound of cure &mdash; but a lot of people want your pound, and will encourage you to wait.
+</p>
+
+<p>The disruption in the 2nd half of the century will be comparable to the World Wars and <a class="fn">Depression&deg;<span>
+	So says the <cite>Stern Report</cite>. I would have said, &lsquo;will make the World Wars and Depression look like child&apos;s play&rsquo;, and this assessment does not consider simultaneous but independent economic chaos.
+</span></a>. Energy will be expensive, and at the rate things are going, infrastructure will be in worse shape than today. Your grandchildren will take the brunt of these changes. For cultures that never really left the Neolithic, this will be a less difficult transition than for us. Already tractors are too expensive to use in Rajasthan except during the short planting season, so the price of camels has risen 5-fold in 4 years {<cite>GW</cite> 2008-07-25 p 31}.
+</p>
+
+<p>Economists&apos; commonly minimize future values by &lsquo;discounting&rsquo;. As nearly as I can tell by examining events in my own lifetime, this is both unrealistic and unethical. Computers may have decreased in real price, but a cast-iron skillet, $2 in my youth, still works. A somewhat fancier replacement costs $88 (of which $20 is <a class="fn">inflation&deg;<span>
+	Swedish, with a cool wooden handle, so not quite a direct replacement. To my surprise, cheaper steel (embossed with ridges which shield most of the area from tools like pancake turners) provides the same superior non-stick qualities as cast iron. That is, when &lsquo;seasoned&rsquo; by heating a thin coat of oil to 230&ndash;260°C (straw to light brown tempering color) it grows a monolayer of iron stearate/palmitate/whatever (saturated oils seem to work best) to which even barnacles can&apos;t stick &mdash; although they adhere to high-tech alumina/teflon &lsquo;non-stick&rsquo; surfaces. The thicker cast-ion still provides a more uniform cooking surface.
+</span></a>) and the cheaper &lsquo;high-tech&rsquo; versions are inferior. Recycled, 100-year old, hand-carved furniture beats Ikea on esthetics, utility, price, durability, and repairability. In other words, in life as I live it, the future value of real items often <i>exceeds</i> their present value. Every item that I have claimed householder insurance on has been over-depreciated by the adjuster (a small sample, but sufficient so that I usually prefer to &lsquo;self-insure&rsquo;).
+</p>
+
+<p>So too with climate change. The future costs (of action or inaction) will be, <i>and be seen as</i>, larger than the present costs.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#13">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="14"> 6. Grandchildren will be Poorer </a>
+<a class="tri" href="#15">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>The idea that our grandchildren will be richer than we are is based upon the assumption of cheap oil (never again!) plus zero inflation (when the Consumer Price Index rises at 2%, <a class="fn">inflation<span>
+	Others may have forgotten, but philatelists have post-WW1 German postage stamps surcharged &lsquo;1,000,000 marks&rsquo;. For that matter, notes were issued in January 2009 for 100 trillion Zimbabwean dollars {<cite>GW</cite> 2009-04-10 p 23}.
+</span></a> is running 6&ndash;8%). Wishful thinking to the contrary, this idea is not realistic.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#14">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="15"> 7. Inaction is Stupidity + Greed </a>
+<a class="tri" href="#16">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p> &mdash; because
+</p>
+
+<p class="epi">[we need not] choose between averting climate change and promoting growth and development. &hellip; Action on climate change will also create significant business opportunities, as new markets are created in low-carbon energy technologies and other low-carbon goods and services. These markets could grow to be worth hundreds of billions of dollars each year, and employment in these sectors will expand accordingly. &mdash; <a class="fn">Stern Report: Executive Summary <span>
+	Stern, Sir Nicholas (2006) <cite>Stern Review on the Economics of Climate Change</cite> (HM Treasury, London).
+</span></a>
+</p>
+
+<p>This argument carries no weight with the business class, because current oligopolists will not profit from the new growth and development. They see someone else&apos;s gain as their loss, and can be counted on to be obstructive. (They do, however, understand bribes, so something marginally constructive might be done along such lines.)
+</p>
+
+
+
+<h4>
+<a class="tri" href="#15">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="16"> 8. Armoring </a>
+<a class="tri" href="#17">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>A psychological consequence of global heating that has received no attention is its induction of  <a href="../_D/D13.shtml#12">Reichian armoring</a>. As desertification spreads and life becomes more difficult, Instinct-1 increasingly dominates Instinct-2. The aspects of religion which make it worthwhile &mdash; altruism and compassion &mdash; are replaced by tribalism (at best) and selfishness. Islam, the least useful of the tribal markers because it began as a cult of psychologically armored marauders, is likely to spread as soil desiccates, and we will dig ourselves a deeper trough on the right of <a href="../_D/D-1.shtml#F13.0">Fig. 13.0</a>, perhaps terminally.
+</p>
+
+
+
+
+<h3>
+<a class="tri" href="#16">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="17">Models and Data Agree</a>
+<a class="tri" href="#18">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">It is difficult to overestimate the scale and speed of change. In a single lifetime humanity has become a geological force at the planetary-scale. &mdash; Prof. Will Steffen
+
+<p>The <i>fact</i> of global heating may be well established, but the <i>cause</i> is not quite so certain. The details above are based on 20 years of work by some 800 researchers and 2500 reviewers. Received wisdom has been that climate is the product of many influences. As is evident from Fox &lsquo;News&rsquo;, a major, if illogical, complaint of the &lsquo;climate deniers&rsquo; is that all of the predictions of future change are based on computer models instead of data. Ignoring the difficulty of obtaining future data in time to make use of it, the important feature is that <b>until one can model climate, one cannot pretend to understand it</b>. Our current grasp of short-term effects is shown by the detailed agreement of the orange and black lines in the upper graph of Fig. 22.8.
+</p>
+
+<p>The frequent statement by climate deniers, that they &lsquo;haven&apos;t seen any data&rsquo;, may mean that they don&apos;t want to look, that they lack the analytic ability to read Fig. 22.8, or that they do not understand that &lsquo;Anthropogenic effects&rsquo; is synonymous with &lsquo;fossil-fuel CO₂&rsquo;. All natural processes that affect the Earth&apos;s surface temperature are cyclic (solar output) or episodic with a return to normal (vulcanism, El Ni&ntilde;o), or random around a zero mean.
+</p>
+
+
+<figure>
+<img class="fl"  width="66%"
+src="F-Images/22.8_25YearModel.jpg"
+alt="22.8_25YearModel.jpg">
+
+<figcaption>
+<a class="tri" href="#F22.7">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F22.8"> Fig. 22.8 </a>
+<a class="tri" href="#F22.9">&emsp;&emsp;&#9654;</a>
+Three decades of Modelled Climate. Perhaps surprisingly, the 4 processes in the lower panel account for all but a series of sharp 0.1° spikes in the temperature record &mdash; and of these 4, anthropogenic effects make the largest contribution and the only one with a trend. Note that the solar-radiation curve shows only the short-term sun-spot cycle, and is too short to notice the millennial Milankovitch cycles.
+</figcaption></figure>
+
+<p>Figure 22.8 was drawn too early to show the effect of arctic methane. The mean background (pre-industrial) atmospheric methane concentration was 700 ppb (parts per billion).
+</p>
+
+<p>Contrary to expectations, detailed timing of the fast warming at the end of ice ages (<a href="#F22.2">Fig. 22.2</a>) showed that ocean temperature rose first, followed by air temperature, <a class="fn"><i>then</i> CO₂<span>
+	H Cheng &amp;7a (2009) &lsquo;Ice Age Terminations&rsquo; <cite>Science</cite> <b>326</b>(#5950): 248&ndash;252; doi: 10.1126/science.1177840
+</span></a>, followed <a class="fn">7000 years<span>
+	JC Hargreaves, A Abe-Ouchi (2003) &lsquo;The timing of ice-age terminations determined by wavelet methods&rsquo; <cite>Paleoceanography</cite> <b>18</b>(#2): 13.1&ndash;13.9.
+</span></a> later by glacial melting and sea level rise. <a class="fn">One suggestion<span>
+	JD Hays, J Imbrie, NJ Shackleton (1976) &lsquo;Variations in the Earth's Orbit: Pacemaker of the Ice Ages&rsquo; <cite>Science</cite> <b>194</b>(#4270): 1121&ndash;1132.
+</span></a> is solar forcing, since the ocean is the principal absorber of solar energy. The sequence would then be a:
+</p>
+
+<blockquote>Northern Hemisphere summer-insolation-intensity <a class="fn">[Milankovitch]<span>
+	Milankovitch described 3 perturbations of the Earth&apos;s astrodynamical parameters, caused by gravitational interactions with other planets. Precession has 19, 22, and 24-kyr cycles, obliquity (tilt of the rotational axis) 49 kyr, and orbital eccentricity 95, 125, and 400 kyr.  These combine to produce an irregular 21% variation in polar insolation at 65°N with a dominant 21-kyr period.<br>
+	Ice ages have a ~100-kyr period.
+</span></a> trigger for an initial retreat of northern ice sheets. Meltwater and icebergs entering the North Atlantic alter oceanic and atmospheric circulation and associated fluxes of heat and carbon, causing increases in atmospheric CO₂ and Antarctic temperatures that drive the termination in the Southern Hemisphere. Increasing CO₂ and summer insolation drive recession of northern ice sheets, with probable positive feedbacks between sea level and CO₂. &mdash; <a class="fn">Cheng &amp;7a 2009<span>
+	Cheng &amp;7a (2009) &lsquo;Ice Age Terminations&rsquo; <cite>Science</cite> <b>326</b>(#5950): 248&ndash;252; doi: 10.1126/science.1177840
+</span></a>
+</blockquote>
+
+<p class="flu">While this description is a bit short on details, the correlation between insolation at 65&deg;N and ice volume is <a class="fn">good<span>
+	In other words, summer heat melts ice, as one might expect. This may only reduce thickness rather than ice-covered area, and so not show up in photographic surveys.
+</span></a>, as shown in Fig. 22.9. The major problem is that 100-kyr ice ages survive any number of potential Milankovitch triggers, so something else appears to set the major periodicity.</p>
+
+
+<figure>
+<img class="fl" width="66%"
+src="F-Images/22.9_IceVolume.jpg"
+alt="22.9_IceVolume.jpg">
+
+<figcaption>
+<a class="tri" href="#F22.8">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F22.9"> Fig. 22.9 </a>
+<a class="tri"
+href="../_F/F22b.shtml#F22.10">&emsp;&emsp;&#9654;</a>
+Ice Volume. During WW II, the Serbian mathematician <a class="fn">Milutin Milankovitch<span>
+	M Milankovitch (1941) <cite>Canon of Insolation and the Ice Age Problem</cite>, trans. N Pantic (Serbian Agency for Textbooks/Alven Global, Belgrade, 1998). ISBN 86-17-06619-9.
+</span></a>, interned as prisoner of war, solved the problem of ice ages by relating them to changes in insolation as the Earth&apos;s orbit changed quasi-periodically from the gravitational effects of the other planets. While Milankovitch periodicities show up in climate proxies, it is hard to see a direct correlation between insolation and proxy data. The process is more subtle: There is good correlation between the rate of ice-volume change (inferred from oxygen-isotope data) and <a class="fn">high latitude <i>summer</i> insolation<span>
+	P Huybers (2006) &lsquo;Early Pleistocene glacial cycles and the integrated summer insolation forcing&rsquo; <cite>Science</cite> <b>313</b>(#5786): 508&ndash;511; doi:10.1126/science.1125249.
+</span></a> over the last million years.
+</figcaption></figure>
+
+
+<p>One recent supplementary suggestion is P/IAH, the <a class="fn">Peatland/Ice Age Hypothesis<span>
+	LG Franzén (1994) &lsquo;Are wetlands the key to the ice age cycle enigma?&rsquo; <cite>Ambio</cite> <b>23</b>(#4&ndash;5): 300&ndash;308.</span></a>,
+which might cycle enough carbon to account for a climate forcing of <a class="fn">5 W/m<sup>2</sup><span>
+	LG Franz&eacute;n &amp;3a (2012) &lsquo;The potential peatland extent and carbon sink in Sweden, as related to the Peatland / Ice Age Hypothesis&rsquo; <cite>Mires and Peat</cite> <b>10</b>: 1&ndash;19.
+</span></a>.</p>
+
+<p id="17a">I suggest that a prime candidate is the interaction of shallow-sediment methane clathrate,
+	<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-NewIdea3.gif" alt="New-idea" /></a>
+ice volume, sea level, and Milankovitch.
+</p>
+
+<table class="twi">
+<tbody>
+<tr><td style="padding:8px;">
+Start with a warm interglacial climate like today&apos;s, but without anthropogenic CO₂ input. Phytoplankton slowly but steadily draw down atmospheric CO₂, die, increase organic carbon in sediments, and thence methane clathrates. The gradual loss of atmospheric CO₂ cools the climate, with (as the models show) major effect in the arctic zones. Milankovitch willing, land ice accumulates, sea level drops, but exposed Arctic-basin sediments are cold enough to preserve the methane ice. The process continues until sea-level fall has exposed several hundred vertical meters of clathrate-rich sediments on continental shelves and slopes. This situation is thermodynamically metastable; all it needs now is a Milankovitch insolation peak to produce a warm Arctic summer, and it releases a 50-kyr accumulation of a greenhouse gas with many times the warming potential of CO₂. This methane pulse will <i>not</i> be trapped in air bubbles in the ice, because methane is oxidized to CO₂ in a few years, and summer temperatures at the beginning of the interglacial &mdash; as in Greenland currently &mdash; would melt <a class="fn">winter accumulation<span>
+	Iceland is losing 10 feet of glacier length annually. Even Naimona&apos;ny, a glacier at 6000 m in the Himalayas, and typical of the headwaters of the Indus, Ganges, and Brahmaputra, has lost 70 years of accumulated ice from its <i>surface</i>. (High-altitude glaciers used to melt from the low end, as in Iceland &mdash; constantly replenished by slow downhill movement &mdash; and not from the surface. Surface ablation means that the atmospheric isotherms have moved upwards. See Fig. 22.12 in appendix 22b.) The end result of this process is extreme erosion of the upland valleys, devastating floods and silting during the summer monsoon, winter drought throughout India, Southeast Asia, and China, and 2 billion desperate and angry people. If we are lucky, they will only nuke eachother.<br><br>
+
+	Such events would not be called &lsquo;subtle&rsquo; except for their ability to escape the notice of the people we elect to government.
+<br>----------------<br>
+	NM Kehrwald &amp;8a (2008) &lsquo;Mass loss on Himalayan glacier endangers water resources&rsquo; <cite>Geophysical Research Letters</cite> <b>35</b>: L22503, 6pp., doi:10.1029/2008GL035556.
+</span></a>. The metastability is continuous throughout the glaciation, and episodes of local melting might account for the sharp oscillations seen in ice-age temperatures.</td></tr>
+</tbody></table>
+
+<p>Modelling this hypothesis would be a full time project that would compete with this book, so I content myself with describing it. It accounts nicely for the rise of temperature before CO₂, for the sawtooth nature of the isotopic temperature record, and it offers a plausible driver for the 100-kyr glaciation cycle. The fact that methane is currently escaping from Arctic sediments might seem contradictory: Why did it not all boil off 12,000 years ago at the start of the interglacial? All I can suggest is that additional warming from the 100 ppm of anthropogenic CO₂ is reaching deeper into the permafrost, again making this interglacial different from all others.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#17">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="18"> The Permian Extinction, 252 Ma </a>
+<a class="tri" href="#20">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">The opposite of an Ordinary Truth is a lie, but the opposite of a Great Truth is another Great Truth. &mdash;  Niels Bohr.
+</p>
+
+<p>A prime example of Bohr&apos;s paradox is the Medea Theory of paleon5tologist Peter D. Ward of the University of Washington. Medea is the polar opposite of Gaia Theory. If Gaia is the archetype of the Good Mother, Medea is the archetype of the <a class="fn">Evil Mother<span>
+	E Neumann (1963) <cite>The Great Mother: An Analysis of the Archetype</cite>, 2d ed. Transl. by R Mannheim. (Princeton University Press, Princeton NJ, 1974).
+</span></a>, who murders her own children. Medea Theory sees the universe as malignly inhospitable to advanced life, blames all but one of the 5 great extinctions on <a class="fn">climate change<span>
+	PD Ward (2009) <cite>The Medea Hypothesis: Is Life on Earth Ultimately Self-Destructive?</cite> (Princeton University Press).
+</span></a>, and notes how easily the next catastrophe (natural or incidental to purblind profit-seeking) can wipe us out.
+</p>
+
+<p>Loss of polar ice shelves is sufficient to prevent bottom-water formation and ventilation of the deep ocean. Sulfur bacteria then extract oxygen from sulfate, leaving poisonous H₂S, which kills everything else. This happened at the end of the Permian, when we lost 90% of marine families and 70% of <a class="fn">terrestrial vertebrates<span>
+	Greenland lost some 370 km<sup>2</sup> of coastal ice shelves between 2009 and 2012. Melting of the surface of its land ice (as suggested below) has removed any record of recent atmospheric gas concentrations.
+</span></a>.
+</p>
+
+<p>The first 4 extinctions were caused by climate change. We might want to minimize global heating lest the 6th take us with it. Climate-change deniers will point out that deep-sea ventilation is a myriennial process, so there is time to <i>make</i> money, rather than spend it &mdash; but what is the (evolutionary) point of making money if so doing destroys your descendants?
+</p>
+
+
+
+<h2>
+<a class="trs" href="#18">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#08">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="20"> STEALING THE WORLD&apos;S FOOD </a>
+<a class="tri" href="#21">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#21">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p class="epi">An honest politician is one who stays bought. &mdash; US folklore
+</p>
+
+<p class="epi">I love humanity, which has been a constant delight to me during all my seventy-seven years of life; and I love flowers, trees, animals, and all the works of Nature. &mdash; Luther Burbank
+</p>
+
+<p>There is nothing wrong <i>in principle</i> with the genetic modification of crops. Wheat, maize, rice, and bananas, were selected  unconsciously during the Neolithic, with largely <a class="fn">beneficial results<span>
+	A principal problem today is that prehistoric selection  reduced the genetic diversity of bananas, leaving our major commercial variety, Cavendish (99% market share) at the mercy of TR4 virus.
+<br>--------------------<br>
+	M Peed (2011) &lsquo;We Have No Bananas&rsquo; <cite>New Yorker</cite> 2011-01-11.
+</span></a> Luther Burbank single-handedly gave us 800 improved varieties of vegetables, fruits, flowers, grains, and grasses. He was more farmer than scientist, using cross-breeding, grafting, hybridization, and anything else that worked. The patents that he holds were granted posthumously.
+</p>
+
+<p>Yet there are considerations that escape the attention of those who seek only profit. These include the spread of inserted genes into wild relatives, unexpected interactions, and <a class="fn">health risks<span>
+	&bull; Institute for Responsible Technology (2010) <cite>State-of-the-Science on the Health Risks of GM Foods</cite> 24 pp, www.responsibletechnology.org<br>
+	&bull; JM Smith (2007) <cite>Genetic Roulette: The Documented Health Risks of Genetically Engineered Foods</cite> 4th ed. (Yes! Books, Fairfield IO).
+</span></a> including infertility, immune problems, accelerated aging, faulty insulin regulation, and changes in major organs and the gastrointestinal system.
+</p>
+
+<p>Today, genetic modification means corporate control of major crops &mdash; alfalfa, corn, soy beans, cotton, with papaya and apples on the horizon. In aid of maximizing annual seed sales, Monsanto makes its customers sign legally binding agreements not to save seed, nor to allow anyone to test the resulting crop for anything, including health safety. Its business goal is to own patents on 90% of the world&apos;s food supply.
+</p>
+
+
+<hr> <table class="tcen">
+<caption>
+<a class="tri" href="#T22.1">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T22.2"> Table 22.2 </a>
+<a class="tri" href="#T22.3">&emsp;&emsp;&#9654;</a>
+Appointments by Obama-as-shill-for-Monsanto, although he had campaigned on an anti-GMO stance. Since we must suppose that even a politician would prefer not to lie to the voters (or alternatively, to keep his campaign promises) we really should design an electoral system which is not owned by sociopathic corporations. (E.g.: Elect on votes per campaign dollar.)
+</caption>
+
+<thead>
+<tr><th>Who</th>
+<th>Government job</th>
+<th>Prior GMO activity</th></tr>
+</thead>
+
+<tfoot>
+<tr><td colspan="3">This is why we are still killing bees with pesticides.</td></tr>
+</tfoot>
+
+<tbody>
+<tr><td>Roger Beachy</td>
+<td>Director of the National Institute of Food and Agriculture</td>
+<td>Former director of the Monsanto Danforth Center</td></tr>
+
+<tr><td>Michael Taylor</td>
+<td>Deputy commissioner of the FDA</td>
+<td>Monsanto vice-president for public policy</td></tr>
+
+<tr><td>Tom Vilsack</td>
+<td>USDA Commissioner</td>
+<td>Governor of the Year Award from the Biotechnology Industry Organization</td></tr>
+
+<tr><td>Islam Siddiqui</td>
+<td>Agriculture Trade Representative</td>
+<td>Monsanto lobbyist</td></tr>
+
+<tr><td>Ramona Romero</td>
+	<td>USDA counsel</td>
+	<td>Counsel for DuPont, another biotech giant</td></tr>
+
+<tr><td>Rajiv Shah</td>
+	<td>Head of USAID</td>
+	<td> Gates Foundation, major funder of GMO agriculture research</td></tr>
+
+<tr><td>Hillary Clinton</td>
+	<td>Secretary of State</td>
+	<td>Rose law firm, which firm was counsel to Monsanto</tr>
+
+<tr><td>Elena Kagan</td>
+	<td>US Supreme Court</td>
+	<td>Federal solicitor general; had previously argued for Monsanto</td></tr>
+
+</tbody></table>
+
+
+<p>Monsanto: alfalfa, sugar beets, Bt soybean.
+Coming soon: GMO sweet corn.
+Syngenta: corn for ethanol, stacked corn.
+Pioneer: GMO soybean.
+Syngenta: GMO Bt cotton.
+Bayer: an anti-clotting agent from the milk of transgenic goats.
+A GMO papaya strain.
+Soon, genetically engineered salmon and apples.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#20">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#20">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="21">THE CALL FOR A GAIAN MYTH </a>
+<a class="tri" href="#31">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#22">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p class="epi">[N]o system of environmental ethics can sustain significant normative appeal unless its first precept demands the preservation of the interests of future generations. &mdash; <a class="fn">
+	J Chen (2005)<span> &lsquo;Legal Mythmaking in a Time of Mass Extinctions: Reconciling Stories of Origins With Human Destiny&rsquo; <cite>Harvard Environmental Law Review</cite> <b> 29</b>: 279&ndash;319.
+</span></a>
+</p>
+
+<p>Little that we have said about global heating, fossil carbon, or Plan B is novel. We have known most of what was happening and what needed to be done to fix it since <a class="fn">Earth Day in 1970<span>
+	What we have learned since has enabled people to put probability limits on events and cost estimates, but they are still very wide limits. A few new threats have been identified, but the bottom line is that most of the problems then identified are still with us.
+</span></a>. True to Old Testament prophesy, churches have not responded: Where there is no vision, the people perish {Prov29:18}. The Christian and Islamic focus on an afterlife is not the vision we need. Asian reincarnation might have generated a realization that we are going to face the consequences of our actions, and thus a furious defence of the world we will live in &mdash; but the idea that the physical world is illusory makes defending it unimportant. Judaism got it right, but few noticed, and its neighbors have kept Israel too busy to buckle down and take the lead in problem solving.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#21">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="22"> Early Attempts to Empower Gaia </a>
+<a class="tri" href="#23">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">[T]he only way of serving God is that of endeavouring to make his creation happy. All preaching that has not this for its object is nonsense and hypocracy. &mdash; <a class="fn">
+	Thomas Paine (1796)<span> <cite>Agrarian Justice</cite> (Penguin, London, 2004).</span></a>
+
+<p>There is already a clarion call for the Gaian requirement in religion, although it was not named that, and its fundamental religious nature was not always mentioned. The need for a working cooperation with the world of nature was understood 1800 years ago. It has been nurtured by philosophers, rabbis, cosmologists, paleontologists, historians, landscape architects, and others.
+</p>
+
+<p>The destructive influence of Christianity&apos;s anthropocentric and other-worldly focus was clearly seen by the Neoplatonist Porphyry, c. 300 CE. He was the first professional philosopher to write about actually defended nature prior to the 20th century. Not coincidentally, his 15-volume work (known only from quoted excerpts) was titled <cite>Against the Christians</cite>. Jesus, with his reputed treatment of the pigs {Matt 8:30ff} and figs {Matt 21:19ff}, set a bad example. Paul, with an unconcern so deep it is most politely called ignorance, set Christianity on the wrong road. Needing to keep his flock from being a minor Jewish heresy, he saw nothing of value in the Old Testament save prophecies which could be twisted into prefiguring Jesus. He overlooked the work of Isaiah, who anticipated Porphyry by 1000 years. Intent upon creating a need for his Gnostic Redeemer, he warped the stories of Genesis, missing their point and depriving Christianity of a much needed balance.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#22">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="23"> <i>Tsa‘ar ba‘ale hayyim</i> </a>
+<a class="tri" href="#24">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Medieval rabbis, building on the concept of stewardship enunciated in Genesis, elaborated the idea of <i>tsa‘ar ba‘ale hayyim</i>, or &lsquo;empathy for all life&rsquo;. As <a class="fn">Noel Cohen<span>
+	N Cohen (1976) <cite>Tsa‘ar Ba‘ale Hayyim, The Prevention of Cruelty to Animals</cite> (Feldheim, Jerusalem).</span></a>
+made clear, this is humanity&apos;s oldest tradition of concern for nature, with oral roots going back 8000 years, and dialog in both <a class="fn">Talmud<span>
+	I Epstein (1935) <cite>The Babylonian Talmud, Nezikin II, Baba Mezia </cite>(Soncinco, London): BM 32(b).</span></a>
+and <a class="fn">Midrash<span>
+	SM Lehrman (1939) <cite>Midrash Rabbah</cite> (Soncino, London): Ex. R 2:3.</span></a>.
+</p>
+
+<p>Surprisingly, this tradition was unknown to writers who share its values and have contributed to the development of the myth of Gaia. It was not mentioned by pioneers like
+<a class="fn">John Muir<span>
+	J Muir (1916&ndash;1924) <cite>The Writings of John Muir</cite> 10 vols. Ed. Wm. F Badé. (Houghton Mifflin, Boston).</span></a>,
+<a class="fn">Albert Schweitzer<span>
+	A Schweitzer (1932) <cite>Aus meiner Leben und Denken</cite>. (Felix Meiner Verlag, Leipzig): 136. English version, <cite>Out of My Life and Thought</cite>. (Henry Holt, NY, 1933).</span></a>,
+and <a class="fn">Aldo Leopold<span>
+	A Leopold (1949) <cite>Sand County Almanac.</cite> (Oxford University Press, Oxford).</span></a>,
+nor historians like <a class="fn">Lynn White<span>
+	L White, Jr (1967) &lsquo;The historic roots of our ecologic crisis&rsquo; <cite>Science</cite> <b>155</b>: 1203-1207.</span></a>
+and <a class="fn">Roderick Nash<span>
+	RF Nash, (1989) <cite>The Rights of Nature</cite> (University of Wisconsin Press, Madison WI).</span></a>,
+nor exegetes like <a class="fn">Stephen Clark<span>
+	SRL Clark (1991) <cite>How to think about the Earth: Philosophical and technological models for ecology</cite> (Mobray, London).</span></a>
+and many <a class="fn">others<span>
+	J Holm, with J Bowker (ed.) (1994) <cite>Attitudes to Nature</cite> (Themes in Religious Studies Series, Pinter, London)</span></a>,
+nor philosophers like <a class="fn">Peter Singer<span>
+	P Singer (1975) <cite>Animal Liberation: a New Ethics for our Treatment of Animals. </cite>(Yale University Press, New Haven CT).</span></a>,
+<a class="fn">Peter Carruthers<span>
+	P Carruthers (1992) <cite>The Animals Issue.</cite> (Cambridge University Press, Cambridge UK).</span></a>, and
+<a class="fn">Richard Sorabji<span>
+	R Sorabji (1993) <cite>Animal Minds and Human Morals</cite>. (Ducksworth, London).</span></a>,
+nor ethicists like <a class="fn">
+	Paul Taylor<span>PW Taylor (1986) <cite>Respect for Nature. </cite>(Studies in Moral, Political and Legal Philosophy, Princeton University Press, Princeton NJ).</span></a>,
+<a class="fn">Andrew Brennan<span>
+	A Brennan (1988) <cite>Thinking About Nature, an Investigation of Nature, Value, and Ecology.</cite> (University of Georgia Press, Athens GA).</span></a>
+and <a class="fn">Bernard Rollin<span>
+	BR Rollin (1990) <cite>The Unheeded Cry: Animal Consciousness, Animal Pain, and Science.</cite> (Oxford University Press, Oxford)</span></a>,
+nor scholars like <a class="fn">Israel Schorsch<span>
+	I Schorsch (1992) Learning to live with less. In: SC Rockefeller, JC Elder (eds) <cite>Spirit and Nature.</cite>(Beacon, Boston): 25&ndash;38.</span></a>,
+nor anyone else I have found in the Western Christian tradition. Only <a class="fn">Lewis Regenstein<span>
+	LG Regenstein (1991) <cite>Replenish the Earth</cite>. (SCM Press, London): 184.</span></a>
+devotes a paragraph to it, identifying it as &lsquo;preventing the sorrow of living creatures&rsquo;. (Gentiles may perhaps be excused for overlooking Cohen&apos;s book despite its seminal importance, for it is long out of print. The only copies I know of are paperbacks in Amsterdam&apos;s Rosenthalia Library, and the University of London. However, there is now a wealth of information on the Internet, and a search for <i>tsa‘ar ba‘ale hayyim</i> is the place to start.)
+</p>
+
+<p><a class="fn">Ian McHarg&apos;s<span>
+	I McHarg (1969) <cite>Design With Nature</cite>. (Published for the American Museum of Natural History by the Natural History Press, Garden City NY; 25th Anniversary Edition. Wiley, NYC, 1992).</span></a>
+meticulous <cite>Design With Nature</cite> &mdash; a Gaian document if ever there was one &mdash; may be on the bookshelf of every environmentalist, but it apparently remains unknown to those who need it most: town planners and writers of building codes.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#23">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="24"> <cite>Silent Spring, 1962</cite> </a>
+<a class="tri" href="#25">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The 1962 publication of <a class="fn"><cite>Silent Spring</cite><span>
+	R Carson (1962) (Houghton Mifflin, Boston, 2002)</span></a>
+alerted us to environmental degradation, and within 5 years historian <a class="fn">Lynn White Jr<span>
+	L White, Jr (1967) &lsquo;The historic roots of our ecologic crisis&rsquo; <cite>Science</cite> <b>155</b>: 1203&ndash;1207</span></a>
+had identified the religious roots of our ecological crisis in the Christian overinterpretation of Gen 1:28, &lsquo;Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth&rsquo;. At least from the time of Calvin this has been a carte blanche to pillage Nature in search of profit. <i>Tsa‘ar ba‘ale hayyim</i> was also unknown to the theologians who responded to White with (prize-winning!) <a class="fn">denials and excuses<span>
+	&bull; J Cohen (1989) <cite>Be Fertile and Increase, Fill the Earth and Master It</cite> (Cornell University Press, Ithaca, NYC).<br>
+	&bull; DK Jobling (1972) &lsquo;And have dominion&hellip;’: The Interpretation of Old Testament Texts Concerning Man&apos;s Rule over the Creation (<cite>Gen</cite>. 1:26, 28b, 9:1&ndash;2, Psalm 8:7&ndash;9) from 200 BC to the Time of the Council of Nicea. ThD dissertation, Union Theological Seminary, NY.<br>
+	&bull; DA Yegerlehner (1975) 'Be Fruitful and Multiply, and Fill the Earth&hellip;': A History of the Interpretation of Genesis 1:28a and Related Texts in Selected Periods. PhD dissertation, Boston University, Boston, MA.
+</span></a>. Professional apologists from respected colleges, they had surely done their homework to the satisfaction of their peers, so we may conclude that humanity&apos;s treatment of nature is of no concern to Christian theology &mdash; making White&apos;s point for him. Had the response been corrective theology, we might have avoided the rising tide of climate change.
+</p>
+
+<p>By 1975 we knew that a religion which tolerated environmental destruction had already proven itself wrong. As Toynbee&apos;s Touchstone put it,
+</p>
+
+<blockquote>A right religion is one that teaches respect for the dignity and sanctity of all nature. A wrong religion is one that licenses the indulgence of human greed at the expense of non-human nature&rsquo; &mdash; <a class="fn">
+	A Toynbee &amp; D Ikeda (1976)<span> <cite>Choose Life</cite>. (Oxford University Press, Oxford): 324.
+</span></a>
+</blockquote>
+
+<p class="flu">If there has been <a class="fn">some greening<span>
+	RB Fowler (1995) <cite>The Greening of Protestant Thought</cite>. (University of North Carolina Press, Chapel Hill)</span></a>
+of the progressive Protestant pulpit in response, it has been more than matched by the blackening of retrograde Catholic, Southern Baptist, and other fundamentalist pulpits.
+</p>
+
+<p>Even when Christian doctrine <a class="fn">moderates exploitation<span>
+	<cite>Catechism of the Catholic Church</cite> 2nd ed. (Libreria Editrice Vaticana, Citta del Vaticano 1993): ¶2417</span></a>,
+permiting the use of animals for food and clothing, their domestication and medical and scientific experimentation on animals if it saves human lives, the focus is on humans rather than ecosystems.
+</p>
+
+<blockquote>The assumption that environmental law begins and ends with protection of only those things visible to the naked human eye deserves to be called the <a class="fn" href="http://jurisdynamics.blogspot.fr/2006/09/phanerozoic-fallacy.html">&lsquo;Phanerozoic fallacy&rsquo;
+<span>
+	LJ Chen (2006) &lsquo;The Phanerozoic Fallacy&rsquo; [Click for more, as of 2006-09-28.]</span></a>.
+</blockquote>
+
+<p>If we need more support for the idea that Genesis was written by mere humans, relying on their own resources without even divine inspiration to help, it lies in the omission of any awareness of either the microscopic or the systemic aspects of nature. What desert-dwelling Israelites could not see or envision did not end up in their scripture. Coyotl would have mentioned these essential areas if he had been involved in writing a &lsquo;user&apos;s manual&rsquo; for his work as demiurge.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#24">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="25"> NEPA, 1970 </a>
+<a class="tri" href="#26">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">Congress authorizes and directs that, to the fullest extent possible &hellip; the policies, regulations and public laws of the United States shall be interpreted and administered in accordance with the policies set forth in the National Environmental Policy Act. &mdash; NEPA itself.
+</p>
+
+<p>In 1970, responding to the rising ecological awareness among the electorate inspired by Earth Day, the US Congress passed (NEPA), which introduced the unwelcome concepts of &lsquo;ecology&rsquo; and &lsquo;environmental-impact statements&rsquo; to Washington&apos;s regulatory agencies. NEPA mandated them to consider the &lsquo;relationship between short-term use of [the] environment and the maintenance and enhancement of long-term productivity&rsquo;, the &lsquo;irreversible and irretrievable commitment of resources&rsquo;, and the &lsquo;effects on natural resources and on the components, structures, and functioning of &hellip; ecosystems&rsquo;. Judging by the results, few legislators had any idea of what this would mean. &lsquo;Long term&rsquo;, for instance, was no longer going to be &lsquo;90 days&rsquo;. &lsquo;Ecosystems&rsquo; were going to tie previously unrelated events together in unexpected ways.
+</p>
+
+<p>The language of NEPA effectively gives it a quasi-Constitutional powers, requiring lesser laws to be interpreted and implemented in accordance with its concern for environmental problems, and with its long term view. This means that
+</p>
+
+<blockquote>legal ambiguities should be resolved in favor of the environment, even when &mdash; and perhaps especially when &mdash; competing economic interests might support a different answer. &mdash; <a class="fn">
+	JL Chen 2005<span> &lsquo;Legal Mythmaking in a Time of Mass Extinctions&rsquo; <cite>Harvard Environmental Law Review</cite> <b>29</b>: 279&ndash;319.
+</span></a>
+</blockquote>
+
+<p>So ingrained is the feeling that the world was made for us to exploit, that by 2004 the <a class="fn">feudofascist-dominated<span>
+	More politely, in Chen&apos;s (2004) words, their &lsquo;ongoing campaign to tighten the constitutional reins on Congress&apos;s ability to pass environmental legislation&rsquo; {539}.
+</span></a> Supreme Court had already gutted NEPA by repeatedly describing it as requiring a process (ie, &lsquo;Consider all the legally required relationships&rsquo;), but not a result (ie, &lsquo;Do not let the considerations interfere with making money&rsquo;). For case citations see <a class="fn">Jim Chen (2004)<span>
+	JL Chen (2004) &lsquo;Webs of Life: Biodiversity Conservation as a Species of Information Policy&rsquo; <cite>Iowa Law Review </cite><b>89</b>: 495&ndash;608.
+</span></a>.
+</p>
+
+<p>If we were serious about surviving, we would emplace environmental protection directly in the Constitution (as have Argentina, Ecuador, India, <a class="fn">and Poland<span>
+	&bull; ARGENTINA (1998) granting &lsquo;[a]ll inhabitants &hellip; the right to a healthy and balanced environment fit for human development in order that productive activities shall meet present needs without endangering those of future generations&rsquo; and committing the Argentine federal government to &lsquo;provide for the protection of this right, the rational use of natural resources, the preservation of the [nation&apos;s] natural and cultural heritage and of [its] biological diversity&rsquo;.<br>
+	&bull; ECUADOR (2008) says nature &lsquo;has the right to exist, persist, maintain and regenerate its vital cycles, structure, functions and its processes in evolution.&rsquo; This right, the constitution states, &lsquo;is independent of the obligation on natural and juridical persons or the State to indemnify the people that depend on the natural systems.&rsquo;<br>
+	&bull; INDIA, art. 48A (1950) &lsquo;The State shall endeavour to protect and improve the environment and to safeguard the forests and wild life of the country&rsquo;.<br>
+	&bull; POLAND, art. 74(1), (3) (1997) providing that &lsquo;[p]ublic authorities &hellip; pursue policies ensuring the ecological security of current and future generations&rsquo; and granting &lsquo;everyone the right to be informed of the quality of the environment and its protection&rsquo;.
+</span></a>), extend the Bill of Rights to our environmental support system, give representatives of nature (quangos) standing to sue in court, and guarantee public access to all environmental information and decisions. Results that would follow from such a move are precisely those of <a href="#T22.1">Table 22.1</a>. Ignorance &mdash; or outright fascism (if they differ) &mdash; in high places has resulted in the intent of NEPA being entirely <a class="fn">neglected<span>
+	N Yost (1990) &lsquo;NEPA&apos;s Promise &mdash; Partially Fulfilled&rsquo; <cite>Envtl. Law</cite> <b>20</b>: 533&ndash;536.</span></a>.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#25">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="26"> Assisi Declaration, 1986 </a>
+<a class="tri" href="#27">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">As the only conscious creation, humanity has the ultimate task of caring for the universe. &mdash; Zoroastrianism
+</p>
+
+<p>Prince Philip, one of the founders of WWF (the World-Wide Fund for Nature; colloquially, &lsquo;Woof woof&rsquo;), has also tried to encourage established religions to heed their Gaian responsibilities. His efforts produced 2 Declarations, from Assisi and Windsor. Table 22.3 extracts relevant fragments from <a class="fn">
+	<cite>Assisi Declarations</cite><span>Basilica de S. Assissi, 29 Sep 1986 (Alliance of Religions and Conservation, Bath UK)</span></a>.
+</p>
+
+
+<hr><table class="tcen">
+
+<caption>
+<a class="tri" href="#T22.2">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T22.3"> Table 22.3 </a>
+<a class="tri" href="#T22.4">&emsp;&emsp;&#9654;</a>
+Extracts from the Assisi Declaration. The comments are personal rather than editorial.
+</caption>
+
+<thead>
+<tr><th>Religion</th>
+<th>Extract</th>
+<th>Comment</tr>
+</thead>
+
+<tfoot>
+<tr><td colspan="3">One should perhaps take this table with a grain of salt, because as <a href="http://ecofascism.com/article3.html" class="fn">one critic<span>
+	Anonymous (&gt;1999) &lsquo;The English Environmental Elite, Global Warming, and the Anglican Church&rsquo; [Click to read.]
+<br>--------------------<br>
+	The website contains many well written but anonymous, biased and scientifically counterfactual articles and reviews. Judging by the frequency of the word &lsquo;coal&rsquo; in them, this is a Koch Brothers propaganda site funded by the excess profit mention above.
+</span></a> maintains, &lsquo;The attendees agreed to scour their sacred texts for eco-sounding passages &hellip;&rsquo; &mdash; which, by and large, is my own interpretation.
+</tfoot>
+
+<tbody>
+<tr><th>Buddhism</th>
+<td>&lsquo;The simple underlying reason why beings other than humans need to be taken into account is that, like human beings, they too are sensitive to happiness and suffering; they too, just like the human species, primarily seek happiness and shun suffering.&rsquo; </td>
+<td>This is a central and obvious issue in Jatakan Buddhism.</td></tr>
+
+<tr><th>Judaism</th>
+<td>The statement recognizes the centrality of 2 of Adam's Tasks (Tending the Garden, Naming the Species), and the uniquely Jewish demand that God be moral (Housebreaking gods).</td>
+<td> Stewardship of creation (or at least of our own planet) is the reason given for our existence.</td></tr>
+
+<tr><th>Christianity</th>
+<td>&lsquo;[M]an&apos;s dominion cannot be understood as licence to abuse, spoil, squander or destroy what God has made to manifest his glory. That dominion cannot be anything other than a stewardship in symbiosis with all creatures. &hellip; All human effort in the world must therefore lead to a mutual enrichment of man and creatures.&rsquo;</td>
+<td>One is hard put to find this among Jesus's teachings (Pigs and Figs). It is fundamentally an inherited Old Testament concept, and is expressly repudiated by the &lsquo;dominion theology&rsquo;, the conservative Christian version of shari&apos;a. </td></tr>
+
+<tr><th>Hindu</th>
+<td>&lsquo;Centuries of rapacious exploitation of the environment have finally caught up with us and a radically changed attitude towards nature is now not a question of spiritual merit or condescension, but of sheer survival.&rsquo;</td>
+<td>&lsquo;Finally&rsquo; says it all. India has paid little attention to nature since the days of (Buddhist ruler) Asoka.</td></tr>
+
+<tr><th>Muslim</th>
+<td>&lsquo;Shariah institutions as <i>haram</i> zones, inviolate areas within which development is prohibited to protect natural resources, and <i>hima</i>, reserves established solely for the observation of wildlife and forests, form the core of the environmental legislation of Islam. The classical Muslim jurist, Izzad-Din bin Abd as-Salam, used these aspects of the Shariah when he formulated the bill of legal rights of animals in the 13th century.&rsquo;</td>
+<td>One can read the Quran, Islamic studies, and environmental journals, for 20 years without finding a mention of <i>hima</i> or as-Salam. Originally, <i>hima</i>, meaning &lsquo;protected&rsquo;, denoted an area reserved for grazing by animals dedicated to the gods of the jahiliya; under Mohammad the animals were sacrificed for Zakat. Bukhari 4.256 has Mohammad revoking the <i>hima</i> of women and children in aid of night attacks on infidels.</td></tr>
+</tbody></table>
+
+
+<p>I don&apos;t know of any changes in behavior that followed such statements until Pope Francis appeared on the scene. By some bizarre oversight, the Catholics chose someone whose instincts run counter to 2000 years of organizational policy, and we may see real progress.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#26">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="27"> IUCN, UNEP, WWF, 1991 </a>
+<a class="tri" href="#28">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The premonitions and insights of the preceding statements were scattered and diffuse. The first attempt to synthesize them into a coherent stance was not made until 1991, when the United Nations Environment Program (UNEP), the World Wide Fund for Nature (WWF), and the <a class="fn">
+	International Union for the Conservation of Nature<span> IUCN, UNEP, WWF (1991) <cite>Caring for the Earth, A Strategy for Sustainable Living</cite> (Gland, Switzerland).</span></a>
+(IUCN), belatedly called for a dialog:
+</p>
+
+<blockquote>Our survival depends on the use of other species, but it is a matter of ethics, as well as practicality, that we ensure their survival and safeguard their habitats.<br>
+
+Four actions are needed to implement this principle, [of which the first is]:<br><br>
+
+&bull; The ethic for sustainable living should be developed by a dialog between religious leaders, thinkers, leaders of society, citizens&apos; groups and all caring people. &hellip; The product of this action should be a clear and universally accepted statement of the principles of human conduct within the <a class="fn">world of nature<span>
+	What we have learned since has enabled people to put probability limits on events and cost estimates, but they are still very wide limits. A few new threats have been identified, but the bottom line is that none of the problems then identified have been addressed.
+</span></a>.
+</blockquote>
+
+<p>This little booklet was at least circulated to quangos on the UN mailing list &mdash; but nothing happened in response. By 1995, no one I could reach in the 3 agencies which produced it had heard of this publication. Yet international standards associations have decades of experience with orchestrating the definition and acceptance of similar statements. We know exactly how to go about doing what was called for &mdash; and is still needed. Standardization of software, aircraft safety, weather reporting, screw threads, and other utilities incidental to civilization, is a complex and painstaking process, involving meetings around the world, interim reports, and consultations with everyone concerned, over a decadal period &mdash; but it is a known process, itself almost standardized. For practices essential to survival, you‘d think we might manage as much.
+</p>
+
+<p>I suspect that the abject failure of IUCN, UNEP, and WWF to follow up on their call was not normal burocratic bungling, but was the direct result of malign pressure by the feudofascists
+who profit from <a class="fn">unsustainable exploitation<span>
+	WWF has a long history of temporizing in the hope of being seen as reasonable and considerate of the profit motive. In 19&bull;&bull; it fired a &bull;&bull; because he gathered evidence of illegal sales of ocelot-skin coats (banned by the Convention on International Trade in Endangered Species). WWF failed to prosecute the business involved. Many field workers are openly contemptuous of its conciliatory approach, which they find ineffectual.
+</span></a>. In 2015, 3 people per week were being assassinated for defending our life-support systems, a third of them indigenous people.
+</p>
+
+<blockquote>Increasingly, communities that take a stand are finding themselves in the firing line of companies&apos;  private security, state forces and a thriving market for contract killers. &mdash;  Global Witness, <a href="https://www.global.witness.org/documents/18482/On_Dangerous_Ground.pdf"><cite>On Dangerous Ground</cite></a>
+</blockquote>
+
+<p>This is deliberate policy: second-degree murder (&lsquo;with malice aforethought, but not premeditated&rsquo;), which normally carries a penalty of 30 year imprisonment. Convicting a few CEOs or board members as accessories before the fact (which carries the same penalty) should make murder a less popular management tool.
+</p>
+
+&bull;&bull;&bull;&bull;&bull;(CHECK WITH AILEEN)&bull;&bull;&bull;&bull;&bull;&bull;
+
+<p>The amount of this unsustainable profit is over T$2 annually, 1/3 of the profits of the world&apos;s top 3000 companies {<cite>GW</cite> 2010-02-22}. &lsquo;Fixing&rsquo; this will reduce managerial pay and increase the cost of doing business, and also affect everyone whose pension is in any way related to the performance of the stockmarket. But what if it reduced profits by 2/3? We would still be ahead of the game. Given the incentive, we could make up the difference with a more intelligent economic paradigm.
+</p>
+
+<p>I am not invoking a conspiracy here, but pointing out that the existing economic paradigm involves a real, vicious, and single-minded policy devoted to maintaining that excessive profit until the ecosystem that produces it collapses. One of its public faces is the propaganda mill with the Orwellian name &lsquo;Wise Use&rsquo;, but any major corporation has motive, means, and opportunity to protect its interests &mdash; together with a long-range vision extending to its next quarterly report, a corporate mentality of &lsquo;greed is good&rsquo;, a management which accepts whatever will increase profit, and a morality which makes &lsquo;business ethics&rsquo; an oxymoron. When <a href="F23.shtml#21a">SLAPPs</a> fail, flattery, bribery, intimidation, character assassination, subversion, murder, arson, car bombings, and rape, are (given plausible deniability) effective <a class="fn">management tools<span>
+	&bull; D Day (1989) <cite>The Environmental Wars.</cite> (Ballantine Books, NYC).<br>
+	&bull; Bari, J (1994) <cite>Timber Wars</cite> (Common Courage Press, Monroe, NE).<br>
+	&bull; Helvarg, D (1997) <cite>The War Against the Greens</cite>. (Sierrra Club Books, San Francisco).
+<br>----------------<br	>
+	Such practices led Steve Wright to observe, &lsquo;99% of lawyers give the rest a bad name&rsquo;. Here is a place where &lsquo;equal arms&rsquo; are essential to justice.</span></a>
+</p>
+
+<p>As a result, the &lsquo;clear and universally accepted statement of the principles of human conduct within the world of nature&rsquo; was never enunciated. Global heating, deforestation, and biodiversity loss are the most prominent consequences, and we haven&apos;t begun to understand the dislocations, costs, deaths, famines, environmental refugees, and mass migrations which we cannot now prevent.
+</p>
+
+<p>It is not that we lacked the wisdom to have understood and corrected the stupidities of speciesism. <a class="fn">Kropotkin<span>
+	P Kropotkin (1902) <cite>Mutual Aid: A Factor in Evolution</cite>. (Extended Horizons Books, Boston, 1959).</span></a>
+wrote of Mutual Aid. <a class="fn">Teilhard de Chardin<span>
+	P Teilhard de Chardin (1953) <cite>The Stuff of the Universe</cite>, In <cite>Ouvres </cite> (Editions de Seuil, Paris): V, 347.</span></a>
+suggested that &lsquo;a hitherto unknown form of religion is gradually germinating in the heart of modern man in the furrow opened up by the idea of evolution&rsquo;. <a class="fn">Albert Schweitzer<span>
+	A Schweitzer (1932) <cite>Aus meiner Leben und Denken</cite>. (Felix Meiner Verlag, Leipzig): 136. English version, <cite>Out of My Life and Thought. </cite>(Henry Holt, NY, 1933).</span></a>
+submitted &lsquo;respect for all life&rsquo;. <a class="fn">René Dubos<span>
+	R Dubos (1980) <cite>Wooing of the Earth</cite> (Scribner, NYC).</span></a>
+wrote of <cite>Wooing of the Earth</cite>. <a class="fn">Bratton<span>
+	S Bratton (1992) <cite>Six Billion and More: Human Population Regulation and Christian Ethics</cite>. (Westminster/John Knox, Louisville KY).</span></a>
+pointed out that the &lsquo;multiply&rsquo; of Genesis applies to all species. <a class="fn">McFague<span>
+	S McFague (1992) A square in the quilt: One theologian&apos;s contribution to the planetary agenda, in Rockefeller, SC & Elder, JC (eds) <cite>Spirit and Nature</cite> (Beacon, Boston): 39&ndash;58.</span></a>
+called for a god who is &lsquo;in and part of the evolutionary process&rsquo;. <a class="fn">Kwok Pui-Lan<span>
+	Kwok Pui-lan (1994) &lsquo;Ecology and the recycling of Christianity&rsquo; In Hallman, D. (ed) <cite>Ecotheology: voices from the South and North. </cite>(World Council of Churches, Geneva): 107&ndash;111.</span></a>
+wrote of &lsquo;recycling Christianity from hierarchical anthropocentrism to ecological biocentrism&rsquo;. The list could be extended &mdash; and any and all of these can provide the basis for a Gaian religion. Yet like <a class="fn">Clark&apos;s<span>
+	SR Clark (1991) <cite>How to think about the Earth: Philosophical and technological models for ecology. </cite>(Mobray, London): 69.</span></a>
+&lsquo;sacramental theism&rsquo; (&lsquo;we do not own the world, but only enjoy its fruits on the condition that we leave as good for others&rsquo;) these approaches cite no Scripture, run counter to 2000 years of exhortation from the pulpit, and are seen as irrelevant by congregations and by theologians!
+</p>
+
+
+
+<h3>
+<a class="tri" href="#27">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="28"> Windsor Declaration, 1996 </a>
+<a class="tri" href="#29">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">Avoid hurt or injury to any sentient being so that peace may come to your mind. &mdash; Sikhism
+</p>
+
+<p> In 1995, Prince Philip tried again with a new quango, the Alliance of Religions and Conservation (ARC), organizing the 1996 <a href="http://tinyurl.com/3cl3wf">Windsor Declaration </a>, building upon and enlarging the Assisi Declaration.
+</p>
+
+<p>The book version is <a class="fn"><cite>Faith in Conservation</cite><span>
+	M Palmer, with V Finlay (2003) <cite>Faith in Conservation:New Approaches to Religions and the Environment</cite> (The International Bank for Reconstruction and Development, Washington DC, 2003). </span></a>,
+which added 6 faiths to the Assisi Declaration: Baha‘i, Daoism, Jainism, Shintoism, Sikhism, and Zoroastrianism. It opened with an example of the sort beloved of quangos, showing that their efforts paid off. Religion succeeded where education, environmental quangos, legislation, and scientists had all failed to dissuade the Muslims of fishing villages along the East African coast from fishing with dynamite. Yet in a sense, this was a cooked example, because it depended upon a population that believed its priests implicitly, and &mdash; fortunately &mdash; it had priests who could understand the problem when scientists explained it in detail, and were also able to  discover that Allah had long since prohibited dynamiting the ocean. Think what might be accomplished if the feudofacists of the US far right &mdash; who apparently know as little about ecology and sustainability as do Muslim fishermen &mdash; (1) believed their priets, and (2) the priests could discover <a href="../_F/F24.shtml#22">Adam&apos;s Three Tasks</a>!
+</p>
+
+
+
+<h3>
+<a class="tri" href="#28">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="29"> E.O. Wilson, 1998 </a>
+<a class="tri" href="#30">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p><a class="fn">Pascal<span>
+		B Pascal (1660) <cite>Pensées</cite> Transl. W.F. Trotter (Christian Classics Ethereal Library, Grand Rapids MI): 233.</span></a>
+observed that the truth of the matter was unknowable. If god exists and operates by one of the revealed descriptions, the payoff &mdash; heaven vs hell &mdash; is infinite. The prudent person will seek the best of both worlds by living well while guessing which revelation is appropriate and trying hard to believe it. This egocentric approach might protect the individual, but does nothing for the world. <a class="fn">E. O. Wilson&apos;s<span>
+		EO Wilson (1998) <cite>Consilience: The Unity of Knowledge</cite> (Little, Brown, NYC): 246.</span></a>
+inversion protects both the individual and the world:
+</p>
+
+<p class="rc">If fear and hope and reason
+	<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-TakeHome3.gif" alt="Take-home" /></a>
+dictate that you must accept the faith, do so &mdash; but treat this world as if there is none other.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#29">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="30"> People&apos;s Climate March, 2014 </a>
+<a class="tri" href="#31">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>1&permil; of the American population marched in New York on 2014-10-03 in an effort to persuade the following UN Climate Summmit that it was long past time to <b>do something</b> real about climate change. There were similar demonstrations in 162 countries around the world, showing once again that anyone in contact with the real world has noticed that the climate is changing. It is the other 1&permil; that owns the main-stream media, the Supreme Court, and the politicians &mdash; and makes its money from coal mining &mdash; that doesn&apos;t care what is happening to our world.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#30">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#21">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="31"> PLANETARY BOUNDARIES </a>
+<a class="tri" href="#RL">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#RL">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p class="epi">The Anthropocene raises a new question: &lsquo;What are the non-negotiable planetary preconditions that humanity needs to respect in order to avoid the risk of deleterious or even catastrophic environmental change at continental to global scales&rsquo;? &mdash; <a class="fn">
+	J Rockstr&ouml;m &amp;28a (2009)<span> &lsquo;Planetary boundaries: exploring the safe operating space for humanity&rsquo; <cite>Ecology and Society</cite> <b>14</b>(#2): 32. [Click to read.]
+</span></a><a href="http://www.ecologyandsociety.org/vol14/iss2/art32/"> ⬆︎</a>
+</p>
+
+<p>Again we come to frontier science, the attempt to recognize  planetary boundaries, and &mdash; drawing upon multidisciplinary  understanding &mdash; to quantify them. Like climate change (which presents one of the boundaries) this requires immense collaborative effort. Boundaries are not obvious, their effects are insidious, their consequences diffuse, and their causes impersonal. To individuals, they are not recognizable as either threats or things that can be changed. Avoidance requires precisely the feature that US Republicans think they were elected to abolish in 2015: governmental interference with individual liberty that prevents people from doing as they damned well please when the cumulative consequences are culture breaking.
+<p>
+
+<p>The ten planetary boundaries of Table 22.4 have so far been recognized. The idea of a boundary is that in each category, potential catastrophes lie ahead. In some cases their approach seems slow but inexorable; in others, possibly sudden and disastrous. Given Lao Tzu&apos;s startling observation that &lsquo;If we do not change direction, we may end up where we are heading&rsquo;, it seems smart to put a notional fence between us and the disasters. Since we know what worked during the Holocene (11,700 BCE&ndash;1760), a good bet is that we might be able to extend the Anthropocene (1760&ndash;??) indefinitely by maintaining conditions similar to those of the Holocene. Table 22.4 presents some boundaries we should not cross if we hope to do this. Note that every boundary is at least as complex as the discussion of global heating <a href="#04">above</a>.
+
+
+<hr> <table class="tcen">
+<caption>
+<a class="tri" href="#T22.3">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T22.4"> Table 22.4 </a>
+<a class="tri"
+href="../_F/F22b.shtml#T22.5">&emsp;&emsp;&#9654;</a>
+Planetary Boundaries. Rockstr&ouml;m and his many coworkers did not mention Gaia (no doubt hoping to avoid contamination of good science with precautionary philosophy), but the calculated limits &mdash; subject always to better estimation as knowledge accumulates &mdash; are the sort of warnings Moses would bring down the hill carved in stone if Gaia were in charge. Considering the amount of effort that has gone into teaching climate change &mdash; and how little effect it has had on US Republicans, any church concerned with human welfare would be emphasizing personal salvation through active stewardship rather than blind faith.
+</caption>
+
+<thead>
+<tr><th>Boundary</th>
+	<th>Miners‘ Canary</th>
+	<th>Limiting Parameter</th>
+	<th>Status</th></tr>
+</thead>
+
+<tbody>
+<tr><td><b>Climate Change</b></td>
+	<td>Polar ice sheets</td>
+	<td>Atmospheric CO₂ &lt; 350 ppm and/or radiative forcing &lt; +1 W/m<sup>2</sup></td>
+	<td class="red">400 ppm</td></tr>
+
+<tr><td><b>Ocean Acidification</b></td>
+	<td>Coral reefs</td>
+	<td>Mean surface seawater saturation state with respect to aragonite ≥ 80% of pre-industrial levels</td>
+	<td>Approaching boundary</td></tr>
+
+<tr><td><b>Stratospheric Ozone</b></td>
+	<td>Skin cancer</td>
+	<td>&lt; 5% reduction in O<sub>3</sub> concentration from pre-industrial level of 290 Dobson Units</td>
+	<td></td></tr>
+
+<tr><td><b>Biogeochemical Nitrogen Flux</b></td>
+	<td>Terrestrial dystrophication</td>
+	<td>Limit industrial and agricultural fixation of N₂ to 35 Tg N/yr</td>
+	<td class="red">Exceeded</td></tr>
+
+<tr><td><b>Biogeochemical Phosphorus Flux</b></td>
+	<td>Anoxic seas</td>
+	<td>Annual P inflow to oceans not to exceed 10 times the natural background weathering of P</td>
+	<td>Close to boundary</td></tr>
+
+<tr><td><b>Global Freshwater use</b></td>
+	<td>Civil unrest</td>
+	<td>&lt;4000 km<sup>3</sup>/yr of consumptive use of runoff resources</td>
+	<td></td></tr>
+
+<tr><td><b>Land system change</b></td>
+	<td>Soil loss</td>
+	<td>&lt; 15% of the ice-free land surface under cropland</td>
+	<td></td></tr>
+
+<tr><td><b>Biological diversity loss</b></td>
+	<td>Ecosystem loss</td>
+	<td>Annual rate of &lt;10 extinctions per million species</td>
+	<td class="red">Greatly Exceeded</td></tr>
+
+<tr><td><b>Chemical pollution</b></td>
+	<td>Surprises await</td>
+	<td>Limit not yet known</td>
+	<td></td></tr>
+
+<tr><td><b>Atmospheric aerosol loading</b></td>
+	<td>Monsoon system</td>
+	<td>Limit not yet known</td>
+	<td></td></tr>
+
+</tbody></table>
+
+<p>Work <a class="fn">continues<span>
+	W Steffen &amp;17a (2015) &lsquo;Planetary boundaries: Guiding human development on a changing planet&rsquo; <cite>Science</cite> <b></b> ; DOI: 10.1126/science.1259855</span></a>
+on refining the limits. Note, in passing, that Table 22.4 is just the beginning: population &mdash; the principal driver of the entries above &mdash; has not been mentioned, nor have Eirenic limits, such as wealth distribution. Web searches for papers by Johan Rockstr&ouml;m, Will Steffen, and Paul Crutzen will lead to bibliographies of hundreds of detailed papers behind Table 22.4 &mdash; few of which will seem alarming by themselves.<span class="fr">◼</span>
+</p>
+<hr>
+
+
+
+<h2>
+<a class="tri" href="#31">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="RL"> READING LIST: GAIA THEORY </a>
+<a class="tri" href="#AP">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<ul style="color:black;">
+<li>Bunyard, P, Ed (1996) <cite>Gaia in Action; Science of the Living Earth</cite> (Floris Book, Edinburgh, Scotland).</li>
+<li>Capra, F (1997) <cite>The Web of Life</cite> (Harper Collins London).</li>
+<li>Dyson, F (1992) <cite>From Eros to Gaia</cite> (Pantheon Books, New York).</li>
+<li>Greene, MT (1992) <cite>Natural Knowledge in Preclassical Antiquity</cite> (The Johns Hopkins University Press, Baltimore).</li>
+<li>Harding, S (2009) <cite>Animate Earth: Science, Intuition, and Gaia</cite> 2nd ed. (Green Books, Totnes, Devon, UK).</li>
+<li>Leopold, A (1949) <cite>A Sand County Almanac; and Sketches Here and There</cite> (Oxford University Press, Oxford).</li>
+<li>Lovelock, JE &amp; L Margulis (1974). &lsquo;Atmospheric Homeostasis by and for the Biosphere: The Gaia Hypothesis&rsquo; <i>Tellus</i> <b> 26</b>: 2&ndash;9.</li>
+<li>Lovelock, J (1979) <cite>Gaia: A New Look at Life on Earth</cite> (Oxford University Press, Oxford, England).
+<li>Lovelock, J (1988) <cite>The Ages of Gaia: A Biography of Our Living Earth</cite> (W. W. Norton, New York).</li>
+<li>Lovelock, J (1991) <cite>Healing Gaia: Practical Medicine for the Planet</cite> (Harmony Books, New York), reprinted in 1999 as <cite>Gaia: The Practical Science of Planetary Medicine.</cite></li>
+<li>Lovelock, J (2006) <cite>The Revenge of Gaia: Earth&apos;s Climate Crisis and the Fate of Humanity</cite> (Basic Books, New York).</li>
+<li>MacHarg, I (1969) <cite>Design With Nature</cite> (Natural History Press, Garden City NYC).</li>
+<li>Margulis, L &amp; D Sagan (1995) <cite>What is Life?</cite> (Simon and Schuster, NYC).</li>
+<li>Margulis, L &amp; D Sagan (1997) <cite>Microcosmos: Four Billion Years of Microbial Evolution</cite> (University of California Press. Berkeley CA).</li>
+<li>Margulis, L (1998) <cite>Symbiotic Planet: A New Look at Evolution</cite> (Basic Books, NYC).</li>
+<li>Myers, N (1984) <cite>Gaia: An Atlas of Planetary Management</cite> (Anchor Books, Garden City NJ).</li>
+<li>Russell, P (1995) <cite>The Global Brain Awakens</cite> (Global Brain, Palo Alto CA).</li>
+<li>Sahtouris, ET (2000)  <cite>EarthDance: Living Systems in Evolution</cite> (Praeger, Santa Barbara CA).</li>
+<li>Schneider, SH, &amp;3a (eds) (2004) <cite>Scientists Debate Gaia</cite> (MIT Press, Cambridge MA).</li>
+<li>Thompson, WI, (ed) (1987) <cite>Gaia, A Way of Knowing: Political Implications of the New Biology</cite> (Lindesfarne Press, Great Barrington, MA).</li>
+<li>Volk, T (1998) <cite>Gaia&apos;s Body: Toward a Physiology of Earth</cite> (Springer-Verlag, NYC).</li>
+<li>Westbroek, PR (1991) <cite>Life as a Geologic Force</cite> (W.W. Norton, NYC).</li>
+<li>Williams, GR (1996) <cite>The Molecular Biology of Gaia</cite> (Columbia University Press, NYC).</li>
+<li>Ward, PD (2009) <cite>The Medea Hypothesis</cite> (Princeton, NJ).</li>
+</ul><span class="fr">◼</span>
+<hr>
+
+
+
+
+<a class="tri" href="#RL" id="AP">&#9651;&emsp;&emsp;</a>
+<h3><a href="#TOC"> APPENDIX 22A: Textbook Boilerplate </a></h3>
+<a class="tri" href="#01">&emsp;&emsp;&#9650;</a>
+<a class="trs" href="#IC">&emsp;&emsp;&#9661;</a>
+
+<p>While the rest of this work is maintained under ordinary copyright, this Appendix is freely available under the
+Creative Commons Attribution license (CC-BY). That is, it may be copied, distributed, displayed, and freely adapted (specifically, to appease any demand for inclusion of Irreducible Complexity or Intelligent Design in a textbook), as long as the author is credited.
+</p>
+
+
+
+
+<a class="tri" href="#AP" id="IC">&#9651;&emsp;&emsp;</a>
+<h3><a href="#TOC"> The IC and ID Conjectures </a></h3>
+<a class="tri" href="#TN">&emsp;&emsp;&#9661;</a>
+
+
+<p class="epi">A complex system that works is invariably found to have evolved from a simpler system that works. &mdash; A commonplace of engineering.
+</p>
+
+<p>Throughout history observant people have seen complex systems working well in the natural world. Many interpret this as evidence of Intelligent Design (ID), and <b>conjecture</b> an Intelligent Designer. According to Cicero, &lsquo;<b>Anaxagoras</b> was the first to hold that the order and measure of all things was planned and accomplished by the power and intelligence of an infinite mind.&rsquo; This hypothesis was extensively explored by <b>Cicero</b> in 45 BCE, and has been revived many times since. In 2 millennia no one has found a way to advance the hypothesis beyond the bare statement, &lsquo;Parts of the universe look as though they had been designed&rsquo;. <b>Lucretius</b> added, &lsquo;And many of them are very poorly designed&rsquo;. <b>Helmholtz</b> came to the same conclusion.
+</p>
+
+<p>There is no way to falsify ID, so by <b>Popper&apos;s</b> definition, it lies outside the reach of science. It is also an <b>undecidable question</b>. This is not unusual, because <b>Gödel</b> showed (in an easily understandable proof) that such questions can be asked but not answered within any formal system. The reason that scientists dismiss ID is that it has not been a fertile paradigm. ID was the only approach we had during the Dark Ages (400&ndash;1300 CE), and it led nowhere. Anything useful that it produced is already in the textbooks. No verified prediction has been based on ID, nor has it inspired significant research. When <b>William Paley&apos;s</b> <cite>Natural Theology</cite> (1802) described the Great Watchmaker, he was using the same argument disposed of by Cicero. 1600 years without a new idea suggests strongly that there is little to be gained from ID once the concept is acknowledged and filed away in case someone thinks of a way to falsify it.
+</p>
+
+<p>The mathematics of species evolution was done in 1930 by <b>R.A. Fisher</b>, combining <b>Mendel&apos;s</b> genetics and Darwin&apos;s <b>natural selection</b>. When the ID community can produce a book like Fisher&apos;s <cite>The Genetical Theory of Natural Selection</cite> (that is, explaining in predictive mathematical detail the process of ID in the biological world), they will be taken seriously, and any consequential results that they then produce will be included in the text books as a matter of course. Until they can do this, they will be ignored.
+</p>
+
+<p>Some biological structures are so complex that removal of a single component causes system failure. The doctrine of &lsquo;Irreducible Complexity&rsquo; (IC) then conjectures that these &lsquo;cannot have been derived from simpler precursors&rsquo; and must have been created in completed form. This reveals a failure of analytic thinking and lack of imagination. <b>Darwin</b> mentioned that people would think of the <b>eye</b> like this. Then he suggested a series of simpler eyes that he thought could be found among animals. These have been found in 4 different phyla. Every IC candidate has been shown by biologists to have a series of earlier, simpler forms with fewer components, in the manner of any household device.
+</p>
+
+<p>Proponents of ID admit &lsquo;micro-evolution&rsquo; to account for the variability of, say, the domestic dog. Otherwise, the catchall term &lsquo;kind&rsquo; in Genesis has to accommodate 10 million species in 7 groups. The process that admits &lsquo;micro-evolution&rsquo; but prevents the evolution of new species is the so-called ‘<b>species barrier</b>’. This has never been described in molecular detail. While many processes that contribute to biological evolution are understood only at the handwaving level, the simplest &mdash; point mutation &mdash; is well known. Before ID/IC can compete with evolutionary theory, it must explain the &lsquo;species barrier&rsquo; wiinth the same mechanistic detail. Here is a clear, simple test &mdash; and one that is resolutely ignored. <b>Margulis&apos;s</b> horizontal gene transfer by <b>endosymbiosis</b> is an important addition to Fisher&apos;s synthesis, and directly contradicts a species barrier.
+</p>
+
+<p>Before ID can be taken seriously, we have to understand the consequences of <b>Jolly&apos;s</b> hypothesis of <b>Machiavellian intelligence</b> that enables us to deduce what other people might be thinking, and why &lsquo;We cannot help but see design and purpose wherever there is complexity or beauty.’
+</p>
+
+<p>ID is such a simple idea that it is a central feature of most <b>creation myths</b>. Anthropologists estimate that there have been 100,000 of these. Most were lost before the invention of writing. Still, we have several hundred such stories. (Genesis contains 2, or at least one and a large fragment.) Many of them are entertaining and not without literary merit.
+</p>
+
+<p>The IC and ID conjectures take us far from the central interest of [whatever specific topic is being covered]. Today they belong to the history of philosophy, for they have not contributed directly to [our subject]. Anyone emotionally wedded to them is encouraged to pursue one of the bold-face topics above as a term paper/class project.
+</p>
+
+
+
+
+<h3>
+<a class="tri" href="#IC">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="TN"> Teaching Notes </a>
+<a class="tri" href="#01">&emsp;&emsp;&#9650;</a>
+</h3>
+
+<p>In a few short paragraphs, the concept of &lsquo;intelligent design&rsquo; has provided the basis for over a dozen major classroom projects. Anaxagoras, Cicero, Lucretius, Helmholtz, Popper, Gödel, Paley, Fisher, Mendel, Darwin, and Jolly can all be understood at many levels, and it is never too early to begin. Helmholtz was both physicist and optician. Why did he think the eye so poorly designed? What other examples of inept design are there? What Darwin actually said is little known, but needs to be, and <cite>Origin of Species</cite> is easy reading. (Fisher is not for the faint hearted or mathematically unprepared. He practically invented statistics, and was the equal of Gauss and Laplace as a mathematician. But his summary of his work is straightforward: &lsquo;Natural selection is a mechanism for generating an exceedingly high degree of improbability&rsquo;.) The idea of preventing evolution is a fertile one. Why is it needed by ID? How might it be implemented? Why is it so difficult to do? Machiavellian intelligence is an important part of being human. With whom do we share it? What does it do that is useful? What does it do that might not be useful? Comparative mythology offers numerous suggestions of intelligent (and not so intelligent) design, embedded in stories of varying plausibility. How can these stories be classified? Why do we choose to believe one and not another?</p>
+<hr>
+
+<p>(Critics who might respond &lsquo;That&apos;s not what we mean by &hellip;!&rsquo; should be invited to offer relevant examples <i>and ways to test them</i>. Perhaps compelling the suggester to propose a test which would falsify his example will have salutary results? It could happen.)
+</p>
+
+<p>A competent teacher will have no trouble devoting one class period to ID/IC at any level from 5th grade to graduate-school seminars, based on suitable modification of the above paragraphs.
+</p>
+<span class="fr">◼</span>
+
+
+<br><hr><div class="cen">
+<a href="../_F/F21.shtml">&vltri;&emsp;&emsp;</a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+<a href="../_F/F22b.shtml">&emsp;&emsp;&vrtri;</a>
+</div></body></html>

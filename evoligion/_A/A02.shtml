@@ -1,0 +1,1518 @@
+
+<!-- A02 Bicamerality 2018-03-27, 05:45 -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>A02_Bicamerality</title>
+
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+<link rel="stylesheet" type="text/css" href="htdocs/bfbv.css">
+
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+</style>
+</head>
+
+c<body>
+<p class="date"><!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-04-15 16:00 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h2 id="!">Book 1: Its Preludes</h2>
+<!--#include virtual="TocA02.shtml" -->
+
+
+<a class="tro" href="../Index.shtml" id="00">&#11152;&emsp;&ensp;</a>
+<a class="tro" href="#39"> &#9660;&emsp;&emsp;</a>
+<h3><a href="#!">THE COMMITTEE OF TWO</a></h3>
+<a class="tri" href="#01">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#07"> &#9661;&emsp;&emsp;</a>
+
+
+<p class="epi">[T]he gods were &hellip; a mere side effect of language evolution and the most remarkable feature of the evolution of life since the development of <i>Homo sapiens</i> himself. &mdash; Princeton psychologist Julian Jaynes.
+</p>
+
+<p class="epi">Love Jaynes or hate him, his theory remains, after [40] years, indisputably the single most comprehensive, wide-ranging, imaginative[, and explanatory] hypothesis available, &mdash; Robert Meyers</p>
+
+<p>The most important book of the 20th century, for our purposes, was Princeton Professor Julian Jaynes&apos;s <cite>The Origin of Consciousness in the Breakdown of the Bicameral Mind</cite>. A title like that will scare off most readers, and what he had to say was so hard to swallow that the consensus among those who most needed to understand his insights was, ‘If we ignore him with sufficient diligence, maybe he will go away’. As the (recommended) <a class="fk"  href="https://en.wikipedia.org/wiki/Bicameralism_(psychology)">Wikipedia article</a> puts it, ‘The hypothesis is generally not considered of practical importance by mainstream psychologists’ &mdash; but then, these are the same people who enthusiastically scampered down Freud&apos;s garden path, never noticing that Freud himself admitted that his ideas depended upon the validity of Lamarckian inheritance.
+</p>
+
+
+
+
+
+<a class="tri" href="#00" id="01" >&#10835;&emsp;&emsp;</a>
+<h4><a href="#!">Theoretical Aspects</a></h4>
+<a class="tri" href="#02">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">Fools rush in where angels fear to tread. &mdash; &lsquo;Charge!&rsquo; cried Becula.</p>
+
+<p>What <i>is</i> &lsquo;consciousness&rsquo;? We possess it, rocks do not, and we debate the dividing line. Some will claim that rocks have the rudiments; others, that the unexamined survival-oriented life of most humans is unworthy of the term. There is a host of words that get confounded with consciousness, so for the sake of clarity, I suggest the sequence below, which constrains &lsquo;consciousness&rsquo; to a specific process, perhaps still mysterious, but  precise. This is important, because once we blur the definition &mdash;</p>
+
+<blockquote>&hellip; once we acknowledge that consciousness comes in very many forms, we have to allow a role for the generation of these various types of consciousness by [the aggregation of] items that lack the types [of consciousness] in question. &mdash; <a class="fn">Frank Jackson&deg;.<span>
+	(2006) &lsquo;Galen Strawson on panpsychism&rsquo; in G Strawson et al, edited by A Freeman <cite>Consciousness and its place in nature</cite> (Imprint Academic, Exeter UK):
+	62&ndash;64.
+</span></a>
+</blockquote>
+
+<p class="flu">and this can only compound the confusion. Eight items in this list are specifically distinct from consciousness:</p>
+
+<ol>
+<li><b>Reactivity:</b> Even rocks react to their environment, by metamorphism, erosion, dissolution, etc.</li>
+
+<li><b>Awareness:</b> Perception of external events through <i>specialized sensors</i>. (Plants have sensors aware of gravity, sunlight, temperature, humidity, CO<sub>2</sub> and other nutrients, signal chemicals, and sometimes touch.)</li>
+
+<li><b>Intentionality:</b> Will, desire; even at the level of DNA. Ivy &lsquo;wants&rsquo; to become arborescent by climbing trees and smothering them.</li>
+
+<li><b>Intelligence:</b> Independent of consciousness, but requiring a <i>modifiable structure</i> to retain learning. (DNA does this too slowly to qualify except in an evolutionary sense.) </li>
+
+<li><b>Subjectivity:</b> Sufficient individuality to be influenced by personal feelings, tastes, or opinions. Some cats like peanut butter, others corn-on-the-cob. Some cats swim in the ocean.</li>
+
+<li><b>Sentience;</b> Subjective perceptual experience; qualia. (Purring cat).</li>
+
+<li><b>Self-awareness:</b> Passing the mirror test, which normally divides into 4 levels:</li>
+<ul>
+<li> social responses (aggressive display)</li>
+<li> physical inspection (looking behind the mirror)</li>
+<li> repetitive mirror-testing behavior</li>
+<li> realization of seeing themselves</li>
+</ul>
+Tests with animals are mixed. Some African Grey parrots, great apes, ants (!) and cetaceans apparently pass; cats, dogs, jackdaws and most primates seem to fail.
+</li>
+
+<li><b>Consciousness:</b> Introspection. &lsquo;An analog <q>I</q> narratizing in mind space&rsquo; &mdash; and thus <i>language dependent</i> (Julian Jaynes). </li>
+
+<li><b>Sapience:</b> Wisdom, a rare and valued quality in which information is tempered with insight.</li>
+</ol>
+
+
+<p>The italicized components seem essential to their definitions. Computers — highly organized minerals — although increasingly exhibiting some qualities on the list, do so only after the imposition of non-intrinsic organization and the addition of non-intrinsic instructions. Where they fit in this list depends upon the sophistication of the organization and instructions. There are <a class="fn">those&deg;<span>
+	E,g., Chuck Moore, who has been building ever smarter verson of silicon intelligence,
+</span></a> who say ‘Silicon wants to be intelligent. It is using us to help it achieve this.’
+</p>
+
+<a class="tri" href="#01" id="02">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!">Easy and Hard Problems of Consciousness</a></h5>
+<a class="tri" href="#03" >&#10836;&emsp;&emsp;</a>
+
+<p class="epi"></p>
+
+<p>We can make a bit of progress by noting that there are 2 problem-categories here. The &lsquo;easy&rsquo; problems of consciousness concern our mental functions: <a class="fn">Chalmers&deg;,<span>
+    D Chalmers (1995) &lsquo;Facing up to the problem of consciousness&rsquo; <cite>J Consciousness Studies</cite> <b>2</b>(#3): 200&ndash;19.
+</span></a> for instance, asks how &lsquo;discrimination, integration, accessibility, internal monitoring, reportability, and so on&rsquo; are to be explained. The consensus seems to be that these are information-processing methods that are accessible to reductionist science; possibly subtle, but eventually to be understood in mechanistic detail.</p>
+
+<p>The &lsquo;hard&rsquo; problem is <a class="fn">Nagel&apos;s&deg;<span>
+    T Nagel (1974) &lsquo;What is it like to be a bat?&rsquo; <cite>The Philosophical Review</cite> <b>83</b>: 435&ndash;450.
+</span></a> subjective aspect: &lsquo;there is <i>something it is like</i> to be a conscious organism&rsquo; (suggesting a bat as an example). Chalmers encapsulates the hard aspect as &lsquo;experience&rsquo;, but I see &lsquo;experience&rsquo; as just another mechanistic neural property. We <i>experience</i> the color blue when our optical system detects electromagnetic waves of 475 nm; we <i>experience</i> Middle C when our auditory system detects air-pressure waves of 256 Hz. Chalmers finds <a class="fn"><i>qualia</i>&deg;<span>
+    The singular is qua-le (2 syllables).
+</span></a> &mdash; the phenomena we experience, blue and Middle C &mdash; deeply mysterious, and specifically demands more than an explanation of mechanism and function.</p>
+
+<p>While this hard/soft dichotomy persists in the literature, framing the debate today, I don&apos;t see why &lsquo;more&rsquo;
+is needed. Early animals required an internal representation of their environment; their neural systems tried many things, eventually settling on arbitrary hard-wired <b>Fourier transforms</b> with remarkably realistic mappings that kept a long string of our ancestors alive. If it were the case that qualia were identical for all observers, there would be a need for a layer of interpretive neurons that we have not located. But all that evolution requires is that an environmental continuum be mappable into distinguishable qualia. It is useful that red and orange &lsquo;look different&rsquo;; it is not useful that my red be your red. A characteristic failure mode shows just how arbitrary these mappings are (and how remarkable the working set is!): there are 60-odd types of <a class="fn">synesthesia&deg;<span>
+    EM Hubbard, VS Ramachandran (2005). &lsquo;Neurocognitive mechanisms of synesthesia&rsquo; <cite>Neuron</cite> <b>48</b>(#3): 509&ndash;20; doi:10.1016/j.neuron.2005-10-012.
+</span></a> in which there is  cross-talk between modalities: sometimes Middle C is blue.
+</p>
+
+<p>The &lsquo;hard&rsquo; problem is hard precisely because it bites off more than it can chew. There is a half-way step between the rock and the philosopher, which is &lsquo;what it is like to be a <i>non</i>-conscious organism&rsquo; &mdash; for I maintain that Nagel&apos;s bat is <i>not conscious</i>. Bats translate auditory neural signals into some sort of
+3D-mapped quale, presumably experienced more or less as we might experience a 3D sonogram in a virtual reality. This provides a realistic map of their world on which they can base decisions. They are <i>aware</i> and <i>reactive</i>, but not <i>conscious</i> in the language-dependent, introspective sense described below. It seems to me that this separation allows <i>experience</i> to be studied reductively in simpler systems such as pain avoidance, which is just what Chalmers said could not be done with <i>consciousness</i>.
+</p>
+
+<p>The chapter epigraphs refer to a generation-old theory which is the  most important advance in philosophy of the 20th century, while remaining the least understood of its seminal ideas. This is the &lsquo;bicameral brain&rsquo; described in <a class="fn">Julian Jaynes&apos;s&deg;<span>
+    J Jaynes (1976) <cite>The Origin of Consciousness in the Breakdown of the Bicameral Mind</cite> (Houghton Mifflin, Boston, 1982).
+</span></a> masterwork, <cite>The Origin of Consciousness in the Breakdown of the Bicameral Mind</cite>.</p>
+
+<strike><p>If you suspect that most people will shy away from a title like that, <a class="fn">you are right&deg;.<span>
+    There are those who rank Jaynes with Velikovsky, claiming that he wrote entertaining science fiction, and describe his brain science as flawed and his translations as faulty at best. Jaynes responded to the &lsquo;flawed brain science&rsquo; criticism by observing that he had been describing a possible model, and that &lsquo;every mention of the brain could be taken out of the book and everything else would still stand&rsquo;.
+<br>------------<br>
+    J Jaynes (1986a) &lsquo;Response to the Discussants&rsquo; <cite>Canadian Psychology</cite> <b>27</b>(#2)
+</span></a> It gives fair warning of heavy going and strange ideas. Jaynes&apos;s &lsquo;bicameral hypothesis&rsquo; &mdash; which he himself called &lsquo;preposterous&rsquo; {84} &mdash; appeared to psychologists like Athena stepping full grown from Zeus&apos;s skull. They were unprepared for this irruption and did not take kindly to it. Most preferred to ignore it. Yet we now realize that there were intimations of such a development, never fully articulated, at the turn of the last century. If we start with these, they may make bicameral theory more accessible.</p>
+
+
+
+<a class="tri" href="#02" id="03">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!">Anthropology + Psychology &rarr; Theories of Religion</a></h5>
+<a class="tri" href="#04" >&#10836;&emsp;&emsp;</a>
+
+<p>There is a strong parallel between the work of Andrew Lang and that of Julian Jaynes, both of whom integrated the research of anthropologists and psychologists into useful theories of religion.</p>
+
+<p>Lang opens <cite>The Making of Religion</cite> with a paragraph describing what appears to be the current standard anthropological explanation of the <a class="fn">origin of religion&deg;.<span>
+    A Lang (1900) <cite>The Making of Religion</cite>, 2nd ed. (Longmans, Gtreeen, London): 1.
+</span></a> Then he suggests that this approach is incomplete and that &lsquo;the savage theory of the soul&rsquo; was based on &lsquo;experiences which cannot be made to fit into any purely materialistic system of the universe&rsquo; {2}. He was thinking of &lsquo;clairvoyance, thought-transference, and telepathy&rsquo; {158}, which <i>in his day</i> were still respectable areas of research. The hypotheses of E.B. Tylor, T.H. Huxley, A.W. Howitt, Herbert Spencer, William James, and others now forgotten, were bubbling away in journals and conferences. Among this ferment is a quote from Max Dessoir:</p>
+
+<blockquote>This &lsquo;fully conscious life of the spirit&rsquo;, in which we moderns now live, &lsquo;seems to rest upon a substratum of <b>reflex action of a hallucinatory type</b>&rsquo; &mdash; to which Lang adds: &lsquo;In that case &hellip; their psychical experiences would be such as we cannot estimate, yet cannot leave, as <b>a possibility influencing religion</b>, out of our calculations [emphasis added]. &mdash;  Lang, <cite>Making of Religion</cite>: 57.
+</blockquote>
+
+<p>One may wonder what &lsquo;reflex action of a hallucinatory type&rsquo; might be. <b>Guy Swanson, summarizing</b> <a class="fn"><b>Durkheim</b>&deg;,<span>
+    E Durkheim (1912) <cite>The Elementary Forms of the Religious Life, A Study in Religious Sociology</cite> Trans. JW Swain (George Allen &amp; Unwin, no date).
+</span></a> <b>described the substratum of hallucination</b> more exactly 60 years after Lang recognized it, in a passage closely anticipating Jaynes:</p>
+
+<blockquote>[People] develop a concept of personified supernatural beings directly from the model which their society provides. Unaware, as they generally are, of the extent to which overt behavior and inner impulse are formed by relations with other people, men find themselves in the hands of mysterious forces. Unlike other forces, these social customs <span style="text-decoration:underline;">seem to</span> <b>speak to individuals, chiding them for misbehavior, directing them to choose some goals rather than others, and rewarding their conformity</b>. The thoroughly socialized individual has so acquired these social standards that they are effective in directing his conduct even when he is quite alone. &mdash; <a class="fn">Swanson, 1960&deg;.<span>
+    GE Swanson (1960) <cite>The Birth of the Gods: The Origin of Primitive Beliefs</cite> (University of Michigan Press, Ann Arbor MI): 16;
+</span></a> Emphasis added.
+</blockquote>
+
+<p>Swanson concluded that these vocal &lsquo;spirits are associated with the presence of organized decision-making [groups or] purposes&rsquo; {179}.</p>
+
+<p>What Lang and Swanson described was a system in which the unconscious part of the brain successfully directed a person&apos;s behavior into socially decreed patterns via hallucinated instructions &mdash; a preposterous system indeed, which could not be made to fit the modern mind because in its experience, hallucinations led quickly to incarceration for antisocial behavior. This outré insight by anthropologists fell unregarded from professional view.</p>
+
+<p>Rudyard Kipling also offered a classic example of <a class="fn">bicamerality&deg;<span>
+    Kipling titled his poem &lsquo;In the Neolithic Age&rsquo;, but this is 5 or 10 thousand years too late for the Solutréan rival, and (I claim) 23,000 years too late for the lecture by the totem. Granted, &lsquo;Neolithic&rsquo; scans a bit better.
+</span></a> in 1892:</p>
+
+<p class="flu"><div style="margin-left : 70px; ">
+In the Pale&apos;lithic Age, savage warfare did I wage,<br>
+For food and fame and furry horse&apos;s pelt.<br>
+I was singer to my clan, in the dim red dawn of man,<br>
+And I sang of all we feared and fought and felt.<br>
+<br>
+Yea, I sang as now I sing, when the Prehistoric spring<br>
+Made the piled Biscayan icepack split and shove,<br>
+And troll and gnome and dwerg, and the gods of cliff and berg,<br>
+Were about me and beneath me and above.<br>
+<br>
+Then a rival from Solutr&eacute; told the tribe my style was outr&eacute;;<br>
+Neath a tomahawk, of diorite, he fell.<br>
+And I left my views on art, barbed and tanged beneath the heart,<br>
+Of a mammothistic etcher in Grenelle.<br>
+<br>
+Then I split them, scalp from skull, and my hunting dogs fed full,<br>
+And their teeth I threaded neatly on a thong.<br>
+And I wiped my mouth and said, it is well that they are dead,<br>
+For I knew my work was right and theirs was wrong.<br>
+<br>
+But my totem saw the shame, from his ridgepole shrine he came,<br>
+And he told me in a vision of the night:<br>
+&lsquo;There are nine and sixty ways of constructing tribal lays &mdash; <br>
+And every single one of them is right.&rsquo;<br>
+<br></div></p>
+
+
+<p>The &lsquo;ridgepole&rsquo; is perhaps an intrusion from Margaret Mead&apos;s Melanesia, but the dream is exactly the bicameral,
+<a class="gl" href="../../evoligion/_G/Glo.shtml#vic">vicarial</a>
+type <a href="#19">described by Jaynes</a>. The behavior of the singer is straight Middle Paleolithic Instinct-1. The attitude of the totem is not yet conscience, it is the social conditioning of the tribe that kept the peace in the Upper Paleolithic.</p>
+
+<p>It was left to Jaynes to rediscover and elucidate the process, this time by analysis of schizophrenic patients, and texts and artwork from the dawn of writing, whose dominant theme was &lsquo;my god has abandoned me&rsquo;. Viewed in the light of ethnology, his work is not the wild and unfounded science fiction seen by his perplexed peers, but the next step in the gradual demystification of a complex and forgotten process. In essence, all that Jaynes did was remove the &lsquo;seem to&rsquo; (underlined above) which Swanson had had to place before &lsquo;speak to individuals&rsquo;.</p>
+
+<p>Now we look at the details.</p>
+
+
+
+<a class="tri" href="#03" id="04">&#10835;&emsp;&emsp;</a>
+<h6><a href="#!">An Analog &lsquo;I&rsquo; Narratizing In Mind-Space </a></h6>
+<a class="tri" href="#05" >&#10836;&emsp;&emsp;</a>
+
+<p class="epi">[M]ost of [people&apos;s] everyday life is determined not by their conscious intentions and deliberate choices but by mental processes that are put into motion by features of the environment and that operate outside of conscious awareness and guidance. &mdash;  <a class="fn">Bargh and Chartrand (1999)&deg;.<span>
+    JA Bargh, TL Chartrand (1999) &lsquo; The Unbearable Automaticity of Being&rsquo; <cite>American Psychologist</cite> <b>54</b>(#7) 462&ndash;479. With 160 references, the authors do not cite Jaynes.
+</span></a>
+</p>
+
+<p>&lsquo;Few problems have endured longer or traversed a more perplexing history than the problem of consciousness and its place in nature.&rsquo; So Jaynes introduced a 145-page discussion of the meaning of &lsquo;consciousness&rsquo;. He begins by showing that consciousness &mdash; <b>the process and content of introspection</b> &mdash; is not any of the things we o ???
+</p>
+
+<blockquote>[C]onsciousness is not all mentality, not necessary for sensation or perception, &hellip; it is not a copy of experience, nor necessary for learning, nor even necessary for thinking and reasoning, and has only an arbitrary and functional location. As a prelude to what I am to say later, I wish you to consider that there could have been at one time human beings who did most of the things we do &mdash; speak, understand, perceive, solve problems &mdash; but who were without consciousness.
+</blockquote>
+
+<blockquote>[E]verybody from Darwin on, including myself in earlier years, was wrong in trying to trace out the origin of consciousness biologically or neurophysiologically. [&hellip; W]e have to look at human history after language has evolved and ask when in history did an analog &lsquo;I&rsquo; narratizing in a mind-space begin. &mdash; <a class="fn">Jaynes (1986)&deg;.<span>
+    J Jaynes (1986) &lsquo;Consciousness and the Voices of the Mind&rsquo; <cite>Canadian Psychology</cite> <b>27</b>(#2) 128&ndash;148.
+</span></a>
+</blockquote>
+
+<p>The &lsquo;analog <q>I</q> narratizing in a mind space&rsquo; describes what we do when we introspect. The lack of evolutionary predecessors means that consciousness is an emergent property, unpredictable in advance, and resulting from complexity,<i> including language</i>.
+</p>
+
+<p>Jaynes&apos;s discussion of &lsquo;what consciousness is <i>not</i>&rsquo; is prolog to 315 pages in which he holds that we did not attain consciousness until the dawn of history, roughly 1200 BCE. &lsquo;It is as if all life evolved to a certain point, and then in ourselves turned a right angle and simply exploded in another direction.&rsquo; Jaynes denoted the predecessor of consciousness &lsquo;bicamerality&rsquo;, describing a &lsquo;2-room&rsquo; brain. The 2 rooms were perhaps the paired temporal lobes of the brain, for as we saw in <a href="../_A/A01.shtml#T1.4">Chapter 1</a>, the brain does not waste space by duplicating functions. The rooms were occupied by an agent on one side (the left, with whom we identify), and a decision-making executive on the other &mdash; neither of whom could think about his mental processes. One-way communication, from executive to agent, was verbal (aural hallucination), perhaps transmitted over the anterior commissure.
+</p>
+
+<p id="04a">This is the enormous step that Jaynes&apos;s peers were reluctant to follow. To pursue evidence for a major change in the behavior of the brain (of the sort anticipated by Hegel), on the basis of an idiosyncratic analysis of a few almost prehistoric artefacts and texts, seemed an unlikely way to advance one&apos;s career. As a result, Jaynes&apos;s work remains under-appreciated. Still, all that he said was that some of the things that distinguish us from the other great apes happened so recently that we can study them with the tools of art history and psychology. If one reduces the bicameral conjecture to its component hypotheses one gets research projects that granting agencies can understand:
+
+<ol class="ol2">
+<li>Language-based consciousness,</li>
+<li>Right-temporal-lobe specialization,</li>
+<li>The bicameral mind,</li>
+<li>The second-millennium BCE development of consciousness, and</li>
+<li>The hemispheric neurological model,</li>
+</ol>
+
+
+<p class="flu">and finds growing support for <a class="fn">each component&deg;.<span>
+    M Kuijsten (2006) &lsquo;Consciousness, Hallucination, and the Bicameral Mind&rsquo;, in M Kuijsten (ed.) <cite>Reflections on the Dawn of Consciousness</cite> (Julian Jaynes Soc., Henderson NV): 95&ndash;120.
+</span></a> Evidently, when presented with a novel holistic result, specialists like to see it rediscovered piecemeal before accepting it.
+</p>
+
+
+
+<a class="tri" href="#04" id="05">&#10835;&emsp;&emsp;</a>
+<h6><a href="#!">What it is Like to be Non-conscious </a></h6>
+<a class="tri" href="#06">&#10836;&emsp;&emsp;</a>
+
+
+<p>What is different about the daily life of an unconscious person? Oliver Sacks describes Joseph, who was thought to be retarded until he was 11, when someone realized that he was merely deaf. A year of learning sign language gave him rudimentary communication &mdash; but with odd results, for Joseph lacked the ability to introspect, to create an analog &lsquo;I&rsquo; with the ability to explore a rich mind-space filled with memories coded in language, in which non-immediate options could be explored:
+</p>
+
+<blockquote>Joseph &hellip; had no problem with perceptual categorization or generalization, but he could not &hellip; hold abstract ideas in mind, reflect, play, plan. He seemed completely literal &mdash; unable to juggle images or hypotheses or possibilities, unable to enter an imaginative or figurative realm. &hellip; He seemed like an animal, or an infant, to be stuck in the present, to be confined to literal and immediate perception. &mdash; <a class="fn">Sacks (1989)&deg;.<span>
+    O Sacks (1989) <cite>Seeing Voices</cite> (HarperPerennial, NY, 1990): 40, 45.
+</span></a>
+</blockquote>
+
+<p>It may be that Joseph&apos;s condition is not so much pathological, as one end of a continuum. I suggest this because the immediate visual image brought to mind by this passage is Grant Wood&apos;s <cite>American Gothic</cite>, which <a class="fn">simultaneously depict&deg;<span>
+    M Fineman (2005) &lsquo;The Most Famous Farm Couple in the World&rsquo; <cite>Slate</cite>, 2005-06-08.
+</span></a> both &lsquo;pinched, grim-faced, puritanical Bible-thumpers&rsquo; and the &lsquo;steadfast American pioneer spirit&rsquo;. Like H.L. Mencken, I see religious fundamentalism here.
+</p>
+
+<p>Joseph&apos;s plight raises the issue of the relation of language to mental development. What is the role of vocabulary? How does the &lsquo;imaginative and figurative realm&rsquo; of adults differ as a function of their early vocabularies? Are the &lsquo;See Spot run&rsquo; books and the many schools that
+    <a href="../_A/A-1.shtml#14"><img class="im"
+    src="../Images/K-Research3.gif"
+    alt="Research"></a>
+do not expect 4th-graders to spell &lsquo;cat&rsquo; and &lsquo;dog&rsquo; actually <i>creating</i> literal-minded fundamentalists, unable to contemplate hypotheses?
+</p>
+
+
+
+<a class="tri" href="#05" id="06">&#10835;&emsp;&emsp;</a>
+<h6><a href="#!">What Can Be Done Without Consciousness</a></h6>
+<a class="tri" href="#07">&#10836;&emsp;&emsp;</a>
+
+
+<p class="epi"> All past and present claims to the contrary, science cannot yet resolve the question of animal consciousness. For over a century, scientists believed that evolutionary theory required at least some traces of consciousness in animals. Empirical studies (e.g., on insight, language acquisition, mirror self-recognition, and deception) lent further support to this viewpoint. In retrospect, however, neither theory nor experiments proved decisive. &mdash; <a class="fn">
+    M Nissani (2004)&deg;.<span>&lsquo;Theory of Mind and Insight in Chimpanzees, Elephants, and Other Animals&rsquo; Ch 7 (pp. 227&ndash;261) of <cite>Comparative Vertebrate Cognition: Are Primates Superior to Non-Primates?</cite> LJ Rogers, G Kaplan (eds.) (Kluwer Academic/Plenum Publishers, NYC).
+</span></a> (and this is discussing a less inclusive definition of consciousness than we and Jaynes are using).
+</p>
+
+<p>The vernacular use of &lsquo;conscious&rsquo; as identical to &lsquo;awake&rsquo; is too imprecise to be useful. Jaynes noted that one can be alert and reactive to the environment in the way that <a class="fn">animals are&deg;,<span>
+    J Sleutels (2006) &lsquo;Greek zombies&rsquo; in M Kuijsten (ed.) <cite>Reflections on the Dawn of Consciousness: Julian Jaynes&apos;s Bicameral Mind Theory Revisited</cite> (Julian Jaynes Society, Henderson NV).
+</span></a> while still lacking introspection. Since readers of this book will normally be conscious (in Jaynes&lsquo;s sense of being able to introspect) most of the time, it may be useful to describe more familiar examples of unconscious functioning.
+</p>
+
+<p>On long night hikes it is useful to sleep while walking. At such times, I retain enough awareness to navigate slightly concave mountain trails. I awaken when the feet no longer detect the trail, maybe a mile from my <a class="fn">last location&deg;.<span>
+    One needs well designed and well maintained trails for this to work. California parks qualified; the mud and roots of New England, the rocky <i>vida</i> of Norway, the lumpy, pot-holed bogs of Ireland, the gullies of the Pyrenees, the forests of Madagascar, and the trackless bush of Australia, do not!
+</span></a> Veteran infantrymen sleep while marching in formation. Perhaps sensors in the feet control leg muscles through a spinal ganglion, but however this is managed, it makes travel as effortless and expeditious as wearing 7-league boots.
+</p>
+
+<p>Knitters tell me that one can read and knit at the same time. I have startled people by conversing while my fingers empty a typing buffer (which seems to hold at least a sentence), in a process I wasn&apos;t aware of.
+</p>
+
+<p>Segovia seemed to fall asleep on stage, while his fingers continued to perform magic on the guitar. Concert pianists concentrate when they learn a piece, but conscious attention to fingering would demolish a performance. A frog/quarterback integrates a suite of differential equations to hit his fly/receiver. Animals live without consciousness, and it is not necessary for the most demanding occupations: A successful diagnostician may not know how he arrives at a medical diagnosis. Interestingly, <a class="fn">Mark Twain&deg;<span>
+    M Twain (1909) <cite>What Is Man? and Other Philosophical Writings.</cite> Ed. P Baender (UC Press, Berkeley, 1973).
+</span></a> anticipated Jaynes in describing this independence of consciousness and accomplishment in his essay, <cite>What is Man?</cite>.
+</p>
+
+<p>An example of unconscious interspecies cooperation comes from Brazil, where bottlenose dolphins drive fish into the nets of fishermen, and indicate both when to cast the nets and an estimate of the number of fish. The dolphins get the fish missed by the net. The interaction began in 1847 and has persisted through 3 generations <a class="fn">without training&deg;.<span>
+    KW Pryor &amp;3a (1990) &lsquo;A dolphin-human fishing cooperative in Brazil&rsquo; <cite>Marine Mammal Science</cite> <b>6</b>:77&ndash;82.
+</span></a> Similar cooperation may have existed much longer between fishermen and Irrawaddy <a class="fn">dolphins in Burma&deg;.<span>
+    J Anderson (1879) Anatomical and zoological researches: Comprising accounts of the zoological results of the two expeditions to western Yunnan in 1868 and 1875; and a monograph of the two cetacean genera, <i>Platanista</i> and <i>Orcaella</i>. (Bernard Quaritch, London).
+</span></a>
+</p>
+
+
+<a class="tri" href="#06" id="07">&#10835;&emsp;&emsp;</a>
+<a class="tri" href="#00"> &#9651;&emsp;&emsp;</a>
+<h4><a href="#!">THE BICAMERAL BRAIN</a></h4>
+<a class="tri" href="#08">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#12"> &#9661;&emsp;&emsp;</a>
+
+<p class="epi">The end comes when we no longer talk with ourselves. It is the end of genuine thinking and the beginning of the final loneliness. &mdash; Edward Gibbon.
+</p>
+
+<p>The discussion above may be unfamiliar and bizarre &mdash; but is it any less bizarre than traditional ideas? It opens the way to a simple, natural explanation of the concept &lsquo;god&rsquo; that is comprehensive, free of overbelief, and ultimately testable. <a class="fn">Jaynes&apos;s argument&deg;<span>
+    J Jaynes (1976) <cite>The Origin of Consciousness in the Breakdown of the Bicameral Mind</cite>. (Houghton Mifflin, Boston, 1982): 202.
+</span></a> for the existence of the gods goes:
+</p>
+
+<blockquote>The gods were in no sense &lsquo;figments of the imagination&rsquo; of anyone. They were man&apos;s volition. They occupied his nervous system, probably his right hemisphere, and from stores of admonitory and preceptive experience, transmuted this experience into articulated speech which then &lsquo;told&rsquo; the man what to do.
+</blockquote>
+
+<p>The support for Jaynes&apos;s &lsquo;committee of 2&rsquo; is as good as that for Freud&apos;s &lsquo;committee of 3&rsquo;, and the approaches are not mutually exclusive. Freud&apos;s division, following Plato&apos;s tripartite soul &mdash; appetitive, rational, and spiritual &mdash; parallels the layering of the brain. Bicamerality parallels the division of the brain into hemispheres. The hemispheres are complex cognitive systems that process information <a class="fn">independently and in parallel&deg;,<span>
+    E Zaidel (1985) &lsquo;Academic implications of dual-brain theory&rsquo; in <cite>The Dual Brain</cite> (The Guilford Press, NYC).
+</span></a> as in dual-core computer chips. Brain-imaging shows right temporal lobe involvement in <a class="fn">auditory hallucinations&deg;.<span>
+    MS Buchsbaum &amp;12a (1083) &lsquo;Cerebral glucography with positron tomography. Use in normal subjects and in patients with schizophrenia&rsquo; <cite>Arch Gen Psychiatry.</cite> <b>39</b>(#3): 251&ndash;259.
+</span></a>
+</p>
+
+<p>Children learning new tasks <a class="fn">talk to themselves&deg;,<span>
+    &bull; RM Diaz, LE Beck (eds.) (1992) <cite>Private Speech: From Social Interation to Self-regulation</cite> (Lawrence Erlbaum Assoc.)<br>
+    &bull; LE Beck (1994) &lsquo;Why children talk to themselves&rsquo; <cite>Sci. Amer.</cite> <b>271</b>(#5): 78&ndash;3.
+</span></a> (as do many research scientists at work). Although I do not expect equipment to answer me, I suspect that there was a time when one could ask the flint he was knapping, &lsquo;Alright, now what?&rsquo; and hear, &lsquo;Hit behind the little knob. Use the flat-pointed antler, placed in <i>this</i> direction, and strike with the hammerstone, about <i>so </i>hard&rsquo;, with twinges to the muscles to define force and direction. This is what his instructor had said &mdash; or perhaps he had said it to himself the day it first worked. The performance of psychotic adults, athletes, retarded and impulsive children, and uncreative college students, can be improved by <a class="fn">teaching them&deg;<span>
+    DH Melchenbaum, J Goodman (1971) &lsquo;Training impulsive children to talk to themselves: a means of developing self-control&rsquo; <cite>Abnormal Psychol.</cite> <b>77</b>: 115&ndash;26.
+</span></a> to talk to themselves, suggesting that the loss of bicamerality was not entirely advantageous.
+</p>
+
+
+
+<a class="tri" href="#07" id="08">&#10835;&emsp;&emsp;</a>
+<h6><a href="#!"> Invisible Playmates </a></h6>
+<a class="tri" href="#09">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">[T]he inability to play, pretend, and imagine is actually a sign of trouble for children. &mdash; <a class="fn">
+    PL Harris&deg; <span>(2000) <cite>The work of the imagination</cite> (Blackwell, Oxford).
+</span></a>
+</p>
+
+<p>Two-thirds of our children have <a class="fn">invisible playmates&deg;,<span>
+    JL Singer, DC  Singer (1984) <cite>Television, imagination and aggression</cite> (Erlbaum, Hillsdale NJ).
+</span></a> who generally wander off by age 9. The playmate need not be another child, or even human. Christopher Robin&apos;s friend Winnie-the-Pooh is the classical prototype, while Calvin (child) and Hobbes (philosophical bipedal tiger) in Fig. 2.1 are the best known US pair, from Bill Watterson&apos;s comic strip. Hobbes camouflages himself as a stuffed toy in the presence of adults.
+</p>
+
+
+<figure id="F2.1">
+<img class="fl" width="100%"
+src="A-Images/2.1_CalvinHobbes.jpg"
+alt="A-Images/2.1_CalvinHobbes.jpg. Hobbbes (the tiger), is shown as a stuffed toy when Calvin's mother is in the picture, and as a large and often bipedal tiger when there are no adults in evidence." />
+
+<figcaption>
+<a class="tri" href="#F2.4">&#10836;4;&emsp;&emsp;</a>
+<a href="#!"> Fig. 2.1 </a>
+<a class="tri" href="#F2.2">&emsp;&emsp;&#9654;</a>
+Calvin and Hobbes. Nothing captures the essence of Jaynes&apos;s hypothesis better than Watterson&apos;s insights into the working of the child mind. [Temporary note: See ©?]
+</figcaption></figure>
+
+
+<p>Children with invisible friends develop a &lsquo;theory of mind&rsquo; earlier than others, and <a class="fn">develop faster&deg;,<span>
+    JB Wigger (2011) &lsquo;Learning from Children and Their Invisible Friends&rsquo; <cite>J Childhood and Religion</cite> <b>2</b>(#3) 34 pp.
+</span></a> both psychologically and linguistically. In rare cases today the playmate does not disappear, but matures along with the child as a constant advisor.
+</p>
+
+<p>A hallucinated dialog is more efficient than an internal debate. Instead of asking oneself, &lsquo;What will Mom say if I ask her thus-and-so?&rsquo;, it is easier to divide the brain and ask a practiced Internal Mom, &lsquo;Mom, may I do thus-and-so?&rsquo;, and Internal Mom answers. Neural plasticity means that the brains of children in different environments develop differently. In a bicameral world invisible playmates became civic advisors. In our world, &lsquo;Internal Mom&rsquo; becomes our conscience. Same function, different neurological details (synapses). Those with active consciences may find them annoying, but seldom need to account for them. Bicamerality is a different form of conscience, and needs no other explanation.
+</p>
+
+<p>I find it astonishing that so few of the research papers that I read for this section recognized the work of Julian Jaynes. If mentioned, he was cited at second-hand. Evidently <cite>The Origin of Consciousness in the Breakdown of the Bicameral Mind</cite> presents more of a challenge to the psychological establishment than I realized.
+</p>
+
+
+
+<a class="tri" href="#08" id="09">&#10835;&emsp;&emsp;</a>
+<h6><a href="#!"> Ghosts </a></h6>
+<a class="tri" href="#10">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">[T]he real problem is to account for the evolution out of ghosts of the eternal, creative, moral god. &mdash; <a class="fn">
+    Andrew Lang&deg; <span> (1900) <cite>The Making of Religion</cite>, 2nd ed. (Longmans, Green, London): Ch. 9.
+</span></a>
+</p>
+
+<p>Ghosts are so omnipresent in small-scale societies that ethnologists treat them as an explanation, not as something to be explained. (<a class="fn">Ferguson&deg;<span>
+    RB Ferguson (Ed.) (1984) <cite>Warfare, Culture and Environment</cite> (Academic Press, NYC).
+</span></a> is a rare exception.) According to Jaynes, a ghost is a persistent bicameral representation of a dead person. <a class="fn">Talion&deg;<span>
+    Law at the retributive level of &lsquo;an eye for an eye&rsquo;.
+</span></a> requires that the murder, or death in battle, of a relative be avenged. Until the responsible person accomplishes this,
+</p>
+
+<blockquote>the old women will taunt him; if he were unmarried, no girl would speak to him; if he had wives, they would leave him; his mother would cry and lament that she had given birth to so degenerate a son, his father would treat him with contempt, and he would be a mark of public scorn. &mdash; <a class="fn">
+    EB Tylor (1881)&deg;.<span><cite>Anthropology: An Introduction to the Study of Man and Civilization</cite> (Macmillan, NYC): 415.
+</span></a>
+</blockquote>
+
+<p class="flu">To this, <a class="fn">Davie&deg;<span>
+    MR Davie (1929) <cite>The Evolution of War: A Study of its Role in Early Societies</cite> (Yale Univ. Press, New Haven CT).
+</span></a> adds
+</p>
+
+<blockquote>If the survivors fail in their duty, the enraged ghost will haunt them all their lives. Ghost-fear, transcending all other forms of fear, assures the fulfilment of this obligation. Blood revenge, therefore, is fundamentally a form of propitiating the ghost or soul of the departed.
+</blockquote>
+
+<p class="flu">Bicameral ghosts cannot be evaded, they speak with absolute authority, and they will continue to haunt their relatives until the blood debt is repaid. Hamlet, stripped of sub-plots, is the prototypical Western representative of the story: Hamlet&apos;s uncle kills Hamlet&apos;s father, who then appears to Hamlet as a ghost and demands vengeance. In the manner of Greek tragedies, all of the principals die in the last act &mdash; but Hamlet does succeed in avenging his father. And yet even while Hamlet is experiencing classical bicameral hallucinations, he is also the first introspective dramatic hero. As for Socrates 2 millennia earlier, his brain finds uses for both operational modes.
+</p>
+
+<p>Yet not all ghosts are malevolent. The Pawnees of Nebraska were bicameral into the 1600s, and &lsquo;<a class="fn">auditory hallucinations&deg;,<span>
+    A Lang (1900) <cite>The Making of Religion</cite>, 2nd ed. (Longmans, Green, London): Ch 14.
+</span></a> <i>as of a voice giving good advice in time of peril</i>, [were] regarded as the speech of ghosts&rsquo;.<a class="fn">
+    Herbert Spencer&deg;<span> (1897) <cite>Principles of Sociology</cite>, 3 vols. (Appleton, NYC): I, 307.
+</span></a> mentions a culture that Jaynes missed, in which ghosts are loving and helpful:
+</p>
+
+<blockquote>[A]mong the Mandans, who place the skulls of their dead in a circle, each wife knows the skull of her former husband or child. There is scarcely an hour in a pleasant day that more or less of these women may be seen sitting or lying by the skull of their child or husband &mdash; talking to it in the most pleasant and endearing language &hellip; and seemingly getting an answer back.
+</blockquote>
+
+<p class="flu">Jaynes would remove &lsquo;seemingly&rsquo; from this description.
+</p>
+
+
+<a class="tri" href="#09" id="10">&#10835;&emsp;&emsp;</a>
+<h6><a href="#!"> Pneuma </a></h6>
+<a class="tri" href="#11"  >&#10836;&emsp;&emsp;</a>
+
+
+<p>Before Enlightenment scientists sorted out the circulation of the blood and the chemistry of oxidation, there was understandable confusion about the function of breathing. This confusion is epitomized by the Greek word <i>pneuma</i>, which originally meant &lsquo;blast, wind&rsquo;. Later it was softened to &lsquo;air, breeze&rsquo;, then with metaphorical qualifiers, &lsquo;air imagined as filling the veins&rsquo;, and &lsquo;breath of life&rsquo;. In bicameral days, deceased relatives commonly spoke to their surviving family &mdash; but the shades of animals apparently <a class="fn">did not&deg;.<span>
+    The speaking animals of folklore indicate that they were at least heard by anyone able to interpret the nonverbal communication of living animals.
+</span></a> Those to whom departed animals never said a word naturally assumed that people possessed something unique, unknown to animals. The <a href="../_B/B07.shtml#01">egocentricity of the religious personality</a>, demanding that there be some exalted difference between us and them, seized upon this as the essential difference. Respiration &mdash; which had been the practical distinction between an unconscious body and a dead one in the <cite>Iliad &mdash; </cite>was transmogrified by mystified poets into a vehicle for the bicameral voice of the departed. By the time of the New Testament, <i>pneuma</i> was used with the connotation we today attach to &lsquo;soul&rsquo;. As <a class="fn">Tylor&deg;<span>
+	EB Tylor (1871) <cite>Primitive Culture</cite>, 2 vols, 4th ed. (John Murray, London, 1903): I, 432.
+</span></a> shows, this interpretation was common throughout the primitive world. The spirit of man departs with the last breath: taken at face value, this indicates that it enters with the first one &mdash; a detail of possible interest in the abortion debate.
+</p>
+
+<p>Indeed, <a class="fn">this understanding&deg;<span>
+    J Vinycomb (1906) <cite>Fictitious &amp; Symbolic Creatures in Art</cite> (Chapman and Hall, London): 53.
+</span></a> is reinforced by the Christian symbology of the winged lion of St Mark: &lsquo;The lion was accepted in early times as a symbol of the resurrection because the young lion was believed always to be born dead, but was awakened to vitality by the breath &hellip; of its sire.&rsquo;
+</p>
+
+<p>Logically, this usage removes the essential characteristic of humanity from the fetus. It is <i>potentially</i> human until it takes its first breath. For 200,000 years, the interval between delivery and first inhalation gave midwives an opportunity for a final error check before accepting a new candidate for tribal membership. Obviously deformed neonates never took their first breath: Better a wasted pregnancy than a wasted life. Mercantilism and its demand for an ever increasing market led us into the trap of regarding the fetus as a potential customer, to be preserved at whatever cost &mdash; to the mother.
+</p>
+
+
+
+<a class="tri" href="#10" id="11">&#10835;&emsp;&emsp;</a>
+<h6><a href="#!"> Socrates </a></h6>
+<a class="tri" href="#12">&#10836;&emsp;&emsp;</a>
+
+
+<p class="epi">We cannot help viewing Socrates as the turning-point, the vortex of world history. &mdash; <a class="fn">
+    Nietzsche (1872)&deg; <span><cite>The Birth of Tragedy</cite>  11tr. F Golffing (Doubleday Anchor, NYC, 1974): 94.
+</span></a>
+</p>
+
+<p>Nietzsche seems to have understood that
+Socrates stood on the cusp of the
+bicameral/introspective transition,
+	<a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-NewIdea3.gif" alt="NewIdea road sign"></a>
+for he wrote:
+</p>
+
+<blockquote>In this totally anomalous character, instinctive wisdom reveals itself only in order to stand up now and then against conscious knowledge as a hindrance. Whereas in all productive men instinct is the truly creative and affirming power, and consciousness acts as a critical and cautioning reaction, in Socrates instinct becomes the critic, consciousness becomes the creator &mdash; truly a monstrosity <i>per defectum</i> [from some defect]! &mdash;  F Nietzsche (1872) <cite>The Birth of Tragedy</cite> §13.
+</blockquote>
+
+<p>One can question Nietzsche&apos;s identification of instinct as the source of creativity, because instinct, strictly speaking, is retrospective, conservative, and the epitome of what kept our ancestors alive. Nietzsche seems to use it here to mean what he would later call the unconscious, of which instinct is but a part. He also misconstrued the nature of Socrates&apos;s <i>daemon</i>, for it was not instinct but the accumulated wisdom of the bicameral mind.
+</p>
+
+<p>Despite his confusions, Nietzsche captured the essence of Socrates, and what it was that
+ made him the Classical &lsquo;<a class="fn">vortex&rsquo;&deg;.<span>
+    Or Western vortex. In a wider view, Isaiah, Zoroasters, Gautama, and Confucius were the vortices of their cultures.
+</span></a> I will maintain <a href="../_D/D14.shtml#D14">below</a> that the Axial Age (of which Socrates was a primary manifestation) was the the first impressive result of the process that Jaynes called &lsquo;the origin of consciousness in the breakdown of the bicameral mind&rsquo;.
+</p>
+
+<p>Socrates heard a &lsquo;warning voice&rsquo; in childhood (ek paidos arxamenon, <cite>Apology</cite> 31d), and as an adult his &lsquo;spiritual sign visits [him] now and then&rsquo; (<cite>Euthyphro</cite> 3b); this might seem an opaque reference, but it is clarified later, for in <cite>Phaedrus</cite> 242bc we find that he never had to think about ethics. Whenever the possibility of unethical action arose, his personal daemon intervened and told him not to do it. Aristotle interpreted that statement figuratively, but I think Socrates meant exactly what he said: He did not &lsquo;hear&rsquo; the still small voice of conscience, he <i>heard</i> an internal Attic Greek voice saying &lsquo;<a class="fn"><i>STOP!&rsquo;</i>&deg;.<span>
+    This is an idiosyncratic interpretation, for other members of the Julian Jaynes Society side with Aristotle.
+</span></a> On the other hand, the &lsquo;Socratic method&rsquo; of asking leading questions until the answerer argues himself into a truth can also be interpreted as questions by a sharp, conscious, analytical mind that was also vestigially bicameral. Realizing his own difference from others, Socrates may have been genuinely interested in how other people worked their way to ethical judgements. I think Jaynes and Socrates would have had a great deal to talk about!
+</p>
+
+<p>Bicamerality persisted for half a millennium afer Socrates, as we know from the Syrian Mara Bar Serapion. Writing to his son from prison some time between 73 and 256 CE, and urging him to follow wise men of the past (mentioning Socrates, Pythagoras, and Jesus), he <a class="fn">observed&deg;,<span>
+    &lsquo;A Letter of Mara, Son of Serapion&rsquo; (transl. BP Pratten) in <cite>Ante-Nicene Fathers Vol. VIII, Memoirs of Edessa And Other Ancient Syriac Documents</cite>: 735. (Note that &lsquo;lived on in&rsquo; is apparently a translator&apos;s explanatory insertion, as it does not appear in Pratten&apos;s version, but is imported from Habermas, G (1996) <cite>The Historical Jesus</cite> (College Press Publishing Company, Joplin MO).)
+</span></a> &lsquo;But Socrates did not die for good; he lived on in the <a href="#15">statue</a> of Hera.&rsquo;
+</p>
+
+<p>Socrates saw that &lsquo;the unexamined life is not worth living&rsquo;. He still heard a bicameral voice, yet he could introspect and examine his life, and it seems that he noticed that many did not, and that this led to a wasted life. Many <i>still</i> do not, so conscious introspection is not automatic after bicamerality is lost. Apollo&apos;s &lsquo;Know thyself&rsquo; was the most important advice that could be offered at the dawn of consciousness. Or later.
+</p>
+
+<p>Socrates&apos;s daemon is for me a convincing verification of Jaynes&apos;s bicameral conjecture, but he was not alone. Isaiah heard the voice of YHVH. The hymns of the orally transmitted Vedas are the special sort of knowledge (<i>vid</i>) that is heard (<i>sruti</i>), and they differ from the Gathas of Iran only in dialect. This suggests that Zoroaster was bicameral: certainly he knew the concept of &lsquo;messenger of god&rsquo;. Confucius &mdash; otherwise a &lsquo;benevolent agnostic&rsquo; knew of <a class="fn">statues which spoke&deg;<span>
+    HA Giles (1905) <cite>Religions of Ancient China</cite> (Norwood Editions, Norwood PA, 1977); Ch 2.
+</span></a> in times of stress, and perhaps was remembering a bicameral age when he said of spirits, &lsquo;We <i>listen for them</i> but do not hear them; yet they enter into all things, and there is nothing without them&rsquo;. Nothing I have read suggests that Gautama was bicameral.
+</p>
+
+
+
+
+<a class="tri" href="#11" id="12">&#10835;&emsp;&emsp;</a>
+<a class="tri" href="#07"> &#9651;&emsp;&emsp;
+<h4><a href="#!">THE DECLINE OF BICAMERALITY</a></h4>
+<a class="tri" href="#13">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#21""> &#9661;&emsp;&emsp;</a>
+
+<p class="epi">When am I going to see gods face-to-face
+again? {Jaynes&apos;s translation of Psalm 42:2}. (&lsquo;Misreading!&rsquo;, cry his critics. &lsquo;You&apos;re tampering with Scripture!&rsquo;)</p>
+
+<p class="epi">Mobility and diversity make a morality based on shared valuation of traditions and institutions quite difficult. (Whose traditions? Which institutions?). &mdash; <a class="fn"H>
+    J Haidt, J Graham&deg;<span> (2007) &lsquo;When morality opposes justice: Conservatives have moral intuitions that liberals may not recognize&rsquo; <cite>Social Justice Research,</cite> <b>20</b>(#1): 98&ndash;116; doi 10.1007/s11211-007-0034-z .
+</span></a>
+</p>
+
+<p>How did consciousness replace bicamerality? This question is as important as the idea of bicamerality itself, because it represents a dramatic change in mental behavior which no one before Jaynes had seen in the historical record. Nor is there any obvious reason for such a change to occur.
+</p>
+
+<p>Perhaps part of the problem is that defining consciousness as &lsquo;that which is <i>introspect<b>able</b></i>&rsquo; seems too broad, and I would replace it with &lsquo;that which is <i>introspect<b>ed</b></i>&rsquo;. Possession of an ability does not guarantee its use, and those who fail to examine their own motivations no more understand themselves than do sheep. Only those things which we mull over are truly our own. This definition also emphasizes consciousness as a graded property which cannot be acquired suddenly; it is, in short, <i>learned</i> behavior, and learning takes time, both personal and historical.
+</p>
+
+<p>Consider the unrelated psychological behavior of denial. We are all still prone to this protective device, despite the problem that follow in its wake. An anguished primal scream &lsquo;No-o-o!&rsquo; at the loss of a loved one may mean either &lsquo;This isn&apos;t happening!&rsquo;, or &lsquo;I didn&apos;t want that to happen!&rsquo;. The first is denial, and if persisted in, problematic. The second is realistic grief, and curative. To the uninvolved onlooker, the internal significance is undetectable, and prior to Freud there was no way to analyze the difference. Sophocles was aware of denial&apos;s consequences, but he did not baptise it with a common noun to make it public property. So too with bicamerality. When observers do not understand it, they do not see it from outside, and its effects get lumped into the &lsquo;simplicity&rsquo; we attribute to small-scale societies. No anthropological research prior to Jaynes&apos;s 1976 book was aware that it should investigate bicamerality.
+</p>
+
+
+<hr>
+<table  id="T2.1">
+<caption>
+<a class="tri" href="#T2.5">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 2.1 </a>
+<a class="tri" href="#T2.2">&emsp;&emsp;&#9654;</a>
+Fading Bicamerality. Some reasons for the disappearance of bicamerality.
+</caption>
+
+<thead><tr><th>Cause</th><th>Explanation</th></tr>
+</thead>
+
+<tbody>
+<tr><td><b>Writing</b></td>
+	<td>&lsquo;I <i>hear</i> and obey&rsquo; was automatic to bicameral minds, but no one says &lsquo;I <i>read</i> and obey&rsquo;. Reading removes immediacy and allows time to consider alternatives.</td></tr>
+
+<tr><td><b>Fragility</b></td>
+	<td>The first essential is to deny the <i>existence</i> of alternatives. The first trickle of water through a dike presages a flood of new possibilities.</td></tr>
+
+<tr><td><b>Multiple gods</b></td>
+	<td>When different cultures came in contact, the voices became confused, and eventually went silent. Schizophrenics&rsquo; voices converge toward a group consensus, but it seems no one has studied the effect of a <i>disrupted</i> consensus.</td></tr>
+
+<tr><td><b>Epics</b></td>
+	<td>If heroes can have adventures, so can &lsquo;I&rsquo; &mdash; where &lsquo;I&rsquo; is a new concept.</td></tr>
+
+<tr><td><b>Deceit</b></td>
+	<td>Deceit requires forward planning. Odysseus is known for &lsquo;wiles&rsquo; that seem obvious today, but baffled his peers. No-one (except Cassandra) suggested looking inside the horse, even when it clanked as they hauled it into Troy.</td></tr>
+
+<tr><td><b>Active deselection</b></td>
+	<td>&rsquo;Thou shalt not suffer a witch to live&rsquo; (Ex 22:18) is a command to kill bicamerals. The Incas were probably late bicamerals who lost an empire to 150 conscious Spaniards and their recruited allies.</td></tr>
+
+<tr><td><b>Disasters</b></td>
+	<td>The tsunami from Thera <a class="fn">(1600 BCE&deg;.<span>
+    WL Friedrich &amp;5a (2006) &lsquo;Santorini Eruption Radiocarbon Dated to 1627&ndash;1600 B.C.&rsquo; <cite>Science</cite> <b>312</b>: 548.
+	</span></a> devastated littoral bicameral cultures throughout the Aegean.</td></tr>
+</tbody></table>
+
+
+<p>Bicamerality faded out in different regions at different times, never recognized for what it was. The fading
+was neither simultaneous across a society, nor complete. Perhaps there were both genetic and cultural components to the process, as suggested in Table 2.1, so that the details differed in different places. As bicamerality weakened, internal voices simply went quiet. Jaynes cites much literary and artistic evidence for this phase, of which Fig. 2.2 is a sample.
+</p>
+
+
+<figure id="F2.2">
+<img width="55%" class="fl"
+src="A-Images/2.2_MissingGod.jpg"
+alt="A-Images/2.2_MissingGod.jpg. According to Jaynes, this is the first historical instance of a king shown kneeling, (evidently baffled by the failure of his god to advise him)." />
+
+<figcaption>
+<a class="tri" href="#F2.1">&#9664;&emsp;&emsp;</a>>
+<a href="#!"> Fig. 2.2 </a>
+<a class="tri" href="#F2.3">&emsp;&emsp;&#9654;</a>
+Missing God. Tukulti-Ninurta I, tyrant of Assyria, shown twice pointing to where his god should be. From the front of the Tukulti altar, now in Berlin {after Jaynes (1976): 224, color added}. George H.W. Bush showed similar puzzlement in handling Hurricane xxx, when Dick Cheney, on vacation, failed to advise him despite his daily prayers.
+</figcaption></figure>
+<br><br><br><br><br>
+
+
+
+
+<a class="tri" href="#12" id="13">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Mesopotamia </a></h5>
+<a class="tri" href="#14">&#10836;&emsp;&emsp;</a>
+
+<p>Here the loss of bicamerality seems to have been a traumatic experience. Tukulti-Ninurta I is the first king in history to permit himself to be shown kneeling. The first readable lines of <cite>Ludlul Bel Nemequi</cite> (c1400 BCE) are:
+</p>
+
+<blockquote>My god has forsaken me and disappeared,<br>
+My goddess has failed me and keeps at a distance,<br>
+The good angel who walked beside me has departed.
+</blockquote>
+
+<p>Jaynes&apos;s 12th-century ballpark coincides with Eric Cline&apos;s survey of the simultaneous (in centennial terms) collapse of Near and Middle Eastern societies (Assyrian, Babylonian, Canaan, Cypriote, Egyptian, Hittite, Minoan, Mycenaean), which he titled <cite>1177 B.C.: The Year Civilization Collapsed</cite>.</p>
+
+
+
+<a class="tri" href="#13" id="14">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Greece </a></h5>
+<a class="tri" href="#15">&#10836;&emsp;&emsp;</a>
+
+
+<p>Jaynes pointed out that words having physical referents in the <i>Iliad</i> have mental referents in the <cite>Odyssey</cite> &mdash; an observation which implies a considerable lapse of time between them: perhaps Samuel Butler&apos;s attribution of the <cite>Odyssey</cite> to <a class="fn">Nausicaa&deg;<span>
+    &bull; S Butler (1897) <cite>The Authoress of the Odyssey</cite> (AMS, 1968).<br>
+    &bull; R Graves (1955) <cite>Homer&apos;s Daughter</cite> (Academy Chicago, 1982).
+</span></a> was correct after all. Among the changes:
+</p>
+
+<ul>
+<li><i>psyche</i> (breath &rarr; soul)</li>
+<li><i>noos</i> (sight &rarr; conscious mind)</li>
+<li><i>thumos</i> (activity &rarr; emotional soul)</li>
+<li><i>kardia</i> (physical heart &rarr; figurative &lsquo;heart&rsquo;)</li>
+<li><i>mermerizein</i> (to be unable to decide between 2 actions &rarr; to ponder)</li>
+<li><i>phrenes</i> (lungs, sensation in midriff &rarr; mind-space which can contain information).</li>
+</ul>
+
+
+<p class="flu">Between the 2 usages lies development of introspection and thus the conscious mind. Exactly the same sort of change has been <a class="fn">traced in China&deg;.<span>
+    M Carr (2006) &lsquo;The <i>Shi</i> <q>Corpse/Personator</q> Ceremony in Early China&rsquo;, Ch. 13 in M Kuijstens (ed.) <cite>Reflections on the Dawn of Consciousness</cite> (Julian Jaynes Society, Henderson NV): 343&ndash;436.
+</span></a>
+</p>
+
+<p>We can, perhaps, see the beginning of the end in Hesiod, where his Muses say to him,
+</p>
+
+<blockquote>We know how to tell many falsehoods that sound like the truth;<br>But we also know how to utter the truth when we choose. &mdash; <cite>Theogony</cite> 27
+</blockquote>
+
+<p>It is unfortunate that the voices who spoke to other bicameral prophets did not begin in this manner, for we know today that the first line is an accurate description of contemporary bicameral messaging (among schizophrenics, for instance). It may be that this is characteristic of the last stages of bicamerality, when it no longer makes all important decisions, and the urges of the individual subconscious begin to replace the collective rules of the community. This same weakening also freed the cortex from bicameral control and allowed the invention of philosophy in Miletus.
+</p>
+
+<p>An interesting <a class="fn">feature&deg;<span>
+	Cited by T Freeth, A Jones (2012) &lsquo;The Cosmos in the Antikythera Mechanism&rsquo; <cite>ISAW Papers 2012-02-04</cite>
+</span></a> is that 4 or 5 centuries after the Antikythera mechanism, related devices were still being designed bicamerally. An Egyptian papyrus describes an &lsquo;<a class="fn">astrologer&apos;s board&rsquo;&deg;<span>
+	J Evans (2004) &lsquo;The Astrologer&apos;s Apparatus: A Picture of Professional Practice in Greco-Roman Egypt&rsquo; <cite>Journal for the History of Astronomy</cite> <b>35</b>: 1&ndash;44.
+</span></a> by saying
+<blockquote>&hellip;<b>a voice comes to you speaking</b>. Let the stars be set upon the board in accordance with [their] nature except for the Sun and Moon. And let the Sun be golden, the Moon silver, Kronos [Saturn] of obsidian, Ares [Mars] of reddish onyx, Aphrodite [Venus] lapis lazuli veined with gold, Hermes [Mercury] turquoise; let Zeus [Jupiter] be of (whitish?) stone, crystalline (?) ... [emphasis added].
+</blockquote>
+
+<p>These are the colors used in the working reconstructions of the Antikythera mechanism (for which no such indicators were recovered). But what &lsquo;in accordance with their nature&rsquo; means is anybody&apos;s guess. It is likely that this was a static display, and that the precise ratios of astronomical theory that characterize the Antikythera machine are the province of the conscious mind, and that the Greeks were precocious in his respect.
+</p>
+
+
+
+<a class="tri" href="#14" id="15">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Israel </a></h5>
+<a class="tri" href="#16">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">&lsquo;The whole Hebrew Testament can be read as the inevitable breakdown of this hallucinatory mentality and its replacement by wisdom&rsquo;. Compare, suggests <a class="fn">
+    Jaynes&deg;,<span> (1990) &lsquo;Verbal Hallucinations and Pre-Conscious Mentality&rsquo;. In M Spitzer, FG Mahler (eds.) <cite>Philosophy and Psychopathology</cite> (Springer-Verlag, NYC). [Note also that the time period is just that of the Axial Age dates of Chapter 14.]
+</span></a> Amos (800 BCE) with Ecclesiastes (200 BCE).
+</p>
+
+<p>Evidently bicamerality was common, because Obadiah once hid a hundred bicameral prophets in a cave while at the same time Baal mustered 450 such prophets and &lsquo;the groves&rsquo; another 400 {1 Kings 18}. The canonical prophets disliked competition from amateurs with bicameral &lsquo;familiar spirits&rsquo;, and wanted those who listened to them <a class="fn">put to death&deg;.<span>
+    Lev. 19:31, 20:6, 20:27, Deut. 18:11, 2 Kings 21:6, 2 Chr. 33:6.
+</span></a> The <a href=:"#" class="fn">
+    <cite>Kabala</cite>&deg;<span>
+    Siphra Dtzenioutha 1:14
+</span></a> also records bicameral voices.
+</p>
+
+<p id="23a">YHVH ordinarily spoke with a <i>qol</i> (the usual word for <i>voice</i>). <a class="fn"><span>
+    Tosepheta, Sot 13:2; Isaiah 30:21
+</span></a> &lsquo;Since the death of the
+
+<a class="fn">last prophet&deg;,<span>
+    Haggai [fl. 525 BCE], Zechariah [520 BCE], and Malachi [460 BCE]
+</span></a> the holy spirit ceased from Israel, but they received messages by means of a heavenly voice&rsquo;. 500 BCE marks a transition in Israel from voices heard privately to voices heard publicly, implying an audience with common beliefs and uniform expectations, with conventional communiqués rather than book-length revelations. The public &lsquo;heavenly voice&rsquo; is the <i><b>bat qol</b></i>, described by Rabbi Aryeh Kaplan as:
+</p>
+
+<blockquote>A low level of Divine Inspiration was a <i>bat qol</i>, literally the &lsquo;daughter of a voice&rsquo; [or understood as an &lsquo;echo&rsquo;]. Even after messages bearing Divine Inspiration ceased to exist, a <i>bat kol</i> could deliver a clear, unambiguous message. &hellip; The <i>bat kol</i> was heard until the Sanhedrin ceased to function (ca 361 CE).
+</blockquote>
+
+<p><a class="fn">
+    H.P. Blavatski&deg;,<span> (1877) <cite>Isis Unveiled</cite> (Theosophical University Press, Pasadena CA): I,v.
+</span></a> some 2 millennia later, was greatly impressed by being allowed
+ </p>
+
+<blockquote>to interrogate &hellip; the mysterious Bath-Kol. The <i>Filia Vocis</i> &mdash; the daughter of the divine voice &mdash; responded from the mercy-seat within the veil, and science, theology, every human hypothesis and conception born of imperfect knowledge, lost forever their authoritative character in our sight. The one-living God had spoken through his oracle &hellip;.
+</blockquote>
+
+<p class="flu"> &mdash; but this describes the operation of the Delphic sybil (and also the Wizard of Oz), and not of the collective <i>bat qol</i>, so the chances are good that this was a staged version for the benefit of tourists. Oddly, considering her reaction, she makes no further mention of the <i>bat qol</i>.
+</p>
+
+
+
+<a class="tri" href="#15" id="16">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Meso-America </a></h5>
+<a class="tri" href="#17">&#10836;&emsp;&emsp;</a>
+
+<p>Fray Diego de Landa, Bishop of Yucatán, said of the Maya in 1566, &lsquo;the unhappy dupes believe their <a class="fn">idols speak to them&rsquo;&deg;.<span>
+    JES Thomson (1972) <cite>Maya Hieroglyphs Without Tears</cite>. (Trustees of the British Museum, London).
+</span></a> The 8-foot Olmec heads were probably also speaking idols. This may have been another case where bicamerality faded gradually, without anyone noticing &mdash; helped along, of course, by extermination, particularly of the priesthood.
+</p>
+
+
+
+<a class="tri" href="#16" id="17">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Indo-Pacific </a></h5>
+<a class="tri" href="#18">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">A tribal member facing an entirely novel situation: &lsquo;Nobody is old enough to know what to do. My people have been on this land forever. But my grandfather tells me the spirits have nothing to say. They don&apos;t remember either.&rsquo; &mdash; <a class="fn">
+    Gregg Bear&deg;.<span>(1999) <cite>Darwin&apos;s Radio</cite> (Ballantine, NYC): 398.
+</span></a>
+</p>
+
+<p>(Bicamerality here is little explored, so this section is more detailed.) The 500-odd <i>moai</i> (monoliths) of Rapa Nui (Easter Island) were effigies of chiefs, known by their personal names. They <a class="fn">delivered oracular judgement&deg;<span>
+    &bull; WJ Thomson (1891) <cite>Te Pito Te Henua, Or Easter Island</cite>, Report of the National Museum, 1888&ndash;1889, 447&ndash;552.  (Government Printing Office, Washington).<br>
+    &bull; F MacIntyre (1999) &lsquo;Talking Moai&rsquo; <cite> Rapa Nui Journal</cite>  <b>13</b>(#4): 107&ndash;113.
+</span></a> on demand.
+</p>
+
+<p>Rapa Nui and Madagascar, at the extremes of the Indo-Pacific Ocean, may have been <a class="fn">settled at the same time&deg;<span>
+    F MacIntyre (2002) &lsquo;Simultaneous Settlement of Indo-Pacific Extrema?&rsquo; <cite>Rapa Nui Journal</cite> <b>16</b>(#2): 96&ndash;104.
+</span></a> by the same Malaysian people, shortly after the Year of the Dark Sun in 535 CE. This climatic disaster, which caused famines, droughts, floods, and plagues from Malaysia to Africa, apparently resulted from the dust veil produced by a cometary strike in Malaysia. A missing piece of the Enke cometary entourage seems a likely culprit. Half a dozen Malaysian cultures vanished at that time. Then, as now, there were marginal sea gypsies whose reaction to threat was to head for open sea. Refugees from 18 tribes (speaking Maanyan dialects from <a class="fn">Borneo&deg;<span>
+    A Adelaar (1995) &lsquo;Asian roots of the Malagasy: A linguistic perspective&rsquo; <cite>Bijdragen tot de Taal-Land en Volkenkunde</cite> <b>151</b>: 325&ndash;356.
+</span></a> reached Madagascar. Judging by today&apos;s tribal distribution, this was achieved by &lsquo;latitude sailing&rsquo;: southwest to the known central latitude of Madagascar, then west until you hit the island. Two canoes, according to legend, reached unoccupied Rapanui (after passing through the settled Pacific?) &mdash; without the usual colonizing resources. No dogs, no pigs, no breadfruit.
+</p>
+
+<p>The Malagasy still <b>talk with dead ancestors</b>, inviting them to parties when family decisions must be made. The system does not adapt to changing circumstances, and is disappearing upon contact with Europeans. Similar behavior is known from the Admiralty Islands, where <a class="fn">ancestral skulls&deg;<span>
+    M Mead (1942) <cite>Growing Up in New Guinea</cite> (Penguin, Harmondsworth): 60.
+</span></a> were kept on the roof beam. In a Rapa Nui family cave Heyerdahl saw 18 skulls &mdash; 500 years &mdash; of paternal ancestors, and was told their names and stories.
+</p>
+
+<p>Rapa Nui history is spotty because of a time of troubles. The best fitting <a class="fn">population model&deg;<span>
+    F MacIntyre (1999) &lsquo;Is Humanity Suicidal?&rsquo; Are There Clues from Rapa Nui? <cite>Rapa Nui Journal </cite><b>13</b>: 35&ndash;41.
+</span></a> suggests a peak near 8000 in 1350 CE, somewhat after <i>Jubaea</i> palm pollen disappears from lake sediments. The palm was a staple food, providing 50 kg of edible nuts annually &mdash; or an instant 400 liters of palm wine. The model implies intertribal disharmony and competition for resources (and we know about warfare and cannibalism). Since contemporary Rapanui show no inclination to protect scarce resources, one wonders if the last palm, belonging to tribe A, was cut down by tribe B looking for a final glorious party. No palms meant no more sea-going canoes or fishing (extratropical Rapa Nui has neither reef or lagoon). The islanders next ate the birds, after which the population declined to 2000&ndash;3000 by the time the Dutch arrived in 1712. When the Spaniards showed up in 1770, most of the moai had been overthrown, probably to deprive enemy tribes of their advice.
+</p>
+
+<p><a class="fn">
+    Joanna Van Tilburn&deg;<span> (1994) <cite>Easter Island: Archaeology, Ecology and Culture</cite> (British Museum Press, London): 125.
+</span></a> explained moai as &lsquo;an icon exemplifying the fundamental Polynesian concern with genealogy, generation, status and respect [serving as] a cultural motivator and modifier of group behavior&rsquo;. This covers the functions &mdash; but not <i>how</i> the moai did these things. The recent discovery of a white shell insert showed that they had removable eyes, suggesting a similarity to bicameral Mesopotamia eye-idols, with insertion of eyes being part of the ritual needed to persuade the statues to speak.
+</p>
+
+<p>Smallpox and slave raids left 110 living Rapanui, and most tribal lore was lost. No Rapanui can now read the <i>rongo-rongo</i> boards on which Rapanui script is written, but one has been translated as a creation myth and genealogy, being a list of <a class="fn">simple &lsquo;begats&rsquo;&deg;.<span>
+    SR Fischer (1997) <cite>Rongorongo, the Easter Island Script: History, Traditions, Texts</cite>. Oxford Studies in Anthropological Linguistics <b>14</b>. (Oxford University Press, Oxford &amp; NYC).  http://netaxs.com/~trance/fischer.html (as of 2011-02-05).
+</span></a> Rongo is the god of thunder and sound. As with the letters of Hammurabi, perhaps <i>rongo-rongo</i> boards were not read, but heard &mdash; although this implies bicamerality as late as 1800, because writing was not known in Rapanui until 1770, when Spain &lsquo;annexed&rsquo; the island.
+</p>
+
+
+
+<a class="tri" href="#17" id="18">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> New Guinea? </a></h5>
+<a class="tri" href="#19">&#10836;&emsp;&emsp;</a>
+
+<p>None of the above reasons for the loss of bicamerality seems applicable to New Guinea. Some feel that fragility alone is sufficient to end bicamerality when there is an alternative social model. In New Guinea as in Meso-America, Westerners did not suspect the existence of bicamerality, and did not report it. No one asked the right questions; lacking a common language, the symptoms of bicamerality disappear into the mists of misunderstanding. When a bicameral culture is suddenly exposed to fully conscious people the voices are nonplussed because the only advice they have to offer is suddenly irrelevant tradition.
+</p>
+
+
+
+<a class="tri" href="#18" id="19">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Africa? </a></h5>
+<a class="tri" href="#20">&#10836;&emsp;&emsp;</a>
+
+<p>Jaynes did not mention sub-Saharan Africa in connection with bicamerality. The African world was rife with animist spirits, mostly inimical, and benevolent spirits of any sort are rare. &lsquo;The Hausa&apos;s whole existence is occupied in combating these evil influences&rsquo;, according to <a class="fn">
+    AJN Tremearne&deg;.<span>(1914) <cite>The Ban of the Bori</cite> (Heath, Cranton, & Ouseley, London): 20.
+</span></a> An early and not particularly helpful form of bicamerality appears to have come out of Africa with us, related to the <i><b>ka</b></i> and <i>double</i> in the next section, an ambiguous companion sometimes referred to as a <i>qarina</i> {138}.
+</p>
+
+
+
+<a class="tri" href="#19" id="20">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Arabia </a></h5>
+<a class="tri" href="#21">&#10836;&emsp;&emsp;</a>
+
+<p>At this point, Arabia seems to be something of an anomaly. We know that Arabians still heard voices in the late first milliennium CE, 2000 years after they had gone quiet in nearby Mesopotamia. <a class="fn">Ibn Al-Kalb&deg;<span>
+    H Ibn Al-Kalbi (c 800) <cite>The Book of Idols</cite> Being a Translation from the Arabic of the <cite>Kitab Al-Asnam</cite> tr. NA Faris (Princeton, NJ, 1952): 16.
+</span></a> (d. 821 CE/206 AH) tells us that &lsquo;Over [the rock idol Al-Uzza] Zalim built a house called Buss in which the people used to receive oracular communications.&rsquo; (Muhamad later recognized Al-Uzza as a competitor to Allah and expelled her from the Ka&apos;aba.)
+</p>
+
+<p>However, <i>personal</i> voices in Arabia seem to have been destructive, and certainly were not known for providing the socially useful direction attributed to bicameral voices. Perhaps this was a product of the <a href="../_D/D13.shtml#12">Reichian armoring</a> that accompanies desertification; perhaps the mores and social rules of tribal nomads lay closer to the wishes of the id.
+</p>
+
+<p>Scattered Quranic verses suggest that everyone has an invisible companion, generally regarded as evil:
+</p>
+
+<ul>
+<li>{Q 50:21} Every soul comes with a herder and a witness;</li>
+
+<li>{Q &nbsp;7:27} We appoint the devils as companions of those who do not believe.</li>
+</ul>
+
+<p class="flu"> <a class="fn">
+Von Bissing&deg;<span>
+    Baron FW von Bissing (1911) &lsquo;Versuch einer neuen Erklarung des Ka'i der alten Aegypter&rsquo; <cite>Sitzungsberichte der Kgl. Bayer. Akad., Munich.</cite>: 10&ndash;11.
+</span></a> relates this companion to the Sudanese &lsquo;double&rsquo;; <a class="fn">
+    Breasted&deg;<span>(1912) <cite>Development of Religious Thought in Egypt</cite> (London): 52&ndash;53.
+</span></a> and <a class="fn">
+    Budge&deg;<span> (1895) <cite>Book of the Dead</cite> (Sacred Texts ebook): 62.
+</span></a> to the Egyptian <i>ka</i> (which Budge also translated as &lsquo;double&rsquo;, but for Jaynes was a bicameral voice); <a class="fn">Zwemer&deg;<span>
+    SM Zwemer (1920) <cite>The Influence of Animism on Islam: An Account of Popular Superstitions</cite> (Macmillan, NYC): 110.
+</span></a> mentions a familiar spirit, an evil
+</p>
+
+<blockquote>mate of the believer all through life, [which] is cast into hell on the day of judgement, and this evil spirit, which is born with every man, is determined to ruin him, but the favor of God saves the believer, and one of the special mercies of heaven for the believer is to behold his companion devil forever in torment. &mdash; Zwemer, quoting Baidhawi (d 1260) on Sura 37:49.
+</blockquote>
+
+<p class="flu">There are also aspects of Islamic culture that do not object to constant supervision by a nanny: ((Frommm
+</p>
+
+<ul>
+<li>Islam tries (in Shari&apos;a) to provide rules for every aspect of behavior, so that one knows at all times what Allah wants him to do. This feels like an attempt to provide the certainty of bicameral days after the voices go silent.
+</li>
+
+<li>Islamic schooling seems designed to retain bicameral control of the faithful. An example of the need for this is a current Islamic web page describing the danger of critical analysis of the Qurʾan: &lsquo;Muslims will no longer be able to claim to know what the <a class="fk" href="http://www.imamreza.net/eng/imamreza.php?id=5535">divine will&deg;<span>
+    A Geisler (1999) &lsquo;Orientalists Plot against the Holy Qur'an&rsquo;
+</span></a> is on issues ranging from the implementation of Islamic laws to the liberation of al-Quds&rsquo; (Jerusalem).
+</li>
+</ul>
+
+
+<p>It is hard to avoid the suspicion that in this case, the right-hemisphere (vocal or mute) adopted as its cultural rule &lsquo;What would Muhamad do?&rsquo; as set out in Quran, Shari&apos;a, and hadith. At the same time, it seems to have gotten itself a reputation for being evil, but given the enthusiasm with which Muslims have historically killed other Muslims, these are not discordant results. One wonders: Are there other cultures in which the bicameral &lsquo;civic advisor&rsquo;
+    <a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-Research3.gif" alt="Research"></a>
+developed antisocial behavior, as it does for schizophrenic individuals?
+</p>
+
+
+
+<a class="tri" href="#20" id="21">&#10835;&emsp;&emsp;</a>
+<a class="tri" href="#12"> &#9651;&emsp;&emsp;</a>
+<h4><a href="#!"> REMNANTS OF BICAMERALITY </a></h4>
+<a class="tri" href="#22">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#30""> &#9661;&emsp;&emsp;</a>
+<br>
+
+<p class="epi">We need something here for appearances's sake!
+</p>
+
+<p>As we have seen, the disappearance of bicamerality is not an on-off switch, but a change so gradual that non-one prior to Jaynes noticed.
+</p>
+
+<a class="tri" href="#21" id="22">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Exotic Bicamerality </a></h5>
+<a class="tri" href="#23">&#10836;&emsp;&emsp;</a>
+
+
+<p>Several other contemporary phenomena are best explained by the bicameral conjecture. Spiritualist mediums who hear voices and truly believe that they &lsquo;contact the spirit world&rsquo; are obvious candidates, but 150 years of
+increasingly critical study (in the sense of clever design, double-blinded experiments in which neither parsicpant for experimenter knows the expeted result, and  statistical analysis), have suggested no promising avenues of research. We look at less emotionally loaded examples.
+</p>
+
+
+<a class="tri" href="#22" id="23">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Hypnotism </a></h5>
+<a class="tri" href="#24">&#10836;&emsp;&emsp;</a>
+
+
+<p>A Dublin psychiatrist who did stage shows for fun (and advertizing) explained that the difference between entertainment and healing lay in the suggestions offered by the hypnotist. Calling for volunteers, he sent half back to their seats, assessing susceptibility at a glance. The remainder were putty in his hands. When he told them they itched, they scratched. Some were so tormented that they started after the troubling spots by disrobing on stage. He told them to freeze; they stood immobile in awkward poses until he gave them new instructions. He told them they were happy; they laughed. He told them they were sad; they cried.
+</p>
+
+<p>Next he gave them a short rest, in which they could do anything they wished, and then asked them about their activities. One young chap was with his girl and indignant at the interruption, so the hypnotist left him to get on with it. Another, more imaginative, was &lsquo;skiing the prominences of the sun&rsquo;, and it was the most thrilling experience of his life.
+</p>
+
+<p>The finale was a posthypnotic command. As the audience filed out, each of his subjects would spot a leprechaun, pursue him, capture him, and take him home. And so they did. In a most undignified performance, well-dressed middle-aged ladies leaped off the stage, clambered over seats, and pushed people aside as they pursued elusive little men whom only they could see. One fellow held an empty armful as though he were restraining a thrashing 4-year-old, asking me, &lsquo;Isn&apos;t he cute?&rsquo;. Cab drivers watched bemused as customers stuffed uncooperative leprechauns into their vehicles. One driver, inured to the effects of Guinness, locked his front door, insisting, &lsquo;Both of ye, get in the back.&rsquo; The amount of brain processing needed to produce these leprechauns comes perilously close to the strong hallucinations &mdash; &lsquo;3D, &hellip; resist[ing] with a sense of solidity, &amp;c&rsquo; &mdash; that <a class="fn">
+    Daniel Dennet&deg;<span> (1991) <cite>Consciousness Explained</cite> (Penguin, Hammondsworth, 1993): 7.
+</span></a> feels must be fictional &mdash; including those described by Carlos Casta&ntilde;eda in <a class="fn"><cite>Don Juan</cite>&deg;.<span>
+    For the record, I too felt strongly that Castañeda was not a trustworthy guide, so I stopped reading him after his second book. Others, less sceptical, insist that he becomes more reliable in later volumes.
+</span></a> I seldom disagree with Dennett, but these post-hynotic subjects were physically struggling with their hallucinations on the streets of Dublin.
+</p>
+
+<p><a class="fn">
+    Edoardo Casiglio&deg;<span> (2008) &lsquo;Hypnosis in the Theory of the Bicameral Mind&rsquo; <cite>The Jaynesian,</cite> Sping 2008: 12&ndash;14.
+</span></a> of the University of Padua, explains why hypnosis is so easily induced:
+</p>
+
+<blockquote>Consciousness &hellip; is also accompanied by epiphenomena that are not always welcome, such as the awareness of the imminence of death, the passing of time, guilt, regret: in short, the loss of Eden. This loss is so recent &hellip; that it takes very little to &lsquo;forget&rsquo; the real state of the emancipated humans and go back temporarily to the latent bicameral condition.
+</blockquote>
+
+<p>In bicameral days, the instructions of the internal adviser were as compelling as those of the today&apos;s hypnotist. Because &lsquo;such individuals had no mind-space in which to question or rebel, such voices had to be obeyed&rsquo;, says Jaynes. As long as the &lsquo;voices&rsquo; &mdash; the gods of society &mdash; agreed on behavior, society worked as smoothly as an ant hill, with people uncomplainingly building ziggurats as instructed by their gods. The pyramids did not require coercion.
+</p>
+
+
+
+<a class="tri" href="#23" id="24"></h5>&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Schizophrenia </a></h5>
+<a class="tri" href="#25">&#10836;&emsp;&emsp;</a>
+
+
+<p><i>Schizophrenia</i> means &lsquo;split mind&rsquo;, and its voices arise when the right hemisphere acts as the speech center for the unconscious, or for the alternate personality in the right temporal lobe. The caliber of the communication depends upon the quality of the unconscious. Since only disturbed patients get to the clinic, selection bias is at work, so that the clinical assumption is that schizophrenia is always dysfunctional. <a class="fn">Factor analysis&deg;<span>
+    AC Lahti &amp;5a (2006) &lsquo;Correlations Between rCBF and Symptoms in Two Independent Cohorts of Drug-Free Patients with Schizophrenia&rsquo; <cite>Neuropsychopharmacology</cite> 31: 221&ndash;230.
+</span></a> then shows 3 independent components: <i>negative</i> (poverty of speech, affect, and movement), <i>distortion</i> (delusions and hallucinations), and <i>disorganization</i> (thought disorder and inappropriate affect).
+</p>
+
+<p>In any case, schizophrenia is not always a malady, but a graded <a class="fn">property of normal brains&deg;<span>
+    D Smith (2007) <cite>Muses, Madmen, and Prophets: Rethinking the History, Science, and Meaning of Auditory Hallucination</cite> (Penguin, Harmondsworth).
+</span></a> &mdash; mysterious, perhaps, but <i>normally</i> so. Only when the instructions are socially disruptive are those who obey them noticed &mdash; and generally incarcerated in mental hospitals as a result. Yet not all internal voices are disruptive, and internet searches turn up a wide range of &lsquo;spirit guides&rsquo; indistinguishable from schizophrenic voices.
+</p>
+
+
+
+<a class="tri" href="#24"id="25">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Oracular Statues </a></h5>
+<a class="tri" href="#26">&#10836;&emsp;&emsp;</a>
+
+
+<p>Sometimes &lsquo;the voices&rsquo; have clear external locations. A classical example is the speaking statue. In Linear B (the earliest readable Greek) the ruler is a <i>wanax</i>. His chief steward is a <i>basileus</i>, or &lsquo;king&rsquo;. Evidence from other cultures suggests that the <i>wanax</i> was not a person, but a statue who instructed the king. &lsquo;Statue <i>who</i>&rsquo; because it was perceived as, and gave orders in the manner of, a god. If one hears an &lsquo;external&rsquo; voice, and is troubled because there is no one to produce it, the voice issues instructions to make a statue for it.
+</p>
+
+<p>The bicameral mind may hear more than one voice. The Internal Playmate becomes a personal daemon with advice on personal behavior. The rules of your trade are heard as its tutelary deity. Laws are heard in the voice of the king, and outlive the king himself: <i>The dead king becomes a living god</i>. His voice is still heard, so his body is preserved, with a historical progression in which body parts of the king are steadily decreased: first he is mummified, later his skull is built into a statue, finally he is replaced by a statue. Late statues equipped with speaking tubes were not deliberate fraud, but a desperate attempt to continue hearing traditional advice as the voices went silent.
+</p>
+
+<p>Bicameral cultures tell us that people <i>really</i> die long after their apparent death. For the lifetimes of their grandchildren, their hallucinated voices may still be heard. It follows that during this period, the &lsquo;dead&rsquo; need all the paraphernalia of grave goods.
+</p>
+
+<p>The Bible describes YHVH speaking from a fire {Deut 4:12}, so none of this should seem strange to Jews or Christians. On his way to punish the Israelites for their sins, &lsquo;The king of Babylon, he consulted with images&rsquo; {Ezekiel 21:21}.
+</p>
+
+<p id="15a">Hammurabi heard the voice of Shamash, god of justice, and what he heard was good enough to influence our own law code. His letters to viceroys (all in his own handwriting) began with an instruction <i>to the letter</i>, &lsquo;Say unto So-and-so &hellip;&rsquo;, as though the letter were not read but heard. In Catholic girls&rsquo; schools, statues of the Virgin still verbally soothe adolescent turmoil. The figures on Achilles&apos;s shield conversed like living mortals {Iliad 18.539}. The speech of <b>herms</b>, postlike statues with a human head and priapic genitals, is well attested in Greek literature. One of <a class="fn">Guthrie&apos;s&deg;<span>
+    S Guthrie (1993) <cite>Faces in the Clouds</cite> (Oxford University Press, NYC): Fig 5-29.
+</span></a> examples of anthropomorphic religious objects is an illustration of a 4th-century stele whose caption reads &lsquo;Greeks thought steles could think and even speak&rsquo;. That&apos;s a very patronizing attitude: the steles <i>did</i> speak to bicameral Greeks.
+</p>
+
+
+
+<a class="tri" href="#25" id="26">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Guardian Angels, Invisible Gurus </a></h5>
+<a class="tri" href="#27"">&#10836;&emsp;&emsp;</a>
+
+<p class="epi"> Individuals experiencing auditory verbal hallucinations will fail to recognize that their &lsquo;voices&rsquo; embody their own internally generated thoughts and will often seek alternative explanations for their genesis. &mdash; <a class="fn">
+    JR Atkinson&deg;<span>(2006) &lsquo;The Perceptual Characteristics of Voice-Hallucinations in Deaf People: Insights into the Nature of Subvocal Thought and Sensory Feedback Loops&rsquo; <cite>Schizophrenia Bulletin</cite> <b>32</b>(#4): 701&ndash;708; 2006 doi:10.1093/schbul/sbj063.
+</span></a>
+</p>
+
+<p>For many people, &lsquo;voices&rsquo; are a useful resource. Among my acquaintances are college-educated professionals who assure me that they have &lsquo;guardian angels&rsquo; or &lsquo;invisible gurus&rsquo; who offer consistently good advice. They seldom talk about them, because people look at them oddly when they do.
+</p>
+
+<p>From examples offered, a sceptic notes that the information spans a range of genres. At one end, anthropologists would class it with descriptions of the shamans&rsquo; spirit world. It slips imperceptibly into behavior modification with philosophic generalities and advice on diet, social relations, purchases, and health care. The advice is valid &mdash; but characteristically something which the person might have noticed subconsciously. Night-driving fatigue induces the guardian angel to suggest, &lsquo;Turn around. There&apos;s a motel on the left a couple of miles back.&rsquo; The suggestion is never, &lsquo;There&apos;s a motel a half-mile ahead&rsquo;.
+</p>
+
+<p>While <a class="fn">40-odd medical conditions&deg;<span>
+    JR Brasic (1998) &lsquo;Hallucinations&rsquo; <cite>Perceptual and Motor Skills</cite> <b>86</b>: 851&ndash;877.
+</span></a> induce hallucinatory experiences, studies consistently find hallucinations reported by <a class="fn">5&ndash;25%&deg;<span>
+    AY Tien (1991) &lsquo;Distribution of hallucinations in the population&rsquo; <cite>Social Psychiatry and Psychiatric Epidemiology</cite> <b>26</b>: 287&ndash;92.
+</span></a> of normal populations.  <a class="fn">Twice as many&deg;<span>
+    H Sidgewick (1894) &lsquo;Report on the census of hallucinations&rsquo; <cite>Proc Soc Psychical Res</cite> <b>34</b>: 25&ndash;394.
+</span></a> people have visual hallucinations as auditory.
+    <a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-Research3.gif" alt="Research"></a>
+While there is an obvious need for more research on this question, any brain that can dream can hallucinate, so that hallucination is more a matter of a sticky switch than anything supernatural or <a class="fn">alarming&deg;.<span>
+    Twice, a dream image persisted through the hypnopompic state until I was fully awake. Once it occupied the center of the visual field as though sitting between me and the foot of the bed. I tried to preserve it for study, succeeding for not more than 5 seconds, before it winked out and the foot of the bed continued across the space the image had occupied. Brief as it was, it gives a clear indication that the dream mechanism &mdash; which can call on memory, the subconscious, the audio-vocal system, and the sensory-motor system &mdash; projects its images along the same path used by the retina, and in the same manner. I have not found a better description of this process in the literature. The second time, I watched a water strider (Gerrid) take off and fly &mdash; something I have never seen in real life. It flew slowly, and I woke up to observe better (an attempt that clearly implies a lack of coordination between cortex and limbos during sleep!). It kept flying as the background slowly dissolved from small stream to bedclothes, and finally faded out.
+</span></a> We don&apos;t know how either dreams or hallucinations occur, but the mechanism seems to be the same.
+</p>
+
+<p>In a recent book (whose cover shows a mountaineer backpacking in a blizzard), <a class="fn">
+    John Geiger&deg;<span> (2009) <cite>The Third Man Factor: Surviving the Impossible</cite> (Cannongate, Edinburgh): 15.
+</span></a> relates
+</p>
+
+<blockquote>a common experience that happens to people who confront life at its extremes, and strange as it may sound, given the cruel hardships that they endure to reach that place, it is something wonderful. [&hellip;T]hey report that at a critical point they were joined by an additional, unexplained friend who lent them power to overcome the most dire circumstances.
+</blockquote>
+
+<p>The impression of companionship is so convincing that one mountaineer reported breaking a Kendall Mint Cake in half to share with his friend, before discovering that <a class="fn">he was alone&deg;.<span>
+    For a familiar prime-time version, recall &lsquo;Lewis&rsquo;, Lex Luthor&apos;s hallucinated, level-headed, companion on an otherwise deserted Caribbean island {<cite>Smallville</cite>, Season 3, Episode 1, 2003}, whom Lex ultimately tried to kill.
+</span></a> Considering the daily hardships of Paleolithic life, <i>any</i> mechanism that provided helpful guidance would soon find its way into our genes, to become a normal part of human experience.
+</p>
+
+<p>Unfortunately, such guidance is not always helpful &mdash; and we don&apos;t know why. The <a class="fn">first study&deg;<span>
+	K H&uuml;fner &7a (2017) &lsquo;Isolated psychosis during exposure to very high and extreme altitude &mdash;
+	characterisation of a new medical entity&rsquo; <cite>Psychol Med. 2017 Dec 5:1-8. doi: 10.1017/S0033291717003397.</cite>
+</span></a> of such events above 3500 meters analyzed 83 reports in the mountaineering literature and found &lsquo;psychotic epsodes&rsquo; in half of them. Unfortunately, the paper is behind a paywall (it&apos;s a medical journal), and the abstract does not say what fraction of the episodes included helpful advice. At least one of the co-authors was a mountaineer who had hallucinated mountain guides when he was in trouble on Dhaulagiri (Nepal, 8167 m).
+</p>
+
+<blockquote> [T]he mountain guides &hellip; talked kindly to him and offered more advice. They urged him to jump down the east face [a sheer 6500-meters]. &lsquo;In few seconds you will be on a flat, safe place 2,000 meters lower. This will solve all your problems.&rsquo;</blockquote>
+
+<p>Cautious, Tomazin tried a 6-foot jump: the resulting pain disuaded him from following the guides&apos; advice, and he survived. One wonders how many climbers whose bodies have never been found followed such guidance.
+</p>
+
+<p>The <a class="fn">Hearing Voices Movement&deg;,<span>
+    MAJ Romme, ADMAC Escher (1989) &lsquo;Hearing Voices&rsquo; <cite>Schizophrenia Bulletin</cite> <b>15</b>(#2): 209&ndash;216.
+</span></a> which aims to change the public perception of those who hear voices, began life under this name in England in 1988, following earlier work by Marius Romme and Sandra Escher in the Netherlands. It is an organization for voice hearers and others interested in this phenomenon whose attitude is that auditory hallucination is not a pathological phenomenon in need of eradication but a meaningful, useful experience. Many of its members started hearing voices after a traumatic stress, just as in bicameral days. Oddly, the movement mentions Jaynes&apos;s work only in passing, as one &lsquo;frame of reference&rsquo; among many (&lsquo;psychodynamic, mystical, parapsychological, and medical&rsquo;) adopted by a particular hallucinator.
+</p>
+
+
+
+<a class="tri" href="#26" id="27">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Current Echoes </a></h5>
+<a class="tri" href="#28"">&#10836;&emsp;&emsp;</a>
+
+
+<p>Hypnotism and schizophrenia may be remnants of the non-conscious bicameral state, but they are transient or pathological, and oracular statues are rare nowadays. However, persistent forms of bicamerality are still with us, and either harmless or downright useful.
+</p>
+
+
+
+<a class="tri" href="#27" id="28">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Dreams </a></h5>
+<a class="tri" href="#29">&#10836;&emsp;&emsp;</a>
+
+<p>Today our dreams are <i><b>vicarial</b></i> (the analog &lsquo;I&rsquo; is doing something besides sleeping) and <i>translocative</i> (the action is somewhere other than where one is sleeping). In bicameral days this was apparently not the case. The dreams in the <cite>Iliad</cite> and Genesis are of a god standing by the bed issuing instructions. Dreams recorded in cuneiform tablets go back to 2500 BCE and are all of this type. <a class="fn">Jaynes&deg;<span>
+    J Jaynes (1986) &lsquo;Consciousness And The Voices Of The Mind&rsquo; <cite>Canadian Psychology</cite> <b>27</b>(#2) 128&ndash;148.
+</span></a> regarded this
+</p>
+
+<blockquote>historical change in the nature of dreams, as one of the great confirmations of the strong form of the central hypothesis of the origin of consciousness in the breakdown of the bicameral mind.
+</blockquote>
+
+<p>If I sleep long enough to finish all of the brain&apos;s &lsquo;chron&rsquo; jobs (the computer maintenance program run by Unix systems every morning at 03:00), somebody lets the brain-kittens loose, and I wake myself laughing at the dreams they turn out. What a dull life bicamerality must have imposed!</p>
+
+<p>Incidentally, if you have conversations in your dreams, your brain is obviously capable of generating internal speech without conscious help. The difference from bicameral advice is twofold:
+</p>
+
+<ul>
+<li>Dreams, these days, do not habitually offer good advice and often seem totally random.</li>
+<li>Speech generation by the right hemisphere is normally shut down <i>except</i> during sleep.</li>
+</ul>
+
+
+
+<a class="tri" href="#28" id="29">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Coda (Jaynes) </a></h5>
+<a class="tri" href="#30">&#10836;&emsp;&emsp;</a>
+
+<p>A frequent question about Jaynes is &lsquo;Why, if his hypothesis is so important, isn&apos;t he a household name like Freud?&rsquo;. The answer seems clear: the 1st edition of <cite>Origin of Consciousness</cite> never mentioned sex.
+</p>
+
+<p>What I find more puzzling is neglect of the bicameral hypothesis in studies of the &lsquo;Evolution of Religion&rsquo;. The project of this name supported by The John Templeton Foundation, specifically includes &lsquo;theoretical analyses on the function, cognition, development, and phylogeny of religion&rsquo;. Yet in scanning some <a class="fn">3 dozen&deg;<span>
+    J Bulbulia &amp;5a (eds.) (2008) <cite>The Evolution of Religion</cite> (Collins, Santa Margarita CA). [Unconscionably in the computer age, the book has no index.]
+</span></a> of their papers, I find no indication that they have read Jaynes.
+</p>
+
+<p>For those interested in Jaynes&apos;s theory of consciousness, a 4-page reading list from his undergraduate seminar on &lsquo;The Psychology of Consciousness&rsquo; is <a class="fn">available&deg;.<span>
+    WR Woodward, JF Tower (2007) &lsquo;Julian Jaynes: Introducing his Life and Work&rsquo;, pp 13&ndash;68 in M Kuijsten (ed.) <cite>Reflections on the Dawning of Consciousness: Julian Jaynes&apos;s Bicameral Mind Theory Revisited</cite> (Julian Jaynes Society, Henderson NYC). The reading list occupies pp 52&ndash;56.
+</span></a> Jaynes&apos;s theory of education was &lsquo;read, read, read, read, and after that, read some more. It is not a grind &hellip;, for you study only those topics you wish to&rsquo;, and discuss your readings weekly with your tutor. Jaynes&apos;s description of what one should do with his life is the Platonic ideal: &lsquo;what he, of all lives in the world and he alone, can do best&rsquo;. It is not to be expected that such work will be immediately understood.
+</p>
+
+
+
+
+
+
+<a class="tri" href="#29" id="30">&#10835;&emsp;&emsp;</a>
+<a class="tri" href="#21"> &#9651;&emsp;&emsp;</a>
+<h4><a href="#!">TOPICAL BICAMERALITY</a></h4>
+<a class="tri" href="#31">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#00"> &#9661;&emsp;&emsp;</a>
+
+<p class="epi">Lorem ipsim gigantur meliosis qualis brabantissimus quae ortem adapis belliopt.</p>
+
+<a class="tri" href="#30" id="31">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Hankering for Bicamerality </a></h5>
+<a class="tri" href="#32">&#10836;&emsp;&emsp;</a>
+
+<p>Obnoxious as the idea of being told what to do by a compelling voice may be to some, others find it attractive. Many women in patriarchal cultures are happy to let their men deal with the &lsquo;real world&rsquo; while they take care of important household matters. <a class="fn">
+    Dostoevsky&apos;s&deg;<span> (1864) <cite>Notes from Underground</cite>, transl. R Pevear, L Volokhonsky (Vintage, NY, 1972).
+</span></a> collegiate assessor, the Underground Man trapped in a burocrat&apos;s job, &lsquo;gloomy, ill-regulated, and as solitary as a savage&rsquo;, told us, &lsquo;to be too conscious is an illness&rsquo; &mdash; suggesting that the whole existentialist genre is a cry for Back to Bicamerality. Nietzsche&apos;s &lsquo;Death of God&rsquo; is a belated response to the loss of bicamerality.
+</p>
+
+<p>The common Islamic name <i>Abdullah</i> means
+&lsquo;slave of Allah&rsquo; &mdash; an exact description of bicamerality. <i>Islam</i> is generally translated as &lsquo;submission&rsquo;, which again is a bicameral urge. Does this suggest that the psychological need at the root of Islam&apos;s popularity, and its millennial attention to ever more detailed refinement of Shari&apos;a, is a sibling of the Freudian back-to-the-womb urge? (See <a href="http://jezebel.com/5917949/climb-back-into-the-womb-with-this-handy-uterus-chair">here</a> for a commercial application of this urge.) Since few Muslims can read Quranic Arabic, Islam is largely an oral religion, and what one hears depends on whom one listens to. This is the primary reason for conflicting description of Islam-3 (which one hears from apologists) as a religion of peace, and Islam-1 (which one reads about in the Quran, history books and newspapers) as a religion of <a class="fn">brutal conquest&deg;.<span>
+    The rationale for the numbered Islams will become clear in Ch. 15.
+</span></a> Whatever individual Muslims may feel, Islam preaches bicamerality, and it seems to have developed methods for teaching that encourage the development bicamerality.
+</p>
+
+<p>A <a class="fn"><cite>Guardian</cite> columnist&deg;<span>
+    C Brooks (2006) &lsquo;Get on the right track&rsquo;. <cite>Guardian Weekly</cite> 2006-09-15 p16.
+</span></a> writes that non-English-speaking cab drivers who do not know London expect fares to type their destination into the GPS, after which it tells the driver when to turn. Said he,
+</p>
+
+<blockquote>It occurred to me that I'd quite like a GPS of my own for simple real-life instructions on what to do next. It'd cover all the basics &hellip; just like an electronic organizer except it would be plugged directly into your brain.&hellip;
+<br>
+
+<br>OK, so you'd be little more than an obedient puppet, wandering through life with no free will &mdash; but by God, it'd be simpler.
+</blockquote>
+
+<p>This exactly describes our earlier operating system. Even the expletive &lsquo;by God&rsquo; is spot on. This is the way the gods ran our lives &mdash; and simplicity was the reason. Thinking is hard work: why do your own if it has already been done for you? Possessing a complex organ does not mean that we know how to use it, so perhaps bicamerality was a needed half-way stage between the animal unconscious and what we have today. Perhaps a better operating system lies ahead.
+</p>
+
+<p>A darker example of bicameral invocation is the neonazi movement. There is good reason to believe that Hitler&apos;s <a class="fn">demonstrated ability&deg;<span>
+    J Schedel (2008) &lsquo;Hitler&apos;s Rhetoric: A Jaynesian Approach&rsquo; paper presented at the Julian Jaynes Conference On Consciousness August 7&ndash;9 2008, University of Prince Edward Island, Canada
+</span></a> to &lsquo;seduce, corrupt, galvanize, dominate, and lead to destruction a nation that had once been known as the most civilized in Europe&rsquo;  was his understanding of his own bicameral mind and how to activate latent bicameral &lsquo;hear-and-obey&rsquo; responses in those who listened to his rhetoric. Since this is a skill envied by every politician, it is imperative that we learn to understand the process &mdash; and how to defend against it.
+</p>
+
+<p>Nowhere is the wish to return to bicameral governance stronger than in the Islamic world. <a href="../_D/D15.shtml#04a">Shari'a</a>, the Islamic law that purports to reduce all of life&apos;s choices to predefined responses, is a heartfelt cry, &lsquo;Don&apos;t make me think for myself. Just tell me what to do!&rsquo;
+</p>
+
+
+
+<a class="tri" href="#31" id="32">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Faith Replaces Bicamerality </a></h5>
+<a class="tri" href="#33">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">Faith includes a <i>sacrificium intellectus</i> [sacrifice of the intellect] (provided that there is an intellect to sacrifice). &mdash; Jung
+</p>
+
+<p>As bicamerality died, people ceased to experience gods, leaving the emptiness of Fig. 2.2. This is analogous to the disappearance of an established fishery, with 2 possible responses. One can conclude that the fish have moved away, or that we have eaten them. One can conclude that the gods have departed, or that they were figments of our imagination. No prize for guessing which answers we preferred.
+</p>
+
+<p>Philosophers should rejoice at the loss of bicamerality, as it enables us to move forward into a conscious exploration of our universe. This has not been the usual response. More typical is an ersatz bicamerality:
+</p>
+
+<blockquote>When people cease to experience God, they are forced to believe in him, implied Tillich &mdash; and belief is a commodity subject to loss. The inner sense of God is a quality of the deeper psyche [i.e, limbos] &mdash; and not of reason. With the ascendancy of reason over the psychological awareness of archetypal truth, the way for rationalism and ultimately for materialism and atheism became wide open. <b>Thus, says Jung, and agrees Tillich, the West was lost.</b>
+</blockquote>
+
+<blockquote>When the West was lost to spiritual interiority, all that remained was belief, or the religious euphemism for it, faith. &mdash; <a class="fn">
+    SA Hoelle&deg;,<span> (1989) <cite>Jung and the Lost Gospels</cite> (Quest Publishing, Wheaton IL).
+</span></a> emphasis added.
+</blockquote>
+
+<p>The assumption always seems to be that the &lsquo;experience of god&rsquo; or &lsquo;spiritual interiority&rsquo;, or the bicameral voice that made our difficult decisions for us, was valuable and something we want to return to. A less nostalgic view might see the bicameral voices as a stopgap measure that saw us through a difficult transition until we could stand on our own feet.
+</p>
+
+<p>Jung, like all who <a class="fn">seek nirvana&deg;,<span>
+    Bowing to colloquial usage. I write &lsquo;nirvana&rsquo; where, strictly speaking, one should perhaps use &lsquo;samadhi&rsquo;. Recall the end note to Ch. 1.
+</span></a> was sure of its reality and value, considering it an experience necessary for spiritual maturity. He always saw metaphysical reality dwelling in the human unconscious, in the form of archetypes that transcend individual experience. This led him to feel that the subjective nature of nirvana did not disqualify it as &lsquo;real&rsquo;. This is a valid hypothesis which we might formalize as &lsquo;Metaphysical archetypes are encoded in DNA&rsquo;, since there is no other biological way to transmit information between generations. &lsquo;Archetype&rsquo; is no more unlikely a concept than &lsquo;instinct&rsquo;, and perhaps no harder to encode, so as DNA reading progresses, such questions will become answerable. Or not, if nirvana is <i>not</i> a spiritual experience. What if it is, as suggested <a href="../_A/A01.shtml#35">above</a>, merely a transient return to the infant&apos;s state of absolute egoism? What becomes of &lsquo;reality&rsquo;, &lsquo;value&rsquo;, &lsquo;spiritual maturity&rsquo;, and &lsquo;archetypal truth&rsquo; in that case? <b>What if the West was never &lsquo;lost&rsquo;, but merely enabled to move on?</b>
+</p>
+
+
+
+<a class="tri" href="#32" id="33">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> A Staged Development </a></h5>
+<a class="tri" href="#34">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">Everything that liberates the spirit without a corresponding growth in self-mastery is pernicious. &mdash; Goethe
+
+<p>A question often asked is how something as obvious as vocal bicamerality can disappear without leaving a record of the process. The quick answer is that it <i>did</i> leave a record, and it <i>hasn&rsquo;t</i> disappeared. The best record, as noted <a href="#23">above,</a> is the Old Testament. And if US 21st-century politics is any guide, many people who think they can <a class="fn">run the country&deg;<span>
+    Perhaps I overestimate their ambition. They may just believe that government doesn&apos;t work, and they can prove it.
+</span></a> still live the &lsquo;unexamined life&rsquo; that Socrates deplored, even if they have lost a socially constructive inner voice.
+</p>
+
+<p>Jaynes, as a sheltered academic, may have assumed that introspection was a general property of contemporary humans, but that seems overly optimistic. Table 2.2 stretches the development of introspective consciousness over a larger range of intermediate states, allowing them to overlap, and reinforcing the idea of consciousnesss as a staged development, not necessarily completed.
+</p>
+
+
+<hr>
+<table class="bgneu" id="T2.2">
+<caption>
+<a class="tri" href="#T2.1">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 2.2 </a>
+<a class="tri" href="#T2.3">&emsp;&emsp;&#9654;</a>
+A Staged Development of Consciousness. The cyan row is essentially extinct; the last 2 rows coexist. Pothodox religion appears as the primary replacement
+    <a href="../_A/A-1.shtml#14"><img class="im2" src="../Images/K-NewIdea3.gif" alt="NewIdea road sign"></a>
+for bicamerality, which might explain the persistence
+of Judaeo-christian fundamentalism and Islamic shari&apos;a. AMH, BMH, and CMH are respectively, Anatomically, Bicamerally, and Conscious Modern Humans.
+</caption>
+
+<thead><tr><th>Stage</th><th>Exemplar</th><th>Characteristic Manifestations
+</th></tr></thead>
+
+<tfoot>
+<tr><td colspan="3">* The <a class="fn">Cambridge Declaration on Consciousnes&deg;.<span>
+    P Low et al. (2012) (Francis Crick Memorial Conference on Consciousness in Human and non-Human Animals, Churchill College, U Cambridge 2012-07-07).
+</span></a> confuses the terminology by describing elephants, dolphins, magpies, and octopuses as &lsquo;conscious&rsquo; because they pass the mirror test for self-awareness. The 30-year association of African Grey Parrot ALEX with people who treated him pretty much as an equal gave him a unique perspective. Still, no one in these categories has shown evidence of introspection, which is our <i>sine qua non</i> for &lsquo;consciousness&rsquo;.</td></tr>
+</tfoot>
+
+<tbody>
+<tr><td><b>Reactive Awareness</b></td>
+    <td>Dog</td>
+    <td>Obedience, Personality, Competence, Curiosity,  Sociality</td></tr>
+
+<tr><td><b>Self-awareness*</b></td>
+    <td>Great Apes, AMH</td>
+    <td>Deceit, Politics, Selfishness</td></tr>
+
+<tr class="bgcyn"><td><b>Linguistic</b></td>
+    <td>Aurignacians, BMH</td>
+    <td>Bicamerality, Common mores, Coordinated behavior</td></tr>
+
+<tr><td><b>Pre-Axial</b></td>
+    <td><i>Hoi polloi</i></td>
+	<td><span style="color:red; letter-spacing:1px; font-weight:700;">Pothodox religion</span>, Resurgent tribalism</td></tr>
+
+<tr><td><b>Axial</b></td>
+    <td>CMH</td>
+    <td>Introspection, <b>Consciousness</b>, Neuroses</td></tr>
+</tbody>
+</table>
+
+
+<p>If there is one clear conclusion from Table 2.2, it is that the boundaries are fluid and the manifestations a continuum. The bicamerality of the Aurignacians is a conjecture rather than a hypothesis: more on this <a href="../_C/C10.shtml#F10.1">below</a>. The point here is not to argue the status of other species, but to emphasize the gradations of &lsquo;consciousness&rsquo; in our own.
+</p>
+
+
+
+<a class="tri" href="#33"  id="34">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Operating Systems </a></h5>
+<a class="tri" href="#35">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">Our brains are vastly different, in fine detail, from the brains of our ancestors. &hellip; In each stage of cultural development &hellip; the average human had to learn complex new skills and abilities that all involve massive brain change. &mdash; <a href="http://www.cnet.com/news/are-we-getting-smarter-or-dumber/">Mike Merzenich (2005)</a>
+<p>
+
+<p>Thus far, we have stayed close to Jaynes&apos;s original description of bicamerality. Given the passage of 40 years (and despite the paucity of work that has been done on his hypothesis), we can try for a more nuanced approach,
+    <a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-NewIdea3.gif" alt="New-Idea"></a>
+so in support of Table 2.2, we pull together the work of <a class="fn">Richard Klein&deg;,<span>
+    RG Klein (2000) &lsquo;Archeology and the evolution of human behavior&rsquo;. <cite>Evolutionary Anthropology</cite> <b>9</b>(#1):17&ndash;36.
+</span></a> Julian Jaynes, Karl Jaspers, Sigmund Freud, <a class="fn">Norman Doidge&deg;,<span>
+	 N Doidge (2008) <cite>The Brain That Changes Itself</cite> (Penguin, London).
+</span></a>
+<a class="fn">Jan Sleutels&deg;<span>
+    J Sleutels (2006) &lsquo;Greek zombies&rsquo; in M Kuijsten (ed.) <cite>Reflections on the Dawn of Consciousness: Julian Jaynes&apos;s Bicameral Mind Theory Revisited</cite> (Julian Jaynes Society, Henderson NV).
+</span></a> (who suggests that the printing press contributed to changes in the development of the brain), and <a class="fn">Bruce Bridgeman&deg;<span>
+    B Bridgeman (2003) <cite>Psychology and Evolution: The Origin of Mind</cite> (Sage, Thousand Oaks CA).
+</span></a> (who noted that split-brain patients are not aware of input presented to their right hemispheres, thereby confirming the site of the personality as the left temporal lobe). We use it to construct Fig. 2.3, which shows 7 stages in the development of operating systems (OSes) for our brain.
+</p>
+
+
+<hr>
+<table class="bgneu" id="T2.3" style="width:100%; text-align:left;">
+<caption>
+<a class="tri" href="#T2.2">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 2.3 </a>
+<a class="tri" href="#T2.4">&emsp;&emsp;&#9654;</a>
+Hypothetical Operating Systems of the evolving brain, past, present, and future. We do not yet have the tools to distinguish between firmware (brain structure) and software (synaptic learning) in the make-up of a brain operating system. <i>H. erectus</i>, Neandertal, and Denisovan OSes are probably unrecoverable, somewhere in the fog surrounding Post-chimpanzoid and Qarin OSes.</caption>
+
+
+<thead>
+<tr><th>Name</th>
+    <th>Status</th>
+    <th>Characteristic Manifestations</th>
+</tr>
+</thead>
+
+<tbody>
+<tr><td><b>Chimpanzoid Instict</b></td>
+    <td>Much studied by primatologists and brain researchers</td>
+    <td>Incipient language, much Instinct-1, little Instinct-2, tool-using, minimal language, self-aware, but not introspective</td>
+</tr>
+
+<tr><td><b>Post-chimpanzoid</b></td>
+    <td>160,000 years of evolutionary experiments</td>
+    <td>&lsquo;Other bands perhaps may have been like other primates, being neither bicameral nor conscious&rsquo; suggested <a class="fn">Jaynes&deg;.<span>
+J Jaynes (1986) &lsquo;Consciousness And The Voices Of The Mind&rsquo; <cite>Canadian Psychology</cite> <b>27</b>(#2).
+    </span></a> </td>
+</tr>
+
+<tr><td><b>Qarin</b></td>
+    <td>Proposed here</td>
+    <td>Putative predecessor of the Fundamentalist OS, sketched in the ethnological literature of Africa, with awareness of a <i>ka</i>, <i>qarina</i>, or &lsquo;double&rsquo;, always present, not always helpful.</td>
+</tr>
+
+<tr><td><b>Jaynesian Bicamerality</b></td>
+    <td>Well described</td>
+    <td>The language-dependent Bicameral system described by Jaynes in <cite>Origin &hellip;</cite>, without consciousness, but with tribal mores available as compelling audible instructions in times of stressful uncertainty</td>
+</tr>
+
+<tr><td><b>Freudian Triad: ego, superego, id</b></td>
+    <td>Overstudied</td>
+    <td>The familiar quotidian system of conscious introspection and critical analysis, with contrary behavior sometimes driven by the unconscious</td>
+</tr>
+
+<tr><td><b>Fundamentalist</b></td>
+    <td>Familiar, but formalized here</td>
+    <td>The familiar quotidian system of seeking compelling (instinctive, bicameral, or in desperation, scriptural) guidance in all situations
+    </td>
+</tr>
+
+<tr><td><b>Dual-core</b></td>
+    <td>Analog of developments in silicon</td>
+    <td>Putative successor to the Freudian, as the brain extends awareness to aspects of the currently non-verbal unconscious</td>
+</tr>
+<tbody></table>
+
+
+<p>Logic insists that the strandlopers who left Africa had more going for them than the Chimpanzoid OS of pure instinct. Later behavior suggests 2 lines of development, with cortical dominance in the left column of Fig. 2.3 and limbic in the right, but what went on before we departed from Africa is mysterious, and 160,000 years of experiment are represented in Fig. 2.3 only by the branches above the dashed Out Of Africa line and the hand-waving suggestions accompanying them. This area is the realm of the problematic &lsquo;post-chimpanzoid&rsquo; OS.
+</p>
+
+<p>More complex than the polygenetic black/white skin-color distribution, the brain-OS field is continuous in 2 dimensions, time/complexity (vertical in Fig. 2.3) and neurological variety (horizontal). The 6 named loci are like biological species, defined as fixed items for the sake of convenience, but actually a smear, if not a continuum. There are always more intermediates than there are alleles involved. We do know that the Wiraijuri of Australia heard the voice of <a class="fn">Daramulu&deg;.<span>
+    ES Hartland (1895) <cite>J Anthrop Inst</cite>, May, p 419. [cited by A Lang (1913) <cite>Myth, Ritual, &amp; Religion</cite> 2 vols. (Longmans, Green, London)].
+</span></a> during their rites, which suggests that we might have been hearing disembodied voices when we left Africa.
+</p>
+
+
+
+<figure id="F2.3">
+<img class="fl"  width="66%"
+src="A-Images/2.3_OSes.jpg"
+alt="A-Images/2.3_OSes.jpg. A complex box diagram showing possible steps on the road to consciousness, and beyond. 6 different 'brain operating systems' are included: chimpanzoid before we left Africa, Jaynesian and qarin after the Paleolithic transition at 35 ka, Freudian and Fundamentalist after 1200 BCE, and a possible 'dual-core' version in the future." />
+
+<figcaption>
+<a class="tri" href="#F2.2">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Fig. 2.3 </a>
+<a class="tri" href="#F2.4">&emsp;&emsp;&#9654;</a>
+Operating Systems for the human brain. Time progresses down the diagram. Two of the transitions are indicated: Klein&apos;s and Jaspers&apos;s. We are aware of the &lsquo;mind-space&rsquo; available to the user, shown in yellow in the boxes, but thep blue areas we are not aware of. (I have no clue to what goes on in the brown areas.) AMH, BMH, and CMH are respectively Anatomically, Bicameral, and Conscious, Modern Humans. The OOA line indicates only that some diversification of brain development had occurred before we left Africa. Richard Klein, responding to an earlier version of this sketch, said that he could see no way to falsify any of it. In this version, the difference between <i>more</i> and <i>stronger</i> synapses at least offers a starting point. However, the main purpose of this figure is to stimulate ideas about how to improve or falsify the multiple hypotheses it incorporates.
+</figcaption></figure>
+
+
+<p>Nothing suggests that there are not further improvements in store, indicated by the &lsquo;Dual-Core&rsquo; system at the bottom left, in which we would have direct communication with much of what is now unconscious. Note that the &lsquo;CMH&rsquo; label is closer to the Freudian OS than the Fundamentalist. This placement is wondering if, in the absence of the Jaynesian and Freudian developments, our behavior would have moved on from that of the savannah. Without the imagination of story tellers, would the idea of &lsquo;I&rsquo; have caught on?
+</p>
+
+
+
+<a class="tri" href="#34" id="35">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Different Culture, Different Brain </a></h5>
+<a class="tri" href="#36">&#10836;&emsp;&emsp;</a>
+
+<p class="epi"> &hellip; the tremendous rôle played, in an individual&apos;s life, by the social environment in which each is born and reared. One by one, aspects of behaviour which we had been accustomed to consider invariable complements of our humanity were found to be merely a result of civilisation, present in the inhabitants of one country, absent, in another country, and this without a change of race. &mdash; Margaret Mead, <cite>Coming of Age in Samoa</cite>
+</p>
+
+<p>The functioning of a cybernetic system depends both on the hardware and the operating system. Silicon OSes are regularly upgraded to take advantage of new hardware features, but this does not happen automatically with brains. Even though their brains are probably equipped for introspection, fundamentalists give the impressions of trying to continue with the bicameral OS. Taking advantage of the Enlightenment requires serious introspection &mdash; and this is hard work. Any potential &lsquo;clash of civilizations&rsquo; is fomented by cultures with the bicameral outlook, incompatible with those influenced by the Enlightenment.
+</p>
+
+<p>Unfazed by the most complicated structure in the known universe, many people respond to the idea of bicamerality by demanding a mechanistic explanation. This will be forthcoming soon after we can explain how a finger moves when we want it to. This &lsquo;mind-body&rsquo; problem has excersized philosophers throughout history: Fig. 2.3 offers 2 relevant suggestions:
+</p>
+
+
+<ul>
+<li>Perhaps bicamerality did not so much vanish, as go underground, losing its voice to urges and impulses from our unconscious and intuition &mdash; no less mysterious. Many plants have juvenile leaves that serve young plants well, and adult leaves that work better for adult plants; we might think of Jaynesian bicamerality as our juvenile OS, and Freudian consciousness as the adult OS.</li>
+
+<li>It is easy to talk of the bicameral&ndash;conscious change as &lsquo;rewiring&rsquo;, but the brain already has <a class="fn">shorter interlobe wires&deg;<span>
+    C Cherniak &amp;3a (2002) &lsquo;Global Optimization of Cerebral Cortex Layout&rsquo;, <cite>Proc Roy Soc Lond Biol Sci</cite> <b>B252</b>: 13&ndash;18.
+</span></a> than a billion other spatial arrangements of the same components, which is better than we do with computer chips. This makes literal rewiring of interlobe communications unlikely. The suggested difference between &lsquo;Freudian&rsquo; and &lsquo;Fundamentalist&rsquo; OSes is the focus of improvements, with more abundant synaptical interconnections surviving infant culling in the cortex leading to the Freudian OS, and stronger synapses and a more influential limbic system leading to the Fundamentalist OS. These will not appear in the fossil record, but may continue down the columns.</li>
+</ul>
+
+
+<p>Recent research shows that the brain is more flexible than we have realized, raising the question of whether an OS change might be intentionally mediated. Even though the frontal lobe is the likely home of the OS, and we know little about how to influence it, suppose that we had a source of bicameral subjects: might we discover brain exercizes that could update them?
+    <a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-Research3.gif" alt="Research"></a>
+Could we try this on Fundamentalist volunteers?
+</p>
+
+<p>A small <a class="fn">example&deg;<span>
+    S Yamaguchi &amp;6a (2003) &lsquo;Synchronization of Cellular Clocks in the Suprachiasmatic Nucleus&rsquo; <cite>Science</cite> <b>302</b>: 1408&ndash;1412.
+</span></a> of the blue-to-yellow transition might be the ability to access more directly the clock cells of the suprachiasmatic nucleus (SCN) that manage our circadian rhythm and let us estimate the passage of time. Add a few cells to the 20,000 in the SCN and we might be able to say, &lsquo;It&apos;s 18:15&rsquo; with an error of 5 minutes.
+</p>
+
+<p>Although &lsquo;fundamentalist&rsquo; is something of a pejorative these days, the utility of the OS of this name depends entirely upon the belief that drives the system. A brain driven by end-times eschatology or jihad is not helpful; the same brain driven by an Eirenic and Gaian belief would be distinctly useful. Research on how to encourage such a switch could be helpful.
+</p>
+
+
+
+<a class="tri" href="#35" id="36">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Brain Plasticity </a></h5>
+<a class="tri" href="#37">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">[T]he brain changes its very structure with each different activity it performs, perfecting its circuits so it is better suited to the task in hand &hellip;. [This is] surely one of most extraordinary discoveries of the 20th century. &mdash; Norman Doidge [tense modified].
+</p>
+
+<p>To those familiar with the view of the brain as a collection of specialized, hard-wired processors located in specific areas (the accepted view since the Enlightenment) the idea of changing its operating system will seem wild speculation and unjustifiable science-fiction. On the other hand, a lot of little-known work has been done in recent decades.
+</p>
+
+<p>Beginning with Paul Bach-y-Rita in the 1960s, there has been a gradual recognition that while the identified local processors are among the most efficient regions of the brain, perhaps 80% of their functionality can be carried out by the learned rewiring of other areas, sometimes neighboring, sometimes improbably distant and known for efficiency in their own specialties. Table 2.4 offers a sampling of known phenomena.
+</p>
+
+<hr>
+<table class="bgneu" id="T2.4">
+<caption>
+<a class="tri" href="#T2.3">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 2.4 </a>
+<a class="tri" href="#T2.5">&emsp;&emsp;&#9654;</a>
+Examples of neuroplasticity.
+</caption>
+
+<thead>
+<tr><th>Status quo ante</th>
+	<th>Status after neuroplastic expression</th>
+	<th>Reference</th></tr>
+</thead>
+
+<tbody>
+<tr><td>Pedro Bach-y-Rita, stroke at 65: 97% of nerves between cortex and spine destroyed, paralysis, loss of speech.</td>
+	<td>Speech, mobility, and teaching job at CCNY regained by age 68.</td>
+	<td><a class="fn">MJ Aguilar (1969)&deg;<span>
+	&lsquo;Recovery of motor functions after unilateral infarction of the basis pontis&rsquo; <cite>Am J Physical Medicine</cite> <b>48</b>: 279&ndash;288.
+	</span></a> </td></tr>
+
+<tr><td>Barbara Arrowsmith, phenomenal auditory and visual memory, but also learning disabilities, dyslexia, and deficiencies in kinestheric perception, spatial reasoning, and symbolic relationships. </td>
+	<td>Making it to grad school with grit, memorization, and 4 hours sleep, Barbara combined the insights of <a class="fn">AR Luria&deg;<span>
+	<cite>The Man With a Shattered World</cite> (Basic Books, NY, 1972)
+	</span></a>and <a class="fn">MR Rosenzweig&deg;<span>
+	&lsquo;Modification of Brain Circuits through Experience&rsquo; in F Berm&uacute;dez-Rattoni <cite>Neural Plasticity and memory: From Genes to Brain Imaging</cite> (CRC Press, Boca Raton FL, 2007): Chapter 4.
+	</span></a> to design exercizes to strengthen her weakest function, the relationship of symbols. Ultimately, it worked, and she began for the first time to grasp grammar, math, and logic.</td>
+	<td><a class="fn">N Doidge (2007)&deg;<span>
+		<cite>The Brain that Changes Itself</cite> (Penguin, London): Chapter 2.
+		</span></a> </td></tr>
+
+<tr><td>The only culture-wide example of neuroplasticity that I have found is a purely physical adaptation in Moken Sea Gypsies.</td>
+	<td>Clear underwater vision is obtained by reducing pupilary size and changing the curvature of the lens &mdash; operations that are not under voluntary control.</td>
+	<td><a class="fn">A Gisl&eacute;n &5a (2003)&deg;<span>
+	&lsquo;Superior underwater vision in a human population of Sea Gypsies&rsquo; <cite>Current Biology</cite> <b>13</b>: 833&ndash;836.
+	</span></a> </td></tr>
+
+<tr><td>Chimpanzoid brain, with 4 modules for specific domains of intuitive knowledge: general (adaptable to tool use and language), psychology, biology, physics.</td>
+	<td>Later brain: modules interconnect to create &lsquo;cognitive fluidity&rsquo; in which &lsquo;complexes of intelligence function together seamlessly to execute intricate human activities&rsquo;</td>
+	<td><a class="fn">S Mithen (1996)&deg;<span>
+<cite>The prehistory of the mind</cite> (Thames &amp; Hudson, London).
+	</a></td></tr>
+</tbody></table>
+
+
+<p>Inevitably, perhaps, neuroplasticity has been popularized to the point of becoming a bandwagon for the self-help movement. This is good to the extent that it helps individuals with problems, but studies which seek to understand how a culture changes its mental operating system have been neglected. It is encouraging to find that the 2 processes that underlie neuroplasticity are those hypothesized at the top of Fig. 2.3: <i>more</i> synapses on the one hand, and <i>stronger</i> synapses on the other. Nevertheless, the question of
+how bicamerality (or other operating systems) diffuse into a culture
+	<a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-Research3.gif" alt="Research"></a>
+is one that remains to be investigated. Moken children learning to see clearly underwater are apparently persuaded by cultural expectation that this is possible, so they do it without conscious effort. This is precisely the manner in which one expects brain operating systems to be formed.
+</p>
+
+
+
+<a class="tri" href="#36" id="37">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> The <i>Qarin</i> </a></h5>
+<a class="tri" href="#38">&#10836;&emsp;&emsp;</a>
+
+<p>Perhaps the most controversial aspect of <a href="#F2.3">Fig. 2.3</a> is the label &lsquo;Qarin&rsquo; for the OS contemporaneous with the Jaynesian. The name comes from the invisible companion described as a &lsquo;double&rsquo; by Breasted and Budge <a href="#29">above</a>, and called <i>qarina</i> in Hausa and <i>qarin</i> in Arabic (well known to Mohammed, as will appear <a href="../_D/D15.shtml#05">below</a>). For now, it provides a name for an OS that Jaynes acknowledged only parenthetically &mdash; and which, I suggest, formed the other end of the bicameral continuum.
+</p>
+
+<p>Militca Žurkovič (who does not mention Jaynes) offers a psychological approach to the Doppelganger of literature which encompasses both bicamerality and the <i>qarin</i>: &lsquo;the double shows in graphic forms the tension between <q>laws of human society</q> and the resistance of the unconscious mind to these laws&rsquo;, noting that
+</p>
+
+<blockquote>dialogues between the self and the double are increasingly acknowledged as being colloquies within the self: the double has become an aspect of the personal and interpersonal life, a manifestation of unconscious desire. &mdash; <a class="fn">
+    M Žurkovič (2000)&deg;.<span>&lsquo;The Double as The "Unseen" of Culture: Toward a Definition of Doppelganger&rsquo; <cite>Facta Universitatis Series: Linguistics and Literature  <b>2</b>(#7): 121&ndash;128.
+</span></a>
+</blockquote>
+
+<p>The major differences implied by the paired OSes are:
+</p>
+
+<ul>
+<li>The Qarin&apos;s right temporal lobe (?) does not develop a strong sense of personality. </li>
+
+<li>The mode of influence is not necessarily vocal for the Qarin, and is not specified.</li>
+
+<li>The intent of its guidance is not social or beneficial, but the satisfaction of primal desires, as Freud said of the id.</li>
+</ul>
+
+
+<p class="flu">Think of the Qarin as the parent of today&rsquo;s Fundamentalist OS: unreflective, very sure of itself, conservative, and more open to the aspirations of the darker aspects of human nature. It may be that empathy, compassion, altruism, and socialization depend upon the ability of the &lsquo;other&rsquo; hemisphere
+    <a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-NewIdea3.gif" alt="NewIdea"></a>
+to differentiate and distance itself from, and moderate, the fiercely self-centered Me. Note too that it is just these Axial/Enlightenment qualities that are deprecated by <a class="fn" href="http://www.criticalreview.com/crf/jf/11%203%20libertarianism.pdf">Libertarians&deg;:<span>
+    R Iyer &amp;4a (2012) &lsquo; Understanding Libertarian Morality: The Psychological Dispositions of Self-Identified Libertarians&rsquo; <cite>PLoS ONE</cite> <b>7</b>(#8): e42366. doi:10.1371/journal.pone.0042366
+</span></a>
+</p>
+
+<blockquote>If any civilization is to survive, it is the morality of altruism that men have to reject. &mdash; Ayn Rand.
+</blockquote>
+
+
+
+<a class="tri" href="#37"  id="38" >&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Short-circuiting the transmission </a></h5>
+<a class="tri" href="#39">&#10836;&emsp;&emsp;</a>
+
+<p>Bicameral instructions are audible, apparently arising from the right-hemisphere. Our principal speech centers are Broca&apos;s (frontal lobe) and Wernicke&apos;s (temporal) areas in the left hemisphere: Jaynes suggested that their counterparts on the right &mdash; with unknown functions today &mdash; were used by the bicameral executive, to formulate instructions heard as peremptory command <a class="fn">hallucinations&deg;:<span>
+    A Beck-Sander, M Birchwood, P Chadwick (1997) &lsquo;Acting on Command Hallucinations: A Cognitive Approach&rsquo; <cite>Brit J Clin Psychol</cite> <b>36</b>(#1): 139&ndash;148.
+</span></a> &lsquo;Do thus-and-so&rsquo;. Michael Persinger suggested that our sense of self is mediated by the left temporal lobe (<a href="../_A/A01.shtml#T1.4">Table 1.4</a>). Under stress &mdash; injury, seizure, drugs, fatigue, or anxious indecision &mdash; the self in the left temporal lobe might interpret its partner on the right as external &lsquo;<a class="fn">sensed presence&rsquo;&deg;, <span>
+    MA Persinger (1987) <cite>Neuropsychological Bases of God Beliefs.</cite> (Praeger, NYC).
+</span></a> misconstrued as an angel, demon, extraterrestrial, ghost, muse, or god &mdash; a conclusion difficult to avoid when it spoke! Our reluctance to move past supernatural misconstructions is such that this interpretation has probably done more to marginalize Persinger than to confirm Jaynes&apos;s ideas. Nevertheless, <a href="../_A/A01.shtml#F1.1">Fig. 1.1</a> can now be shortened by dropping its ultimate souce, as in Fig. 2.4. The internal signal, heard as the voice of a god, is the brain&apos;s executive telling the follower what to do, triggered by the stress of having to make a decision (or correct the behavior of a nation).
+</p>
+
+
+<figure id="F2.4">
+<img class="fl" width="33%"
+src="A-Images/2.4_BicameralChain.jpg"
+alt="A-Images/2.4_BicameralChain.jpg. The prophet of Fig. 1.1 on his own, without Coyotl talking to him. Signal and noise now look very much alike." />
+
+<figcaption>
+<a class="tri" href="#F2.3"&#9664;&emsp;&emsp;</a>
+<a href="#!"> Fig. 2.4 </a>
+<a class="tri" href="#F2.1">&emsp;&emsp;&#9654;</a>
+Bicameral chain of transmission. In the early days, we were our own prophets. The ultimate source was the set of community customs, learned in childhood as kittens and puppies learn, from context. Later, bicameral prophets maintained the tradition, and we respected them because we remembered our own bicameral voices. Communication theory warns us about the omnipresence of noise; theologians tend to ignore it.  (Compare <a href="../_A/A01.shtml#F1.1">Fig. 1.1</a>.)
+</figcaption></figure>
+
+
+
+<a class="tri" href="#38" id="39">&#10835;&emsp;&emsp;</a>
+<a class="tri" href="#30">  &#9651;&emsp;&emsp;</a>
+<h5><a href="#!"> Needed Research </a></h5>
+<a class="tri" href="#00">&emsp;&emsp;&emsp;&#9650;</a>
+
+<p>The &lsquo;single most comprehensive, wide-ranging, imaginative hypothesis available&rsquo; has attracted surprisingly little attention considering its importance. If Jaynes is right &mdash; and all the evidence suggests that he is &mdash; the bicameral hypothesis lays bare the arbitrary nature of revealed religion and explains why prophets were so sure that they were transmitting the word of god. It reveals the true nature of gods as autonomous mental agents of the evolving operating system. Think of them as alternate personalities, inflexibly laying down the rules. Our earliest religious texts are not derived from supernatural authority, but belong wholly to unconscious sociology.
+</p>
+
+<p>We can dismiss charges of manipulation and charlatanry against the early prophets, because bicamerality seems to have suppressed the incipient political chicanery of chimpanzees in favor of smoothly working communities. The revival of deception must wait for a conscious mind. The rules of the prophets belong to evolutionary psychology and the ethology of the unconscious, chosen by the blind forces of natural selection. The &lsquo;singer to his clan, in the dim red dawn of man&rsquo; unconsciously shaped the sagas that shaped his tribe, so that groups and stories co-evolved, and the ones that worked best became the foundational epics of early city states. It is unfortunate that the milieu was Late Neolithic, when population density crowded out foragers and warfare became a vital component of survival, for this left our early religions tainted by the cult of the warrior.
+</p>
+
+<p>Jaynes suspected that language had not evolved sufficiently to support a  bicameral voice until 10 ka, and I am pushing this moment back another 25,000 years. There is little evidence for this &mdash; but note that the Antikythera mechanism pushed our development of analog computers back a totally unexpected 2100 years with a single lucky find. The apparently unchanging nature of relict tribes from the 60-ka African exodus, and their ability to cross 90 km of water, lend some support to the idea of effective verbal communication by 50 ka.
+</p>
+
+<p>We cannot assign a single date for the birth of consciousness, but psychohistorians might be able to draw
+    <a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-Research3.gif" alt="Research"></a>
+temporal maps of the decline of bicamerality because its passing produces deep changes in cultural behavior. Any new way of looking at history will produce new insights, and thinking in terms of the dawning of consciousness being a local affair might explain many anomalies.
+</p>
+
+<p>We also need research into the &lsquo;operating systems&rsquo; of our
+    <a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-Research3.gif" alt="Research"></a>
+prophets, because not all of them were bicameral. Table 2.5 is a preliminary stab at sorting them, far from definitive because the question &mdash; which is one for experts &mdash; has hardly been raised, let alone studied.
+</p>
+
+<hr>
+<table class="bgneu" id="T2.5"">
+<caption>
+<a class="tri" href="#T2.4">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 2.5 </a>
+<a class="tri" href="#T2.1">&emsp;&emsp;&#9654;</a>
+Bicamerality of teachers of ethics &mdash; a tentative ranking.
+</caption>
+<thead>
+<tr><th>Brain OS</th>
+	<th>Teachers</th>
+</tr></thead>
+
+<tbody>
+<tr><th>Bicameral</th>
+	<td>Amos, and many of the Old Testament; Muhamad (and presumably the 124,000 Arabian prophets of legend); Paul</td></tr>
+
+<tr><th>Mixed?</th>
+	<td>Isaiah and probably other late prophets, Zoroaster, Socrates</td></tr>
+
+<tr><th>Conscious</th>
+	<td>Akhnaton, Ecclesiastes son of David, Gautama, Hillel, Jesus, Confucius, Lao Tze</td></tr>
+</tbody></table>
+
+
+<p>A dozen PhD theses in evolutionary psychology would get the ball rolling; they would no doubt be furiously answered by conservative ThDs, and we could enjoy a fine academic gladiatorial show.
+<span class="fr">◼</span>
+</p>
+
+<br><hr><div class="cen">
+<a href="../_A/A01.shtml">&vltri;&emsp;&emsp;</a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b><a href="../_A/A03.shtml">&emsp;&emsp;&vrtri;</a>
+</div>
+</body></html>
+

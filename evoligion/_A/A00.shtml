@@ -1,0 +1,2082 @@
+
+<!--  A00 Preface  -->
+
+<!DOCTYPE html><html lang="en"><hea>
+<title>A00_Preface</title>
+
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+<link rel="stylesheet" type="text/css" href="htdocs/bfbv.css">
+
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+}
+
+.imm {
+position        : relative    ;
+display         : block       ;
+margin-left		: -43px		  ;
+vertical-align  : text-bottom ;
+float 			: left 		  ;
+}
+
+.im {
+position       	: relative    ;
+display         : block       ;
+vertical-align  : text-bottom ;
+float          	: left        ;
+bottom         	: 0           ;
+}
+
+a.fn, a.fn visited, a.fk, a.fk visited {
+color           : #111111 ;
+display         : inline ;
+letter-spacing  : 1px ;
+}
+
+h4      { /* Section Header */
+line-height : 60% ;
+margin-left : 0   :
+font-family : Cardo, Roman, serif ;
+font-variant: small-caps ;
+font-weight : bold   ;
+font-size   : 120%   ;
+color       : red    ;
+}
+
+h5      { /* Subxection */
+line-height : 40% ;
+margin-left : 0   :
+font-family : Cardo, Roman, serif ;
+font-variant: small-caps ;
+font-weight : bold   ;
+font-size   : 110%   ;
+color       : green  ;
+}
+
+</style>
+</head>
+
+<body>
+<p class="date"><!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-04-15 16:00 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h2 id="!">Book 1: Its Preludes</h2>
+<!--#include virtual="TocA00.shtml" -->
+
+
+<a class="tro" href="../Index.shtml" id="00">⮐ </a>
+<a class="tro" href="#TB">▼  </a>
+<h2><a class="#!">PREFACE</a></h23>
+<a class="tri" href="#01">⩔  </a>
+<a class="tri" href="#01">▽  </a>
+
+<p class="epi">Recall the presidential cartoon from 2017:
+Washington claims ‘I cannot tell a lie’; Nixon admits ‘I cannot
+tell the truth’ — and a bewildered Trump complains, <a class=
+"fn">‘I cannot tell the difference’°. <span>This originated as a
+Mike Peters cartoon with President Carter as the 3rd president, but
+Carter was just trying to be all things to all men, following his
+hero Paul (1 Corinthians 9:19-23). Trump suffered from a more serious
+debility.</span></a></p>
+
+<p><i>Apologia</i>: This book might have been titled less
+presumptuously as <cite>Mysteries: A Conjecture, Some Problems,
+Bandaids</cite>. If the last 12,000 years have taught us anything,
+it is that what little we do know about our world, ourselves, and
+our predicament is often not widely believed. The inevitable result
+is that we fail to make rational public decisions even when we have
+good information. At least part of this failure comes from teaching
+our children the <i>results</i> of learning instead of the
+<i>method</i> of learning. We then get adults who have no way to
+distinguish fact from opinion.</p>
+
+<p>The way we tell the difference is with a long and careful
+process:</p>
+<pre style="line-height:0.8">
+    Frame a hypothesis 𝄆 Test it - (fail) - Refine the hypothesis 𝄇
+                                \
+                                 (pass) - Accept hypothesis provisionally
+</pre>
+<p class="flu">where the odd symbols are musical ‘repeat’ notation:
+every time the hypothesis fails the test, improve it and retest it,
+until its answer is within current experimental error. (It is then
+up to the experimentalists to make better measurements.) This
+simple, sophisticated, process has the unique property, among all
+modes of acquiring knowledge, of being ultimately self correcting.
+It may take a century or two to discover and fix an error, but
+eventually it gets there. Simple Newtonian gravity works for nearly
+everything terrestrial, but it fails for satellite navigation
+(which requires complicated&nbsp;Einsteinian gravity) and it fails
+for the rotation of galaxies (for which we need dark matter, or
+modified Newtonian dynamics — neither of which currently fixes all
+problems — or something yet to be discovered).</p>
+
+<p>What we find is that (except for mathematics) ‘Truth’ seems
+always to be provisional and contingent, approachable only by a
+series of succcessive approximations. Even then, our best tools do
+not work well where we need them most, in dealing with free will.
+(Recall too, that Facebook, Putin, Cambridge Analytica and Fox
+‘News’ lumbered us with a deplorable example of what happens when
+free will is not guided by critical analysis and leavened by
+<i>caritas</i>.) Nonetheless, despite the problems, the bottom line
+is that <b>until we can design a test that an idea will fail if it
+is wrong</b>, we have no way of knowing how close it comes to being
+right. However much we might want it to work, or be a god-given
+truth, it remains a human's best guess. In what follows, this fact
+puts limits on what we know, and suggests some as yet untested
+hypotheses.</p>
+<br>
+
+
+<a class="tro" href="#00" id="01">⩓  </a>
+<a class="tro" href= "#00">△  </a>
+<a href="#!"><h4>A THEORY OF RELIGION</h4></a>
+<a class="tri" href="#02">⩔  </a>
+<a class="tri" href="#03">▽  </a>
+
+<p class="epi">Centuries of debate on the origin of ethics come
+down to this: Either ethical precepts, such as justice and human
+rights,<br>
+• are independent of human experience [Transcendentalism], or
+else<br>
+• they are human inventions [Empiricism].<br>
+The distinction is more than an exercise for academic philosophers.
+The choice between the assumptions makes all the difference in the
+way we view ourselves as a species. It measures the authority of
+religion, and it determines the conduct of moral reasoning. — E.O.
+Wilson, <cite>Consilience</cite></p>
+
+<p>This is a book about a new theory of religion. If you have never
+felt a need for one of those, you might wonder why it is so
+important that it deserves a book today. Wasn't that sort of thing
+settled long ago?</p>
+
+<p>The short answer is that for many people, religion is a way of
+making sense of a complicated world. But it goes about it in a
+strange way, by doubling its complexity. Parallel to the observable
+world, lies a world known only to its initiates, who insist that
+this second world is more important to us than the one we interact
+with directly. In the childhood of our race there were good and
+valid reasons for belief in the supernatural, and we will come to
+them shortly — but we (or some of us) outgrew them 3 millennia ago. Today
+our belief in the spirit world is most notable for being abused by
+the crafty and unprincipled. (Example: during the 2004 campaign,
+George W. Bush, reportedly told Amish farmers, ‘I trust God speaks
+through me.’ He was not being mystical: He was, according to
+<cite>The Onion</cite>, convinced that Dick Cheney, speaking
+paternally over the White House intercom, was the <a href=
+"http://www.theonion.com/article/voice-of-god-revealed-to-be-cheney-on-intercom-1851" class="fk">voice of god.</a> ‘I'm driven with a mission from God.
+God would tell me: <q>George, go and fight those terrorists in
+Afghanistan</q>. And I did, and then God would tell me: <q>George,
+go and end the tyranny in Iraq</q>, and I did.’ ‘Officials
+privately acknowledged that there is reason to believe that the
+vice president, as God, urged Bush to sign legislation benefiting
+oil companies in 2005.’</p>
+
+<p>In the hope that not all divine revelation is this sleazy, there
+are as many theories of religion as there are people who have
+thought about the question. (~200 historical theories are
+epitomized <a href="../_B/B6a.shtml#TOC">below</a>.) More to the
+point, <i>your</i> theory of religion — even if it is implicit and
+unarticulated — determines how you respond to religious ideas, and
+whether <i>you</i> or <i>they</i> are in control. Some consequences
+of various theories indicates how often — and how unpredictably! —
+a theory of religion affects daily life. The short list offers
+paraphrases of actual statements, some related earnestly, some
+inscribed in sacred texts and political platforms:</p>
+
+
+<ul class="u1">
+<li>God wants me to kill you because you don't believe what I
+believe!</li>
+
+<li>If I blow myself up to kill some Jews, I get 72 renewable
+virgins, an <a class="fn">eternal° <span>and incredibly
+awkward</span></a> erection, and infinite posthumous orgasms.</li>
+
+<li>Wealth is a reward for faith, so income tax is theft of god's
+reward!</li>
+
+<li>The Mahdi will return after we initiate <a class=
+"fn">Armageddon°. <span>Not to be an alarmist, but some recent
+Iranian prime ministers have suggested that a single nuclear bomb
+dropped on Israel would be sufficient to produce this greatly
+desired result. (The Mahdi then leads the jihad which conquers the
+world for Allah.)</span></a></li>
+
+<li>Christ will return after the last tree has been <a class=
+"fn">chopped down°. <span>Reagan's Secretary of the Interior seems
+really to have believed this.</span></a></li>
+
+<li>I know he is virtuous because he says a prayer before <a class=
+"fn">every meal°. <span>She said this of the married man she was
+having an affair with.</span></a></li>
+
+<li>God watches and judges everything I do.</li>
+
+<li>We should go to church once in a while.</li>
+
+<li>Meh.</li>
+
+<li>Religion is the most profitable tool of oppression — and the
+most welcomed by the oppressed.</li>
+
+<li>Revealed religions are arbitrary.</li>
+
+<li>That which you hate, do not do to sentient beings.</li>
+</ul>
+
+
+<p id="01b">Some people will see an implicit (if erratic)
+‘<a class="fn"><b>historic increase°</b> <span>
+	J Dewey (1947)
+<cite>A Common Faith</cite> (Yale, New Haven CT): 8.
+</span></a> in the ethical and ideal content of religions’ in that list, and a
+suggestion that ‘the process of purification may be carried
+further’ and the <a class="fn">list extended°. <span>
+	There will be
+more lists. They may be a habit left over from an earlier life as a
+Buddhist. (Lists are for 1-dimensional sequences; tables for
+2-dimensional collections, or occasionally 3-dimensional, with one
+coarse-grained, e.g., good, neutral, bad, indicated by colored
+boxes.)
+</span></a> Anthropologists suggest that there have been
+somewhere between <a class="fn">3500 cultures° <span>
+	GE Swanson
+(1960) <cite>The Birth of the Gods: The Origin of Primitive
+Beliefs</cite> (University of Michigan Press, Ann Arbor MI):
+32.
+</span></a> and <a class="fn">100,000 religions° <span>
+	AFC
+Wallace (1966) <cite>Religion: An Anthropological View</cite>
+(Random House, NYC).
+</span></a> to date. We have field work for
+1257 cultures, of which 556 are statistically independent. (For
+example, the 2000-odd Christian sects of the US are <i>not</i>
+independent, and count as a single religion in this approach,
+despite their antagonistic incompatibility.) In other words, we
+have a minimum of 556 conflicting sets of god-prescribed behavior,
+each with equivalent empirical support from its embedding culture.
+The enquiring mind wonders:</p>
+
+
+<ul>
+<li>Are there many gods?</li>
+
+<li>One very confused god?</li>
+
+<li>A god and an anti-god?</li>
+
+<li>Are we part of an experiment?</li>
+
+<li>Were the instructions delivered by a Trickster?</li>
+
+<li>Have we misunderstood something?</li>
+
+<li>How can we tell?</li>
+</ul>
+
+<p>Unfortunately, we cannot reach a consensus view because there
+are contradictory instructions on central issues. With a strictly
+statistical approach, if we believe that our choice is the one that
+god prefers, our probability of being right is, at best, 1 in 556
+(0.0018 or less, if the ‘right’ version of religion isn't among the
+ones we've counted). Curiously, this seldom bothers believers, who
+seem to know instinctively that the other 3 religions they have
+heard of are wrong. The penalty for choosing the wrong religion,
+according to some of the others, is eternal damnation, so the
+stakes are high. The True Believer is betting everything on hearsay
+— for the very best Scripture is hearsay from the outset. The human
+mind cannot live comfortably with this level of anxiety, and
+customarily protects itself by making an arbitrary choice and an
+irrational denial of uncertainty.</p>
+
+
+<br>
+<a class="tro" href="#01" id="02">⩓  </a>
+<a class="tro" href="#01">△  </a>
+<a href="#!"><h5>Authorial Bias</h5></a>
+<a class="tri" href="#03">⩔  </a>
+<a class="tri" href="#03">▽  </a>
+
+<p class="epi">None can be an impartial or wise observer of human
+life but from the vantage ground of what we should call voluntary
+[simplicity]. [Thoreau wrote ‘poverty’ here, <a class=
+"fn">‘voluntary simplicity°’ <span>R Gregg (1936) <cite>The Value
+of Voluntary Simplicity</cite> (Pendle Hill, Wallingford
+PA).</span></a> not having been thought of.] — Thoreau,
+<cite>Walden</cite></p>
+
+
+<figure id="F0.1"><img class="fl" width="66%"
+	src="A-Images/0.1_BiasC.jpg"
+	alt="A-Images/0.1_BiasC.jpg. A trianglar plot: every interior point represents a mix of 3 components adding to 100%.">
+
+<figcaption>
+<a class="tro" href="#F0.7">◀  </a>
+<a href="#!">Fig.0.1</a>
+<a class="tri" href="#F0.2">  ▶</a>
+The Author's Religion. A theological triangle plot on which admixtures of 3 religions maybe shown. Somewhere in the golden blob (centered at 5% Q1 <a class=
+"glb" href="../_G/Glo.shtml#Yes">Yeshuanity</a>, 40% <a class="glb"
+href="../_G/Glo.shtml#Jat">Jatakan Buddhism</a>, and 55% Agnostic
+<a class="glb" href="../_G/Glo.shtml#pnd">Panendeism</a>) lies my
+current philosophical orientation, suggesting that my bias is
+unlikely to fit most expectations. The inset (a theological
+trigonal bipyramid of 2 tetrahedra with the triangle as a common
+base) indicates additional influences. (For the relation between
+the two views, consider the standard quantum-mechanical problem of
+the <a href=
+"http://en.wikipedia.org/wiki/Particle_in_a_box">particle in a
+box</a>.) ‘Follow those who seek the truth’, said Vaçlav Havel,
+‘but flee from those who have found it.’</figcaption>
+</figure>
+
+<p>Using the words ‘right’ and ‘wrong’ in a discussion of religion
+suggests that one declare his own bias. As best I can tell, the
+major components of my own ‘religion’ are more or less as shown in
+Fig. 0.1. This Figure also suggests the experiences which
+contribute to locating the blob. Note the persistent effect of
+early exposure, and the relative influence of limbic (Seminary) and
+cortical (MIT post-graduate) education. As with most deist
+agnostics, the resulting philosophy is a deeply empowering
+commitment to an optimistic vision of human possibilities.</p>
+
+
+<figure id="F0.2"><img class="fl" width="35%"
+	src="A-Images/0.2_DesertRat.jpg"
+	alt="A-Images/0.2_DesertRat.jpg. An ancient prophet on his knees, head bowed, with his staff casting a shadow across his naked body and his left hand beseeching the powers that be for guidance. Red desert surrounds him, with a low range of hills in the background continuing the contour of his shoulders; no shred of vegetation or other life is visible.">
+
+<figcaption>
+<a class="tro" href="#F0.1">◀  </a>
+<a href="#!">Fig.0.2</a>
+<a class="tri" href="#F0.3">  ▶</a>
+Old desert rat seeking inspiration (Artist: ©Vanilla Beer). ‘It is in
+the deserts and high places that religions are generated. When men see nothing but bottomless infinity over their heads they have always had a driving
+and desperate urge to find someone to put in the way.’ — <a class=
+"fn">Sir Terry Pratchett° <span>(1996) <cite>Hogfather</cite>
+(HarperTorch, NYC): 280.</span></a></figcaption>
+</figure>
+
+
+<p>A naturalistic world view admits that there is a vast amount
+that we do not understand about the universe — such as why there is
+<i>something</i> rather than nothing, and why, if there is
+something, it is <i>this</i> something. We have figured out a lot
+of the laws of the universe, but we don't know why we have these
+laws instead of another set. While we write the laws in the
+language of differential equations (appropriate for continuous
+media), we have to solve them as difference equations (understood
+by digital computers). But what if the difference equations are the
+real ones (which would be appropriate if space and time were
+quantized at the Planck limit) and the differential equations were
+the approximation? (Spacial quantization resolves Zeno's paradox,
+and nothing else does.) Fredkin made a career out of investigating
+this question, but a lifetime was too short. He did well to inspire
+a grad student to invent a digitization with spherical
+symmetry.</p>
+
+<p>In the time-honored manner of creating our gods in our own
+image, I accept the possibility of reincarnation being part of
+‘this something’ because if it were my universe, that's the way I
+would run it, anything else seeming both wasteful and
+uninteresting. (We know so little about our world that any
+scientist worth his salt can suggest mechanisms that do not
+conflict with anything we have learned.)</p>
+<br>
+
+
+<a class="tro" href="#02" id="03">⩓  </a>
+<a class="tro" href="#01">△  </a>
+<a href="#!"><h4>SOME BACKGROUND</h4></a>
+<a class="tri" href="#04">⩔  </a>
+<a class="tri" href="#07">▽  </a>
+
+<p class="epi">Some believers accuse skeptics of having nothing
+left but a dull, cold, scientific world. I am left with only art,
+music, literature, theater, the magnificence of nature,
+mathematics, the human spirit, sex, the cosmos, friendship,
+history, science, imagination, dreams, oceans, mountains, love and
+the wonder of birth. That'll do for me. — Lynne Kelly [… cats?]</p>
+
+<p>We will try to ascertain why religion is so important to us, how
+it got that way, what its original function might have been. Almost
+incidentally we will also be testing a question central to the
+usual interpretation of religion: Do supernaturalism and magical
+thinking <a class="fn"><i>work°?</i> <span>
+	Manifestly, they ‘work’
+in the sociobiological sense of generating community and synthetic
+kinship. The question asks whether they have any effect on the
+<i>physical</i> world.</span></a></p>
+
+<p><a class="fn">Some° <span>
+	E.g.: DS Stove (1989) ‘The Oracles and
+their Cessation’ reprinted in M Kuijstens (ed) <cite>Reflections on
+the Dawn of Consciousness</cite> (JulianJaynes Soc, Henderson NV,
+2006): 268–294.
+</span></a> would reduce the 200-odd theories of
+religion <a href="../_B/B06.shtml">below</a> to two categories:
+religion as racket, and religion as madness. If this is realistic,
+we are adding a third category, <b>religion as a way to increase
+viability</b>, a function that was entirely positive, biologically
+defensible — and deplorably short-lived.</p>
+
+<p>We can't have killed for religion in the days when it worked, so
+we need to discover what went wrong. We want to see where, when,
+and why this occurred. We might like to make religion a Good Thing
+once again, in which case we need to know how to fix it, and how it
+might once again become helpful to us instead of a source of
+difficulties. The better teachers — Socrates, Buddha, and Zoroaster
+come to mind — suggested to their disciples that their own
+teachings could be, and should be, improved. (There is little to be
+hoped for from the rigid systems of those who claimed to have the
+final vision of human progress.)</p>
+<br>
+
+
+<a class="tro" href="#03" id="04">⩓  </a>
+<a href="#!"><h5>A Long Time Ago</h5></a>
+<a class="tri" href="#05">⩔  </a>
+
+<p class="epi">Everything that needs to be said has already been
+said. But since no one was listening, everything must be said
+again. — André Gide</p>
+
+<p>We might take the epic of Gilgamesh, from Mesopotamia ~2100 BCE,
+as our earliest example of written religion. Fragmentary cuneiform
+tables occur over a 2-millennium span: Fig. 0.3 reproduces a late
+version (and the earliest discovered).</p>
+
+
+<figure id="F0.3"><img class="fl" width="98%"
+	src="A-Images/0.3_Gilgamesh.jpg"
+	alt="A-Images/0.3_Gilgamesh.jpg. A burned and broken clay tablet,
+	reassembled with pieces missing, with three columns of small
+	cuneiform text.">
+
+<figcaption>
+<a class="tro" href="#F0.2">◀  </a>
+<a href="#!">Fig.0.3</a>
+<a class="tri" href="#F0.4">  ▶</a>
+Gilgamesh in cuneiform. The Assyrians got the story from older
+Mesopotamian cultures, and this tablet is a late version. After <a class="fn">George Smith (1880)°, <span>
+	<cite>The Chaldean Account of Genesis</cite>, revised and corrected by AH Sayce (Charles Scribner's
+Sons, NYC)
+</span></a> who discovered, reconstructed, and translated this
+tablet, and died at 36 of dysentery on a later expedition hunting
+more tablets.</figcaption>
+</figure>
+
+
+<p>This tablet was found in the ruins of Ashurbanipal's Royal
+Assyrian Library, Nineveh, which was destroyed ~600 BCE, some 3500
+years after the flood described by the tablet. The library was on
+an upper story; the tablets were broken, burned, trampled by
+treasure hunters, and suffered further cracking by salt crystals
+after various local floods. Some 20,000 fragments were salvaged by
+the British Museum, and over the years, reassembled as shown, and
+translated to tell the story of Noah (although he is here called
+Izdubar, and his ark landed on Mount Nizir).</p>
+
+<p>Old as this story is, it and all of the traditional aspects of
+religion are late developments. Theology (conjectures about the
+existence and nature of gods) is irrelevant for the first 30-odd
+millennia. Soteriology (concern about personal salvation) is not
+important until the dawn of history. Our interest begins with the
+Urzeit of Fig. 0.4.</p>
+
+
+<figure id="F0.4"><img class="fl" width="50%"
+	src="A-Images/0.4_Timeline.jpg"
+	alt="A-Images/0.4_Timeline.jpg.: A logarithmic timeline, 100,000 to 1,000 years ago. At 65 ka, ‘Out of Africa’. Between 40 and 25 ka, ‘Critical Period’. To the side, arrows denoting ‘Middle’ and ‘Upper Paleolithic’ bracket the critical period. Between 30 and 12 ka, ‘Ice Age’. At 28 ka, ‘Paleolithic figurines’. At 8.1 ka, ‘Mini ice age’, and as the ice melts, at 76 ka, ‘Noah's Flood: oral traditions’. At 6 ka the diagram is shaded above and white below; the shading represents time not accepted by Biblical literalists. Akhnaton, Moses, Jesus, and Mohammed show up at appropriate times, and a block between 2 and 3 ka is marked ‘Axial Age: Myth-free ethics’.">
+<figcaption>
+
+<a class="tro" href="#F0.3">◀  </a>
+<a href="#!">Fig. 0.4</a>
+<a class="tri" href="#F0.5">  ▶</a> Religion Timeline. (The
+scale is logarithmic in time Before the <a class="fn">Present°,
+<span>
+	For the sake of precision in the radiocarbon-dating world the
+‘present’ is defined as 1950. A few centuries in the Urzeit are
+mere noise on this scale.
+</span></a> so ‘BCE/CE’ is ~2000 BP). The
+Urzeit, or critical period for the invention of religion —
+40,000–25,000 years ago — long antedates known religions. We will
+explain these dates below, but it is important to understand how
+distant a time we are dealing with. Polls suggest that the colored
+area (before Bishop Ussher's date for the Creation) does not exist
+in the minds of half of the US population, indicating a massive
+failure of 5th-grade education.<br>
+
+It was while modifying this diagram that I noticed the simultaneity
+of the Urzeit and the Middle-to-Upper Paleolithic Transition, which
+became a key ingredient as the hypothesis of synthetic kinship
+developed.</figcaption>
+</figure>
+
+
+<p>Paleontology, anthropology and sociology combine to suggest
+that:</p>
+
+<p>Religion is coterminous with culture, with few exceptions,
+<b>none of which got far out of the Middle</b> <a class=
+"fn">Paleolithic°. <span>
+	Much has happened since the Paleolithic —
+including transmission of religion to societies which neither
+invented it, nor got out of the Paleolithic by
+themselves.
+</span></a> We will see that religion was necessary for
+this step. On the other hand, the 100,000 religions display an
+amazing variety of beliefs. One suspects that <b>the details of
+belief are irrelevant</b>, and that the essence was something very
+simple.</p>
+
+<p>This is important enough to re-phrase. <span class="br">Without
+religion, we would still be food-cooking chimpanzees. The essential
+component of religion had to be something that a smart chimpanzee
+could understand.</span> (‘<a class="fn">Hypostatic union°,’
+<span>
+	The cause of the schism between Catholic and Orthodox
+Christianity, once a matter of life or death for the baffled
+laity.
+</span></a> for instance, does not qualify.)</p>
+
+<p id="04a">If 35,000 years seems long ago, it is less than the
+assumption of received wisdom, which is that</p>
+
+<blockquote>Like most behavior that is found in societies
+throughout the world, religion must have been present in the
+ancestral human population before the dispersal from Africa 50,000
+years ago. — <a class="fn">N. Wade° <span>(2006) <cite>Before The
+Dawn, Discovering the lost history of our ancestors</cite> (Penguin
+Books, London).</span></a></blockquote>
+
+<p class="flu">— a hypothesis that we strongly reject. Magical
+thinking, superstition, ritual, and more usefully, <a class="gl"
+href="../_G/Glo.shtml#tot">totemism</a>, yes; religion, in the
+critical sense of synthetic kinship, no. Not for another 20,000
+years.</p>
+<br>
+
+
+<a class="tro" href="#04" id="05">⩓  </a>
+<a href="#!"><h5>Degrees of Certainty</h5></a>
+<a class="tri" href="#06">⩔  </a>
+
+<p class="epi">Lorem ipsum ...</p>
+
+<p>Having now used both ‘theory’ and ‘hypothesis’, we should be
+clear about the difference, because science distinguishes
+categories of certainty more precisely than does casual
+conversation. In general:</p>
+
+
+<ul class="u1">
+<li><b>Conjecture</b>: Formally, an unproven theorem, like the
+Goldbach conjecture: <i>Every even integer can be expressed as the
+sum of two primes</i>. Example: 256 = 239 + 17. A large integer
+might someday falsify the conjecture. Informally, ‘an opinion based
+on incomplete information’.</li>
+
+<li><b>Hypothesis</b>: A proposed explanation made on the basis of
+limited evidence as a starting point for further investigation.
+Example: <i>Religion was once a good thing</i>. Strictly speaking,
+hypotheses should be accompanied by ways to falsify them: all I can
+suggest here is that I deem religion responsible for the most
+important evolutionary event in the last 200,000 years, for which
+there is no convincing alternative explanation.</li>
+
+<li><b>Theory</b>: A system of ideas that explains something, based
+on general principles independent of the ‘something’. E.g.: The
+<i>theory of evolution</i> explains most of what taxonomy,
+comparative anatomy, physiological development, and DNA analysis
+have discovered, using the principles of descent with modification
+and natural selection.</li>
+
+<li><b>Law</b>: A statement of fact, deduced from observation, and
+often expressed as an equation, to the effect that a particular
+phenomenon always occurs if certain conditions are present. The
+<i>First Law of Thermodynamics</i>, <a class="fn">dE = dQ + dW,°
+<span>
+	dE is the change in energy of a system, dQ the change in its
+heat content, and dW the amount of work involved. The sign
+convention is IUPAC's, in which transfer inward is positive and
+outward negative, so that work done <i>by</i> the system on the
+environment (i.e., useful work) is negative. Other conventions
+exist.
+</span></a> colloquially ‘Energy is conserved’, has never
+been known to fail, despite the trickery you may see on You
+Tube.</li>
+
+<li><b>Axiom</b>: Initially, ‘a claim which could be seen to be
+true without any need for proof’, and this is the sense that we
+will use. The disciplines of mathematics, logic, and philosophy
+have found this definition too sweeping, and generally use
+<i>axiom</i> to designate the initial assumptions of an
+argument.</li>
+
+</ul>
+
+<p>Where, in this sequence, does our subject matter lie? ‘This much
+is certain’, says <a class="fn"><cite>The Encyclopedia of Sacred
+Theology</cite>°,<span>Kuyper, A (1898) Vol. 2, Transl. JH de Vries
+(Scribner's, NYC): 146.</span></a> ‘that all religion assumes
+communion with something that transcends the cosmos.’ The
+‘something’ is ordinarily a divinity, and the certainty implies
+that <i>Gods exist</i> is axiomatic. Considering the importance we
+attach to religion, prudence suggests regarding this as a
+conjecture. This means that ‘theories of religion’ deal with the
+reasons for and consequences of the mental universe that surrounds
+this conjecture. The reasons tell us something about ourselves, and
+the consequences have on occasion been calamitous.</p>
+<br>
+
+
+<a class="tro" href="#05" id="06">⩓  </a>
+<a href="#!"><h5>Aside: Mechanisms of Evolution</h5></a>
+<a class="tri" href="#07">⩔  </a>
+
+<p class="epi">It appears that some genes have flowed ‘randomly’
+through the biosphere, almost as if all life forms constituted one
+global organism. — <a class="fn">Dutta & Pan (2002)° <span>C Dutta,
+A Pan (2002) ‘Horizontal gene transfer and bacterial diversity’
+<cite>J Biosci</cite> (Suppl. 1) <b>27</b>: 27–33</span></a></p>
+
+<p>Evolution is going to play a major part in what follows. For
+anyone uncomfortable with evolutionary explanations, there is an
+excellent discussion of the interplay of biological and cultural
+evolution (with 70 references in one footnote) in van der Dennen's
+<a href=
+"http://rint.rechten.rug.nl/rth/dennen/dennen6.htm"><cite>Origins
+of War</cite></a>, and since this is completely relevant to the
+origin of religion, I recommend it to anyone to whom evolution
+seems mysterious, suspect, superfluous, or demeaning.</p>
+
+<p>The limitations of speciation-by-accumulation-of-small-changes
+were recognized by Darwin. Since his day several faster ways to
+generate new taxa have been recognized. The box below updates the
+8000-year-old description prevalent in the Bible Belt, where these
+facts seem not to be taught in middle school.</p>
+<br>
+
+<aside>
+
+<p>There are several mechanisms of ‘saltational evolution’ that
+reach beyond new species into higher taxa or incorporate working
+systems into new organisms. These re-arrangements are rare events,
+but they produce new forms instantaneously. If they do not happen
+to create visible skeletal changes, there will be nothing to
+identify them as intermediates in the fossil record. The child
+generation is probably as well adapted as the parental generation,
+and only later does it find itself an econiche which it makes its
+own. We have little idea how often such events occur, because the
+unsuccessful ones never appear. Such experiments might be very
+common, with numerous unnoticed failures.</p>
+
+
+<ol>
+<li><a class="fn"><b>Chromosomal re-arrangement</b>° <span>
+	M King (1995) <cite>Species Evolution: The role of chromosome
+change</cite> (Cambridge University Press).
+</span></a> often leads to cancer. Rarely, it is a
+new-<i>genus</i>-generating mechanism,,in which working DNA is
+shuffled, as shown by the crossed colored lines in Fig. 0.5. This may
+rearrange control genes, and makes the
+original and altered chromosomes slow to align during cellular
+duplication, so that parent and child generations have lowered
+interfertility. This leads to the differential accumulation of
+single-point mutations, and eventual breeding isolation. We know
+this works, because it is the process that repeatedly <a href=
+"http://www.riverapes.com/original/Me/Work/HumanHybridisationTheory.htm"
+class="fk">split the hominoid line° <span>
+	A Kuliukas (2001) ‘Discuss the Potential Significance of Differences in Hominoid Chromosome Number in Human Evolution’.
+</span></a> into new genera, the most recent of which is <i>Homo</i> (us).
+
+
+<figure id="F0.5"><img class="fl" width="66%" src=
+"A-Images/0.5_Saltation.jpg" alt=
+"A-Images/0.5_Saltation.jpg. Schematic banding patterns of Giemsa-stained metaphase chromosomes (‘barcodes’) of hominids. The patterns are nearly identidl for the 4 great apes, with apparent short reversed sections between genera, and a fusion of 2 ape chromosomes to make the human chromosome 2.">
+
+<figcaption><a class="tro" href="#F0.4">◀  </a>
+<a href="#!">Fig. 0.5</a>
+<a class="tri" href="#F0.6">  ▶</a>
+Saltational Evolution.
+Schematic banding revealing common structure of hominid
+chromosomes. The formation of new genera in the great apes appears
+to be effected by chromosomal re-arrangement, in which a few genes
+may come under the influence of different control structures. The
+bottom figure is human chromosome 2, clearly a fusion of 2 ape
+chromosomes. Remnants of the chimp's (<i>Pan</i>) centromere and
+<a class="fn">telomeres° <span>
+	Think of a telomere as a sort of end
+splice on a rope, in which the separate strands are folded back and
+tucked under to keep the lay from unravelling. They are also
+somehow linked to lifespan, shortening with every cell division
+until they are ‘used up’.
+</span></a> can still be found in the
+<a class="fn">obvious places° <span>
+	JW IJdo &amp;4a (1991) ‘Origin
+of human chromosome 2: an ancestral telomere-telomere fusion’
+<cite>Proc Natl Acad Sci US</cite> <b>88</b>(#20):
+9051-9055.
+</span></a> in our chromosome. <i>Gorilla</i> is closest
+to the ancestral format.</figcaption>
+</figure>
+
+
+</li>
+
+<li><a class="fn"><b>Karyotype fission</b>° <span>
+	NB Todd (1970) ‘Karyotypic fissioning and canid phylogeny’ <cite>J Theor
+Biol</cite> <b>26</b>: 445–480.
+</span></a> is a new-<i>family</i>-generating mechanism in which <i>n</i>
+centromeric (X-shaped) chromosomes are sheared into 2<i>n</i>
+telomeric (V-shaped) chromosomes. This causes minimal loss of
+intergenerational fertility, but again leads to the slow accumulation of differences. The <a class="fn">lemur families° <span>
+	RL Kolnicki (2000) ‘Kinetochore reproduction in animal
+evolution: Cell biological explanation of karyotypic fission
+theory’ <cite>Proc Natl Acad Sci US</cite> <b>97</b>:
+9493–9497.
+</span></a> of Madagascar are so recent that this process
+still maps nearly perfectly to the taxonomic tree.</li>
+
+<li><a class="fn"><b>Endosymbiosis</b>° <span>
+	• L Margulis (1981)
+<cite>Symbiosis in cell evolution</cite> (W.H. Freeman, NY,
+1993).<br>
+• L Margulis, MF Dolan, R Guerrero (2000) ‘The chimeric eukaryote:
+Origin of the nucleus from the karyomastigont in amitochondriate
+protists’ <cite>Proc Natl Acad Sci US</cite> <b>97</b>(#13):
+6954–6959.
+</span></a> is a new-<i>phylum</i>-generating mechanism
+active since the single-cell days (<a href=
+"../_A/A03.shtml#F3.6">Fig. 3.6</a>). This is basically ‘evolution
+by indigestion’: one cell engulfs another but fails to digest its
+cell membrane — and the new complex discovers that it has
+advantages possessed by neither of its ‘parents’. This commonly
+results in loss of redundant genes and merging of the remaining
+chromosome sets into a new karyotype. The most obvious examples of
+ordinary symbiosis (without genetic modification), are lichens, in
+which an alga and a fungus, each capable of independent survival,
+also form a complex which thrives where nothing else can live.</li>
+
+
+<li><a class="fn"><b>Horizontal gene transfer</b>° <span>
+	M Syvanen, CI Kado (eds.) (2002) <cite>Horizontal Gene Transfer</cite> 2nd Ed. (Academic Press, NYC).
+</span></a> is common in bacteria and not
+unknown elsewhere. Bacteria pick up random stretches of DNA to see
+if they are useful. The DNA injected by phages (molecular
+hypodermic needles) may contain foreign genes as well as
+phage-construction information. <a class="fn">Plasmids° <span>
+	DG Guiney, P Hasegawa, CE Davis (1984) ‘Plasmid transfer from <i>E.
+coli</i> to <i>B. fragilis</i>: Differential expression of
+antibiotic resistance phenotypes’ <cite>Proc Natl Acad Sci
+US</cite> <b>84</b>: 7203–7206.
+</span></a> containing antidotes to
+common antibiotics are passed between bacterial ‘species’. New
+Guinea's flowering plant <i>Amborella</i> picked up nearly complete
+mitochondrial genomes from green algae, mosses, and other plants by
+including them during the <a class="fn">healing of wounds°.
+<span>
+	DW Rice &amp;11a (2013) ‘Horizontal transfer of entire
+genomes via mitochondrial fusion in the angiosperm
+<i>Arborella</i>’ <cite>Science</cite> <b>342</b>:
+1468-1473.
+</span></a> Monsanto's prematurely introduced
+glyphosate-resistance gene has — as predicted — shown up in the
+weeds Round-Up was <a class="fn">designed to kill°, <span>
+	T Philpot (2013) ‘Nearly Half of All US Farms Now Have Superweeds’
+<cite>Mother Jones</cite> 2013-02-06.
+</span></a> by whatever
+unknown process. Our own DNA seems to have many regions of
+no-longer-working viruses, inactive now but kept around just as we
+keep superfluous stuff that might be useful someday.</li>
+
+<li><a class="fn"><b>Hybridization</b>° <span>
+	ML Arnold (1996) <cite>Natural Hybridization and Evolution</cite>
+(Oxford University Press, NYC) ISBN°978-0-19-509975-1.
+</span></a> between closely related species, if followed by reproductive isolation of a fertile hybrid, also produces new species. It is fairly
+common in insects, fish and plants — durum wheat was a hybrid between 2
+species of wild grass; modern wheat is a hybrid between durum and a third
+species — it is relatively rare in mammals. Examples are the red
+wolf of the US Southeast, a hybrid of <a class="fn">wolf and
+coyote°), <span>
+	BN von Holdt &amp;18a (2011) ‘A genome-wide
+perspective on the evolutionary history of enigmatic wolf-like
+canids’ <cite>Genome Research</cite> <b>21</b>:
+1294–1305.
+</span></a> and the hump-backed ‘Higgs bison’ of the
+<a class="fk" href="http://dx.doi.org/10.1038/ncomms13158">cave
+paintings,° <span>
+	J Soubrier &amp;47a (2016) ‘Early cave art and
+ancient DNA record the origin of European bison’ <cite>Nature
+Communications</cite> <b>7</b>: 13158 EP;
+doi:10.1038/ncomms13158
+</span></a> which was a hybrid of the
+extinct steppe bison (<i>Bison priscus</i>) and ancestors of modern
+cattle (aurochs, <i>Bos primigenius)</i>. Hybridization is a long
+process in the natural world (centuries?), a fact overlooked by the
+more or less continuous Republican attacks om the Endangered
+Species Act (<a class="fk" href=
+"http://motherboard.vice.com/read/republicans-are-trying-their-damnedest-to-dismantle-the-endangered-species-act">127
+bills° <span>
+	Defenders of Wildlife (2015) ‘Summary of Legislative
+Attacks on the Endangered Species Act in the 114th Congress’
+97pp.<br>
+------------------------<br>
+3 of the 127 had a Democratic sponsor. All of them were in aid of
+frackers, miners, loggers, real-estate developers, ranchers, etc.;
+none were in aid of the endangered. I have encountered this same
+purblindness among faculty — where I expected <i>some</i> awareness
+of ecological facts — when the UC Santa Barbara campus was
+discussing the adjacent wetlands. Few of my peers understood that
+all available econiches are normally occupied, so that there is
+nowhere for displaced wildlife to go. ‘Saving’ a taxon — species,
+subspecies, variety, whatever — requires leaving it enough
+territory to support a viable population.
+</span></a> in the 114th Congress).</li>
+
+<li><a class="fn"><b>Gene duplication</b>° <span>
+	Y-P Wang, X-Y Wang, AH Paterson (2011) ‘Gene and genome duplication
+and gene expression divergence: a view from plants’ <cite>Annals NY Acad
+Sci</cite> <b>1258</b>: 1–14.
+</span></a> — eventually followed by
+point mutation — occurs commonly (by at least 6 mechanisms),
+providing a simple way to make major modifications (e.g.: our adult
+hemoglobin differs from our fetal hemoglobin).</li>
+
+<li><a class="fk" href=
+"http://ibmmyositis.com/RNA.pdf"><b>Introns</b>° <span>
+	<cite>An RNA Primer</cite>. [This seems to be the notes of an anonymous worker (‘Bill’) from 2005, but it is a compact and comprehensive
+introduction to the vast and largely unexplored field of epigenetics.]
+</span></a> Once thought of as ‘junk DNA’, introns and
+the various kinds of RNA they specify are a late development,
+appearing only after the invention of the nucleus by eukaryotes.
+One of their purposes is to allow the re-use of components of
+working proteins, to create new proteins without needing new genes.
+(Caveat for creationists: The fact that Darwin did not know about
+RNA does not invalidate his work!) Introns introduce the new
+discipline of epigenetics and its unexplored flexibility to the
+speciation process.
+
+
+<figure id="F0.6"><img class="fl" width="66%"
+	src= "A-Images/0.6_eRNA.jpg"
+	alt= "A-Images/0.6_eRNA.jpg. Two models of RNA interpretation. On the left, the prokaryotic system, in which messenger RNA codes a single protein. On the right, the eukaryotic system, in which the product of the mRNA is further processed by instructions from introns, so that its fragments can be used as components of several genes.">
+<figcaption>
+
+<a class="tro" href="#F0.5">◀  </a>
+<a href="#!">Fig. 0.6</a>
+<a class="tri" href="#F0.7">  ▶</a>
+Efference RNA. We have
+smaller genomes than many less complicated organisms. The reason is
+that our genetic system learned to modularize, cutting working
+proteins into useful ‘motifs’, and assembling these standard parts
+into new working molecular machines. Exons are the portions that
+are expressed directly as components of functioning
+proteins.</figcaption>
+</figure>
+</li>
+
+<li><b>Other</b>. This list does not exhaust the <a class=
+"fn">possibilities°, <span>
+	Greg Bear wrote a splendid science-fiction story, <cite>Darwin's Radio</cite> (HarperCollins<i>Publishers</i>, London, 1999) exploring
+one exotic idea.
+</span></a> but things get increasingly technical after this.</li>
+</ol>
+
+<p>>There is a Nobel Prize waiting for a <a class=
+"fn">fundamentalist researcher° <span>
+	A Prize forever unclaimed, I fear. Not only does no such barrier exist,
+but ‘fundamentalist researcher’ is a scintillating oxymoron!
+</span></a> to discover a mechanism for their so-called ‘species barrier’
+which could <i>prevent</i> the evolution of new species. The boundaries
+are so porous; hybrids, races, clines, and subspecies are so common; and
+changes with time so inevitable, that in 200 years no one has been
+able to define ‘species’ in a way that satisfies workers in all
+disciplines.</p>
+
+<p>When you observe specialists trying to kill eachother over
+differing ideas about evolution and genetics, remember this: Life
+is so various, so inventive, and so ready to break all of its
+rules, that it will be a long time before we understand all of the
+by-ways of evolution. Darwin was right; and 1000 evolutionary
+biologists are demonstrating that there were subtle details that he
+didn't observe — probably because the necessary tools wouldn't be
+invented for another 150 years.</p>
+
+<p>Oddly, when such mechanisms come to the attention of <a href=
+"http://www.evolutionnews.org/2013/11/a_lapse_in_watc078601.html"> creationists</a>, they do not recognize that their understanding of evolution
+is severely limited, but interpret the new-found mechanisms as proof
+that evolution is wrong, so they must be right. Upon hearing about
+epigenetics, their blogs rejoiced with ‘I told you so! Evolution
+doesn't work…’, without adding ‘the way I thought it did.’</p>
+</aside>
+
+
+<p>Another common sticking point is that evolution denies us any
+special purpose in the grand scheme of things, and this offends the
+<i>amour propre</i> of people who feel that they were specially
+created by some god. There is an obvious response to this desire
+for significance, which we will come to in due time.</p>
+<br>
+
+
+<a class="tro" href="#06" id="07">⩓  </a>
+<a class="tro" href="#03">△  </a>
+<a href="#!"> <h4>WHAT RELIGION DID FOR US</h4></a>
+<a class="tri" href="#08">⩔  </a>
+<a class="tri" href="#11">▽  </a>
+
+<p class="epi">My ideas are new, and therefore I have been obliged
+to find new words, or to give new acceptations to old terms, in
+order to convey my meaning. — Montesquieu, <cite>The Spirit of the
+Laws</cite></p>
+
+<p>After the appearance of Anatomically Modern Humans (AMH) — that
+is, <i>Homo sapiens sapiens</i> with overall modern human
+morphology — some 200,000 years ago, the fossil record shows that
+we essentially had our current brain size and manual dexterity.
+Nevertheless, we spent the next 160,000 years living like <a class=
+"fn">food-cooking chimpanzees°. <span>
+	31-year-old Kanzi, a bonobo
+with primitive language skills, also lights fires and cooks his own
+food, clearly preferring it cooked to raw. People have been cooking
+food for nearly 2 million years.<br>
+------------<br>
+RW Wrangham (2001) ‘Out of the Pan, into the fire: from ape to
+human’ in FBM de Waal (ed.) <cite>Tree of Origin</cite> (Harvard
+Univ. Press, Cambridge MA): 119–143.
+</span></a></p>
+
+<p><a class="fn">Some° <span>
+	e.g., J Dewey (1947) <cite>A Common
+Faith</cite> (Yale, New Haven): 7.
+</span></a> have claimed that
+‘concretely there is no such thing as religion in the singular.
+There is only a multitude of <a class="fn">religions°’. <span>
+	There are nevertheless any number of attempts to define religion
+in the singular. One which I particularly enjoy is: ‘to clarify the
+terminology … <i>religiosity</i> is understood to be the mental
+ability to be religious; <i>religiousness</i> is the individually
+varying psychic and behavioral manifestation of religiosity, and
+<i>religion</i> is the local and culturally based symbolic niche,
+in which the development of religiosity to religiousness occurs’.
+Charity precludes a citation for this quote.
+</span></a>Nevertheless, it is the claim of this book that we would still
+be living as antagonistic tribes had we not invented religion. The
+first defining characteristic of religion is that <b>it must be a
+supratribal mythos</b>, extending beyond the range of genetic
+kinship and purely biological concerns. The definition used here
+will make better sense when its terminology is explained in detail,
+but in 25 words (discounting the parenthesis):</p>
+
+
+<a href="../_A/A-1.shtml#Kn"><img class="im"
+	src="../Images/K-NewIdea3.gif"
+	alt="NewIdea"></a>
+<table style="margin-left:30px;">
+<tbody>
+<tr>
+<td style="padding:10px;"><span style="font-size: 1.7em;">⊕</span>
+<span class="s11" style="color:red;">Religion is the synthetic
+kinship that got us out of the Middle Paleolithic. It increased
+viability, so that by the Neolithic, it bequeathed us
+pothodoxy</span><br>
+<span style="font-size: 1.7em;">⊖</span> <span class="s11" style=
+"color:black;">(the genetic need to believe implausible stories as
+proof of synthetic kinship).</span></td>
+</tr>
+</tbody>
+</table>
+
+<p>Because this definition is so specialized, I will also use 2
+other definitions in the appropriate contexts:</p>
+
+<ul>
+<li>The vernacular usage that deals with gods and their
+instructions to us — so long as these instructions are consistent
+with synthetic kinship;</li>
+
+<li>A more adventurous usage that describes potential philosophical
+structures that would be beneficial as we attempt to construct a
+stable, sustainable culture. These may range far beyond the
+vernacular concept of ‘religion’ in their extension of synthetic
+kinship, but they all fall within Tillich's broad rubric of
+‘ultimate concern’.</li>
+</ul>
+
+<p>Coupled with the mythic backstory of the front <a href=
+"../_A/A-1.shtml#EP2">end paper</a>, the major definition is
+flexible enough to offer a division of labor which reconciles
+<a href="#01">Wilson's dichotomy</a>: <b>It is the Transcendental
+task of the gods to generate <a href=
+"../_A/A-1.shtml#Kn"><img class="imm" src=
+"../Images/K-NewIdea3.gif" alt="NewIdea"></a> a universe that makes
+possible the Empirical human task of implementing ethical
+precepts.</b></p>
+
+<p>This implies — in contrast to wishful thinking about Raptures
+and Mahdi/Armageddons — that we are here for the long haul.
+<b>Sustainability</b> becomes the first priority of our
+civilization (and thus of our religion and our politicians), and it
+is incredibly more important than, say, the stock market or
+individual ‘salvation’.</p>
+
+
+
+<a class="tro" href="#07" id="08">⩓  </a>
+<a href="#!"><h5>Viability</h5></a>
+<a class="tri" href="#09">⩔  </a>
+
+<p>We have twice used ‘viability’ without defining it. A <a class=
+"fn">numerical definition° <span>AWF Edwards (2000)
+<cite>Mathematical Genetics</cite> 2nd ed. (Cambridge University
+Press, Cambridge UK).</span></a> from mathematical genetics will
+repair that oversight:</p>
+
+
+<ul class="u2">
+<li><b><i>Viability</i> is the fraction of children who survive to
+breed.</b></li>
+
+<li><b><i>Evolution</i> is an increase in viability.</b></li>
+</ul>
+
+<p>The definitions are not trickery, but common-sense.
+Statistically, barring disasters, other populations are stable. As
+we go up the phylogenetic tree, viability increases. Despite a
+generation time as short as 20 minutes, the mean number of bacteria
+does not increase, so all bacterial ‘descendants’ die. A codfish
+may lay 100 million eggs — of which 2 survive to breed. A cat may
+have 75 kittens — of whom 2 breed. Americans in 1920 needed
+<a class="fn">3 children° <span>MM Knight, IL Peters, P Blanchard
+(1921) <cite>Taboo And Genetics: A Study of the Biological
+Sociological and Psychological Foundation of the Family</cite>
+(Kegan Paul, Trench, Trubner, London): Ch. 4.</span></a> to
+maintain a stable population. Today it takes <a class="fn">2.2
+children° <span>This decrease is sociomedical, and a demonstration
+that evolution proceeds at all levels simultaneously. DNA,
+chromosomes, organelles, cells, organs, individuals, groups,
+societies, and civilizations all interact, and some thrive better
+than others. The one which can devote the least effort to
+reproduction has the most resources for leaving a better
+environment for its offspring and thus improving their probability
+of survival.</span></a> per family, of whom 2 breed. There would be
+less unhappiness if we could reduce this number to 2.1.</p>
+
+<p>Add to these definitions 2 facts — that children are not
+identical to parents, and that some children thrive better than
+others — and we have the crux of the story told by Anaximander,
+Aristotle, Augustine, al-Jahiz, Ibn Khaldun, Maupertius, Linnaeus,
+Cuvier, Hutton, Lamarck, Malthus, Lyell, Wallace, <a class=
+"fn">Darwin°, <span>Darwin acknowledged 34 previous writers who
+‘believe in the modification of species, or at least disbelieve in
+separate acts of creation’.<br>
+------------<br>
+C Darwin (1859) <cite>On the Origin of Species by Means of Natural
+Selection, or the Preservation of Favoured Races in the Struggle
+for Life</cite> (John, London). Ch. 1 ‘Historical Note’.</span></a>
+Mendel, Wegener, Bateson, Galton, Fisher, Haldane, Wright, Morgan,
+Huxley, Sutton, Dobzhansky, Muller, Beadle, Watson, Crick,
+Nierenberg, Todd, Gould, Eldridge, Margulis, Kornicki, and the
+hundreds who filled in the details. The result is that a larger
+fraction of our children survive. That's all there is to
+evolution.</p>
+
+<p>Nevertheless, this approach is likely to be a stumbling block
+for fundamentalist believers, unhappy to find ‘religion’ paired
+with ‘evolution’. The definitions leave those who reject evolution
+in the uncomfortable position of approving of childhood mortality.
+(The easiest way out is denial of the validity of mathematical
+genetics, an arcane discipline that few have met. Unfortunately,
+that's a bit like denying mathematics, since it is a discipline of
+pure logic, given the observable laws of genetics.)</p>
+
+<p>However much denial soothes the fundamentalist soul, the fact
+remains that we can measure the exceptional increase of viability
+that occurs when the first intimations of religion appear in the
+fossil record. This so far exceeds <a href=
+"../_A/A-1.shtml#14"><img class="imm" src=
+"../Images/K-NewIdea3.gif" alt="NewIdea road sign"></a> natural
+variation that we may take it as marking the moment that we left
+the animal kingdom for the untried <a class="fn">human experiment°.
+<span>This approach yields an origin for humanity which accords
+neither with anatomical nor theological dating. Nonetheless, I
+stand by the interpretation that we were Jared Diamond's ‘third
+chimpanzee’ up to this moment, but not thereafter.<br>
+An analysis of recent human evolution by linkage disequilibrium
+finds no indication of the resulting regional population increase —
+but notes that growth was ‘probably episodic’, since the method is
+insensitive to local events.<br>
+--------------------<br>
+• J Diamond (1992) <cite>The Rise and Fall of the Third
+Chimpanzee</cite> (Vintage, London).<br>
+• J Hawks &amp;4a (2007) ‘Recent acceleration of human adaptive
+evolution’ <cite>Proc Natl Acad Sci US</cite> <b>104</b>(#52):
+20753–20758.</span></a></p>
+<br>
+
+
+<a class="tro" href="#08" id="09">⩓  </a>
+<a href="#!"><h5>Pothodoxy</h5></a>
+<a class="tri" href="#10">⩔  </a>
+
+<p class="epi">The gods denied mankind many gifts, and attached
+hard conditions to most of those which they granted. But for all
+their withholding of certain gifts and their tainting of others,
+they sought to compensate by giving an extra allowance of
+credulity. — W. J. Ghent, <cite>Our Benevolent
+Feudalism</cite>.</p>
+
+<p>Initially, I hoped only to understand how the need to believe an
+implausible story became <a class="fn">important°. <span>The life
+of a solitary individual in the Paleolithic was likely to be short
+and brutal. Sabertooth cats abounded, and hunting was a cooperative
+activity, so a solitary individual was in serious trouble.
+Ostracism was both a death sentence (unless one could find another
+accepting tribe) and a customary way of dealing with troublemakers
+among foragers. Anything that encouraged belonging was advantageous
+and strongly selected for. Today, alleles for belonging are no
+longer needed to stay alive, so a few of us have lost
+them?</span></a>
+<a class="en" href="#TB">A</a> Later, after
+constantly italicizing <i>need to believe</i>, I bowed to lexical
+invention to ‘define our maps of meaning onto <a class="fn">word
+forms°’ <span>M Donald (1993) ‘Précis of the <cite>Origins of the
+Modern Mind: Three stages in the evolution of culture and
+cognition</cite>’ <cite>Behavioral and Brain Sciences</cite>
+<b>16</b>: 737–791.</span></a></p>
+
+
+<blockquote><b>pothodoxy</b>, n. (Gk. <i>pothos</i>, ‘craving,
+<a href="../_A/A-1.shtml#14"><img class="imm" src=
+"../Images/K-NewIdea3.gif" alt="NewIdea"></a> yearning’ +
+<i>doxasia</i>, ‘opinion, belief’; cf orthodoxy, ‘correct opinion’)
+the apparently genetic need to believe an implausible story
+(particularly when there is contradictory evidence), initially as
+proof of membership in a supra-tribal synthetic-kinship
+group.</blockquote>
+
+
+<p>The bit about evidence is needed because quantum field theory is
+as implausible a story as we have, yet it is our most numerically
+accurate theory. Thus, pothodoxy describes belief in a
+6000-year-old Earth or angels with 70,000 pairs of wings, but not
+belief in the Copenhagen or Many Worlds interpretation of quantum
+mechanics, which is a currently undecidable choice.</p>
+
+<p>Pothodoxy is more fully characterized by Nicholas Wade as
+<a class="fn"><cite>The Faith Instinct</cite>°<span>
+	N Wade (2009) <cite>The Faith Instinct</cite> (Penguin, London): 244.
+</span></a>— an altogether gentler and more sympathetic book than this
+one, yet including examples of pothodoxy ‘compelling [people] to
+override the strongest human emotions, including those of
+self-preservation and the protection of family’. I take
+<b>‘Gibbon's Gambit’</b> as the type example of pothodoxy:</p>
+
+
+<blockquote>So urgent … is the necessity of believing, that the
+fall of any system of mythology will most probably be succeeded by
+the introduction of some other mode of superstition. — <a class=
+"fn">Gibbon°. <span>
+	E Gibbon (1776-88) <cite>Decline and Fall of
+the Roman Empire</cite> O Smeaton (ed.), 3 vols. (Modern Library,
+NYC, 1932): I, 432.</span></a>
+</blockquote>
+
+
+<p>‘Pothodoxy’ implies more than fanatical belief and misevaluation
+of probability, and carries connotations of a pathological
+predilection for supernatural dualism.</p>
+<br>
+
+
+<a class="tro" href="#09" id="10">⩓  </a>
+<a href="#!"><h5>Coyotl as Metagod</h5></a>
+<a class="tri" href="#11">⩔  </a>
+
+<p>In a book like this, it is convenient to posit a neutral god
+free of sectarian baggage. Southeast of Drake's Bay, on the slopes
+of Mt Tamalpais, lived the Miwoks. Like everyone in western North
+America (except paleface invaders), they knew that Coyotl was
+responsible for mistakes in the tapestry of the world. The Great
+Spirit is an unapproachable <a class="fn">deist god°,
+<span>‘Historically, a pure theism is all but impotent [and a pure
+deism compounds the problem]. … There are plenty of people who call
+themselves Theists and not Christians. Well, I venture to say that
+is a phase that will not last. There is little substance in it. The
+God whom men know outside of Jesus Christ is a poor nebulous thing,
+an idea and not a reality. You will have to get something more
+substantial than the far-off god of an unchristian Theism if you
+mean to sway the world and to satisfy men's hearts’ — Alexander
+MacLaren (in a sermon on John 14:1).</span></a> remote and
+impersonal. Coyotl is a shapeshifting <a class="fn">creative
+emissary°, <span>If it be objected that this violates monotheicity,
+and that the Great Spirit is sufficient, I offer Maimonides's
+suggestion that division of labor is efficient — as well as
+necessary to explain the multiplicity of divine messages. There is
+also Swinburne's point that ‘evidence for one god makes more
+reasonable the postulation of another one’<br>
+--------------------<br>
+RG Swinburne (1968) ‘Miracles’ <cite>The Philosophical
+Quarterly</cite> <b>18</b>(#73): 320–328</span></a> approachable,
+not unfriendly, Delphic in advice, ironic in thought and deed — and
+a Trickster who never once suggested killing anyone.</p>
+
+<p>‘Trickster’ is not a demeaning characterization. Buddha is well
+known for <a class="fn">using trickery° <span>SL McClintok (2011)
+‘Compassionate Trickster: The Buddha as a Literary Character in the
+Narratives of Early Indian Buddhism’ <cite>J Amer Acad
+Religion</cite> <b>79</b>: 90–112.</span></a> to bring his
+disciples face to face with assumptions and attitudes that stood
+beween them and enlightenment. Gods, religions, moralizers, and
+politicians without a sense of humor are among our deadliest and
+most superfluous creations.</p>
+
+
+<figure id="F0.7"><img class="fl" width="66%" src=
+"A-Images/0.7_Coyotl7.jpg" alt=
+"A-Images/0.7_Coyotl7.jpg. A collection of small images of the world's gods, all of them Coyotl in disguise. We have a blocky wooden raven, a Mesopotamian anthropomorph in bas-relief, a blacksmith, an overdecorated Mesoamerican, a dancing elephant, a goblinesque figure with a knot in his tail, a haloed peacock with Himalayan crags behind him, and dragon-headed cheetah from the walls of Babylon.">
+
+<figcaption><a class="tro" href="#F0.6">◀  </a>
+<a href="#!">Fig. 0.7</a>
+<a class="tri" href="#F0.1">  ▶</a>
+A few of the shapes in which Coyotl has appeared to his people. Rasterwise from the upper left: as Kutchi to the Kwakiutl, as Enki to the Sumerians, as
+Weland to the Britons, as Kukulcan / Quetzalcoatl to the
+Mesoamericans, as Ganesha (and others) to the Hindus, as Abrasax to
+the 2nd-century Basilidian gnostics, as Tawsi Melech to the
+Yezidis, and Mushushu to the Bablonians. [Missing: Many. Pictures
+of Gabriel with 70,000 pairs of wings do not exist (Islamic
+aniconism discourages the depiction of sentient living beings), so
+imagination is required. Think ‘excessively long <a class="glb"
+href="../_G/Glo.shtml#mlp">millipenne</a>’.]</figcaption>
+
+</figure>
+<p id="09a">Coyotl is also known to the Cahuilla who lived in the
+foothills of <a class="fn">Tahquitz Peak° <span.
+Originally‘Takwish’, this rhymes with <i>quits</i>, not (as it would if it
+were Spanish), with <i>Keats</i>. He was a local chief who
+metamorphosed into a thunder-god.</span></a>
+— and to everybody in between. Meeting him on 2 of my favorite mountains makes him a natural choice. His utility to the philosopher is that he is a
+metagod: As Demiurge, he can create whatever he wants; as
+Trickster, he can tell any story he pleases; as Shapeshifter, he
+can appear in any form he chooses. Figure 0.7 shows a few he has
+used. As Creator, he has appeared as every demiurge from Abrasax
+and Bel to <a class="fn"><b>YHVH</b>° <span>
+	‘YHVH’ is a courtesy to
+a venerable tradition of word magic. Based on Deuteronomy 12:4, the
+Talmud {Shev. 35a} forbids writing the name of the Old Testament
+deity explicitly lest the page on which it is written be
+accidentally destroyed. ‘YHVH’, without the vowels, seems to be a
+discardable form in aid of recycling. According to the Talmud {Kid.
+71a}, even the pronunciation of ‘YHVH’ is proscribed: ‘Not as I am
+written am I pronounced. I am written <i>yod he vav he</i>, and I
+am pronounced <i>alef daleth nun yod</i> ’ — that is, Adonai,
+translated ‘Lord’. Although Shabbetai (17th cent.) and Akiva (19th
+cent.) state ‘emphatically that the prohibition applies only to the
+names in Hebrew but not in the vernacular’ {<cite>Encyc.
+Judaica</cite> 7: 682}, some still worry about discarding their
+deity's full name in English. I thank David Brin for bringing this
+to my attention.
+</span></a> and Zeus. As Trickster, he told
+everyone a different story. Why the Great Spirit sent a Trickster
+and Shapeshifter as demiurge remains a mystery. European
+theologians would have argued over it for millennia — with armies —
+without arriving at a satisfactory conclusion. A thousand Native
+American tribes simply accept it as an observed fact, like a rain
+shower, but the consensus is that this is a test. For reasons
+inscrutable to man, the Great Spirit wants people to be able to see
+through Coyotl's trickery (a skill somewhat lacking among
+palefaces).</p>
+
+<p>Coyotl has left us any number of ‘revealed’ Words in the 100,000
+religious stories, and one existing Work: the universe. I suggest
+that the manifest Work speaks louder than the multifarious
+Words.</p>
+
+
+<a class="tro" href="#10" id="11">⩓  </a>
+<a class="tro" href="#07">△  </a>
+<a href="#!"><h4>ESSENTIAL COMPONENTS</h4></a>
+<a class="tri" href="#12">⩔  </a>
+<a class="tri" href="#TB">▽  </a>
+
+<p>The vernacular understanding of religion as the discipline which
+deals with theology and soteriology is relevant only to the last
+5000 years. Our interest lies before, and after, this much studied
+period. Before, to learn what religion was for; after, because our
+planetary ecosystem will <i>not</i> survive the next critical
+century unless our belief systems match our world's needs. For too
+long, we have accepted as ‘religion’ whatever its prophet said.
+This is tantamount to believing a used-car salesman.</p>
+
+<p><b>Religion can be usefully delimited by 2 requirements</b>,
+without which it becomes only <a href=
+"../_A/A-1.shtml#14"><img class="im" src=
+"../Images/K-TakeHome3.gif" alt="Take-home"></a> a tribal marker
+until it is once again both <a class="fn">Eirenic° <span>
+	Note that
+this usage is distinct from the ideas of Church Father Irenaeus,
+and from the theological connotation of ‘irenics’ (the attempt to
+reconcile differences between Christian denominations). This aspect
+harks back to the original function of religion — the synthetic
+kinship that kept us from killing eachother.
+</span></a> and <a class="fn">Gaian°. <span>
+	For the record, my thinking about Gaia
+dates from the early 70s, independent of James Lovelock's approach,
+which I will distinguish as ‘geophysiological Gaia’. She is capable
+of inspiring anyone who will pay attention to her. This aspect
+reminds us that we are increasingly responsible for the functioning
+(or not) of all the other parts of the global
+ecosystem.
+</span></a></p>
+
+<br>
+<a class="tro" href="#11" id="12">⩓  </a>
+<a href="#!"><h5>Eirenic — (after Eirene, goddess of peace)</h5></a>
+<a class="tri" href="#13">⩔  </a>
+
+<p class="epi">The first humans […lived] a ‘beast-like life’
+without any arts or technologies, co-operation or society. Then
+they procure for themselves houses, skins and fire, and begin to
+live a settled existence with marriage, children, and family life.
+This leads to a softening, both physical and psychological, <b>that
+enables them to begin to co-operate with one another and develop
+the first societies and language.</b> — Lucretius (Emphasis
+added.)</p>
+
+<p><a class="fn">Lucretius° <span>
+	G Campbell (2000) ‘Zoogony and
+Evolution in Plato's <cite>Timaeus</cite>: The Presocratics,
+Lucretius, and Darwin’. Pp 145–180 in MR Wright (ed.), <cite>Reason
+and Necessity: Essays on Plato's</cite> Timaeus (Duckworth and the
+Classical Press of Wales, London).
+</span></a> was among the first
+to address the question of how we became civilized. ‘Beast-like’ is
+too broad for our purposes, and I will focus on the behavior of the
+alpha-male of social animals, referring to it as ‘Instinct-1’. It
+gave us ownership of the planet, but alone, it is incompatible with
+civilization because its rule of social interaction — most highly
+developed in the chimpanzee-human clade — is ‘See a stranger, Kill
+it!’.</p>
+
+<p>The contrasting cooperative aspect is then ‘Instinct-2’. The
+range of the Instincts will become clearer as we go, but
+fundamentally:</p>
+
+
+<table><tr>
+<td class="rc" style="padding:10px;">Instinct-1 = Me,   Instinct-2
+= We.</td>
+</tr></table>
+
+
+<p class="flu">It is characteristic of Instinct-2 that ‘we’ expands
+with individual development to include anything from ‘family’ to
+‘universe’. A <i>sine qua non</i> for considering anything a
+religion is that it oppose Instinct-1 in favor of Instinct-2,
+behavior we will term <a class="fk" href=
+"http://www.dailykos.com/story/2012/08/14/1120166/-Ayn-Rand-on-Johnny-Carson-make-this-go-viral?detail=emailclassic">‘Eirenic.°’ <span>
+	Bob Love presented a colloquial interpretation in
+US political terms that had escaped me: ‘The opposite of <q>Me</q>
+is either <q>Them</q> or <q>Us</q>, depending on whether you're an
+R or a D.’ This may mean that the 2-instinct approach is simply
+opaque or incomprehensible to the Rs.
+</span></a></p>
+
+<p>A not-unrelated characterization of Instinct-2 is <a class=
+"fn">Alasdair MacIntyre's° <span>
+	(1999) <cite>Dependent Rational
+Animals</cite> (Carus Publishing, Chicago).
+</span></a> insight that
+humans are ‘dependent rational animals’. We are not, as so many
+world-views proclaim, intrinsically superior to animals. We are
+anomalous animals, outliers like the proboscideans who specialized
+in prehensile noses, except that we specialized in brain growth.
+This eventually led to the <i>possibility</i> of rationality. But
+like all specializations, it carries a price, which in our case is
+the double whammy of inter-dependence, and responsibility for our
+actions. These can be thought of as the Eirenic and Gaian
+components of our fate.</p>
+
+<p>Once upon a time there were two
+	<a href="#14"><img class="im"
+		src="../Images/K-Theater3.gif"
+		alt="Theater"></a>
+handsome and phenomenally successful brothers (call them Abel and Baker — or
+better, Charlie and David), greatly skilled at industrial
+processes, but greatly lacking in Instinct-2. One day while
+polishing the handles on their coke ovens, a djinn appeared before
+them and granted them 3 wishes. Astonished, they nevertheless
+managed an immediate and instinctive: ‘We want it all!’. They
+agreed on good health in which to enjoy it all. Then, aware of how
+often 3 wishes have turned sour, they negotiated a day's
+postponement for careful thought.</p>
+
+<p>The next evening, when David spoke to the djinn privately, he
+asked for ‘the quick demise of his brother’ so <i>he</i> could have
+it all. ‘Of course!’, said the relieved djinn, ‘I was afraid you'd
+make a fourth wish, and I'd have to disappoint one of you.’</p>
+
+
+<br>
+<a class="tro" href="#12" id="13">⩓  </a>
+
+<a href="#!">
+<h5>Gaian — (after Gaia, goddess of the earth)</h5></a>
+<a class="tri" href="#14">⩔  </a>
+
+
+<p>We (primarily, perhaps, US Republicans) fiddle while Rome burns.
+Table 0.1 lists some of the problems that we should be working on.
+Gaia is particularly at threat from half of these, (and Eirene the
+other half), but all of them threaten us. These are topics that
+churches should be up in arms about, because all of them have the
+potential to be culture-breaking.</p>
+
+<p>The secondary threats facing us are serious and widely
+understood: the Clash of Civilizations, Nuclear Weapons, the
+injustice and instability of Economic Inequality, the modern
+aberration of Fundamentalism. Fewer recognize the culture-breaking
+potential of the primary threats: Climate Variability, Monoculture
+Instability, Debt-based Money, Failed States, <a href=
+"../_G/Glo.shtml#fef" class="gl">Feudofascism</a>, and —
+overarching all others — Population Growth, which aggravates every
+destabilizing threat.</p>
+
+
+<hr>
+<table class="tc en" id="T0.1">
+<caption><a class="tro" href="#T0.3">◀  </a>
+<a href="#!">Table 0.1</a>
+<a class="tri" href="#T0.2">  ▶</a>
+
+Once and Future Threats (not including natural disasters, which are also sometimes our own doing). The red boxes are held to be good things by those to whom they afford money or power, so left alone, their threat will only
+increase. Any one of the threats has the ability to be a culture
+breaker, but the mainstream media would rather you worried about
+celebrity wardrobe malfunctions. The black center line separates
+unrelated problems.</caption>
+
+
+<thead>
+<tr><th>Widely recognized, but minor</th>
+	<th>Consequences</th>
+	<th class="bgblk"></th>
+	<th>Desired or denied, but major</th>
+	<th>Consequences</th></tr>
+</thead>
+<tbody>
+<tr><td class="bgred">Nuclear weapons</td>
+	<td>Nuclear winter; radiation poisoning; birth deformities</td>
+	<td class="bgblk"></td>
+	<td class="bgred">Agribusiness</td>
+	<td>Monoculture crop failure; superweeds; famine.</td></tr>
+<tr><td class="bgred">Economic inequality</td>
+	<td>Civil war</td>
+	<td></td>
+	<td class="bgred">Debt-based Money</td>
+	<td>Destruction of middle class, lifetime debt, financial
+malfeasance, inequality</td></tr>
+<tr><td class="bgred">Fundamentalism</td>
+	<td>Irrational government; bad decisions; Inquisition</td>
+	<td></td>
+	<td class="bgred">Feudofascism</td>
+	<td>Back to a millennial Dark Age</td></tr>
+<tr><td><b>Clash of civilizations</b></td>
+	<td class="bgred">Permanent war</td>
+	<td class="bgblk"></td>
+	<td><b>Climate Change</b></td>
+	<td>Wars, mass migrations, famines, chaos</td></tr>
+<tr><td><b>Failed states</b></td>
+	<td>Contagious chaos</td>
+	<td></td>
+	<td><b>Overpopulation</b></td></tr>
+</tbody>
+</table>
+
+<p>Our religions encourage biodiversity loss, ignorance of
+thermodynamics, short-term thinking, resource consumption,
+overpopulation, and other ecocidal stupidities. The challenge is to
+reinterpret existing religions in a way that motivates True
+Believers to survival-oriented action to minimize the primary
+threats. There is no dearth of work to be done. Environmental
+activism (e.g., <a class="fn">Sea Shepherd)° <span>
+	Sea Shepherd's campaign of harassing the Japanese whaling fleet with ‘red paint, smoke bombs and rancid butter’ reduced Japan's 2010-2011 Antarctic
+whale killing to 20% of its planned goal {Hosa11}. Japan calls the
+hunt ‘scientific’, studying ‘mortality rates, whale stock numbers
+and structure, the role of whales in the Antarctic ecosystem and
+how environmental changes affect whales’. Do Japanese scientists
+find it necessary to kill Japanese citizens to study their
+mortality rates or numbers? See {Garl11} for an example of real
+cetacean science, an 11-year study of cultural transmission of
+social behavior which killed no whales at all. In fact, 22 years
+and 11,000 dead whales later, Japan has yet to produce any
+substantial research {Roes09}.<br>
+--------------------<br>
+• P Watson as told to W Rogers (1982) <cite>Sea Shepherd: My Fight
+for Whales and Seals</cite> (Norton, NYC).<br>
+• T Hosaka (2011) ‘Japan ends Antarctic whaling season early’
+<cite>Washington Post</cite> 2011-02-18.<br>
+• E Garland &amp;8a (2011) ‘Dynamic Horizontal Cultural
+Transmission of Humpback Whale Song at the Ocean Basin Scale’
+<cite>Cultural Biology</cite> <b>21</b>: 1-6; doi:
+10.1016/j.cub.2011-03-019.<br>
+• JE Roeschke (2009) ‘Eco-Terrorism and Piracy on the High Seas:
+Japanese Whaling and the Rights of Private Groups to Enforce
+International Conservation Law in Neutral Waters’ <cite>Villanova
+Environmental Law J</cite> <b>20</b>: 99–136.
+</span></a> and whistle-blowing <i>are</i>, respectively, essential Gaian and
+Eirenic components of religion, however unpopular that makes
+religion with conservatives. The energy that inspires obsolete
+Instinct-1 in the forms of jihad, terrorism, attacks on
+family-planning centers, attempts to revoke evolution, and the
+feudofascist urge to empower corporations to the detriment of
+people, is crying for redirection into repairing our life-support
+system and creating a sustainable life style.</p>
+
+<p>Survival requires that we find something ecologically true and
+broadly popular, which pothodoxy can fasten onto. For evolutionary
+reasons, this will be difficult. But the alternative is
+<i>truly</i> unpleasant and fast becoming unavoidable. I will refer
+to the missing but essential ecological aspect of religion as
+<i>Gaian</i>.</p>
+
+<p>Note that a religion can be Gaian without involving worship of
+Gaia. This is a courtesy to James Lovelock, who explained that his
+(geophysiological) Gaia should never be the basis of a religion,
+because religions are <a href="../_A/A02.shtml#31" class=
+"fk">faith-based.° <span>
+		We will examine the curious phenomenon of
+faith later. It is an insipid shadow of what it replaced, and an
+exercize in self-delusion.
+</span></a>
+‘The word I prefer to faith’, says Lovelock, ‘is <i>trust</i>. If we put trust in Gaia then it gives us something that will fulfil the same kinds of needs as
+religions have.’</p>
+
+<p>Eirenic and Gaian considerations might seem disparate and
+separable. Their intimate relation is shown by 2 maps in Jared
+Diamond's <a class="fn"><i>Collapse</i>°. <span>
+	J Diamond (2005) <cite>Collapse</cite> (Penguin, London): 497.</span></a> The ‘Eirenic’ one is labelled ‘Political Trouble Spots in the Modern
+World’ and the ‘Gaian’ one, ‘Environmental Trouble Spots in the
+Modern World’. The maps are identical, and in every case, mark
+places where one would <i>not</i> like to be.</p>
+
+
+<br>
+<a class="tro" href="#13" id="14">⩓  </a>
+<!-- &#9651;&emsp;&emsp;</a m->
+<a href="#!"><h5>And a Counterexample: Feudofascism</h5></a>
+<a class="tri" href="#TB">⩔  </a>
+<!-- a class="tri" href="#05"> &#9661;&emsp;&emsp;</a m->
+
+<p class="epi">[E]conomic elites and organized groups representing
+business interests have substantial independent impacts on U.S.
+government policy, while average citizens and mass-based interest
+groups have little or no independent influence. — M. Gilens & B.I.
+Page (2014)</p>
+
+<p class="epi">All the nasty, mean things — republicanism,
+democracy, equality — are crawling into the light and claiming that
+they can replace a lineage of great kings. — <a class="fn">Lord
+Kiely° <span>
+	A fictitious comservative in B Cornwell (1995)
+<cite>Sharpe's Battle</cite> (HarperCollins, NYC).
+</span></a></p>
+
+<p>Sheep's clothing always appeals to wolves, so many nasty
+projects clothe themselves in religious attire. The historical
+poster boys of East and West were the Arab Conquest and the
+Inquisition, respectively. The modern replacement, <a class="fk"
+href="../_B/B06.shtml#T6.1">19th-century fundamentalism,°<span>
+	While fundamentalism appears to be simple literalism,
+historians find multiple roots. E.g.:<br><br>
+⚬ Evangelicalism = ‘<i>Warmhearted Spirituality</i> from the
+Pietists,<br>
+⚬ + <i>Doctrinal Precisionism</i> from the Presbyterians,<br>
+⚬ + <i>Individualistic Introspection</i> from the Puritans;<br>
+⚬ + <i><b>Dispensationalism</b></i> (England, 1830s). [Click to see
+this cropping up in the 2nd great reversion of the US in Table
+6.1.]<br>
+⚬ + <i>Biblical inerrancy</i> (Princeton Theology, 1840–1920)<br>
+--------------------<br>
+• Randall Balmer (2002) <cite>The Encyclopedia of
+Evangelicalism</cite> (Westminster John Knox Press): vii–viii.<br>
+• CI Scofield (1909) <cite>Scofield Reference Bible</cite>
+(Oxford).<br>
+• MA Noll (2001) <cite>The Princeton Theology 1812-1921: Scripture,
+Science, and Theological Method from Archibald Alexander to
+Benjamin Breckinridge Warfield</cite> (Baker Academic, Grand Rapids
+MI).
+</span></a> the darling of the far right, is hard to
+distinguish from Medieval beliefs.</p>
+
+<p>Michael Moore places the beginning of the US decline at
+1981-08-11, the day President Reagan threatened to fire nearly
+13,000 air-traffic controllers. I place the beginning somewhat
+earlier: Reagan could not so easily have broken union power had the
+nation not already been cowed by a decade of decline. In the minds
+of the public, World War II was fought to <i>defeat</i> fascism. It
+turns out that in the minds of the US 1‰, it was fought to ensure
+that it was <i>their</i> fascism that survived. If today we are
+unhappy with the state of the country, it is because we are living
+in a quietly burgeoning fascist police state. That it has been
+imposed by gradual but determined undermining of the Constitution
+rather than brown-shirt <a class="fk" href=
+"http://gawker.com/this-is-why-billionaire-peter-thiel-wants-to-end-gawker-1778734026">stormtroopers° <span>
+	It appears that ‘the people intentionally
+disrupting town hall events and trying to turn them into anarchic
+carnivals of rage and possible violence are <i>literally, actually
+guilty of <q>Brownshirt tactics</q></i>.’<br>
+---------------------<br>
+Gawker (2009): ‘Sorry, Reasonable Republicans, But These Are
+Literally Brownshirt Tactics’ (<cite>Washington Post</cite>
+2009-09-14.)<br>
+Note that after 13 years of asking Silicon Valley to live up to its
+ideals, Gawker was destroyed in 2013 by M$10 worth of dubious
+lawsuits secretly paid for by billionaire investor Peter Thiel
+because it ‘creat[ed] a counter-narrative to the mythos of the
+free-market, …, Randian Übermensch that Thiel and his friends were
+peddling’
+</span></a> is merely a sign that the 1‰ will turn to
+subtlety when brute force fails.</p>
+
+<p>An appropriate definition of fascism is <a class=
+"fn">‘Mussolini's’, <span>AJ Gregor (2004) <cite>Giovanni Gentile:
+Philosopher Of Fascism</cite> (Transaction Pub.) ISBN
+0-7658-0593-6. Gentile wrote the theoretical philosophy of fascism
+published under Mussolini's name in <cite>La dottrina del
+fascismo</cite> (1932).</span></a> which equates it with
+corporatism: government for the benefit of eternal structures
+creating essential products and performing necessary services
+(ensuring that we will always need them). The catch is that the
+laws then specify not that the products be designed for
+sustainability and the services for efficiency, but that the profit
+of their shareholders be the primary objective. Managers have no
+other accountability. The stakeholders — workers and consumers —
+have no representation among the directors, many of whom sit on
+multiple boards in aid of effective oligopoly (ie, minimization of
+competition, maintenance of prices, and vigilant joint action
+against the nasty, mean things).</p>
+<hr>
+<table id="T0.2">
+<caption><a class="tro" href="#T0.1">◀  </a>
+<a href="#!">Table
+0.2</a>
+<a class="tri" href="#T0.3">  ▶</a> The Public Face of
+Fascism. This is based on the work of <a class="fn">Lawrence Britt°
+<span>L Britt (2003) ‘Fascism Anyone?’ <cite>Free
+Inquiry</cite></span></a> (the examples are mine; the numbers were
+his ranking). I started to add a 3rd column of rebutals by blogger
+‘Fascist Heart’, but the points that were not merely ‘other
+political systems do it too’ were logically flawed. It is the
+gestalt that identifies the ism. A Norwegian friend who grew up
+with fascism puts it more simple: ‘Contempt of weakness is the
+central core of fascism’.</caption>
+<colgroup>
+<col class="bgred">
+<col class="bgneu"></colgroup>
+<thead>
+<tr class="bglgr">
+<th>Characteristic</th>
+<th>Recent US Examples</th>
+</tr>
+</thead>
+<tbody style="text-align: left;">
+<tr>
+<td>9. Corporate Power is Protected</td>
+<td>Corporate tax evasion; 2008 banksters unpunished; Trade
+agreements. ….</td>
+</tr>
+<tr>
+<td>12. Obsession with Crime and Punishment</td>
+<td>Mandatory sentencing, 3 strikes, Privatized prisons.</td>
+</tr>
+<tr>
+<td>4. Military-Industrial Wars for profit</td>
+<td>1965 Dominican Republic, 1983 Grenada, 1991 Gulf War (Kuwait
+and Iraq), 2001–…, Afghanistan, 2003–2010 Iraq War.</td>
+</tr>
+<tr>
+<td>7. Obsession with National Security</td>
+<td>NSA et al., government attacks on software encryption,
+criminalization of whistle-blowing.</td>
+</tr>
+<tr>
+<td>6. Controlled Mass Media</td>
+<td>Control via oligarchic ownership, news and analysis replaced by
+celebrity trivia and wardrobe malfunctions.</td>
+</tr>
+<tr>
+<td>14. Fraudulent Elections</td>
+<td>Unpunished fraud in Bush elections of 2004, 2008; suppression
+of recounts in 2016, voter suppression laws, gerrymandering,
+proprietary voting machines and software.</td>
+</tr>
+<tr>
+<td>8. Religion and Government are Intertwined</td>
+<td>The Supreme Court's 2014 <i>Hobby Lobby</i> decision is
+intended to create an area where religious exemptions trump civil
+rights, labor and environmental laws, and other core
+protections.</td>
+</tr>
+<tr>
+<td>10. Labor Power is Suppressed</td>
+<td>E.g., Gov. Scott Walker — but this is an ongoing battle, with
+the 8-hour work day called ‘vicious, needless, and in every way
+preposterous proposition’ in 1903.</td>
+</tr>
+<tr>
+<td>3. Identification of Enemies/Scapegoats as a Unifying
+Cause</td>
+<td>Karen Silkwood<sup>†</sup> (nuclear power), Cesar
+Chavez<sup>†</sup> (migrant labor), Jeffery Wigand (tobacco),
+Julian Assange (Wikileaks), Edward Snowden (NSA), Chelsea Manning
+(military), Aaron Schwartz<sup>†</sup> (copyright), ….</td>
+</tr>
+<tr>
+<td>2. Disdain for the Recognition of Human Rights</td>
+<td>Tanisha Anderson<sup>†</sup>, (Cleveland); Rekia
+Boyd<sup>†</sup>, (Chicago), Philando Castile<sup>†</sup> (St
+Paul), John Crawford III<sup>†</sup> (Dayton), Eric
+Garner<sup>†</sup> (New York), Dontre Hamilton<sup>†</sup>
+(Milwaukee), Trayvon Martin<sup>†</sup> (Sanford FL), Laquan
+McDonald<sup>†</sup> (Chicago), Tamir Rice<sup>†</sup> (Cleveland),
+….</td>
+</tr>
+<tr>
+<td>13. Rampant Cronyism and Corruption</td>
+<td>Revolving door, K-Street lobbyists, Obama's Monsanto
+appointments, <i>Citizens United</i>, Trump's point-blank ignoring
+of the Emolument Clause.</td>
+</tr>
+<tr>
+<td>11. Disdain for Intellectuals and the Arts</td>
+<td>Climate-change denial, evolution denial, reluctance to fund
+public radio.</td>
+</tr>
+<tr>
+<td>5. Rampant Sexism</td>
+<td>War on women, patriarchal laws, birth enforcement.</td>
+</tr>
+<tr>
+<td>1. Powerful and Continuing Nationalism</td>
+<td>Donald Trump and the Alt-Reich.</td>
+</tr>
+</tbody>
+</table>
+
+<p>It is true that some corporations are idealistic in their youth:
+think of Google's original ‘Don't be evil’. But the very fact that
+such a constraint needs mentioning suggests the inevitability of
+evil whenever it is profitable. Before long, what religious
+prophets decry as evil become the values of the 1‰: think of Gordon
+Gekko's ‘Greed is good!’ (<cite>Wall Street</cite> cinematic
+fiction, but an accurate portrayal, modelled in part on Director
+Oliver Stone's father and in part on a convicted junk-bond
+king).</p>
+
+<p>The Anglo-Saxon dominance among the US 1‰ seems to inspire an
+attitude that can be traced back to Runnymede, where the barons of
+Britain limited the power of the crown with the Magna Carta. While
+this event has been seen as producing the seminal document of
+Anglo-American constitutional practice, it was never intended by
+the barons to apply to their serfs. There is a very medieval
+feeling to today's far right — not only do they want all the money
+in sight and control of the government, but they require serfs so
+they can feel superior. This combination of corporatism and
+feudalism I will call</p>
+<p class="bcr">feudofascism, combining the private psychopathy of
+the alpha male with the public sociopathy of the corporation.</p>
+
+<p>Teddy Roosevelt was the first to counter feudofascism, with the
+Sherman Anti-Trust Act of 1890 (but first enforceable only in 1902
+with the loss of the Supreme Court's fascist majority). Teddy went
+after robber barons J. P. Morgan, J.J. Hill, and E.H. Harriman — to
+the great dismay of Morgan, who objected to being identified as a
+criminal. Suits against 44 other oligopolies followed. His ‘Square
+Deal’ included control of corporations, consumer protection, and
+conservation of natural resources — 3 processes that are again in
+need of attention.</p>
+
+<p>It required considerable effort and sacrifice by outsiders to
+nip Hitler's ‘1000-year Reich’ in the bud. We do not have this
+advantage, for no outsiders are going to <a class="fn">come to our
+aid°. <span>At least, probably not to our <i>military</i> aid,
+although Germany, The Netherlands, and France offered moral and
+practical support in the time of Trump, for which I thank
+them</span></a> This is our very own ultimate concern; the defense
+of a unique idea — government for the benefit of the governed —
+whose roots lie in the Enlightenment and the vision of the prophets
+of the <a class="fn">Axial Age°. <span>The most realistic analysis
+of the historical Jesus is that he was a Hassidic rabbi whose
+agenda was the removal of the Roman overlord in favor of an earthly
+manifestation of the kingdom of god, governed by an ‘ethical code
+[whose] sublimity, distinctiveness and originality in form
+unparalleled in any other Hebrew ethical code’.<br>
+--------------------<br>
+• G Vermes (1973) <cite>Jesus the Jew: A Historian's Reading of the
+Gospels</cite> (William Collins, London).<br>
+• J Klausner (1922) <cite>Jesus of Nazareth, His Life, Times, and
+Teaching</cite> (Macmillan, NYC, 1925).</span></a></p>
+
+<p>Feudofascism is neither a scare word nor a conspiracy theory,
+but an observable process, recognized and quantified by academic
+specialists, who call its early stages by a gentler name: Economic
+Elite Domination. We can think of it is as ‘Rule by the 1‰’, as
+shown in Table 0.2. Using multivariate analysis, the authors tested
+nearly 1800 political decisions made between 1981 and 2002, ‘in
+which a national survey of the general public was asked a
+favor/oppose question about a proposed policy change’. The facts
+that ‘the people’ won 5% of the time, and that 5% and 78% do not
+add to 100%, simply mean that some issues were unimportant, and
+others were not resolved within 4 years of the survey.</p>
+<hr>
+
+
+<table id="T0.3" class="tcen">
+<caption><a class="tro" href="#T0.2">◀  </a>
+<a href="#!">Table
+0.3</a>
+<a class="tri" href="#T0.1">  ▶</a> How is the US Governed?
+The ‘characterizations’ attempt to encapsulate the descriptions in
+the papers cited in the blue entries. The data are a generation
+(and the 2014 election) out of date, so the 78% is low. ‘It is not
+too much to say that Wall Street may be the ultimate owner of the
+Deep State and its strategies, if for no other reason than that it
+has the money to reward government operatives with a second career
+that is lucrative beyond the dreams of avarice - certainly beyond
+the dreams of a salaried government employee.’ — <a class="fn">M
+Lofgren°<span>‘A Shadow Government Controls America’ <cite>Reader
+Supported News</cite> 2014-02-22.</span></a></caption>
+<thead>
+
+<tr>
+<th>Political Tradition</th>
+<th>Characterization</th>
+<th>Success Rate, %</th>
+</tr>
+
+</thead>
+
+<tbody>
+
+<tfoot>
+<tr>
+<td colspan="3">* DEEP STATE n. A hard-to-perceive level of
+government or super-control that exists regardless of elections and
+that may thwart popular movements or radical change. NSA and
+investment treaties are prime fascist examples.<br>
+Judging by blog comments, conservatives apparently understand the
+Deep State to be a <i>liberal</i> conspiracy. This seems to be an
+intentional bit of Fox News reality inversion on the theory that if
+conservatives fear it (and can be reassured as needed), liberals
+will ignore it.</td>
+</tr>
+</tfoot>
+
+
+<tr>
+<th colspan="3"><a class="fn">Public Appearance° <span class="fn">M
+Gilens, BI Page (2014) ‘Testing Theories of American Politics:
+Elites, Interest Groups, and Average Citizens’, <cite>Perspectives
+on Politics</cite> <b>125</b>(#3): 564–581.</span></a></th>
+</tr>
+<tr>
+<th>Majoritarian Electoral Democracy</th>
+<td class="bggrn">Government of the people, by the people, and for
+the people.</td>
+<td class="cen bggrn">5</td>
+</tr>
+<tr>
+<th>Economic ‘Elite’ Domination</th>
+<td class="bgred">Think tanks, lobbyists, bought politicians, and
+media ownership.</td>
+<td class="cen bgred">78</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+</tr>
+<tr>
+<th>Majoritarian Pluralism</th>
+<td class="bggrn">Town Meetings, Occupy, and the dozen petitions we
+sign each week.</td>
+<td class="cen bggrn">24</td>
+</tr>
+<tr>
+<th>Biased Pluralism</th>
+<td class="bgred">Legislation by ALEC. The ‘revolving-door’ capture
+of regulators by the regulated. Multilateral Investment
+Treaties.</td>
+<td class="cen bgred">43</td>
+</tr>
+<tr>
+<th colspan="3"><a href=
+"https://www.wikileaks.org/tpp-ip2/pressrelease/" class="fk">Actual
+Operations <span style="text-decoration:none;">• M Ambinder, DB
+Grady (2013) <cite>Deep State: Inside the Government Secrecy
+Industry</cite> (Wiley) ISBN 978-1118146682.<br>
+• D Priest, WM Arkin (2011) <cite>Top Secret America: The Rise of
+the New American Security State</cite> (Little, Brown). ISBN
+0316182214.<br>
+• PD Scott (2014-03-10) ‘The State, the Deep State, and the Wall
+Street Overworld’ <cite>The Asia-Pacific Journal</cite>
+<b>12</b>(10, #5).</span></a></th>
+</tr>
+<tr>
+<th>Feudofascism</th>
+<td class="bgred">Government of the billionaires, by the
+billionaires, and for the billionaires (Trumpism) via the deep
+state. *</td>
+<td class="cen bgred">57 as of 2016</td>
+</tr>
+</tbody>
+</table>
+
+<p>In the sort of democracy that the Enlightenment envisioned, the
+Deep State would not exist, the green rows would have a success
+rate of 99% and the red rows, 1‰, meaning that the 1‰ would have 1‰
+of the political power. You may be sure that the greedy (why do we
+call them ‘elite’?), currently having all 3 branches of the US
+government in their <a class="fn">pocket°, <span>This should be a
+transient situation, but as of the 2016 presidential primaries, the
+candidates should have been (by my norms) Hilary Clinton for the
+Republicans and Bernie Sanders for the Democrats, so far has the
+‘center’ shifted right. As it was, the Republicans could not field
+a single acceptable candidate (out of 20) unless a Hitler wannabe
+is your ideal.</span></a> see a millennial opportunity to obtain
+100% of the power over anything that they can agree on. Recall that
+the first act of the 115th (Republican majority) Congress in 2017
+was a 119-to-74 vote to neuter the Office of Congressional Ethics,
+giving the impression — widely shared by the public — that
+Republicans desire a government that encourages unethical business
+behavior.</p>
+
+<p>‘Promote the general Welfare’, said the US Constitution, and
+this was the goal of the Axial Age and all the better prophets. If
+a church isn't actively working to restore majoritarian pluralism,
+it isn't doing its job. <span class="fr">■</span></p>
+<br>
+
+
+<hr style="height:4px">
+<br>
+<a class="tro" href="#14" id="TB">⩓  </a>
+<a class="tro" href="#11">△  </a>
+<h4><a href="#!">Note: TRUE BELIEF</a></h4>
+    <a class="tri" href="#00">▲  </a>
+
+
+<p class="flu"><a class="en" href="#08">A&nbsp;</a>The evolutionary
+explanation in the preceding footnote has been contested, in favor
+of Bertrand Russell's linguistic explanation in <a class="fn">‘On
+Denoting’°. <span>B Russell (1905) <cite>Mind</cite> <b>14</b>:
+479–493.</span></a> Basically, Russell showed that language permits
+us to create propositions of the sort ‘the present King of France
+is bald’, and then to argue the truth of this and draw conclusions.
+Since the present King of France is neither bald nor hirsute
+[because at the time of writing, France had no king], Russell
+observes that Hegelians, ‘who love a synthesis, will probably
+conclude that he wears a wig’. This ability to discuss non-logical
+propositions and non-existent entities also means that it is
+difficult to keep them out of discourse when they offer plausible
+alternatives, so metaphysics enters our thinking unnoticed.</p>
+
+<p>When language was new, all the might-bes of Emphante seemed
+worth discussing. Weeding Emphante's garden required ideas like the
+<b>Empty Set</b>, and the <b>Law of the Excluded Middle</b>. The
+Empty Set is <i>empty</i>, so that statements about its contents
+are neither true nor false, but <a class="fn">meaningless°.
+<span>Nothing in the Empty Set is red, so that ‘The contents are
+not red’ is not a false statement. But it implies that there might
+be contents, and that they might be blue, both of which are not
+true. ‘Not false’ AND ‘not true’ result in
+‘meaningless’.</span></a> The Law of the Excluded Middle (‘<i>x</i>
+cannot be both <a class="fn">A and not-A’°) <span>Quantum mechanics
+notoriously defies the Law of the Excluded Middle (‘Is it a wave or
+a particle?’ to which the most succinct answer is ‘Yes’), which
+apparently applies only to ideas about objects large enough to be
+visible. Mystically inclined physicists — particularly Indians —
+are impressed by this, and feel that Indian philosophy anticipated
+modern physics by 4000 years.</span></a> is rejected by Hindu
+philosophy, which remains happy to pontificate about things that
+both <a class="fk" href=
+"http://www.purifymind.com/EasternIdeas.htm">are and are-not°
+<span>Ultimate Reality in Jainism may be summed up in the phrase
+‘Pluralistic Realism’, known as the <i>Sapta-bhang</i>, or ‘7
+maybes’. The choices are:<br>
+1) maybe a thing is;<br>
+2) maybe it is not;<br>
+3) maybe it is and is not;<br>
+4) maybe it is inexpressible;<br>
+5) maybe a thing is and is inexpressible;<br>
+6) maybe a thing is not and is inexpressible;<br>
+7) maybe a thing is, is not and is inexpressible.<br>
+[The chemistry professor and connoisseur of philosophical doctrines
+feels a deep need for illustrative examples of choices 3–7. Just as
+a pedagogic tool.]
+<br>-----------<br>
+S Rai (no date) ‘A Brief History of Eastern Ideas’</span></a> .
+However, by the time we had these tools, we had long since accepted
+much-beloved traditions about supernatural entities whom we did not
+wish to include in <a class="fn">the Empty Set°. <span>See how
+easily language allows one to slip into metaphysics? Half a dozen
+lines ago, we established that ‘Including something in the Empty
+Set’ is a logical impossibility.</span></a> Belief was expected,
+and comfortable, and a natural consequence of listening to tales
+around the hearth.</p>
+
+
+<p>The <i>psychology</i> of belief may be explained by this view of
+linguistics, but hardly its <i>power</i>, so I stand by my
+sociogenetic explanation. Were I by birth a Muslim, and
+sufficiently incautious as to let my views be known, I would (by
+community preference) be killed — not by sabertooth cats, but by
+Muslims infuriated by my unwillingness to accept their consensus.
+When the default option is to kill a stranger on sight, and the
+only protection from being killed is common belief, alleles
+permitting scepticism become very scarce in the population.</p>
+
+<p>Perhaps an example of the variability of instinct would help.
+Certain hunting dogs come large and small, lean and blocky, black
+and brown, short hair and long, rough coat, curly, and smooth, — in
+short, a wide variety of alleles. Their individual behavior is
+similarly varied. The divergence of genetically determined
+proclivities is illustrated by Aileen Hennes's report of the
+behavior of 2 siblings, kept as companions (rather than caged,
+bored, and lonely in the native manner). ‘Molf’, tall, <a class=
+"fn">philosophical°, <span>Remind him that he is not allowed to
+kill cats, and he spends a quarter hour puzzling over this
+inexplicable difference between his instincts and The Rules. It is
+a recurring problem which he has not satisfactorily
+resolved.</span></a> and rough-coat gold, is a killer, running
+beside a deer and bumping it until it stumbles. ‘Yuri’, smooth,
+small, black, and the alpha male of his pack, is a herder. He will
+collect 5 deer and bring them home; or take 3 of 4 bulls while a
+farmer is moving them from one pasture to another, and herd them to
+the camping trailer: ‘People, look! Dinner!’.</p>
+
+<p>As a result of our Middle Paleolithic propensity for killing the
+stranger, we have an impoverished allele pool compared to most
+animal populations, and our human ability to modify behavior by
+culture may temper the expression of what genetic variability we
+have, but that doesn't mean that it isn't there.<a class="en" href=
+"#08">&nbsp;A</a> <span class="fr">◼</span></p>
+<br>
+
+<hr>
+<div class="cen"><a href="../_F/F25.shtml">⊲  </a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b> <a href=
+"../_A/A01.shtml">  ⊳</a></div>
+</body>
+</html>

@@ -1,0 +1,1342 @@
+
+<!-- D16 And Again 2018-06-14 01:30 -->
+
+<!DOCTYPE html><html><head>
+<title>D16: Enlightenment</title>
+
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+</style>
+
+<body id="!">
+<p  class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-06-14 01:30 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h3>Book 4: Its History</h3>
+<!--#include virtual="TocD16.shtml" -->
+
+
+<a class="tri" href="../Index.shtml" id="00">&#11152;&emsp;</a>
+<a class="tri" href="#43"> &#9660;&emsp;&emsp;</a>
+<h3><a href="#!"> ENLIGHTENMENT </a></h3>
+<a class="tri" href="#01">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#01"> &emsp;&emsp;&#9661;</a>
+
+<p class="epi">I believe the equality of man, and I believe that religious duties consist in doing justice, loving mercy, and endeavoring to make our fellow-creatures happy. &mdash; Thomas Paine, <cite>The Age of Reason</cite>
+</p>
+
+<p class="epi">[T]he Enlightenment &mdash; European and global &mdash; not only attacked and severed the roots of traditional European culture in the sacred, magic, kingship, and hierarchy, secularizing all institutions and ideas, but (intellectually and to a degree in practice) effectively demolished all legitimation of monarchy, aristocracy, woman&apos;s subordination to man, ecclesiastical authority, and slavery, replacing these with the principles of universality, equality, and democracy. &mdash; Jonathan I. Israel <cite>Radical Enlightenment</cite>
+</p>
+
+
+
+<h2>
+<a class="tri" href="#00">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="01"> STAGE 5: A BIT OF PROGRESS </a>
+<a class="tri" href="#05">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#02">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p>There are, nowadays, any number of web sites that offer international rankings of desirable qualities: democracy, Human Development Index, Gini (income inequality), universities, innovation, economic freedom, whatever. What one notices immediately is the geographical distribution of the leaders. It may be politically incorrect to mention this, but they are the nations (and their offspring) that gave us the Enlightenment.
+</p>
+
+<p>Another way of saying this is that civilization is measured by the amount of Instinct-2 &mdash; altruism, mutual aid, cooperation &mdash; that suffuses the social structure. The Founding Fathers absorbed this lesson from the European Enlightenment, and put it to good use in the US Constitution (as happened in other British colonies also). I am embarrassed to say that after some 50 years in the best schools of the US as student and teacher, I remained mildly curious about how the country had been so fortunate in having the Founding Fathers when we needed them. Only when I came across <a
+class="fn">Conor Cruise O‘Brien<span>
+	CC O‘Brien (1995) <cite>On the Eve of the Millennium</cite> (Martin Kessler Books, NYC): 64.
+</span></a> describing the US Constitution as &lsquo;the greatest institutional repository and transmitter of Enlightenment values&rsquo;, and turned to an encyclopedia for an explanation, did I learn that those values were:
+</p>
+
+<ol class="u1">
+<li>Discovered by the Aegean philosophers, and other Axial thinkers;</li>
+
+<li>Abandoned in favor of religious myths and ritual for <a href="https://www.youtube.com/watch?v=RLPVCJjTNgk" class="fn">2000 years;<span>
+	Not co-incidentaly, this is the same time span that separates the complex analog computer of the Antikythera Mechanism from modern technology.
+</span></a></li>
+
+<li>Rediscovered during the revival of independent thought in 18th century Europe;</li>
+
+<li>Instantiated in the US Constitution by James Madison and the Founding Fathers; and</li>
+
+<li>What I thought people meant when they talked about &lsquo;<a
+class="fn">family values&rsquo;.<span>
+	The Becula family catchword was &lsquo;Remember who you are and what you represent&rsquo;. Never explained by the pioneer desert farmers who impressed it on me by example, I would interpret this today as &lsquo;We are the spiritual heirs of Akhnaton, Zoroaster, Zambaji, and Spinoza. Do not let them down!&rsquo; &mdash; although my grandparents lacked the leisure to trace the ideas back to their sources. I have no idea what, if any, religious background they came from: religion was never a topic of family conversation.
+</span></a></li>
+</ol>
+
+
+<p class="flu">The discovery that ideas that I had assumed continuous since the days of Pericles had largely disappeared for 2 millennia, and been rediscovered only at great cost, puts those ideas in an entirely new light &mdash; and explained a lot about the <a class="fn">intervening period.<span>
+	Historians recognize a series of &lsquo;renaissances&rsquo; as Europe recovered from the double whammy of the Arab Conquest of the Mediterranean and the climate-driven migrations from the eastern steppes. These include the Carolingian (8th & 9th centuries), Ottonian (10th), the renaissance of the 12th century, and the one we all recognize, Italy, 15th century. Despite this progress, Giordano Bruno was still burnt at the stake for heresy at the end of the 16th century.
+</span></a>
+</p>
+
+<p>The best exmple of what this means is the Antikythera Mechanism ...
+</p>
+
+<p>This ignorance &mdash; thoroughly shared with my countrymen &mdash; can only be intentional. Any government bent on maintaining the US Constitution would, as a matter of self-preservation, ensure that its citizens understood these foundational principles, their fragility, their historical rarity, and the unique opportunity and effort that had allowed us to escape &mdash; however briefly &mdash; from the traditional norm of Instinct-1, with its familiar feudofascist desiderata of &lsquo;monarchy, aristocracy, woman&apos;s subordination to man, ecclesiastical authority, and slavery&rsquo;.
+</p>
+
+<p>As a result of this educational neglect, it is fashionable among postmodernists to dismiss the Enlightenment as one more conventional timeslot, falling between Reformation and Modernism (1750-1815) or Renaissance and Romanticism (1660-1785); in any case, the time &lsquo;when we na&iuml;vely thought the universe was determinate and all problems could be solved by analysis.&rsquo; This facile incomprehension ignores both the importance of Enlightenment ideas, and the phenomenal success of analysis in its realm of applicability. Established religion also failed to recognize the Enlightenment as a kindred development, seeing it as competition and fighting it tooth and nail, for our ecclesiastical authorities had long forgotten what religion was for.
+</p>
+
+<p><a class="fn">Karl Jaspers<span>
+	K Jaspers (1949) <cite>The Origin and Goal of History</cite> Transl. Michael Bullock (Yale University Press, New Haven CT, 1953).
+</span></a> explained how nihilism appeared when misconstrued enlightenment led to loss of faith and a resulting emptiness: &lsquo;Unrestrained enlightenment renders the enigma of the origin readily audible for the first time&rsquo;. Translation: if we aren&apos;t the most important aspect of creation, if it wasn&apos;t all made just for us &mdash; <i>I want my Mommy!</i> The Enlightenment &mdash; anathema though it may be to Instinct-1 &mdash; is for adults.
+</p>
+
+<p>Under its tutelage, understanding the world <i>as it is</i> becomes an all-consuming challenge. As we come to understand it, our mission becomes that of improving the situation. Emptiness results when we ignore this challenge. To be sure, this may be a difficult task, but the alternative is another Dark Age, probably terminal.
+</p>
+
+
+<hr>
+<table class="tcen">
+<caption>
+<a class="tri" href="#T16.4">&#9664;&emsp;&emsp;</a>
+<a href="#TOC" id="T16.1"> Table 16.1 </a>
+<a class="tri" href="#T16.2">&emsp;&emsp;&#9654;</a>
+A sampling of Enlightenment values, why alpha males despise them, and why Instinct-1 would like us to forget that the Enlightenment ever happened.
+</caption>
+
+ <thead>
+ <tr><th>ENLIGHTENMENT VALUES</th>
+     <th>PRACTICAL RESULTS</th>
+     <th>ALPHA MALE* WANTS </th>
+</tr>
+</thead>
+
+<tfoot>
+<tr><td colspan="3">* Some wannabe alpha males lack a Y-chromosomes; e.g.: Anne Coulter.<br>
+&dagger; Reserving the right to learn from history.</td></tr>
+  <tbody>
+
+<tr class="teal"><td><b>Secularism</b></td>
+	<td class="rc">Revealed religions are arbitrary</td>
+	<td style="background-color: #ffd8c0;">Faith</td></tr>
+
+<tr><td><b>Scepticism</b></td>
+	<td>Exaltation of publicly verifiable knowledge</td>
+	<td>Blind belief</td></tr>
+
+<tr><td><b>Tolerance</b></td>
+	<td>Equal footing for all people, and most ideas<sup>&dagger;</sup></td>
+	<td>Fanaticism</td></tr>
+
+<tr><td><b>Rationality</b></td>
+	<td>Analysis precedes action: &lsquo;And then what?&rsquo;</td>
+	<td>Superstition, Obedience</td></tr>
+
+<tr><td><b>Individuality</b></td>
+	<td>People matter more than abstractions</td>
+	<td>Monolithicity</td></tr>
+
+<tr><td><b>Democracy</b></td>
+	<td>Government for the benefit of the governed</td>
+	<td>Dictatorship</td></tr>
+
+<tr><td><b>Empiricism</b></td>
+	<td>Freedom to speculate and experiment</td>
+	<td>Dogmatism</td></tr>
+
+<tr><td><b>Social Justice</b></td>
+	<td>Amelioration of poverty and ill health</td>
+	<td>Power</td></tr>
+  </tbody>
+</table>
+
+
+<p>Specifically, the Enlightenment (plus the American and French Revolutions, German Idealism, and something like Jaspers&apos;s short list: Michelangelo, Raphael, Leonardo, Shakespeare, Rembrandt, Goethe, Spinoza, Kant, Bach, <a class="fn">and Mozart<span>
+	Inexplicably, he omits mathematicians and scientists, not to mention Beethoven!
+</span></a> might be comparable to a 2nd Axial Age. Jaspers decided not, on the grounds that these were European phenomena, and an Axial Age is world wide. I disagree: the Enlightenment, the Axial Age, and the Upper Paleolithic were all Eurasian. The discoveries, the interactions, and the nature of the visionaries were different in each case, adapted to their times. Still, we are dealing with instinctive drives, inherent in individuals, and expressed when and as opportunity offers. At a time when the Axial impulse had been obliterated in Saharasia and sidetracked in the East, the Enlightenment opportunity offered itself in Europe &mdash; direct heir to the Axial influence of Greece and Israel; and beneficiary in varying degrees of Persia, India, and China.
+</p>
+
+<p>While Art and Science and Technology and their products are all very well, it is the ideas of the Enlightenment that matter, all of which counter Instinct-1 and the values of the alpha male. In the grand scheme of things few of us become alpha males, so it behooves us to encourage positive qualities in ourselves and our culture. In ourselves, because anyone who aspires to alphadom but can&apos;t make it is likely to take out his frustration on his family. And in our culture because the alternatives on enthusiastic offer (theocracy, feudofascism, dictatorship) are truly intolerable.
+</p>
+
+<p>Jaspers was primarily interested in why China and India failed to profit by the Axial Age, while the West eventually went on to science and technology. His first suggestion was geographical. The islands and isolated valleys of the Greek poleis fostered diversity of development and then trade in goods and ideas. So too did the disjoint but interconnected Mediterranean communities described by <a class="fn">Pirenne,<span>
+	H Pirenne (1937) <cite>Mohammed and Charlemagne</cite> (Dover, Mineola NY, 2001).
+</span></a> and the fragmented nature of later Europe. Jaspers&apos;s other insights can all be seen as aspects of the Enlightenment. There is not room here for even short sketches of the principle contributors to the Enlightenment and its Renaissance predecessors. This, however, is the history that should be taught. The squabbles of European rulers which clutter most texts are intentional misdirection. Al-Kindi, Maimonides, Jambaji, Spinoza, <a class="fn">Bruno,<span>
+	Bruno is interesting because he was born in Nola (near Naples), where &lsquo;more than elsewhere in Magna Grecia, traces of old Greek manners and customs survived to a later age, &hellip; and perhaps the aptitude for philosophy, literature and art which appear again and again among the inhabitants may also be traced back to their Greek origins.&rsquo; Nola was evidently a place where the Slavic invasions did not eradicate all the DNA of the Classical Greeks.
+<br>----------------------<br>
+	A Riehl (1905) <cite>Giordano Bruno: In memoriam of 17th February 1600</cite> (TN Foulis, Edinburgh &amp; London): 11.
+</span></a> and Paine are each worth a dozen kings.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#01">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="02"> Revealed Religions Are Arbitrary </a>
+<a class="tri" href="#03">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The core discovery of the Enlightenment was that revealed religions are arbitrary. This follows from the diversity of religion: non-arbitrary subjects like mathematics and physics are universally identical. Trigonometric functions have the same values here and there, wherever &lsquo;there&rsquo; may be. We can tell from astronomical observations of distant galaxies that physics and chemistry behave there as they do here. When radically different approaches to a problem are found, they turn out to give identical answers: Quantum mechanics via the methods of Schwinger, Feynman, or Tomonaga arrives at the same result: choice is a matter of convenience.
+</p>
+
+<p>Formally undecidable issues do not have this feature. Moslems (along with New Guineans, Andamanese, and chimpanzees) obey a primitive instinct to kill &lsquo;the other&rsquo;, but the Moslems raise the instinct to a divine command. Parsis and Buddhists acknowledge the sanctity of life from first principles, and prefer not to kill &lsquo;the other&rsquo;. Contradictory approaches cannot both be correct, so we have to choose. Understanding that the purpose of religion was to keep us from killing &lsquo;the other&rsquo; renders the choice clear &mdash; but we still have a problem: Throughout history we have assumed that all stories about gods are <i>ipso facto</i> religion. This leaves us in a semantic swamp.
+</p>
+
+<p>The way out is the realization that gods were arbitrary constructs encoding tribal mores. <b>Originally, gods were the private bicameral internalization of social rules. Today they are the externalization of that bicameral mind into the community imagination. In this process they lost their utility and became mere nostalgia: imaginary and only rarely applicable to a changing world.</b>
+</p>
+
+<p>All else follows from this. Secularism is a way to help us out of the swamp, discovering bit by bit where a god is no longer necessary. Few people today need a god to drive a solar chariot <a class="fn">across the sky.<span>
+	Those who do have never thought analytically about how the sun gets across the sky so fast. According to polls, this includes 14% of the US population, who still think the Earth is stationary and the sun scurries. This is a failure of 3rd-grade education, since there is nothing complicated about the ideas involved (provided we stick with non-relativistic physics &mdash; which works perfectly well for everything known to 3rd-graders).
+</span></a> Everything that we can observe about the sun&apos;s apparent motion is encapsulated in an equation. We have 2 perfectly good equations which replace Apollo, one discovered by Newton, which describes all but 0.1% of our observations, and the other by Einstein that includes the 0.1%. There may be an even better equation ahead, but in the meantime, ceremonies to keep the sun god on his course (daily or annually) are not needed <i>by the sun</i>, although they might still serve a cohesive function in society. Empiricism and Rationality, where they can be applied, eliminate the need for gods. If they can&apos;t yet be applied everywhere, the trend is clear: The gaps get narrower and the gods get smaller.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#02">&#9651;&emsp;&emsp;</a>
+<a href="#TOC" id="03"> The Discovery of Self-Correction</a>
+<a class="tri" href="#04">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">The real value of even a modest mathematical education is that it breeds a distaste for intellectual flatulence. &hellip; The stunting of mathematical intelligence leaves one at a loss to understand what goes on in the world. &mdash; Rutgers mathematician Norman Levitt
+</p>
+
+<p>An immediate consequence of Secularism is the loss of Authority. The touchstone of truth is no longer what some alpha male has told you. Instead, there is an independent approach to the verification of ideas:
+</p>
+
+<ul>
+<li>Roger Bacon held that experiment was a method for sorting truth from falsehood more reliable than logic, because it did not depend entirely on premisses.</li>
+
+<li><a class="fn">Descartes<span>
+	R Descartes (1637) <cite>Discourse on Method and Meditations</cite> (transl. LJ Lafleur) (The Liberal Arts Press, NY, 1960).
+</span></a> formalized &lsquo;The (Scientific) Method&rsquo; into 4 simple rules:
+
+<ol>
+<li>Begin with things known to be true: axioms and assured facts;</li>
+
+<li>Reduce every question to its simplest components (the much maligned &lsquo;reductionism&rsquo;);</li>
+
+<li>Solve the easy bits first;</li>
+
+<li>Reconnect the pieces into a coherent whole (the step overlooked by those who balk at reductionism).</li>
+</ol>
+
+<li>The astronomers showed that mathematics could chose between competing hypotheses.</li>
+
+<li>Popper showed that trying to falsify your efforts was a good way to test ideas.</li>
+</ul>
+
+
+<p>This sequence, rather than the collection of facts, is what science is all about. Yet science is all too often taught as <i>ex cathedra</i> results, with unrelated and undigestible data, and not as a process, and taught by people who have never used the scientific method. This not only misses the point, but contributes to the common impression of scientists as nerds and science as perhaps useful but fundamentally boring, disconnected from the concerns of real life, arbitrary, and prone to creating nuclear bombs and frankenfood. Like many good scientists, two of my fellow grad-students, Professors Thomas Greytak and Tanya Atwater, while advancing quantum mechanics at MIT and geophysics at Santa Barbara, respectively, devoted the teaching aspect of their careers to explaining the reality that science is a game of wits played with Nature, and a game that is fun, exciting, and relevant. There is much merit to the idea that science should not be taught by those who are not caught up in the game. Particularly damaging are children&apos;s teachers who instill the postmodern menace that claims facts to be socially malleable and dependent upon one&apos;s gender, ethnicity, politics, sect, and sexual orientation.
+</p>
+
+<p>The mathematical and experimental bases of science provide its (eventual) self correction. This is not true of our earlier attempts to understand the world: Magic, Mythology, Art, History, Literature, Philosophy, and Religion. Magic was capricious; Myths varied from place to place; Art is in the eye of the beholder; History is written by the assassins; Literature is whatever one says it is; Philosophers disagreed with eachother; one man&apos;s Religion is another&apos;s road to damnation. With only these to go one, everything is opinion, and one is indeed in the world of the befuddled postmodernist. This is not to say that Science does not have its share of argumentation and debate and error, for scientists are as fallible, opinionated, and error-prone as anyone. The secret is the feedback cycle</p>
+
+<p class="cen">||: observation, hypothesis, prediction,  experiment, falsification <a class="fn">:||<span style="text-align:left;">
+	||: &hellip; :|| is the musical &lsquo;repeat&rsquo; notation, signifying, in this case, &lsquo;keep repeating this sequence until we get it right&rsquo; and a hypothesis is tentatively accepted because nobody has succeeded in falsifying it.<br>
+	This is very much an idealized abstraction: real scientists are as responsive to intuition as artists &mdash; but they try to have data to back up their intuitive leaps before they publish.
+</span></a></p>
+
+<p class="flu"> &mdash; where every cycle begins from a better understanding gained by rejecting erroneous ideas. This eventually leads to a defensible consensus about what is what. As with practical enterprises like cooking and bridge-building, we can establish facts about the world that change, if at all, either in unimportant ways (a dash of new spice; a refinement in the 4th &mdash; or 14th &mdash; decimal place), or are suddenly fitted into a new paradigm that explains some nagging oddities that didn&apos;t fit yesterday.
+</p>
+
+<p>You might like to check the entries in Table 16.2 on the web, to look at some ideas which were once mainstream science or important discoveries, but finally succumbed to data they could not explain and explanations they could not deny, and other ideas, outrageous when introduced, which have stood the test of time. Also to be noted is that active research continues on some of the &lsquo;rejected&rsquo; ideas under less prejudicial names, because individual researchers are convinced that there is something interesting yet to be discovered.
+</p>
+
+<hr>
+<table  width=85%>
+<caption>
+<a class="tri" href="#T16.1">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T16.2"> Table 16.2 </a>
+<a class="tri" href="#T16.3">&emsp;&emsp;&#9654;</a>
+Falsification at work. Ideas, good and bad, are tested against data and competing ideas, and provisionally accepted if they can&apos;t be rejected by failure to fit the data. In many cases, the rejected idea gets the essentials right and misses on then unknowable details. In the upper section the ideas are paired;  the grey barrier separates independent ideas in the lower section.
+</caption>
+
+<thead>
+<tr><th class="bgred">Unproductive Ideas</th>
+    <th class="bggrn" colspan="2">PRODUCTIVE IDEAS</th></tr>
+</thead>
+
+<tbody style="text-align:center;">
+<tr><td class="bglgr" colspan="3" ><b>Solar System:</b></td></tr>
+<tr><td class="bgred"><b>Geocentric</b>
+    <br>(Neolithic)
+    <td class="bggrn" colspan="2"><b>Heliocentric</b> (Aristarchos, 3rd century BCE)</tr>
+
+<tr><td class="bglgr" colspan="3"><b>Creation of Universe:</b></td></tr>
+<tr><td class="bgred"><b>by a god</b><br>(Neolithic)</td>
+    <td class="bggrn" colspan="2"><b>by a Quantum Fluctuation</b> (Tryon, 1973) &lsquo;our universe is simply one of those things that happen from time to time&rsquo;</td></tr>
+
+<tr><td class="bglgr" colspan="3"><b>Fire:</b></td></tr>
+<tr><td class="bgred"><b>from Phlogiston</b><br>(Becher, 1667)</td>
+    <td class="bggrn" colspan="2"><b>from Oxidation</b> (Lavoisier, 1789)</td></tr>
+
+<tr><td class="bglgr" colspan="3"><b>Evolution:</b></td></tr>
+<tr><td class="bgred"><b>by Acquired Characteristics</b>
+    <br>(Lamarck, 1802)</td>
+    <td class="bggrn" colspan="2"><b>by
+	<cite>The Genetical Theory of Natural Selection</cite></b>
+    (Fisher, 1930), which
+    combines the insights of Darwin and Mendel in mathematical detail.</td></tr>
+
+<tr><td class="bglgr" colspan="3"><b>Cosmogenesis:</b></td></tr>
+<tr><td class="bgred"><b>by Continuous Creation</b> <br>(Hoyle, 1948)</td>
+    <td class="bggrn" colspan="2"><b>by Chaotic Inflation</b> (Linde, 1982)</td></tr>
+
+<tr><td class="bglgr" colspan="3"><b>Independent Examples:</b></td></tr>
+
+<tr><td class="bgred"><b>Piltdown Man</b>
+    <br>(Dawson, 1913)</td>
+    <td class="td7"></td>
+    <td class="bggrn"><b>Relativity</b> (Einstein, 1905)</td></tr>
+
+<tr><td class="bgred"><b>Lamarckism</b>
+    <br>(Lysenko, 1948)</td>
+    <td class="td7"></td>
+    <td class="bggrn"><b>Quantum Mechanics</b> (Many, early 20th century)</td></tr>
+
+<tr><td class="bgred"><b>Polywater</b>
+    <br>(Derjaguin, 1966)</td>
+    <td class="td7"></td>
+    <td class="bggrn"><b>Continental Drift</b> (Wegener, 1915)</td></tr>
+
+<tr><td class="bgred"><b>Memory of water</b>
+    <br>(Benveniste, 1988)<td class="td7">
+    <td class="bggrn"><b>Endosymbiosis</b> (Margulis, 1967)</tr>
+
+<tr><td class="bgred"><b>Cold Fusion</b>
+    <br>(Fleischman & Pons, 1989)</td>
+    <td class="td8"></td>
+    <td class="bggrn"><b>K/T Impactor</b> (Alvarez, 1984)</td></tr>
+
+</tbody></table>
+
+<p>The rejected ideas were not without value, because they sometimes pointed to new phenomena and led to better understanding. (Some of my acquaintances continue to work on ideas related to cold fusion, despite mainstream opinion.) In addition, there are genetic phenomena that were not anticipated by orthodox Mendelian theory (such as Barbara McClintock&apos;s transposable elements), and the whole field of eco-devo shows that developmental modifications are at least as important to to evolution as mutation. Piltdown Man was a clumsy practical joke &mdash; complete with stained bone <a class="fn">cricket bat<span>
+	Johann Beringer, 18th century professor of natural history at Würzburg, accepted stones with groups of animals carved (by his grad students) in crude bas relief as real fossils, including, on one flat stone, a lobster, snake, frog, lizard, and shellfish, despite commenting that he saw what looked like slips of a carving tool. He knew that <i>some</i> were fakes, but felt that the 100 so with carved Hebrew characters &lsquo;perhaps manifest the one and only author of these wondrous stones&rsquo;.
+<br>--------------<br>
+	ME Jahn, DJ Woolf (1963) <cite>The Lying Stones of Dr. Johann Bartholomew Adam Beringer</cite> (U California Press, Berkeley).
+</span></a> &mdash; that backfired and in retrospect taught us not to take our pet ideas too seriously. (Or should have: this is a difficult trap to avoid.)</p>
+
+<p>Legitimate non-Mendelian inheritance (which is also non-Lamarckian) occurs via the handful of genes in mitochondria. Continuous creation has crept back into orthodox cosmology as an endless succession of Big Bangs. Polywater alerted us to the ubiquity of contamination, and the extreme difficulty of avoiding it in small samples. The Memory of Water fiasco had poor technique at its base, but not all of its results have been satisfactorily explained. Nor, perhaps, has all of the energy release found in cold-fusion experiments been explained (and the mere threat of abundant energy was enough to bring Big Oil&apos;s FUD-generation into play). Above all, the examination of ideas that didn&apos;t make it teaches scepticism. An experimental datum that cannot be explained by existing theory is either an error, or an indication that theory is incomplete. Experimental error is often more probable, and &lsquo;extraordinary results demand extraordinary proof&rsquo; is a reputation-saving precaution.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#03">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="04"> Is Divine Creation Falsifiable? </a>
+<a class="tri" href="#05">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The sticking point for many people will be Tryon&apos;s hypothesis in row 2 of Table 16.2, quietly dismissing the core belief of 95% of the world population. Can science really claim to have falsified the handiwork of god? In a word, no. On the other hand, there is no data to support the god conjecture, and it offers neither a way to test it, nor suggestions about how it was done, nor a way forward. It is a dead end. Perhaps the whole point of the Enlightenment can be captured in the idea that there are no observable exceptions to the laws of nature. The laws get more sophisticated as our ability to observe increases, but miracles &mdash; in the sense of events contrary to the laws of nature &mdash; have never been observed. Whether this means that gods are as constrained by these laws as we are, or that gods and laws are indistinguishable, is a matter of semantics.
+</p>
+
+<p>If a god created the universe, we can epitomize its subsequent behavior in straightforward if subtle equatlons. Of all the world&apos;s creation myths, the FLRW story best describes what we see. It is the Friedman-Lemaître-Robertson-Walker solution to Einstein&apos;s equation for the simplest possible homogeneous isotropic universe. Occasionally, a cosmologist will put up an interactive web site where you can explore this solution,looking for the parameters that describes what we see, but the links <a class="fn">keep breaking<span>
+	More realistically, Cosmology@Home will use the spare power of your computer in their attempt to determine the parameters of our universe. This is similar to the search that the student goddesses of the first end paper are engaged in (with somewhat different motivation). Note that they have the same problem that we do in determining the origin of the governing equation: Is it a pre-existent fact, like 1+1 = 2, or was it the result of a Guiding Intelligence &mdash; or are these the same thing? Note also that from their point of view, you and I are bits in an experimental simulation, run in the search for a universe in which moral justice prevails. Astronomers like Neil DeGrasse Tyson have popularized the idea of our universe being a simulation: all I am doing is suggesting the reason for it. In any case, the Planck Consortium is a serious effort: its 51st paper has 152 authors (not including people who had volunteered computer time). Click the arrow for their website, and to download the paper &mdash; which needs a solid grounding in cosmology before it will make much sense!
+</span></a><a href="http://www.cosmologyathome.org/">⬆︎</a>.  (FLRW is the arithmetic behind the triangular graph of <a href="../_B/B08.shtml#F8.4">Cosmos 6</a>.) This model tells us nothing about creation of the universe, but it does take us 13 billion years closer to the moment of interest. Further progress (Tryon&apos;s Quantum Fluctuation and Linde&apos;s Chaotic Inflation) require quantum field theory. The difficulty lies in the combining the approximation for the behavior of the very large (General Relativity) with the approximation for the very small (Quantum Field Theory). The world&apos;s best mathematicians and experimentalists have been working on this for a century. It is a hard problem; progress is slow but steady.
+</p>
+
+<p>The exciting prospect is that when General Relativity and Quantum Field Theory are unified, we should be able to consider seriously a theological topic which we have argued in sophomoric bull sessions for 10,000 years. We will know &mdash; if not the &lsquo;mind of god&rsquo; of Stephen Hawkings&apos;s hopes &mdash; at least <i>the constraints on god</i>: what can and cannot be done. (That said, their consequences are likely to be <a class="fn">so obscure<span>
+	About 30 years after writing the book on relativity, Einstein literally stopped in his tracks &mdash; in the middle of a busy street, according to Gamow &mdash; upon learning that <i>according to his equations</i>, a star could be created out of nothing at all, because its negative gravitational energy precisely cancels out the positive energy of its mass.
+<br>----------------<br>
+	G Gamow (1970) <cite>My World Line</cite> (Viking, NYC).
+</span></a> that it will do us little good.) In any case, it would not hurt to be a little patient here, putting on hold all attempts to conquer the world for one or another theological, economic, or political system, and devoting our efforts to the personal challenges presented by the ideas of the Enlightenment.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#04">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#01">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="05"> ENLIGHTENMENT VALUES:</a>
+<span class="s8"> DIAMETERS </span>
+<a class="tri" href="#16">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#06">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p>Synthetic-kinship theory suggests that the &lsquo;natural man&rsquo; of the Enlightenment was not the naïve and inherently good Rousseauan corrupted by civilization, nor the self-preserving Hobbesian, nor even the Lockean of the social contract, but a Jeffersonian deist finding reasons for morality in the absence of a nanny-god.
+</p>
+
+<p>As with most abstract ideas, people see in the Enlightenment only that which they are ready to see. As used here, &lsquo;Enlightenment values&rsquo; seem to include (but are not limited to) the following set.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#05">&#9651;&emsp;&emsp;</a>
+<span class="s8">D = </span><a href="#TOC" id="06">Democracy</a>
+<a class="tri" href="#07">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Churchill recognized that democracy was the worst possible form of government (Why? &lsquo;Five minutes conversation with the average voter!&rsquo;) &mdash; except for the others that we had tried. <b>It works only as part of the Enlightenment package, requiring</b>:
+</p>
+
+<ul>
+<li><b>Individuality</b>, to avoid mob behavior; </li>
+<li><b>Tolerance</b>, to be comfortable with those who voted otherwise; </li>
+<li><b>Rationality</b>, to enable good decisions;</li>
+<li><b>Empiricism</b>, to counter partisan panaceas; </li>
+<li><b>Epistemology</b>, to question how we know what we think we know, and thus to see through candidates&apos; promises; </li>
+<li><b>Secularism</b>, to escape conflicts over untestable beliefs.</li>
+</ul>
+
+<p>Borrowing a convention from Apple, we have the mnemonic <span class="br">iTREES</span> for this set of preconditions for democracy to work. These are the constraints you must put up with if you want the benefits of democracy. Underlying these is the essential precondition of an educated electorate. Undermine this, and an orange-haired tyrant will soon find a way to emplace himself at the top by abusing the mechanisms of democracy.
+</p>
+
+<p>With the old direct-action tyrant, common sense could tell when things went bad. Orwell taught subtlety. Opponents die in airplane crashes or &lsquo;suicide&rsquo; by drug overdose, or shoot themselves twice in the head; critics are disarmed with media ridicule; no-bid/no-audit government contracts filter back to the granters through the stock market; dissent is defused with distraction &mdash; foreign wars, celebrity doings, wardrobe malfunctions &mdash; with government-prepared sound bites and Faux News replacing investigative journalism.
+</p>
+
+<p>The rise of the <a class="fn">Deep State<span>
+	PD Scott (2014) &lsquo;The State, the Deep State, and the Wall Street Overworld&rsquo; <cite>The Asia-Pacific Journal</cite>  <b>12.10</b>(#5), 18 pp.
+</span></a> (= a hidden level of government that persists regardless of elections, usually with a feudofascist agenda intended to thwart popular movements and radical change) presents democracy with a challenge it has yet to face. Originally noticed as &lsquo;anti-democratic coalitions within the Turkish political system, composed of high-level elements from the so-called intelligence services, military, security, judiciary, and mafia&rsquo;, it was later found thriving as massive secret empires of the same groups writing the effective rules for most Western governments. Think ALEC, NSA, TPP, and SuperPACs.
+</p>
+tr5656f
+<p>The French Revolution did what it could to reduce the abundance of the alleles responsible for this behavior. We may regret the loss of Lavoisier, but expunging the greed of aristocrats apparently cannot be done by rational persuasion (see any conservative blog), and seems to need guiollotining of economically &lsquo;elite&rsquo; families. <i>Mutatis mutandis</i>, this works well in small-scale societies.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#06">&#9651;&emsp;&emsp;</a>
+<span class="s8">I</span> = <a href="#TOC" id="07"> Individuality </a>
+<a class="tri" href="#08">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">[T]he currently prevailing MBA model [is] downsizing human capital, stripping assets, and gutting long-term productive capabilities in order to game management bonuses and stock options. &mdash; Kevin Carson
+</p>
+
+<p>DNA long ago discovered that it was best served if no two organisms were identical, and it invented sex to accomplish this (reproduction by cell division is far simpler). Except for twins, no 2 humans have ever had the same DNA, and twins routinely show developmental differences. The original purpose was protection from viruses; by the time we get to humans, its advantage is a unique individual prepared to do something constructive with his life that no one else can do.
+</p>
+
+<p>&lsquo;Constructive&rsquo; is important. We often specialize in the wrong direction: making money is not a socially useful goal <i>in itself</i>. The most destructive invention of the 20th century was not the hydrogen bomb but the MBA, sacrificing all social and environmental concerns to maximizing <a class="fn">management emolument.<span>
+	Oops. I was wrong. It turns out that the only thing  worse than the social and environmental behavior of businesses headed by MBAs, is the behavior of those headed by the ordinary CEO <i>without</i> an MBA.
+<br>-------------<br>
+	D Slater, H Dixon-Fowler (2010) &lsquo;The future in the hands of MBAs: An examination of CEO MBA education and corporate environmental performance&rsquo; <cite>Academy of Management Learning & Education</cite> <b>9</b>(#3): 429-441.
+</span></a> The Buddhist requirement of Right Employment is critical here. If at all possible, Buddhists avoid any occupation that requires the taking of life or the exploitation of others. A responsible person does not work for, or invest in, a multinational concern without first ensuring that its environmental and social behavior in the far corners of the world is acceptable.
+</p>
+
+<p>Not everyone thinks individuality as essential as evolution has found it. Ibsen&apos;s play, <cite>An Enemy of the People</cite>, pits one man (who happens to be right) against his town. Reading this play as a teenager, I erroneously concluded that Norway fostered individuality. I couldn&apos;t have been more wrong. Norwegians feel most comfortable with blue-eyed conformity. In fact, vernacular norsk uses the same word, <i>egenheit</i>, for both &lsquo;individuality&rsquo; and &lsquo;selfishness&rsquo;. Norsk burocrats assume that private companies exist to evade taxes, since a legitimate business would have <a class="fn">government subsidies.<span>
+	They wanted 300% of my income from my start-up electronics company one year, that being the tax on the minimum wage. They could not believe that anyone could live on what I claimed: bread, milk, cabbage, and an occasional apple; no rent (owned the house), no car, no insurance. Since any Norwegian with my income would have applied for social welfare, I must have been doing something illegal and lying about my income. As I was unable to prove a negative, they eventually got what they wanted by garnisheeing my later salary at the University of Amsterdam. (A lawyer might won the case for me &mdash; but considering the amount at issue, he would not have been cost effective.)
+</span></a> Ibsen&apos;s plays are far too individualistic for Norwegian comfort, for norsk vernacular does not distinguish &lquo;individualistic&rsquo; from &lsquo;selfish&rsquo; Ibsen
+spent most of his life outside the country, and wrote <i>Enemy</i> as a protest against ovine socialism.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#07">&#9651;&emsp;&emsp;</a>
+<span class="s8">A</span> = <a href="#TOC" id="08"> Animal Rights</a>
+<a class="tri" href="#09">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">Children should from the beginning be bred up in an abhorrence of killing, or tormenting any living Creature. &hellip; For the custom of tormenting and killing of Beasts will, by degrees, harden their Minds even towards Men; and they who delight in the suffering and destruction of inferiour Creatures, will not be apt to be very compassionate or benigne to those of their own kind. &mdash; John Locke (1693)
+</p>
+
+<p>Often overlooked in discussions of Enlightenment innovations, the idea-complex connected with animal rights is a major step forward in mankind&apos;s ascent from the brute. It is a concern that can arise only after human rights have achieved a reasonable working level.
+</p>
+
+<p><a class="fn">James Turner<span>
+	J Turner <cite>(1980) Reckoning with the Beast: Animals, Pain, and Humanity in the Victorian Mind</cite> (The Johns Hopkins University Press, Baltimore  London).
+</span></a> makes it clear that prior to the middle of the 18th century, the Cartesian view of 1650 was the best the West had done. Convinced of the absolute superiority of humans, it was obvious to Descartes that animals were something apart: complex organic machines. Since their behavior could be explained without mind or consciousness,
+</p>
+
+<blockquote>I had after this described the reasonable soul, and shown that it could by no means be educed from the power of matter, as the other things of which I had spoken, but that it must be expressly created; &mdash; <a class="fn">Descartes<span>
+	R Descartes (1637) <cite>Discourse on Method and Meditations</cite> (transl. LJ Lafleur) (The Liberal Arts Press, NY, 1960): V.
+</span></a>
+</blockquote>
+
+<p class="flu">thus placing man in an exceptional position. This attitude &mdash; which is still rampant in many circles &mdash; helps explain the stubborn resistance to Julian Jaynes&apos;s explanation of human behavior without consciousness prior to 1200 BCE. The medieval rabbinical debate about <i>tsa‘ar ba‘ale hayyim</i> &mdash; empathy for all life &mdash; for all its intellectual priority, never reached beyond the ghetto.
+</p>
+
+<p>Discussing Moslem cruelty to animals in North Africa while studying the Hausa (brought from West Africa as Moslem slaves) Tremearne incidentally describes a gradient of concern which reflects Enlightenment influence (and which still exists a century later):
+</p>
+
+<blockquote>The English visitor&apos;s blood boils at the cruelty openly shown by Arabs to their animals, although the French seem to care but little, the Italians less, and the Spaniards not at all. &mdash; <a class="fn">Tremearne<span>
+	AJN Tremearne (c1919) <cite>The Ban of the Bori</cite> (Heath, Cranton, &amp; Ouseley, London): 93.
+</span></a>
+</blockquote>
+
+<p class="flu">For a nominally civilized country, the French remain remarkably insensitive, and Spain suffers a double handicap from Catholic unconcern and its Islamic heritage.
+</p>
+
+<p>Today, the Endangered Species Act represents the cutting edge of this aspect of the Enlightenment &mdash; and like the other aspects, it is  attacked <a class="fn" href="http://www.commondreams.org/newswire/2015/07/28/analysis-republican-attacks-endangered-species-600-percent-year">nearly weekly<span>
+	33 times a year during the 2010s. [Click for more.]
+</span></a> by Congressional Republicans. This is the feudofascist&apos;s assumption that by natural right he owns the livestock, slaves, and women and can do what he wants with them. In particular, he wants to make the relevant laws without opposing input from women, people of color, and biologists &mdash; all of whom know more about the subject than he does.
+</p>
+
+
+<h3>
+<a class="tri" href="#08">&#9651;&emsp;&emsp;</a>
+<span class="s8">M</span> = <a href="#TOC" id="09"> Moral Justice </a>
+<a class="tri" href="#10">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>This aspect of the Enlightenment receives less attention than it should. It is a catch-all term, whose contents reflects the social conscience of the day. Our laws, if not all of our political parties, recognize that it requires equality of opportunity without artificial impediments based on color, creed, gender, sexual orientation, irrelevant handicaps, racial origin, or anything other than the ability to perform as the opportunity offers. The foundational documents of the US declare a governmental responsibility &lsquo;to promote the general Welfare&rsquo;, and concern with the right to &lsquo;life, liberty, and the pursuit of happiness&rsquo;. These specifically require that economic inequality be reasonably limited, and that affordable education, and health and legal care be universal public goods.
+</p>
+
+<p>&lsquo;Affordable&rsquo; does not mean free, because resources are seldom as large as wishes. Everyone with the capacity to benefit from higher education should have access to it. No-one who avoids the great life-shorteners (obesity, lack of exercize, alcohol, nicotine, and probably other psychoactive chemicals) should be bankrupted by a medical bill. No legal case should go forward without equal arms (both sides with the same amount of money to spend on the case).
+</p>
+
+<p>In 4 areas unjust inequality flourishes simply because it can: finance, management, capitalist <i>rentisme</i>, and personal rescue. Financiers take more than their share because money passing through their hands can be made to stick. Corporate management takes more than their share because we let them. Rentiers can accumulate indefinite capital. Lawyers and MDs take advantage of us when they <b>bail us out of <i>individual</i> trouble.</b> Yet the social value of such people is no greater than that of other professionals whose work tends to <b>keep <i>society</i> out of trouble</b> (e.g., school teachers, engineers) &mdash; but by its nature keeps them honest. The ability of the 1% to pay a premium for professional services distorts both the pay scale and the availability of scarce human resources.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#09">&#9651;&emsp;&emsp;</a>
+<span class="s8"></span>E =<a href="#TOC" id="10"> Empiricism </a>
+<a class="tri" href="#11">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Empiricism comes in two flavors. The <i>general</i> aspect is the foundation of scientific method, the experimental approach to truth of trial and error, observation, and analysis. The 150 empirical years of the Industrial Revolution have shown that there is money to be made and progress to be had by replacing religious dogma with experimental science. This got us mechanical slaves to do our drudge work, and gadgetry to improve life.
+
+Ironically, it was the empirical attempt of True Believers to understand how Coyotl organized the universe that laid the foundation of observational science. This very effort led to doubts about the reality of and necessity for constructs like Coyotl, illustrating Buddha&apos;s observation that magical thinking is useful at certain stages of personal development, but is counterproductive if retained past its sell-by date.
+</p>
+
+<p>It is a curious quirk of human nature that those most devoted to dogma are willing to use the benefits of empiricism to oppose it. The Discovery Institute uses all of the techniques of modern science (except an open mind) in its efforts to return us to the Dark Ages. Logical attempts to return to the past would restrict themselves to using the tools of the past to <a class="fn">press their case<span>
+	Recall Victor Stenger&apos;s epigraph to Ch. 7.
+</span></a>, but we shouldn&apos;t expect logic from religious folk.
+The Amish reject all modern inventions after their formative cut-off date, when they might just as logically have chosen a Neolithic cut-off.
+</p>
+
+<p>The <i>specific</i> aspect of empiricism is the idea that some features of religion are good for individuals and society, and so should be encouraged, while other features are bad for us and should be discouraged. If a church&apos;s outreach program helps people, well and good. It might even deserve a tax break on that part of its income.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#10">&#9651;&emsp;&emsp;</a>
+<span class="s8">T</span> = <a href="#TOC" id="11"> Tolerance </a>
+<a class="tri" href="#12">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Fundamentalists tell me that tolerance can be justified only as a kindness that gives them time to reach the unsaved. This is an illogical fear that one&apos;s god cannot do what is right, and requires the help of fundamentalists. Egocentrism once again.
+</p>
+
+<p>A classic example is the murder of Islamic barbers. Sura 48:27 says &lsquo;You will enter the Sacred Masjid (a mosque, or prayer area) &hellip;, and you will cut your hair or shorten it there&rsquo;. This is for protection against sympathetic magic (your enemy needs bits of you to put in dolls so the needles know whom to  hurt). In 2004, True Believers took advantage of the prevailing lawlessness in Iraq to murder dozens of barbers and blow up beauty salons {<cite>GW</cite> 2005-07-15 p3}.  Granting, for the sake of argument, that Allah exists and sympathetic magic works, the danger is to the shorn individual, the risk he takes is his own, and the Quran offers advice to the fearful. This is incomprehensible to some Moslems. Any one disobeying their interpretation of God&apos;s Arbitrary Haircut-Law needs killing. Allah hasn&apos;t done it, so somebody has to! This is typical Islamologic: the greatest sin in Islam is <i>shirk</i>, which is attributing helpers to Allah, who is omnipotent &mdash; and perfectly capable of killing barbers on his ownif he thinks they need it. trying to usurp his prerogatives by helping him is, after all, a sin.
+</p>
+
+<p>Eric Hoffer noted that an obsessive interest in the private lives of others is an attempt to compensate for one&apos;s own meaningless life &mdash; and what better way to find meaning than by playing god? Intolerance is not a Moslem monopoly. In our own 12th century, Christians were doing equally silly things. The flaw lies in True Belief. Those who kill for &lsquo;religion&rsquo; simply enjoy killing. It also may be that Islam&apos;s fatalism &mdash; inshallah, &lsquo;if Allah wills it&rsquo; &mdash; encourages a meaningless life. If everything is arbitrary at the whim of an incomprehensible god, the only exceptions are the immutable rules of religion, and the only meaningful action available is to go kill us some barbers.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#11">&#9651;&emsp;&emsp;</a>
+<span class="s8">E</span> = <a href="#TOC" id="12"> Epistemology </a>
+<a class="tri" href="#13">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Scepticism is the bane of patriarchs, autocrats, politicians, preachers, advertizers, gurus, rote teachers, and anyone else who wants your money, vote, loyalty, and mindless compliance. It is a primary bulwark of democracy and the antithesis of gullibility. Scepticism is the handmaiden of epistemology, the neglected discipline that asks how we know what we claim to know, and how we distinguish justified from unjustified belief.
+</p>
+
+<p>While the word &lsquo;belief&rsquo; is often used to describe a scientist&apos;s attitude toward a concept, and this fits the dictionary description, &lsquo;an acceptance that a statement is true&rsquo;, the colored boxes in the last row of Table 16.3 separate scientific &lsquo;belief&rsquo; from the other varieties. Think where we might be if the emotion-free precision of mathematics, and the ability to perform experiments that falsify wrong ideas, could be applied to history, political theory, religion, and other contentious fields!</p>
+
+<hr>
+<table  class="tcen" style="font-size:90%; width:93%;">
+
+<caption>
+<a class="tri" href="#T16.2">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T16.3"> Table 16.3 </a>
+<a class="tri" href="#T16.4">&emsp;&emsp;&#9654;</a>
+Scepticism. Examples of &lsquo;things believed in&rsquo;, some of their properties, and the sceptic&apos;s response to their assertions. The profit motive is omitted on the grounds that it will attach to anything it can (e.g., Politics, Santa Claus), but it cannot be ignored in the real world.
+</caption>
+
+<thead>
+<tr><th>Realm: Things Believed</th>
+    <th>Utility, Function</th>
+    <th>Authority</th>
+    <th>How improve?</th>
+    <th>Sceptic&apos;s response</th></tr>
+</thead>
+
+<tbody>
+<tr><td><b>Social:</b><br>
+    Table manners, Dress codes</td>
+    <td>Lubricate society, Define strata </td>
+    <td>Arbitrary but pragmatic</td>
+    <td>Change does not mean improvement</td>
+    <td>Accept, with reservations</td></tr>
+
+<tr><td><b>Urban myth:</b><br>UFOs</td>
+    <td>Tribal solidarity</td>
+    <td>Personal conviction</td>
+    <td>Better imagination</td>
+    <td>Look for better explanation</td></tr>
+
+<tr><td><b>Politics:</b><br>
+    George/cherry&nbsp;tree<br>
+    William&nbsp;Tell/apple<br>
+    Robin&nbsp;Hood/sheriff</td>
+    <td>Nation building</td>
+    <td>Gentleman&apos;s agreement not to debunk</td>
+    <td>Better mythopoetry</td>
+    <td>Enjoy</td></tr>
+
+<tr><td><b>Education:</b><br>
+    Reading,<br>
+    ‘Riting,<br>
+    ‘Rithmetic,<br>
+	Ecology</td>
+    <td>Democracy needs a literate, numerate, and ecolate population</td>
+    <td>Experience</td>
+    <td>Read John Taylor Gatto and Garrett Hardin</td>
+    <td>Follow Gatto&apos;s and Hardin&apos;s suggestions</td></tr>
+
+<tr><td><b>History:</b><br>
+    Government,<br>
+	Social policy,<br>
+	Corporations</td>
+    <td>Avoid repeating mistakes</td>
+    <td>Experience</td>
+    <td>Analysis, Experiment</td>
+    <td>Eternal vigilance</td></tr>
+
+<tr><td><b>Tradition:</b><br>
+    <b>Religion</b>,<br>
+	Santa Claus,<br>
+	Tooth fairy </td>
+    <td>Benefits of Ch. 5; Encourage consensual behavior</td>
+    <td>Assertion, Personal conviction, Parents</td>
+    <td>See Book F</td>
+    <td>Look for better explanation</td></tr>
+
+<tr><td class="bgyel"><b>Science:</b><br>
+    Thermodynamics,<br>
+	Evolution,<br>
+	Ecology </td>
+    <td class="bgyel">Describes reality in numerical detail</td>
+    <td class="bgyel">UNABLE TO FALSIFY </td>
+    <td class="bgyel">Better data, Better theory</td>
+    <td class="bgyel">If I redid the experiment correctly, would I get the same results? </td></tr>
+</tbody>
+</table>
+
+
+
+<h3>
+<a class="tri" href="#12">&#9651;&emsp;&emsp;</a>
+<span class="s8">R</span> = <a href="#TOC" id="13"> Rationality </a>
+<a class="tri" href="#14">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>One can at least explain the concept of tolerance to an intolerant person. Explaining rationality to the irrational fails, possibly for lack of frontal-lobe connections. This apparently permanent lack might be the result of growing up without adequate input. There is little we can do about this, but the <a href="http://darwinawards.com">Darwin Awards</a> at least acknowledge the problem. They are given posthumously to those who have improved the gene pool by eliminating themselves in some superlatively irrational or incompetent act.
+</p>
+
+<p>We have good, if negative, evidence that irrationality can be taught. One example comes from <a class="fn">Donald G. Saar,i<span>
+	DG Saari (1991) &lsquo;A fourth-grade experience&rsquo; math.uci.edu/~dsaari/fourthgrade.pdf.
+</span></a> a mathematician at Northwestern University, who normally studies the paradoxes of preferential voting, a topic which has been an active field since Borda, Condorcet, and Laplace showed how complex it could be in the 1770s. Saari presented a voting paradox to 4th-graders during &lsquo;Mathematics Awareness Week&rsquo;. It turned out that the kids unanimously disagreed with the standard answer &mdash; and that they were right. The customary weighting of preferential votes can, and sometimes does, elect a candidate whom a majority dislike. The children immediately picked a fairer but slightly more complex algorithm (one initially proposed by Borda, with the disadvantage of requiring election officials who can multiply as well as add). It turns out that the &lsquo;Borda-Abe-Susan-Cara&rsquo; algorithm is not only fair, but it is the only method that &lsquo;provides immunity from all possible kinds of electoral chaos&rsquo;.
+</p>
+
+<p>Saari concludes that &lsquo;the pressures of the playground and group interactions have formed a sense of fairness within these children&rsquo;, and then points out that there is another issue here. If this class is an indication of what is possible at such a young age, then we must wonder what it is we do to destroy the natural creativity and inventiveness exhibited by these children. We must wonder how our usual classroom approach of imposing solutions through authority rather than exploring ideas to generate and understand answers can lead us to mediocrity.
+</p>
+
+<p>On the face of it, these 4th-grade children lose their native ability during the next 8 years of schooling. This is a well documented problem, not accidental, and one we will look at again in <a href="../_E/E19.shtml#15">Ch. 19</a>. In the meantime, if our teaching methods seem to reduce rationality, think about how one might achieve this result intentionally.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#13">&#9651;&emsp;&emsp;</a>
+<span class="s8">S</span> = <a href="#TOC" id="14"> Secularism </a>
+<a class="tri" href="#15">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">John Adams said unto his son, &lsquo;Without the pen of Paine,<br>
+The mighty sword of Washington were wielded in vain.&rsquo;
+</p>
+
+<p>The foundational documents of the American government include <cite>The Declaration of Independence</cite>, <cite>The Federalist</cite> and <a href="http://constitution.org/afp/afpchron.htm"><cite>Anti-Federalist</cite></a> <cite>Papers</cite>, <cite>The Constitution</cite>, all written by 1788, and the 1791 <cite>Bill of Rights</cite>. Taking John Adams&apos;s advice, I would add 1776&apos;s <cite>Common Sense</cite>.
+</p>
+
+<p>This list still omits an important historical record of the thinking of the <a class="fn">Founding Fathers<span>
+	These men had no common creed, and all rejected the mythology of Christianity. Deists, Freemasons, &lsquo;rational theists&rsquo;, whatever, most of them at some point commented on the unnecessary misery created by the superstition and overbelief of mainstream Christianity.
+</span></a> &mdash; Adams, Franklin, Jefferson, Madison, Paine, Washington &mdash; that is embodied in the<cite> Bill of Rights</cite>. Because it is easy reading (no legal jargon; no advanced political theory; no dry details of organization), and because of its central importance to current issues, one might expect it to be familiar to anyone exposed to a high-school Civics class.
+</p>
+
+<p>It is not. Commonly minimized as a &lsquo;pamphlet&rsquo; because of its popular tone, it &lsquo;plagiarized by anticipation&rsquo; the later research of David Strauss, Bruno Baur, and Ernst Rénan. It omitted the scholarly apparatus of the German theologians, but not their intellectual rigor, and it generated an immediate bibliography of some 340 papers &mdash; mainly indignant rebuttals. It is impossible to understand the religious history of England and America without including this book. So: Two critical challenges (for US citizens) are:
+</p>
+
+<ul>
+  <li>Name the author and book that best present the religion of the Enlightenment.</li>
+  <li>Describe this religion as was done in a single sentence by one Founding Father to another.</li>
+</ul>
+
+
+<p>If you cannot answer these simple questions, I suggest &mdash; in all seriousness &mdash; that you should (1) stop voting until you can, and (2) sue the School Board of your high school for educational malpractice. One of their implicit jobs is to ensure that future voters are prepared to exercize their civic duties in a responsible manner. A voter&apos;s education is inadequate for the needs of American democracy if these 2 challenges cannot be answered. (Those who find themselves in this condition might check the end of this chapter, and read the book identified there. Since the author was an Englishman, and his ideas were the common currency of the Scottish Enlightenment, anyone from Commonwealth or ex-colony should have no trouble with these challenges.) Be aware that in the Bible Belt, the School Board&apos;s choice for the book will be &lsquo;The Bible&rsquo;, and they will not have heard of the correct answer.
+</p>
+
+<p>Suing the local School Board will not repair past failures, and it  won&apos;t bring you any compensation, but it should alert the present Board to a neglected responsibility, and &mdash; maybe &mdash; lead to corrective action.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#14">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="15"> Constraints on Enlightenment Values </a>
+<a class="tri" href="#16">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The right of individual conscience, discovered by Axial and Enlightenment thinkers, is not absolute. It is limited by both Eirenic and Gaian considerations. Do what thou wilt &mdash; <i>up to a point</i>:
+</p>
+
+<ul>
+<li>Eirene, in the interest of relations ranging from family harmony up to avoiding nuclear annihilation,
+  	<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-TakeHome3.gif" alt="Take-home"></a>
+suggests: <span class="br">Do not do to others that which you dislike done to yourself</span>; </li>
+
+<li>Gaia, in the interest of sustainable survival, suggests: <span class="br">Do nothing irreversible to the natural world
+	<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-TakeHome3.gif" alt="Take-home"></a>
+except in the most inescapable and carefully considered cases.</span></li>
+</ul>
+
+
+
+<h2>
+<a class="tri" href="#05">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="16"> THE THIRD PEAK </a>
+<a class="tri" href="#40">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#17">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p class="epi">[T]he government of the United States of America is not in any sense founded on the Christian religion. &mdash; Article XI, <cite>1796 Treaty with Libya</cite>
+</p>
+
+<p>The 3rd peak of <a href="../_D/D-1.shtml#F13.0">Fig. 13.0</a> honors the Founding Fathers and the US Constitution of 1788. This, while it lasted, was arguably best that mankind has done. For the first time, the ideas of the Axial Age, refined by Enlightenment philosophers, could be turned into political reality for a new nation. It was a noble effort, and it worked reasonably well until the Civil War of the 1860s. Those who made and sold the products that war destroys so efficiently prospered, and then used their money to corrupt the system in the interest of Instinct-1.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#16">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="17"> Instinct-1 in the Anthropocene </a>
+<a class="tri" href="#18">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">&lsquo;Before I support Conservative principles,&rsquo; continued Coningsby, &lsquo;I merely wish to be informed what those principles aim to conserve.&rsquo; &mdash; Disraeli, <cite>Coningsby</cite> VIII, 3.
+</p>
+
+<p>An insight into how Instinct-1 has expanded since the Paleolithic short list of <a href="../_C/C11.shtml#T11.2">Table 11.2</a> is given by the Vedic slogan: <i>Krinvantu Visvam Aryam</i>. Literally, this translates as &lsquo;Aryanize the universe&rsquo; &mdash; or, as the Aryans thought of it, &lsquo;Ennoble the entire world&rsquo;. India remains sensitive to such megalomaniac aspirations because of the Aryan Invasion Theory, which held that the civilization of the Indus valley was destroyed by the Aryan hordes which poured into India through the northwestern passes after 1500 BCE, replacing the Harappan culture of the Indus valley <a class="fk" href="../_C/C10.shtml#F10.5">[Fig. 10.5]<span>
+	Ironically, Fig. 10.5 suggests that descendants of the people who first colonized the Indus valley eventually left by the Khyber Pass (1065 m), to become the remote ancestors of the Aryans.
+</span></a>. (It seems that they had actually arrived about 4000 BCE.) The Aryan attempt to conquer the world was repeated by Alexander the Great, Napoleon, and Hitler, but this should not be thought an Indo-European monopoly. Every horde out of Saharasia had similar ambitions: Mohamet and Chinghis Khan did their best. Instinct-1&apos;s most successful contemporary expression is epitomized in <cite>The Highlander</cite> movies, whose theme is duels between sword-wielding near-immortals who can kill eachother only by decapitation (buyout, or replacement of management), with the goal that &lsquo;There can be only one&rsquo; survivor, who will have absorbed the &lsquo;life force&rsquo; of all of his competitors &mdash; and their <a class="fn">markets,<span>
+	There is a wealth of subliminal propaganda for gangster capitalism and the personhood of corporations in popular entertainment. If you make a game out of spotting it, it loses its power to manipulate you.
+</span></a> and can charge as much as he wants.
+</p>
+
+<p>Table 16.4 covers some ways our society offers to attain alpha malehood. Most of the left-hand column is the cultural expression of the underlying genetic imperative, flexible enough to work for wolves, baboons, and MBAs.
+</p>
+
+<hr>
+<table class="tcen">
+<caption>
+<a class="tri" href="#T16.3">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T16.4"> Table 16.4 </a>
+<a class="tri" href="#T16.1">&emsp;&emsp;&#9654;</a>
+Instincts Today. Society offers many opportunities for expression of our conflicting instincts today. Column 2, an independent interpretation of the guiding principles of Mitt Romney by <a class="fk" href="http://robertreich.org/post/31335756096">Robert Reich<span>
+	RB Reich (2012) &lsquo;Romneyism&rsquo;
+<br>-----------------------<br>
+	Dr Reich is Chancellor&apos;s Professor of Public Policy at the Goldman School of Public Policy at the University of California at Berkeley. The principles were gleaned from Mr Romney&apos;s speeches during his presidential campaign. (Quoted with permission. Click to read his blog.)
+</span></a> was added to a long-completed table, with remarkably consistent fits. Whether these are Mormonisms or Republicanisms is not known. Some cells are not a perfect match for the categories to their left, but their tenor is so similar that they seem a fair example. Compare Tables <a href="../_C/C11.shtml#T11.3">11.3</a> and <a href="../_D/D13.shtml#T13.3">13.3</a>.
+</caption>
+
+<thead>
+<tr><th class="bgred">INSTINCT I:<br>Feudofascist; <i>machismo</i></th>
+	<th class="bgred">ROMNEYISM, according to Robert Reich<br>(a personal
+	example of the feudofascist platform)</th>
+    <th class="bggrn">INSTINCT II:<br>Liberal; <i>bonisma</i>
+	</th></tr>
+  </thead><tbody>
+
+<tr><td class="bgred">Power and money define worth and &lsquo;elite&rsquo;; therefore they should reinforce eachother.</td>
+	<td class="bgred">&lsquo;Individual worth depends on net worth &mdash; how much money one has made, and the value of the assets that money has been invested in. Any person with enough intelligence and ambition can make a fortune. Failure to do so is sign of moral and intellectual inferiority.&rsquo;</td>
+	<td class="bggrn">Intelligence and ability define worth and &lsquo;elite&rsquo;. Private and corporate money should have no political influence.</td></tr>
+
+<tr><td class="bgred">&lsquo;May your tribe increase&rsquo; is a blessing, so abortion is an incomprehensible wrong.</td>
+	<td></td>
+	<td class="bggrn">The sustainable world population is ~3 billion. Early abortion is an option for population control.</td></tr>
+
+<tr><td class="bgred">The natural world was made for man to exploit. Animals are soulless automata.</td>
+	<td  class="bgred">&lsquo;Pollution, unsafe products, unsafe working conditions, financial fraud, and other negative side effects of the pursuit of profits are the price society pays for profit-driven growth. They should not be used as excuses to constrain the pursuit of profits through regulation.&rsquo;</td>
+	<td class="bggrn">Walk lightly on the Earth, as stewards, not owners. What is hateful to you, do not do to sentient beings.</td></tr>
+
+<tr><td class="bgred">Women: barefoot and pregnant. Nubile female staff: available on demand.</td>
+	<td></td>
+	<td class="bggrn">An educated mother is the best possible start in life, so it is more important to educate girls than boys.</td></tr>
+
+<tr><td class="bgred">God hates homosexuality. It is a deliberate, perverse choice.</td>
+	<td></td>
+	<td class="bggrn">Sexual preference has a biological basis and exists because it increases viability (in unknown ways).</td></tr>
+
+<tr><td class="bgred">Who dies with the most toys wins. Conspicuous consumption is good.</td>
+	<td></td>
+	<td class="bggrn">&lsquo;Use it up, wear it out, make it do, or do without.&rsquo; Voluntary simplicity and recycling are good.</td>
+
+<tr><td class="bgred">Inequality is desirable. Greed is the motivator; competition the means; wealth the proof of merit.</td>
+	<td  class="bgred">&lsquo;Workers are a means to the goal of maximizing corporate profits. If workers do not contribute to that goal, they should be fired. If they cannot then find other work that helps maximize profits in another company, their wages must be too high, and they must therefore accept steadily lower wages until they find a job.&rsquo;</td>
+	<td class="bggrn">Equality of opportunity is desirable. Entropy reduction is the goal; cooperation the means.</td>
+
+<tr><td class="bgred">Schools should aim for docile obedient workers who know their place.</td>
+	<td class="bgred">&lsquo;People who fail in the economy should not be coddled. They should not receive food stamps, Medicaid, or any other form of social subsidy. Coddling leads to a weaker society and a weaker economy.&rsquo;</td>
+	<td class="bggrn">Schools should aim for self-reliant rational thinkers capable of critical analysis.</td>
+
+<tr><td class="bgred">Wealth is created by the effort of exceptional individuals. Monopoly is a deserved reward. Taxation is theft.</td>
+	<td  class="bgred">&lsquo;Taxes are inherently bad because they constrain profit-making. It is the right and responsibility of individuals and corporations to exploit every tax loophole they (and their tax attorneys) can find in order to pay the lowest taxes possible.&rsquo;</td>
+	<td class="bggrn">Opportunity for wealth comes from societal complexity. Taxes nourish the infrastructure of wealth.</td>
+
+<tr><td class="bgred">‘"Long term" is tomorrow morning.&rsquo; &mdash; Nick Leeson, who brought down Baring&apos;s Bank.</td>
+	<td></td>
+	<td class="bggrn">&lsquo;Short term&rsquo; is an interglacial. &lsquo;Medium term&rsquo; is the lifetime of the habitable Earth.</td>
+
+<tr><td class="bgred">We cannot afford to care for the planet until we are all rich. Nothing can limit our growth. We cannot hurt the planet.</td>
+	<td class="bgred">&lsquo;All factors of production &ndash; capital, physical plant and equipment, workers &ndash; are fungible and should be treated the same. Any that fail to deliver high competitive returns should be replaced or discarded. This keeps an economy efficient. Fairness is and should be irrelevant.&rsquo;</td>
+	<td class="bggrn">Ecology is the study of what economists try to manage. Resources are finite. We can destroy ecosystems and planetary homeostasis.</td></tr>
+
+<tr><td class="bgred">Corporations, shielding us from responsibility, are most effective as Constitutionally protected fictitious persons.</td>
+	<td  class="bgred">&lsquo;Corporations are the basic units of society. Corporations are people, and the overriding purpose of an economy is to maximize corporate profits. When profits are maximized, the economy grows fastest. This growth benefits everyone in the form of greater output, better products and services, and higher share prices.&rsquo;</td>
+	<td class="bggrn">Corporate law, shown to produce amoral, psychotic, and irresponsible behavior, needs rethinking.</td></tr>
+
+<tr><td class="bgred">Law should support the goals above. Wealth should ensure favorable outcomes.</td>
+	<td></td>
+	<td class="bggrn">Law is empirical and pragmatic. &lsquo;Equality before the law&rsquo; requires &lsquo;equal arms&rsquo;.</td></tr>
+
+<tr><td class="bgred">To the victor belong the spoils, so appointees should be nephews and cronies.</td>
+	<td class="bgred">&lsquo;Democracy is dangerous because it is forever vulnerable to the votes of a majority intent on capturing the wealth of the successful minority, on whom the economy depends. The rich must therefore do whatever is necessary to prevent the majority from exercising its will, including spending large sums of money on lobbyists and political campaigns.&rsquo;</td>
+	<td class="bggrn">Burocracy, for all its faults, aims at &lsquo;the rule of law, not men&rsquo;. Competence should be the criterion.</td></tr>
+
+<tr><td class="bgred">Our Scripture is the inerrant word of god and defines the goals above.</td>
+	<td class="bgred"> &lsquo;The most virtuous among the rich will go a step further and  run for president&rsquo; &mdash; even though Mormon doctrine, like Islam&apos;s, deprecates democracy in favor of theocracy.
+	<td class="bggrn">Religion is man-made,  specifically to allow group living. It can be improved as needed.</td></tr>
+
+<tr><td class="bgred">Preemptive war is a legitimate policy.
+    <td>
+    <td class="bggrn">&lsquo;Speak softly and carry a big stick.&rsquo;
+
+<tr><td class="bgred"><b>Government by deceit</b> is necessary.
+	</td>
+	<td class="bgred">&lsquo;Politics is a game whose only purpose is to win. Any means used to win the game is legitimate even if it involves lying and cheating, as long as it gains more supporters than it loses.&rsquo;</td>
+	<td class="bggrn">&lsquo;Government by, of, and for the people.&rsquo;</td></tr>
+
+<tr><td class="bgred">The only legitimate Constitutional function is &lsquo;common defence&rsquo;.</td>
+      <td></td>
+      <td class="bggrn">The overarching Constitutional function is to &lsquo;promote the general Welfare&rsquo;.</td></tr>
+
+<tr><td class="bgred">Civilizations are remembered by the accomplishments of the few.</td>
+	<td class="bgred">&lsquo;The three most important aspects of life are family, religion, and money. Patriotism is a matter of guarding our economy from unfair traders and undocumented immigrants, rather than joining together for the common good. We owe nothing to one another as citizens of the same society.&rsquo;</td>
+	<td class="bggrn">Civilization is defined by the contentment of the many over time.</td></tr>
+</tbody></table>
+
+
+<p>The key aspects are always power over males, to prevent them from breeding, and power over females, to ensure that they breed with him. Epiphenomena are characteristic of the species and times, and include whatever assists the sex&ndash;power&ndash;token-hoarding core. More detailed instructions need not be coded in genes. Machismo, to answer Coningsby, is what the conservatives want to conserve. Proponents may not understand why this seems right to them, but they know in their skull and bones that this is how things should be. Instinct-1 behavior would seem <i>dulce et decorum</i> to a Roman <i>paterfamilias</i> (who had the power of life and death over his household). Nothing in it would seem strange to a tribal leader of the Visigoths, feudal nobility, a Victorian gentleman, a 3rd-world dictator, a Moslem, a Mormon patriarch, the descendants of Prohibition rum runners and oil barons, baboon packs, or the upper reaches of any hierarchy &mdash; corporate, social, military, political, or religious. Oddly, <i>some</i> general-staff military seem the most civilized and least Instinct-1-ridden of the hierarchs &mdash; perhaps because they have seen man&apos;s inhumanity to man at closer range than the others.
+</p>
+
+<p>This is not to say that conservatism is all bad, for
+</p>
+
+<blockquote>every movement gets hijacked by self-serving looters and extremist zealots, now and then, [and there was an earlier, respectable Conservatism which was about] limiting big government by keeping it out of bedrooms, libraries and private lives, encouraging accountability, fiscal responsibility and restraint in foreign affairs, while empowering creative and competitive small business, not welfare for corporate CEOs and [klepto]crats. &mdash; <a class="fn">David Brin<span>
+	D Brin (2004) &lsquo;War in the 21st Century: Maturity vs. Neocon Panic and the true role of Pax Americana&rsquo; http://www.davidbrin.com/neocons.html.
+</span></a>
+</blockquote>
+
+<p>The goals of Brin&apos;s conservatism are not instinctive, but deeply rational, the <i>sine qua non</i> of government, on which the more ambitious goals of Instinct-2 can be built.
+</p>
+
+<p>Because some of the Instinct-1 values are profitable, they were imposed on society for the benefit of capitalists with no foresight, who merely wanted their machinery running &apos;round the clock. The Gaian &lsquo;Use it up, wear it out, &hellip;&rsquo; approach &mdash; claimed by Vermont as its very own &mdash; was deliberately destroyed, by Department of Agriculture propaganda, by home economics courses, by designed obsolescence, by relentless advertizing, by ridicule, by every form of unscrupulous psychological manipulation invented by academics. The net result is that we pay more (advertizing, fancy packaging, and monetary lubrication of the distribution system are expensive), and far oftener than necessary. (We could make everything we <i>need</i> with a 3-day work week.)
+</p>
+
+<p>The dual-instinct hypothesis explains why the attitudes in each column of <a href="#T16.4">Table 16.4</a> frequently travel together. I tried heading the Instinct-1 column &lsquo;Neoconservative&rsquo;, and then &lsquo;<a class="fn">Neoliberal,<span>
+	‘[N]eo-liberalism allows a tiny super-rich transnational class and its supporters to control most of the world with lamentable consequences for pretty much everyone else (not to mention the environment on which our future depends).&rsquo; &mdash; Caspar Henderson&apos;s epitomization of David Harvey&apos;s <cite>A Brief History of Neoliberalism.</cite>
+</span></a>&rsquo; and finally, finding that I could not tell these apart in practice, settled for the inclusive &lsquo;Feudofascist&rsquo;. Such a table cannot be exhaustive, and while its headings may be idiosyncratic, their dualism has long been recognized. Zoroaster spoke of <i>angra mainyu</i>, regressive mentality, and <i>spenta mainyu</i>, progressive mentality; Pharisaic Judaism of <i>yetzer ha-r‘a</i> (the &lsquo;evil inclination&rsquo;) and <i>yetzer ha-tov</i> (the &lsquo;good inclination&rsquo;); American Iroquois tribes tell of the twin brothers of the first woman: the evil <i>Tawis-karong</i>, and the good <i>Tijus-kaha</i>. Problems arise when feudofascists start believing that the attitudes of Column 1 are virtuous and god-approved simply because they are instinctive and  profitable, do not require analysis or justification.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#17">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="18"> Instinct-2 in the Anthropocene </a>
+<a class="tri" href="#19">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Instinct-2 is less well characterized than machismo. Early evolutionists did not expect to find mutual aid among animals, so it was omitted from early evolutionary theory. Consequently, &lsquo;survival of the reddest in tooth and claw&rsquo; has been used to justify the abysmal programs noted near <a href="../_C/C11.shtml#T11.2">Table 11.2</a>. All of this is a misreading of animal behavior, for there is a considerable literature about <a class="fn">mutual aid in the animal kingdom.<span>
+	P Kropotkin (1902) <cite>Mutual Aid: A Factor in Evolution</cite> (Extended Horizons Books, Boston, 1959).
+</span></a>
+</p>
+
+
+
+<h3>
+<a class="tri" href="#18">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="19"> Limbic bicamerality </a>
+<a class="tri" href="#20">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Early conflict between the instincts is recorded in the <a class="fn">Torah<span>
+	See also Num 14:13 ff.
+</span></a> where YHVH&apos;s Instinct-1 was tempered by the Instinct-2 of Jewish prophets. Judaism prides itself on reminding YHVH of his higher ideals when he goes vindictive. The very idea of correcting a god seems sacrilegious to most people. It appears that only the Jews and Zoroaster have recognized the necessity of civilizing our gods before we can hope to civilize our society. This concept is worth more to us than all the Nobel prizes of the Ashkenazim. The Biblical examples, couched as dialogs between a prophet and YHVH, may be literary reflections of internal debates between Instincts I and II in a bicameral mind, to whom instinctive instructions were still &lsquo;hallucinated&rsquo; <a class="fn">verbalizations.<span>
+	I have been reminded that the Jewish teaching tradition of <i>pilpul</i> uses this technique of presenting both sides of the argument in balanced debate.
+</span></a> Abraham does something that would never occur to Mohamet, when YHVH, annoyed with Sodom and Gomorrah (for unspecified <a class="fn" href="../_E/E18.shtml#08">reasons)<span>
+	The &lsquo;sin&rsquo; is not identified. Tom Holland suggested that it was racism; John Boswell, inhospitality. [Click to see why it wasn&apos;t homosexuality.]
+</span></a> threatens to destroy them. Abraham asks, &lsquo;Wilt thou also destroy the righteous with the wicked?&rsquo;, and then dickers YHVH down to sparing the city if 10 righteous people can be found in it {Genesis 18: 20-26}.
+</p>
+
+<p>Much later, Moses intervenes to save the Israelites from the wrath of an offended alpha male when YHVH finds them worshipping a golden calf {Exod 32: 8-14}. Perhaps the ability of Israelite prophets to housebreak their god is related to a unique period in brain development. Recall <a href="../_A/A01.shtml#T1.4">Table 1.4</a>, where the brain uses duplicated cortical structures for different purposes. Contemporary cases of multiple personality timeshare the limbos, displaying different memories and emotional suites serially. Presumably in bicameral days the duplicated bits of the limbos operated in parallel with their cortical hemisphere, so that the Israelite prophet and his god could have different emotional reactions simultaneously. Never having observed a prophet arguing with his bicameral god, I can only hypothesize that the god, conservative and retrogressive, would behave like any corporate executive with Instinct-1 to the fore, while a prophet worthy of the name would be an advocate for Instinct-2.
+</p>
+
+<p>Consider cats. Purring signals &lsquo;I am harmless and not aggressive&rsquo;, while hissing says &lsquo;I feel threatened and am ready to kill&rsquo;. These limbic emotions are normally directed at very different targets. Used together (the sound-production mechanisms are independent), they indicate a cat expressing a complex love-hate relationship. From our history and the context (I had loaned &lsquo;Tela&rsquo; to a dying friend, whom she knew and liked, and she had adjusted to a having a new person), she was saying something like: &lsquo;If I fall in love with you again, you&apos;ll just hurt me again!&rsquo;. (I had not realized that she had interpreted the loan as <a class="fn">rejection.<span>
+	I have similarly misjudged the responses of the human female on occasion, so it wasn&apos;t just an inability to read a <i>cat&apos;s</i> mind.
+</span></a>
+</p>
+
+<p>The point is: If cats can feel contrary emotions simultaneously, prophets certainly should have been able to. The question that interests the student of religion is why Judaism was sometimes able to turn this ability to good use, while other major religions blindly accepted sub-standard divine behavior as legitimate, if occasionally inscrutable.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#19">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="20"> Commentary: Instinct-2 Today </a>
+<a class="tri" href="#21">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">if you wanted to design a system that would maximally benefit the sociopaths, you couldn&apos;t have done any better than the one we have now &mdash; Climate scientist Guy McPherson. This is not accidental!
+</p>
+
+<p>Here we expand possibly unfamiliar ideas from the right-hand column of Table 16.4. Instinct-1 is a rigid &lsquo;me first&rsquo; structure that panics upon minor departures from its canon because it sees them as threats to the <a class="fn">monolithic whole.<span>
+	Consider the 50-odd consecutive Congressional attempts by the Tea Party to destroy, repeal, sabotage, delay or otherwise eliminate a minor effort to improve inadequate US health-care. Apparently there is only so much health and happiness to go around, and <i>by rights it belongs to the rich!</i>
+</span></a> Instinct-2 is more flexible, so the liberal community usually holds a variety of views on any topic, and some explanation of the entries may be useful.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#20">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="21"> Elites </a>
+<a class="tri" href="#22">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Elites have traditionally been people whose family money guaranteed exposure to a good education and entry to the old-boy network. A more functional definition is &lsquo;those who are responsible for progress&rsquo; &mdash; intellectuals, scientists, artists, writers, inventors, other creative types, and anyone who can rise out of the background under her own power in a non-exploitive manner.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#21">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="22"> Population </a>
+<a class="tri" href="#23">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>See Chapter 20.
+</p>
+
+<h4>
+<a class="tri" href="#22">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="23"> Nature </a>
+<a class="tri" href="#24">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Instinct-1 here is straight out of American theocracy. James Watt, Reagan&apos;s Secretary of the Interior, infamously said that when Christ returned in 2000, he would be really annoyed with us if we hadn&apos;t used up the Earth&apos;s resources. (Whatever your theopolitical outlook, you should be deeply grateful that Watt failed in this goal.)</p>
+
+<p>Instinct-2 here is a paraphrase of Hillel; Gautama said it 600 years earlier.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#23">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="24"> Women </a>
+<a class="tri" href="#25">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p class="epi">Men have authority over women because Allah has made the one superior to the other&hellip; &mdash; <a class="fn">Mohamet,<span>
+	Moslems object when such idiocies are attributed to Mohammad rather than Allah, but the 3rd-person syntax shows that this cannot have been Allah talking.
+</span></a> Sura 4:34.
+</p>
+
+<p>In that case, why don&apos;t <i>women</i> have the authority?</p>
+
+<p>In a fine bit of irony, the Global Study of Sexual Attitudes and Behavior (30,000 people; 29 countries) found that contrary to the beliefs of wannabe alpha males, there is a strong correlation between gender equality and sexual satisfaction. &lsquo;Nations categorized as having more <q>gender-equal</q> relationships are more likely to report having fulfilling sex lives in their later years.&rsquo; {<cite>GW</cite> 2007-04-28 p20}.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#24">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="25"> Homosexuality </a>
+<a class="tri" href="#26">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Why does homosexuality so upset religious fundamentalists? [<a href="../_E/E18.shtml#T18.3">Quick preview.</a>] For now, consider a suggestion by theologian Morton Smith. Drawing on scattered indications in the canonical gospels [including Mark 14:51 ff] and the <cite>Secret Gospel of Mark</cite>, he concludes that</p>
+
+<blockquote>the mystery of the kingdom of god&rsquo; &hellip; was a water baptism administered by Jesus to chosen disciples, singly and by night. The costume, for the disciple, was a linen cloth worn over the naked body &hellip; probably removed for the baptism proper &hellip; after [which] the disciple was possessed by Jesus&apos;s spirit and so united with Jesus &hellip; and was thereby set free from the laws ordained for and in the lower world. Freedom from the law may have resulted in completion of the spiritual union by physical union. This certainly occurred in many forms of Christianity. &mdash; <a class="fn">Morton Smith<span>
+	M Smith (1985) <cite>The Secret Gospel: The Discovery and Interpretation of the Secret Gospel of Mark</cite> (The Aquarian Press, Wellingborough, Northamptonshire).
+</span></a>
+</blockquote>
+
+
+
+<h4>
+<a class="tri" href="#25">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="26"> Consumption </a>
+<a class="tri" href="#27">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>We have created an economic system which requires perpetual and increasing consumption, for the benefit of managers and stockholders. To a thinking person, this is shortsighted greed; to a planetary ecologist, it is appalling stupidity.
+</p>
+
+<p>The &lsquo;invisible hand&rsquo; of Adam Smith &mdash; given certain condition &mdash; guarantees an efficient market that matches supply to demand with minimum waste and cost. The conditions are strong and generally <a class="fn">taken to be:<span>
+	F Allen, M Zhao (2007) &lsquo;The Corporate Governance Model of Japan: Shareholders are not Rulers&rsquo; p. 1;  http://finance.wharton.upenn.edu/~allenf/download/Vita/Japan-Corporate-Governance.pdf
+</span></a>
+
+
+<ol class="u1">
+<li>No friction (minimum wages, no transaction costs or employee discontent &hellip;);
+<li>No cost from externalities such as pollution, public health, safety, environmental protection, &hellip;;
+<li>No missing markets;
+<li>Perfect and complete market;
+<li>Perfect competition (no duties, tarifs, taxes, &hellip;); and
+<li>Uniform information so that nobody has an unfair advantage;
+<br> &mdash; to which I will add:
+<li>Many decision makers, since oligopolies are known to kill the invisible hand. According to the Federal Trade Commission, oligopolies characteristically raise prices by 1/3 as soon as 4 large firms control <a class="fn">40% of their market.<span>
+	MJ Green, with BC Moore, Jr., B Wasserstein (1972) <cite>The Closed Enterprise System: Ralph Nader&apos;s Study Group Report on Antitrust Enforcement</cite> (Grossman Publishers, NYC).
+</span></a>
+</ol>
+
+
+<p>Corporate management does its best to ensure conditions 1&ndash;4, demands conditions 5 & 6 from government &mdash; and does its best to conceal its own information until it can get rid of the competition entirely. The invisible hand is also a statistical process that depends upon innumerable decision-makers maximizing their own returns. This is contrary to the goal of globalization, which is to maximize management returns for as few organizations as possible &mdash; preferably, one. Since you can only maximize one factor, globalization destroys the invisible hand and the efficient market. You may have noticed that when a bank buys out its competition, it fires people, redistributes the money saved into management salaries, and lays new charges on all of its accounts.
+</p>
+
+<p>In the other direction, an unintended result of compulsory privatization in Britain has been the appearance of non-profit cooperatives to operate services abandoned by the government (as they have in <a href="../_F/F23.shtml#19">Mondrag&oacute;n)</a>. Unlike privatized railroads and &lsquo;public&rsquo; utilities, some of these have actually improved the situation for their clients. (This may be related to an effect often noticed when time-and-motion studies were in vogue: any group that received a bit of attention produced better results simply because its self-esteem increased.)</p>
+
+<p>Apparently, the only easily understood economic system is the &lsquo;Robinson Crusoe&rsquo;. In this mode, devoid of middlemen and transaction costs, we build as well as we can so we don&apos;t have to do it again. We use as little as we can, so we don&apos;t have to make so much stuff. Logic suggests that in the large this would let us move toward a more relaxed working schedule. Self-employed friends to whom family, leisure, and community service are more important than <i>things</i> have tried several arrangements: those with long attention spans prefer 3 10-hour days a week, others like 6 <a class="fn">4-hour days<span>
+	Recall that in hunting-gathering societies the women gather about 3 hours a day, while the men sit around the fire and discuss the fine points of last week&apos;s hunt.
+</span></a>. The point is that machine-aided productivity exceeds our needs. This has enabled corporate profits to rise 25 times faster than worker pay in recent decades, which is a grossly unfair distribution of surplus wealth, and a typical example of the alpha male&apos;s ideal world being the medieval feudal system.
+</p>
+
+<blockquote>In face of the facts that modern man lives more wretchedly than the cave-man, and that his producing power is a thousand times greater than that of the cave-man, no other conclusion is possible than that the capitalist class has mismanaged, &hellip; criminally and selfishly mismanaged. &mdash; Jack London, <cite>The Iron Heel</cite>
+</blockquote>
+
+<p>Instinct-2 here is traditional Vermont wisdom. It is a reprise of Socrates&apos;s comment about the Athenian agora, &lsquo;Look at all of the things I don&apos;t need!&rsquo;, and the Hasidic detachment from material things: &lsquo;What&apos;s mine is yours and what&apos;s yours is yours too&rsquo;.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#26">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="27"> Equality </a>
+<a class="tri" href="#28">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p class="epi">The real threat to our republic is an alarming breakdown in social cohesion, and the cause of this breakdown is
+obvious: radical, rising economic inequality, and the
+anger and anxiety it engenders  &hellip;. [A] <i>trillion dollars a year</i> that used to go to wages, &hellip; now goes to shareholders and executives. &mdash; plutocrat <a class="fk"href="https://www.politico.com/magazine/story/2017/07/18/to-my-fellow-plutocrats-you-can-cure-trumpism-215347">Nick Hanauer°<span>
+		"To My Fellow Plutocrats: You Can Cure Trumpism" <cite>Politico </cite>, 15 July 2017
+</span></a>
+</p>
+
+<p>Equality is anathema to an alpha male. Hierarchy, with himself at the top and each level controlling upstarts from below, is what he wants. Many hominoids are happy to accept subsidiary roles. Safety lies in fealty to a powerful ruler in return for his protection. The common Islamic name-prefix Abd- means &lsquo;slave of&rsquo;, advertizing the need to find a powerful alpha male for protection. &lsquo;We hear and obey&rsquo;, says Sura 2:285, in true bicameral fashion.
+</p>
+
+<p>In the other direction, many people read the US Constitution as making citizens equal by fiat. What Paine, Jefferson, and Madison hoped for was <i>equality before the law</i>, a result still far from achieved. Equality of opportunity is a later addition to the list of desiderata, important because without it people cannot be maximally valuable to society.
+</p>
+
+<p>&lsquo;Entropy reduction&rsquo; &mdash; an expression I owe to limnologist and relapidary Annie Bowyer &mdash; is an attempt to describe a motivation as general for Instinct-2 as greed is for conservatives. It encompasses the urges to bring order out of chaos and to turn data into information, which seem to be what many of my friends spend their lives doing. This is intellectualization after the fact. The instinct is as anonymous as the urge to plant fruit trees even if one knows he will move on before they bear fruit. That&apos;s what you <i>do</i>, like improving soil you&apos;ll never grow anything in. Leave a better world for your (and other people&apos;s) children!
+</p>
+
+<p>Conservatives wrongly interpreted the collapse of the Soviet Union in December 1991 as proof of the superiority of capitalism. It is undoubtedly superior at motivating the greedy, and at encouraging innovation, but claiming that capitalism is in some way &lsquo;better&rsquo; than communism is tantamount to praising white-collar crime for paying better than blue-collar crime. Any claim that capitalism is in some way beneficial or morally superior was vitiated by the neocons of the Bush administration, who had the aspirations and ethics of 3rd-world dictators without their panache.
+</p>
+
+<p>Despite the New Deal and later rhetoric about equality of opportunity, US wealth distribution has returned to its 1920 form. It is difficult to find exact numbers, but <b>when Egypt, Babylon, and Persia collapsed, 2% of the population owned 97% of the property</b>; and when Rome fell, <a class="fn">&lsquo;1,800 men owned all the known world&rsquo;, <span>
+	I Donnelly (1890) <cite>Caesar&apos;s Column</cite> (Wesleyan University Press, Middleton CT, 2003).
+</span></a> so the alpha-male propensity (and its consequences) are well established. Concentration will increase as long as winning elections requires money. The top 1% owns 35% of US wealth today, and climbing.
+</p>
+
+<p>The sorry part is that kleptocrats seem to know no other way of personal evaluation. They see themselves as numbers. This would be pathetic if it didn&apos;t mean that the bottom 40% were impoverished, undereducated, underemployed, and unhealthy. A <a class="fn">simplistic cure<span>
+	Too simple, of course &mdash; but perhaps a better starting point than the current approach.
+</span></a> is the flattening tax: pick a living wage; the government gets the rest. The details of wealth redistribution matter much less than the result. The more equal a society, the better life is for everyone, in terms of any social variable one can measure. Absolute equality is not required, and would probably be seen as unfair by everyone. A distribution that reflects innate ability &mdash; say a 6-fold difference between top and bottom &mdash; works well.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#27">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="28"> Education </a>
+<a class="tri" href="#29">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>For 220 years from 1640 to 1860, US education turned out literate self-reliant people. With only a few years of formal schooling, we made a new nation into a world leader in industry, technology, and politics. Since the Civil War, the cost of education, and the number of administrators, have increased steadily. At the same time, the level of violence in schools, the number of children on school-prescribed drugs, and religious fundamentalism have risen steadily, while literacy, numeracy, and knowledge of history, geography, and science have decreased. This correlation is intentional, not accidental, and Ch. 19 will return to this question.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#28">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="29"> Economics </a>
+<a class="tri" href="#30">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>A tenet held dear by conservatives is that management is a deep skill deserving absurd salaries. &lsquo;If you pay peanuts, you get monkeys.&rsquo; This is curious, because the needed skills are exactly those of the despised and &lsquo;underpaid&rsquo; government burocrat.
+</p>
+
+<p>Traditionally, Japanese corporations worked well with a 4-fold pay range between the janitor and the CEO. This has changed recently, in imitation of US policy, but with apparent diminution of performance. In Brazil, a country that worships machismo, the range is 86-fold &mdash; but the US reached an obscene 275 in 2007 <a class="fn">{<cite>GW</cite> 2009-01-17}<span>
+	S Caulkin <cite>Guardian Weekly</cite> 2009-01-16 p19}.
+</span></a>
+</p>
+
+<p>The peanuts/monkeys argument can be turned on its head. If you overpay executives, you get acquisitive baboons &mdash; ‘the soulless, the amoral, the avaricious&rsquo; <a class="fn">{<cite>GW</cite> 2009-02-13}<span>
+	R Sunderland (2009) &lsquo;Bring them back to Earth&rsquo; <cite>Guardian Weekly</cite> 2009-02-13 p18.
+</span></a> &mdash; in short, people we can well do without. No survey has ever found a correlation between executive pay and corporate performance. I suggest that it would be advantageous if the management-pay multiple were limited to 6. As CEO, you can pay yourself as much as you want &mdash; provided only that the janitor gets 17% as much, including indirect rewards such as bonuses, perks, stock options, health care, and retirement benefits.
+</p>
+
+<p>Conservatives seem incensed by taxes that pay for more than their own protection. This ignores the prerequisites for wealth generation &mdash; ranging from infrastructure to the average educational level of the population &mdash; which are responsibilities of, and for, the embedding society.  E.g.:
+</p>
+
+<blockquote>transportation subsidies and internal improvements were primary in creating the low distribution costs and resulting artificially large market areas without which large scale production would have been impossible. &mdash; <a class="fn">K.A. Carson<span>
+	KA Carson (2008) <cite>Organization Theory: A Libertarian Perspective</cite> (BookSurge, ISBN 1-4392-2199-5).
+</span></a>
+</blockquote>
+
+
+
+<h4>
+<a class="tri" href="#29">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="30"> Time Scales </a>
+<a class="tri" href="#31">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>The longest timespan of interest to Instinct-1 is a generation. This may explain the perennial belief of evangelical Christians that &lsquo;All these things shall come upon this generation&rsquo; {Mt 23:36} refers to their own lifetime. Instinct-2 thinks that 10,000 years is an eyeblink. Barring cosmic impacts and corporate irresponsibility, the Earth will be habitable for another billion years.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#30">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="31"> Ecology </a>
+<a class="tri" href="#32">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>The proper oikos (‘household&rsquo;) of &lsquo;eco-logy&rsquo; and &lsquo;eco-nomics&rsquo; is the &lsquo;household Earth&rsquo;. Experience suggests that we should have studied it (<i>logos</i>) more carefully before we attempted to manage it (<i>nomein</i>). The consistent failure of mainstream economists to do their homework has led to the absurd term &lsquo;eco-economist&rsquo; for the few who have.
+</p>
+
+<p>The difference of time scales leads to very different priorities. Economists maintain that we will always be able to find an efficient substitute for any exhausted resource, and point to glass-fiber optics replacing copper wires for data transmission with a great saving of cost and boost in bandwidth. Ecologists remember <a class="fn">Ozymandias.<span>
+	My name is Ozymandias, King of Kings:
+	Look on my works ye mighty and despair&hellip; &mdash;  Shelley
+</span></a> Natural planetary process (pollination by bees, water purification by the hydrological cycle and transport by aquifers, airborne particulate removal by rain and trees, UV blocking by ozone, etc) provide services whose value exceeds the gross world product many times over. We are unwittingly destroying those processes. Desertification, salinization, aquifer compaction, paving of arable land, ocean biomass mining, global heating, and similar processes are irreversible on the timescale of civilizations.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#31">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="32"> Corporations </a>
+<a class="tri" href="#33">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>See <a href="../_F/F23.shtml#24">Chapter 23.</a>
+</p>
+
+
+
+<h4>
+<a class="tri" href="#32">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="33"> Law </a>
+<a class="tri" href="#34">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Ideally, it should not matter which lawyer handles a case, but some win more of their cases than others &mdash; and charge for it. This guarantees inequality before the law and an unfair advantage to the wealthy. See <a href="../_F/F23.shtml#21">Chapter 23</a>.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#33">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="34"> Government </a>
+<a class="tri" href="#35">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Some of our best loved politicians have taken good care of those who voted for them, while ignoring those who failed this important duty. Much as we hate dealing with burocrats, they often infuriate everyone equally, and this may be the best that we can hope for.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#34">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="35"> Religion </a>
+<a class="tri" href="#36">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>This whole book is the entry that belongs here.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#35">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="36"> War, Deceit </a>
+<a class="tri" href="#37">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>See <a href="../_E/E19.shtml#43">Chapter 19</a>.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#36">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="37"> Constitutional Function </a>
+<a class="tri" href="#38">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>In its Preamble, the Constitution explains itself with a list of 6 purposes:
+</p>
+
+<blockquote>to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity.
+</blockquote>
+
+<p>Instinct-1 sees &lsquo;common defense&rsquo; (and given the opportunity, pre-emptive attack) as the most important purpose, and apparently the only one that justifies taxation.
+</p>
+
+<p>Instinct-2, if forced to choose a single purpose, opts for &lsquo;promote the general Welfare&rsquo;, since all others can be interpreted as necessary aspects of Welfare.
+</p>
+
+<p>There is, in this list, an overlooked clue to the Founding Fathers‘ subconscious evaluation of the relative importance
+	<a href="../_A/A00.shtml#14">
+	<img class="im" src="../Images/K-NewIdea3.gif" alt="New-idea roadsign"></a>
+of these purposes. Notice the Capitalization of their Nouns.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#37">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="38"> Civilization/s </a>
+<a class="tri" href="#39">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Here the instincts are complementary. Note the distinction between &lsquo;civilizations&rsquo; as products of particular periods, and &lsquo;civilization&rsquo; as the art of diverse peoples living together productively without bloodshed. Exceptional individuals &mdash; such as the US Founding Fathers &mdash; are essential to the creation of a notable civilization. As Gibbon observed, the high point of the Roman Empire was the reign of the Antonines. For 50 years there were no wars, famines, economic collapses, revolts. palace coups, or men on horseback. The government was devoted to public welfare and achieved it. No history happened &mdash; so we do not remember the episode. Nor do we hold it up to our politicians as an example of proper government.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#38">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="39"> Postmodern Absence of Critical Thought </a>
+<a class="tri" href="#40">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">The meaning and value which we assign to life are linked to the origins model we espouse. Since <i>our significance depends on our pedigree</i>, those who desire there to be no purpose or supreme authority in their lives will favor a different origins model than those who seek to glorify their divine Creator with their lives. &mdash; creationist John Bloom (emphasis added)</p>
+
+<p class="epi">The overriding attraction of a postmodern attitude is that it annuls the inconvenient requirement of empirical confirmation. &mdash; Martin Lewis</p>
+
+<p>Postmodernism&apos;s initial insight &mdash; that male Anglo-Saxon Protestants did not automatically have correct answers to all questions &mdash; was long overdue.<i> <a href="../_G/Glo.shtml#po">Popoco&apos;s</a></i> immediate leap to &lsquo;therefore all positions are equivalent&rsquo; is mindless nonsense. The confusion evidenced by John Bloom&apos;s epigraph is not unique to Paulinity: A Japanese folk tale describes a princess who scorned a Western suitor, saying, &lsquo;My religion tells me my ancestor was a god; yours says your ancestor was a monkey&rsquo;.
+</p>
+
+<p>Creationists may have a native insight into their own motivations, and &lsquo;glory seeking&rsquo; may well be it (‘Egocentrism is the first and paramount characteristic of the religious personality&rsquo;). Bloom was nevertheless led into complete confusion about cause and effect among the secular by <i><a href=”../_G/Glo.shtml#po”>popoco</a></i>. The lack of &lsquo;purpose or supreme authority&rsquo; comes from critical analysis of 350 years of data about our origins, acquired by the scientific method. &lsquo;Desire&rsquo; is irrelevant &mdash; but this is a concept incomprehensible to the limbos. </p>
+
+<p><i><a href=”../_G/Glo.shtml#po”>Popoco</a></i> suggests that all scriptures are worthy of respect, because there are many paths to the truth, and until one has accepted a path, he should not presume to judge it. Is it the case that postmodernists happen when children do not read that standard  primer on logic, <cite>Alice in Wonderland</cite>? <i>Popoco</i> is Queen-of-Hearts nonsense of the &lsquo;Sentence first &mdash; verdict afterwards&rsquo; variety. (This is not an inconsequential quibble: I have acquaintances who repeated the <I>shahada</i> in the presence of Moslems without realizing that some of their new co-religionists would happily kill them if they decided that Mohammatism was after all not for them when they learned more about it.) Logic requires that we subject scripture to critical analysis <i>before</i>  mkaccepting it. To paraphrase <a class="fn">James Rachels,<span>
+	J Rachels (1971) &lsquo;God and Human Attitudes&rsquo; <cite>Religious Studies</cite> <b>7</b>: 325-337.
+</span></a> our own judgement that some of its recommendations are right and others wrong is logically prior to our recognition of any text as Scripture.
+</p>
+
+<p>If the world treated scriptures as it does myth, <i>popoco</i> would be appropriate. We could enjoy scriptural diversity unworried about fanatics taking it literally. But scripture intended to be obeyed as the word of a god requires informed criticism. ‘[T]he Islamic world from one end to the other lives in the conviction that the text [of the Quran] existing today represents the true, eternal, immutable word of God&rsquo;, wrote <a class="fn">Caetani,<span>
+	L Caetani (1915) &lsquo;Uthman and the Rescension of the Koran&rsquo; <cite>The Muslim World</cite> <b>5</b>: 380-390.
+</span></a> and <i>mutatis mutandis</i>, the same seems true of all fundamentalists.
+</p>
+
+<p>Any scripture that was the word of a god would be both Eirenic and Gaian, it would pass <a href="../_A/A03.shtml#19">al-Kindi&apos;s test</a>, and it would be untouchable by any sort of criticism. If a text cannot survive analysis by those who doubt it, it is not what it claims to be.
+</p>
+
+
+
+<h2>
+<a class="tri" href="#16">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="40"> SYMMETRICAL COMPARISON </a>
+<a class="tri" href="#00">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#41">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<h3>
+<a class="tri" href="#40">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="41"> The Challenge </a>
+<a class="tri" href="#42">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>It is easy to construct paired abstract examples of the instincts, as in Tables <a href="../_C/C11.shtml#T11.3">11.3</a> (Paleoinstincts) and <a href="#T16.4">16.4</a> (Contemporary Instincts). Symmetrical <i>concrete</i> examples are rare, but here is a pair made to order.
+</p>
+
+<p>One way to hide a message is to write it as every <i>n</i>-th letter of a longer text. In 1994, a paper in <a class="fn"><cite>Statistical Science</cite><span>
+	D Witztum, E Rips, Y Rosenberg (1994) &lsquo;Equidistant letter sequences in the Book of Genesis&rsquo; <cite>Statist. Sci.</cite> <b>9</b>: 429&ndash;438.
+</span></a> claimed that the book of Genesis (in the &lsquo;original&rsquo; Hebrew) contained the names of famous rabbis and their dates written with the numerical value of Hebrew letters. Similar results can be found in any long text, but the claim was made that in this case the occurrence was far above chance. Since the rabbis postdated Genesis by millennia, this was a claim for a statistical proof of a miracle. Sceptical reviewers could find no flaw in the paper, and the baffled editor published it with a note calling it a &lsquo;puzzle&rsquo; that needed explaining. The paper was reprinted in a <a class="fn">best-selling book<span>
+	M Drosnin (1997) <cite>The Bible Code</cite> (Simon and Schuster, NYC).
+</span></a> that won the 1997 Ig Nobel Prize in Literature, making it &lsquo;possibly the most reprinted scientific paper of all time&rsquo;, and it spawned 8 more books, 3 TV documenataries, a movie, and computer programs for DIY miracle-hunters.
+</p>
+
+<p>As it happened, <a class="fn">Rashad Khalifa<span>
+	R Khalifa (1982) <cite>Quran: Visual Presentation of the Miracle</cite> (Islamic Productions International).
+</span></a> had published something similar for the Quran a few years earlier, involving ubiquitous multiples of 19, in a more complex manner than, say, 18 is a thematic number in the <cite>Bhagavad-Gita</cite>. The &lsquo;Quran code&rsquo; led Khalifa to suggest that some of the harsher punishments of Shariʾa did not fall into the &lsquo;miraculous&rsquo; 19-pattern, &lsquo;proving&rsquo; that they were late addenda and providing a reason to replace them with civilized but still traditional penalties. This generated a lot of discussion in the Islamic world, because in the view of liberal Moslem, it offered a legitimate way to bring Mohamatism into slightly closer agreement with civilized behavior.
+</p>
+
+<p>Here we have a symmetrical situation: 2 sacred scriptures, 2 &lsquo;miraculous&rsquo; codes, 2 results contrary to <a href="http://koenraadelst.bharatvani.org/articles/aid/astronomy.html" class="fn">received wisdom.<span>
+	The Hindu scriptures are not exempt from this sort of treatment. ‘[T]he number of hymns in books 1, 2, 3 and 4 of the <cite>Rg-Veda</cite> adds up to 354, the number of days in the Lunar year consisting of 12 moon cycles. Similarly, the total number of hymns in books 4, 5, 6 and 7 is 324, the number of days in the so-called Nakshatra year, being the duration of the sun&apos;s stay in 24 of the 27 lunar mansions. Coincidence?&rsquo; Yes, coincidence. Any reasonable integer can be generated from some combination of Hindu Scripture. The Judaic <cite>Kabbala</cite> tradition also plays this game enthusiastically.
+<br>----------------<br>
+	K Elst, (No Date) &lsquo;Astronomical data and the Aryan question&rsquo;  (The Koenraad Elst Site, &sect;4.3)
+</span></a>
+</p>
+
+
+
+<h4>
+<a class="tri" href="#41">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="42"> Resolution by Instinct-2 </a>
+<a class="tri" href="#43">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>The ultimate response to the &lsquo;Genesis code&rsquo; was a <a class="fn">second paper<span>
+	B McKay &amp;3a (1999) &lsquo;Solving the Bible Code Puzzle&rsquo; <cite>Statist. Sci.</cite> <b>14</b>: 150&ndash;173.
+</span></a> in <cite>Statistical Science</cite> 5 years later solving the puzzle. The details involve statistical functions which are sensitive to &lsquo;wiggle room&rsquo;: the rabbis had been accepted with variant spellings and nicknames, and the dates had been accepted in a variety of formats. Reruns with less wiggle room brought the scores into line with the expected random hits. Net result: one more case where a simple natural explanation replaced a mysterious supernatural one &mdash; all resolved in the cooperative mode of Instinct-2.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#42">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="43"> Resolution by Instinct-1 </a>
+<a class="tri" href="#44">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>The ultimate response to the &lsquo;Quran code&rsquo; was an &lsquo;apostasy&rsquo; fatwa by 38 (2x19) Saudi imams who had no interest in modern views of civil rights. They issued a fatwa against Khalifa (and another against Salman Rushdie on different grounds) in 1989.
+
+Early in 1990 one of Khalifa&apos;s pupils came to his mosque in Tucson for morning prayer, where he carefully removed his shoes at the entrance as the Quran commands. He was welcomed by Khalifa &mdash; and in a flurry of mindless submission to the fatwa, stabbed him 29 times before managing to kill him.
+</p>
+
+<p>On 2009-04-28, 19 (!) years after the murder, Glen Cusford Francis was arrested in Calgary, as &lsquo;extensive forensic DNA evidence recovered from the [Khalifa] murder scene was found to be consistent with Mr. Francis&apos;s profile&rsquo;, according to the Tucson Police. Finally, on 2012-12-19, Francis was found guilty of murder. The 38 imams, accessories before the fact, have so far escaped scot free. Nevertheless, there is  poetic justice in the fact that Dr Khalifa had been tutoring Francis in Islam at the time of their fatal interaction: Francis was being an exemplary Moslem when he murdered his reformist teacher. This is how we avoid the terrible sin of <i>bida</i>, or innovation.
+</p>
+
+
+
+<h3 id="44">
+<a class="tri" href="#43">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> Answers to the History Quiz </a>
+<a class="tri"  href="#00">&emsp;&emsp;&#9650;</a>
+</h3>
+
+<p>1)  The deist perspective is most clearly presented in <cite>The Age of Reason</cite>, by Thomas Paine.
+</p>
+
+<p>2) The deist religion was epitomized in a letter from John Adams to Thomas Jefferson: &lsquo;The Ten Commandments and the Sermon on the Mount contain my religion&rsquo;.
+</p>
+
+<p>Notice the direct contradiction to the interpretation of early US religion by the fundamentalists of the <a href="../_B/B06.shtml#18"><cite>Chicago Statements</cite></a>, innocent of any acquaintance with the Enlightenment.
+</p>
+<span class="fr">◼</span>
+
+<br><hr><div class="cen">
+<a href="../_D/D15.shtml">&vltri;&emsp;&emsp;</a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+<a href="../_E/E17.shtml">&emsp;&emsp;&vrtri;</a>
+</div>
+</body></html>

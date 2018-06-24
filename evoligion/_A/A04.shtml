@@ -1,0 +1,918 @@
+
+<!-- A04 Stories 2018-02-16 19:45   -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>A04_Stories</title>
+
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">``
+<link rel="stylesheet" type="text/css" href="htdocs/bfbv.css">
+
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+</style>
+</head>
+
+<body>
+<p class="date"><!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-04-15 16:00 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h2 id="!">Book 1: Its Preludes</h2>
+<!--#include virtual="TocA04.shtml" -->
+
+
+<a class="tro" href="../Index.shtml" id="00">&#11152;&emsp;&ensp;</a>
+<a class="tro" href="#14" id="01"> &#9660;&emsp;&emsp;</a>
+<h3><a href="#!"> STORIES </a></h3>
+<a class="tri"  href="#02">&#10836;&emsp;&emsp;</a>
+<a class="tri"  href="#04"> &#9661;&emsp;&emsp;</a>
+
+<p>I grew up with what my professorial father maintained had been &lsquo;the best folklore library west of the Mississippi&rsquo;. (It had been spread over a hectare of hillside by the half-meter boulders of the La Crescenta check dam in the last hours of 1933, along with rest of the house. Much had been recovered and dried; I read it all, scraping mud from the pages with a table knife as necessary.) By the time I met the <cite>Potter&apos;s Tale</cite> of Genesis, I had enjoyed the creation myths of 100 older cultures, some with more interesting versions of the Old Testament stories. I cannot recommend this approach too highly &mdash; the flash flood, the mud, and the knife are incidental, but the stories are essential!) It is hard to take Biblical literalism seriously when you&apos;ve read the same stories in earlier material!
+</p>
+
+<a class="tro" href="#01" id="02">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> The Baseline </a></h4>
+<a class="tri"  href="#03">&#10836;&emsp;&emsp;</a>
+
+
+<p>If we did not bring religion out of Africa with us, as in <a href="../_A/A00.shtml#F0.4">Fig. 0.4</a>, what <i>did</i> we have? Preverbal hunters &mdash; wolf packs, lion prides, orcas, dolphins, and yes, chimpanzees &mdash; manage a considerable amount of cooperative effort with instinct and signals. Still, consensus has it that building boats and crossing 90 km of ocean (at 50 ka, 15,000 years away from Africa) requires some command of language. This much would also support the disembodied instructions of an early bicameral society, 40,000 years earlier than Jaynes thought it happened. The first voices heard would be known speakers: recently deceased relatives (with homely advice and loving concern), and the tribal alpha male (demanding unquestioning obedience to his rules).
+</p>
+
+<p>Koko (the language-competent gorilla) is as interested in gossip as any devotee of TV soaps and their cardboard characters. But when asked an existential question, &lsquo;Where do people [ie, gorillas] go when they die?&rsquo;, she replied matter-of-factly, &lsquo;In a <a class="fn">hole in the ground&rsquo;°.<span>
+	This was apparently an idea she picked up from TV, since burial has not been observed in wild gorillas.
+</span></a> This may be our best insight into the philosophical interests of our chimpanzoid-OS during the whole of the Middle Paleolithic. Table 4.1 lists some additional spiritual resources available toward the end of this period.
+</p>
+
+<hr>
+<table id="T4.1">
+<caption>
+<a class="tri" href="#T4.6">&#9664;&emsp;&emsp;</a>
+<a href="#!">Table 4.1 </a>
+<a class="tri" href="#T4.2">&emsp;&emsp;&#9654;</a>
+Spiritual Capital at 40 ka. This is an estimate of what the Chimpanzoid OS had to work with toward the end of the Middle Paleolithic.
+</caption>
+<thead>
+<tr><th>&lsquo;Supernatural&rsquo; Resource</th>
+	<th>Comment</th></tr>
+</thead>
+
+<tbody >
+<tr><td><b>First Tribal Law</b></td>
+	<td>&lsquo;See a stranger; kill it!&rsquo; &mdash; and bring its liver back to the tribe.</td></tr>
+
+<tr><td><b>Totems</b></td>
+	<td>Synthetic kinship, allowing female exchange with other tribes (to prevent genetic inbreeding, inspired by instinctive lack of sexual interest in people you grew up with &mdash; the &lsquo;kibbutz effect&rsquo;)</td></tr>
+
+<tr><td><b>Burgeoning language</b></td>
+	<td>Initial declarative and imperative modes would sooner or later be joined by metaphor and conditionals, greatly expanding our awareness of possibilities.</td></tr>
+
+<tr><td><b>Bicameral voice of local alpha male</b></td>
+	<td>Awareness of disembodied dictator, precursor of Yavoid conservative-god archetype.</td></tr>
+
+<tr><td><b>Bicameral voices of ancestors</b></td>
+	<td>Awareness of disembodied helpers, precursor of Great Mother archetype.</td></tr>
+</tbody></table><br>
+
+
+
+<a class="tro" href="#02" id="03">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> The God Conjecture </a></h4>
+<a class="tri" href="#04">&#10836;&emsp;&emsp;</a>
+
+<p>The lack of demonstrable religion in 20th-century New Guinea indicates that the resources of Table 4.1 do not yet add up to religion &mdash; whose defining characteristic is the idea that it is in our own interest not to  kill other people. Religion depends in detail upon the stories that we tell, which customarily involve gods and a creation myth that together:
+</p>
+
+<ul>
+<li>reflect the curiosity and sophistication of the culture,</li>
+<li>provide satisfying answers to its existential questions.</li>
+</ul>
+
+
+<p>Contemporary New Guinea <a class="fn">folktales°<span>
+	TH Sloan (2001) <cite>One Thousand One Papua New Guinean Nights</cite> 9
+	. The first 50 that I read were pointless, random, illogical, unimaginative, and just plain dull. If, for lack of contradictory evidence, we assume that this applies <i>a fortiori</i> to the mindset of the strandlopers of the African exodus, then something fundamental happenene Papua New Guinean Nights</cite>, 2 vols. (Masalai Press, Oakland CA).
+</span></a> do not encourage one to believe that the language and logic of 50 ka could produce the gods or creation myths that we associate with early red somewhere else, which became so important to us that it branched into 100,000 varieties.
+</p>
+
+<p>Every other analysis I have found quietly overlooks the &lsquo;something fundamental&rsquo; and the &lsquo;somewhere else&rsquo;, so we too will leave them for Chapters 9 and 13. The basic concept of the 100,000 varieties is the idea of god &mdash; but even today the idea is not a:
+</p>
+
+<ul>
+<li><b>theory</b> (supported by publicly verifiable data), nor a</li>
+<li><b>hypothesis</b> (with a way to falsify it), but a</li>
+<li><b>conjecture</b> (a speculation based on incomplete evidence).</li>
+</ul>
+
+
+<p class="flu">While is true that some famous conjectures have been proven true long after they were proposed, the longevity of this one is matched only by its <a class="fn">dearth of support°.<span>
+	It would be fascinating to watch the world&apos;s monotheists attempting to determine <i>which</i> god had been detected, if we found one!
+</span></a>
+</p>
+
+<p>We might frame the contemporary god conjecture as:</p>
+
+<blockquote>There is a powerful being worthy of <a class="fn">obedience and worship°:<span>
+	The behavior of some gods in the scriptures of their followers makes even this minimal response impossible for an ethical person.
+</span></a> our creator, who made and fine-tuned the universe for us, and revealed instructions for our behavior through prophets.
+</blockquote>
+
+<p class="flu">This works for unsophisticated early societies, Islam, and Deism. Theists, finding such gods emotionally unfulfilling, added:
+</p>
+
+<blockquote>He possesses some characteristics of a person, cares about us, sometimes answers our prayers, and produces occasional miracles.
+</blockquote>
+
+<p>This is a general version independent of sectarian nuance. To see why this conjecture became so important to us, we must examine what happened in its absence.
+</p>
+
+
+
+<a class="tro" href="#03" id="04">&#10835;&emsp;&emsp;</a>
+<a class="tro" href="#01" >&#9651;&emsp;&emsp;</a>
+<h4><a href="#!"> NO STORY </a></h4>
+<a class="tri" href="#05">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#05"> &#9661;&emsp;&emsp;</a>
+
+
+<p >The New Guinea highlands were not reached by westerners until the 1930s. Highlanders are genetically different from <a class="fn">coastal tribes°.<span>
+	&lsquo;[T]he Austronesian expansion that led eventually to the colonization of Polynesia reached coastal New Guinea and island Melanesia about 3,500 years ago. These migrations had little (if any) linguistic or cultural impact on highland New Guinea&rsquo; &mdash; probably because the New Guineans killed anyone who came inland.
+<br>------------<br>
+	&bull; M  Kayser &amp;6a (2001) &lsquo;Independent Histories of Human Y Chromosomes from Melanesia and Australia&rsquo; <cite>Am. J. Hum. Genet.</cite> <b>68</b>:173&ndash;190.<br>
+	&bull; M Hertzberg &amp;4a (1989) &lsquo;An Asian specific 9-bp deletion of mitochondrial DNA is frequently found in Polynesians&rsquo; <cite>Am. J. Hum. Genet.</cite> <b>44</b>:504&ndash;510.<br>
+	&bull; M Stoneking, A Wilson (1989) &lsquo;Mitochondrial DNA&rsquo; In A Hill, S Serjeantson (eds) <cite>The colonization of the Pacific: A genetic trail</cite>, pp 215&ndash;245.<br>
+	&bull; M Stoneking &amp;3a (1990) &lsquo;Geographic Variation in Human Mitochondrial DNA from Papua New Guinea&rsquo; <cite>Genetics</cite> <b>124</b>: 717&ndash;733.
+</span></a> Neither their weapons nor behavior changed much from African prototypes. The related Australian Aborigines are similarly conservative. At first contact (1688) the coastal people of northwest Australia had neither pottery, metal, bows, nor houses, and though they were a fish-eating culture, neither watercraft, nets nor fishhooks were reported. The same conservative stock gave us the Indus-valley <a class="fn">Mohenjo-daro°<span>
+	DD Kosambi (1965) <cite>The Culture and Civilisation of Ancient India in Historical Outline</cite> (Routledge &amp; Kegan Paul, London): 57.
+</span></a> culture, in which pottery did not change for 1500 years, and bronze axes retained the shape of stone prototypes, without the shaft-holes of contemporaneous Mesopotamian axes.
+</p>
+
+<p >It is hard to prove a comprehensive negative such as &lsquo;The people who left Africa did not have religion&rsquo;, although the claim is occasionally made about some particular category or tribe: &lsquo;The lowest savages not only <a class="fn">have no gods°,<span>
+	EJ Payne (1892) <cite>The History of the New World</cite> (Clarendon, Oxford): i,389.
+</span></a> but do not even recognise those lower beings usually called spirits, the conception of which has invariably preceded that of gods in the human mind&rsquo;. &lsquo;The Indians of Guiana <a class="fn">know no God&rsquo;°.<span>
+	EF Im Thurn (1882) <cite>The Indians of Guiana</cite> (K Paul, Trench, London, 1883)
+</span></a> Others demur: &lsquo;moral, practically omniscient Gods are <a class="fn">known to the very lowest savages°<span>
+	A Lang (1900) <cite>The Making of Religion</cite>, 2nd ed. (Longmans, Green, London): Ch 9.
+</span></a> &mdash; Bushmen, Fuegians, Australians &mdash; as we shall demonstrate&rsquo;. Similar claims of godlessness elsewhere were corrected by increased trust and a better understanding of the language. Only after anthropologist Alfred William Howitt was <a class="fn">initiated°<span>
+	AW Howitt (1884) &lsquo;On some Australian Ceremonies of Initiation&rsquo;<cite> J. Anthropol. Inst. G. Britain and Ireland</cite> <b>13</b>: 432&ndash;459.
+</span></a> into an Australian tribe could he say:</p>
+
+<blockquote>[I]t can no longer be maintained that the Australians have no belief which can be called religious, that is, in the sense of beliefs which govern tribal and individual morality under a supernatural sanction.
+</blockquote>
+
+<p>Nevertheless, I submit that this does not yet amount to religion. The rules of this morality were simple: &lsquo;Obey tribal elders. Share everything with friends. Live peaceably with friends. Do not interfere with girls or married women. Obey food restrictions until released from them by the elders&rsquo;. These are pragmatic rules in a restrictive environment. Groups that failed to discover them did not survive; the rules gained parental authority by being attributed to the totemic ancestor.
+</p>
+
+<p>It is easy to find 1000-reference bibliographies of &lsquo;African Religion&rsquo;, and several writers have recently placed the <a class="fn">origin of religion°<span>
+	&bull; P Lieberman (1991) <cite>Uniquely Human</cite> (Harvard University Press, Cambridge MA).<br>
+	&bull; M Rossano (2009) <cite>The African Interregnum: The <q>Where,</q> <q>When,</q> and <q>Why</q> of the Evolution of Religion</cite>, Ch. 9 in E Voland, W Schiefenh&ouml;vel (eds.) <cite>The Biological Evolution of Religious Mind and Behavior</cite> (Springer, Berlin): 127&ndash;141.
+	[Almost every development related to religion that I (Becula) cite from the Upper Paleolithic, is projected by Rossano to the 60&ndash;90 ka &lsquo;interregnum&rsquo; in Africa. He sees AMH as colonizing the Levant ca 100 ka, then being driven back to Africa by Neandertal or climate. During the Interregnum, we formed more complex social groups in which children&apos;s supernatural thinking became a social bonding mechanism. Groups with the most effective supernatural rituals had stronger intra-group cohesion and cooperation due to belief in constant supernatural scrutiny. &lsquo;These highly cooperative, sophisticated, competitive and religious social groups broke forth from Africa and conquered the world.&rsquo; <br>
+	My response is simple: No trace of such groups survives along the exodus route, and nowhere does it appear for another 25,000 years. The best estimate of the Strandlopers is an average of Andaman Islanders, New Guinea Highlanders, Melanesians, and Patagonians.]<br>
+	&bull; N Wade (2006) <cite>Before The Dawn, Discovering the lost history of our ancestors</cite> (Penguin Books, London).
+</span></a> in Africa in the time range 50&ndash;100 ka. Here again, the difference is one of definition. Fortunately, Howitt makes my point when he specifies beliefs that &lsquo;govern <i>tribal and individual</i> morality&rsquo; (emphasis added), and do not extend ethical treatment to <b>unrelated people</b>. &lsquo;Friends&rsquo;, in this context, means your tribe, or at most synthetic relatives descended from the same (mythical) clan ancestor, which defines a totem.
+</p>
+
+<p >This is not nit-picking in defense of an idiosyncratic definition, but a claim about the proper definition of religion. It is the difference between the 160,000 static years of the Middle Paleolithic, and the exponential development of civilization over the last 35,000 years. Genetics always predisposes us to protect near relatives, but it is stretched to its limits when the tribe is large enough to contain people we don&apos;t know. Lethal enmity is the norm beyond these bounds, and overcoming <i>that</i> trait requires something non-biological, such as a new idea.
+</p>
+
+<p >Swanson&apos;s ground-breaking <cite>The Birth of the Gods</cite> introduced cross-cultural methods. Among his 50 world cultures are 2 New Guinea tribes: the <a class="fn">mountain Arapesh°<span>
+	I am arguing ethnography with Margaret Mead here, which is not always the best thing for a physical chemist to do. Mead described the Arapesh as a culture in which &lsquo;both men and women are naturally maternal, gentle, responsive, and unaggressive&rsquo;, where &lsquo;warfare was practically unknown&rsquo;. Mead seems to have seen what she wanted to see on more than one occasion (e.g., Samoan sexual mores, which Freeman interpreted quite differently), for Roscoe reverses her analysis of the Arapesh on the basis of the observations of her then co-worker and husband Reo Fortune and his own fieldwork, which actually described frequent warfare. Roscoe suggests that Mead was influenced by comparison with 50% mortality in Melanesian warfare.<br>
+	No one has criticized Mead&apos;s <i>theological</i> observations.
+<br>----------------<br>
+	&bull; R Fortune (1939) &lsquo;Arapesh Warfare&rsquo; <cite>American Anthropologist</cite> <b>41</b>: 22&ndash;41.<br>
+	&bull; D Freeman (1983) <cite>Margaret Mead and Samoa: The Making and Unmaking of an Anthropological Myth</cite> (Harvard University Press, Cambridge, MA).<br>
+	&bull; M Mead (1935) <cite>Sex and Temperament in Three Primitive Societies</cite> (New York, 1935): 23.<br>
+	&bull; P Roscoe (2003) &lsquo;Margaret Mead, Reo Fortune, and Mountain Arapesh Warfare&rsquo; <cite>American Anthropologist</cite> <b>105</b>(#3): 581&ndash;591.
+</span></a> and the Orokaiva, who had <a class="fn">no gods worth reporting°<span>
+	&bull; M Mead (1938) &lsquo;The mountain Arapesh&rsquo; <cite>Anthropological papers of the American Museum of Natural History</cite> <b>36</b>(#3): 138&ndash;149.<br>
+	&bull; FE Williams (1930) <cite>Orokaiva Society</cite> (Clarendon Press, Oxford).
+</span></a> in the ethnological <a class="fn">literature°,<span>
+	Also mentioned as falling in this same god-bereft category are the related Arunta of Australia, and several North American tribes, the Kaska of northern Canada, the Nez Percés, the Shoshone, and the Winnebago, none of whom got far out of the Paleolithic.
+<br>--------------<br>
+	&bull; B Spencer, FJ Gillen (1927) <cite>The Arunta, A Study of a Stone Age People</cite> 2 vols. (Macmillan, London).<br>
+	&bull; J Honigman (1945) <cite>The Kaska Indians: An Ethnographic Reconstruction</cite> (Yale University Press, New Have CN).<br>
+	&bull; JH Steward (1955) &lsquo;The Great Basin Shoshonean Indians: An Example of a Family Level of Sociocultural Integration&rsquo;, in his <cite>Theory of Cultural Change: The Methodology of Multilinear Evolution</cite> (U. Illinois Press, Urbana IL): 101&ndash;121.<br>
+	&bull; P Radin (1923) &lsquo;The Winnebago Tribe&rsquo; <cite>Ann. Rep. Bur. Amer. Ethnology</cite> <b>37</b>: 35&ndash;560.
+</span></a> and &lsquo;cannibalism, payback, raiding and looting were the <a class="fn">rule rather than the exception&rsquo;°,<span>
+	JD Waiko (1970) &lsquo;A payback murder: the green bloodbath&rsquo;,  <cite>J Papua New Guinea Society</cite> <b>4</b>: 27&ndash;35.
+</span></a> &lsquo;wars were continuous and treachery pervaded many extra-group relations&rsquo;, including &lsquo;<q>ambush killing</q> where many people were massacred, and the annihilation of an <a class="fn">entire clan°<span>
+	FE Williams (1930) <cite>Orokaiva Society</cite> (Clarendon Press, Oxford): 170.
+</span></a> within a village&rsquo;.
+</p>
+
+<p id="04a">The highland Chimbu merit chapters on &lsquo;Strife&rsquo;, &lsquo;Warfare&rsquo;, and &lsquo;Conflict Today&rsquo;. They know of &lsquo;spirits, ghosts, &hellip; and evil influences&rsquo;, but <a class="fn">nothing about religion°.<span>
+	P Brown (1978) <cite>Highland Peoples of New Guinea</cite> (Cambridge Univ. Press, London): 53.
+</span></a> Unlike Melanesia, &lsquo;no fully developed cargo cult has appeared in the highlands&rsquo; {8}. &lsquo;There was no moral or religious ideology&rsquo; {64}; and &lsquo;Despite persistent questioning I could not elicit from any Chimbu certain sorts of traditions common elsewhere. They have no systematic cosmological beliefs, nor stories describing &hellip; a fixed order of the natural world&rsquo; {5}. &lsquo;It was difficult to discover any traditional standards or values&rsquo; {7}, for the Chimbu do not honor the past and ridicule the aged.
+</p>
+
+<p >The supernatural resources of the highland Tsembaga consist of &lsquo;Red Spirits&rsquo;, ancestors who have died in previous battles and who will <a class="fn">assist in the next°,<span>
+	RA Rappaport (1968) <cite>Pigs for the Ancestors: Ritual in the ecology of a New Guinea People</cite> 2nd ed. (Yale University Press, New Haven CN, 1984).
+</span></a> While extending the family to include dead members increases group cohesion through common ancestors, it does not provide a supratribal mythos, and it did not get the Tsembaga out of the Middle Stone Age. The Red Spirits <i>perpetuate</i> tribal warfare.
+</p>
+
+<p >The leading causes of highland warfare are pig theft and divorce. After 35 years of attempts by Australian administrators to implement judicial process, the participants still preferred trial by combat. &lsquo;Fighting &mdash; as a raiding party attacking a lonely traveller &mdash; or joining battle against an enemy group, was a <a class="fn">source of pleasure°<span>
+	P Brown (1978) <cite>Highland Peoples of New Guinea</cite> (Cambridge Univ. Press, London): 7.
+</span></a> and entertainment as well as loot&rsquo;. Frequency of warfare was independent of population density. &lsquo;Persons outside their group are suspected of hostility, sorcery and vile practices, such as cannibalism. A stranger is never safe&rsquo; {15}. People <a class="fn">avoid dwelling°<span>
+	M Reay (1959) <cite>The Kuma: Freedom and Conformity in the New Guinea Highlands</cite> (Melbourne U.Press, Melbourne, Australia).
+</span></a> close to others for fear of &lsquo;retaliation, sorcery, poisoning, cursing, witchcraft&rsquo;.
+</p>
+
+<p>The Chimbu live in an eternal, random present, with neither history nor plans for the future &mdash; as do chimpanzees, and I submit that this was our condition when we left Africa. When highlanders met European products, they relished novelty and adopted new techniques and crops avidly, so their problem had not been simple conservatism. Without religion&apos;s supratribal beliefs, they feared and
+	<a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-TakeHome3.gif" alt="TakeHome"></a>
+fought their neighbors, had no way of sharing new techniques, and no way out of the Old Stone Age.
+</p>
+
+<p >The Andaman Islanders, another <a class="fn">relict population°<span>
+	&bull; CL Fox, E Hagelberg (1999) &lsquo;Out of Africa, into Asia&rsquo;, Unpublished research reported by M Mukerjee in <cite>Scientific American</cite> &lsquo;Science and the Citizen&rsquo;, January.<br>
+	&bull;  K Thangaraj &amp;8a (2003) &lsquo;Genetic Affinities of the Andaman Islanders, a Vanishing Human Population&rsquo; <cite>Current Biology</cite> <b>13</b>: 86&ndash;93.
+</span></a> of Negritos from the same out-of-Africa migration, also lack religion. We know less about them, because they enthusiastically eat ethnologists, but they too lack the god conjecture.
+</p>
+
+
+
+<a class="tro" href="#04" id="05">&#10835;&emsp;&emsp;</a>
+<a class="tro" href="#04"> &#9651;&emsp;&emsp;</a>
+<h4><a href="#!"> 100,000 STORIES </a></h4>
+<a class="tri"  href="#06">&#10836;&emsp;&emsp;</a>
+<a class="tri"  href="#09"> &#9661;&emsp;&emsp;</a>
+
+<p class="epi">The number of prophets sent by God is said to have been about 124,000. &mdash;  <a class="fn">Gabriel Oussani°<span> (1911) <i>Mohammed and Mohammedanism.</i><br>
+	T. E. Lawrence mentions 40,000, while the 14th-century Islamic <cite>Gospel of Barnabas</cite> <b>17</b> raises the count to 144,000.
+</span></a>
+</p>
+
+<p>So successful was the god conjecture, that as noted earlier, there have been ~100,000 versions since the Upper Paleolithic. This estimate agrees roughly with the Islamic estimate of the epigraph, but it presents a severe challenge to the devout, who should be wondering, &lsquo;How do I know I have the right one, if there are so many I know nothing about?&rsquo; The choice becomes important when we realize that the first religions to leave a written record were (in ways that we will discuss in detail) a clear improvement over the religions on offer today.
+</p>
+
+<p>The usual approach is to evade the question with one of the pragmatic options of Table 4.2, most often the &lsquo;Tribal&rsquo; and &lsquo;True Belief&rsquo; choices.
+</p>
+
+<hr>
+<table  id="T4.2">
+<caption>
+<a class="tri"  href="#T4.1">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 4.2 </a> &nbsp;
+<a class="tri"  href="#T4.3">&emsp;&emsp;&#9654;</a>
+Avoiding decisions. Recipes for avoiding the problem of choosing a religion. This book is all about the question in the last row.
+</caption>
+
+<thead>
+<tr><th>Approach</th>
+	<th>Choice</th>
+	<th>Recipe</th>
+</tr></thead>
+
+<tfoot><tr><td colspan="3">* These <a class="fn">numbers°<span>
+	&bull;  GP Murdock (1959) &lsquo;World Ethnographic Sample&rsquo; <cite>American Anthropologist</cite> <b>59</b>: 664&ndash;687.<br>
+	&bull;  GE Swanson (1960) <cite>The Birth of the Gods: The Origin of Primitive Beliefs</cite> (University of Michigan Press, Ann Arbor MI).<br>
+	&bull;  RB Textor (1967) <cite>A Cross-Cultural Sample</cite> (HRAF Press, New Haven CT).
+</span></a> come from a personal communication by George Murdock to Guy Swanson in 1960, and Robert Textor&apos;s 3000-page <cite>Cross-Cultural Survey</cite>.
+</tfoot>
+
+<tbody>
+<tr><td><b>Atheist</b></td>
+	<td>None</td>
+	<td>We do not need the &lsquo;god conjecture&rsquo;, so the decision is irrelevant.</td></tr>
+
+<tr><td><b>Agnostic</b></td>
+	<td>None</td>
+	<td>With no rational basis for decision, it is premature to make one.</td></tr>
+
+<tr>
+<td><b>True Belief</b></td>
+	<td>&lsquo;Mine&rsquo;</td>
+	<td class="bgred">I know the truth, so no decision is needed.</td></tr>
+
+<tr>
+<td><b>Tribal</b></td>
+	<td>&lsquo;Ours&rsquo;</td>
+	<td class="bgred">We inherit our religion from parents, so no decision is needed.</td></tr>
+
+<tr><td><b>Anthropo-<br>logical</b></td>
+	<td>556</td>
+	<td>Out of 3500 cultures known by name, we have fieldwork for 1200, of which 556 are statistically independent.* Pick one.</td></tr>
+
+<tr><td><b>Post-modern multicultural</b></td>
+	<td>All</td>
+	<td>All religions are culturally true and worthy of respect, so no decision is needed.</td></tr>
+
+<tr><td><b>Ecumenical</b></td>
+	<td>Cherry pick</td>
+	<td>If we look only at the common aspects, no decision is needed.</td></tr>
+
+<tr><td><b>Philosophical</b></td>
+	<td>Cherry pick</td>
+	<td class="teal">Some things that call themselves &lsquo;religions&rsquo; are mere tribal markers; others have both helpful and unhelpful aspects. How can we discard the latter?</td></tr>
+</tbody>
+</table>
+
+
+<p>Table 4.3 amplifies the difference between various forms of folk belief working their way toward religion. Notice that totems and religion are required to have real effects upon behavior.
+</p>
+
+<hr>
+<table class="bg neu" id="T4.3">
+<caption>
+<a class="tri"  href="#T4.2">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 4.3 </a> &nbsp;
+<a class="tri"  href="#T4.4">&emsp;&emsp;&#9654;</a>
+Categories of Folk Beliefs. All categories may include supernatural elements, and all may talk about gods. It is impossible to draw hard lines between the categories: the working set suggested here is a personal view.
+</caption>
+
+
+<thead>
+<tr><th>Category</th>
+	<th>Definition</th></tr>
+</thead>
+
+<tbody>
+<tr><td><b>Folk Tale</b></td>
+	<td>The traditional beliefs, customs, and stories of a community, passed by word of mouth, possibly for millennia. Two major attempts exist to classify this material, Aarne-Thomson-Uther by <a class="fn">2400 motifs°.<span>
+H-J Uther (2004) &lsquo;The Types of International Folktales: A Classification and Bibliography Based on the System of Antti Aarne and Stith Thompson&rsquo; Vols 1-3.<cite> FF Communications</cite> No. 284-86, Academia Scientiarum Fennica, Helsinki.
+	</span></a> and Vladimir Propp by 31 functions of 8 varieties of <a class="fn">dramatis personae°:<span>
+VY Propp (1927) <cite>Morphology of the Folk Tale</cite>, trans. Laurence Scott. 2nd ed. (University of Texas Press,  Austin, 1968).
+	</span></a> &lsquo;The sequence of functions is always identical.&rsquo; </td></tr>
+
+<tr><td><b>Fairy Tale</b></td>
+	<td>&lsquo;Once upon a time, in a galaxy far, far away &hellip;&rsquo; A story about magical and imaginary beings in the land of Faërie. These days, technology indistinguishable from magic is allowed in the genre.</td></tr>
+
+<tr><td><b>Legend</b></td>
+	<td>A narrative of human actions that are perceived to take place within human history, limited to events that are within the realm of possibility as understood by the audience.</td></tr>
+
+<tr><td><b>Myth</b></td>
+	<td>A traditional story, usually concerning some being or hero or event, with or without a determinable basis of fact or a natural explanation, especially one that is concerned with deities or demigods and explains some practice, rite, or phenomenon of nature.</td></tr>
+
+<tr><td><b>Superstition</b></td>
+	<td>Someone else&apos;s religion; conceptions without foundation in, or in contravention of, scientific reasoning and knowledge.</td></tr>
+
+<tr><td><b>Totemism</b></td>
+	<td>Tribal moieties sharing a common ancestor, so that one has synthetic kin in all tribes of the wontok (common-language group). Its tales include the mythical origins and adventures of the first ancestor.</td></tr>
+
+<tr><td><b>Tribal Marker</b></td>
+	<td>Any story which still wants to kill the stranger, or lacks an inclusive super-tribal mythos, or privileges its believers above others.</td></tr>
+
+<tr><td><b>Religion</b></td>
+
+	<td>A <b>supra-tribal mythos</b> that includes others beyond the tribe in a protective form of synthetic kinship which precludes the need to kill them on sight. The accompaning supernatural details are window dressing, irrelevant to the purpose.</td></tr>
+</tbody></table>
+
+
+
+<a class="tro" href="#05" id="06">&#10835;&emsp;&emsp;</a>
+<h5> <a href="#!"> Cosmos: Versions 1, 2, &amp; 3 </a></h5>
+<a class="tri"  href="#07">&#10836;&emsp;&emsp;</a>
+
+<p>Our earliest creation myths have oral roots in the 8000 BP Neolithic. They attempt to make sense of the world of Fig. 4.1, common to Aryan and Semitic world views. The exterior waters are &lsquo;the waters of the abyss&rsquo;, and &mdash; peculiar to Genesis &mdash; the &lsquo;waters above the firmament&rsquo;, added to explain <a href="../_C/C09.shtml#28">Noah&apos;s Flood</a>. While there is serious confusion about waters, &lsquo;windows&rsquo; and astronomical objects, the conception integrates many facts <i>as then known</i> into a comprehensible if physically implausible whole.
+</p>
+
+<figure id="F4.1">
+<img class="fl" width="98%"
+src="A-Images/4.1_Cosmos1.jpg"
+alt="Vertical section through the circular, mountain-ringed flat Earth of the first millennium. A hemispherical dome &mdash; the Firmament &mdash; with windows for astronomical objects, keeps out &lsquo;the waters above&rsquo;, which are contiuous with the &lsquo;waters of the abyss&rsquo;. The Earth is supported by an evidently cylindrical structure of indefinite vertical extent, plus the &lsquo;Pillars of the Earth&rsquo; irregular inside. &lsquo;Sheol &mdash; the prototype of Hell, lies underground near the surface, and is connected to a volcano.">
+
+<figcaption>
+<a class="tro" href="#F4.2">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Fig. 4.1 </a> &nbsp;
+<a class="tri" href="#F4.2">&emsp;&emsp;&#9654;</a>
+Cosmos 1. The universe of Genesis 1. After <a class="fn">
+	SH Hooke (1947)°.<span><cite>In the beginning</cite> (Oxford).
+</span></a> The question of what supported the Pillars of the Earth was <a class="fn">left open°.<span>
+	The Hindus were bothered by this omission, and replaced the pillars with 4 elephants standing on a turtle (as in Sir Terry Pratchett&apos;s <cite>Disk World</cite>). This idea ultimately led to the famous (apocryphal?) hypothesis voiced by a lady at a lecture on cosmology: &lsquo;You‘re wrong, young man. It&apos;s turtles all the way down!&rsquo;<br>
+
+	<br>Al-Tabari explains that Allah &lsquo;brought forth smoke from the water. The smoke hovered loftily over it. He called it <q>heaven”. Then He dried out the water and made it earth. He split it and made it seven earths on Sunday. He created the earth upon a big fish, that being the fish mentioned in the Qurʾan {Suras 21:87, 37:142, 68:48 &mdash; 3 retellings of Jonah and the whale}. By the Pen, the fish was in the water. The water was upon the back of a small rock. The rock was on the back of an angel.The angel was on a big rock. The big rock was in the wind. The fish became agitated. As a result, the earth quaked, so Allah anchored the mountains and made it stable. This is why Allah made for the earth “firmly anchored mountains, lest it shake you up</q>&rsquo; {Suras 15:19, 16:15, 31:10, 41:10, 78:10}.<br>
+
+	<br>On the other hand, in the firmly anchoring mountains north of Arabia, 13 destructive earthquakes have occurred since 1939, moving west along the North Anatolian Fault between the Eurasian and Anatolian Plates, with Istanbul in mind. Do we detect a theological &lsquo;Oops!&rsquo; here?
+<br>--------------------<br>
+	Abu Muhammad bin al-Tabari (870&ndash;920) <cite>History of al-Tabari</cite> 9(?) vols. (State University of NY, Albany): I, 219.
+</span></a>
+</figcaption></figure>
+
+
+<p>The New Testament cosmos is already dramatically different (Fig. 4.2 Left), and by 1644, the Copernican Cosmos had been recognized (Fig. 4.2 Right). With keen insight, <b>Pope Alexander VII</b> saw that it was incompatible with Genesis &mdash; so he condemned it: &lsquo;My favorite tall tale does not describe the real world: Therefore, the world is wrong.&rsquo;
+</p>
+
+<p>This pattern has continued, with the cosmos increasing in complexity, and the explanation holding fast. Comparative mythologist Joseph Campbell explains what happens when knowledge outpaces myth; when the answers to existential questions no longer match our awareness of the cosmos:
+</p>
+
+<blockquote>Your mythology, your imagery, has to keep up with what you know of the universe, because what it has to do is put you in accord with the universe as known, not as it was known in 2000 BCE [6000?] in the Near East. &mdash;  <a class="fn">J Campbell (1990)°<span>
+	J Campbell (1990) <cite>Transformations of Myth Through Time</cite> (Harper &amp; Row, NYC): 22.
+</span></a>
+</blockquote>
+
+<p>Today&apos;s observational cosmology presents a particularly difficult challenge to conservatives, because it changes after every every new satellite telescope. The simplest resolution is that astronomers are unreliable and can be ignored in favor of the unchanging word of god. Explaining this remarkable failure to keep up, <a class="fn">
+	Aleister Crowley°<span>A Crowley (1953) &lsquo;The Gospel According To Saint Bernard Shaw&rsquo; In Francis King (ed.) <cite>Crowley on Christ</cite> (C.W. Daniel, London, 1974).
+</span></a>	ungraciously observed,</p>
+
+<blockquote>It never occurred to religious writers &hellip; to try to guard themselves against any rational criticism. The thing practically did not exist; and to this day the vast majority of Christians are absolutely incapable of understanding any such arguments, which they regard as mere blasphemy.
+</blockquote>
+
+<p>Malinowski says the same of the Trobriand Islanders: &lsquo;It is characteristic that any inconsistency is noted in a view which is not the informant&apos;s own standpoint, while similar contradictions are most <a class="fn">blandly overlooked°<span>
+	Malinowski, B (1916) &lsquo;Baloma; the Spirits of the Dead in the Trobriand Islands&rsquo; <cite>J. Roy. Anthropological Inst. of Great Britain and Ireland</cite> <b>46</b>: 149&ndash;274; p 219.
+</span></a> in his own theories.&rsquo;
+</p>
+
+
+<figure id="F4.2">
+<img class="fl"   width="98%"
+src="A-Images/4.2_Cosmos2,3.jpg"
+alt="A-Images/4.2_Cosmos2,3.jpg" />
+
+<figcaption>
+<a class="tro" href="#F4.1">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Fig. 4.2 </a> &nbsp;
+<a class="tri"  href="#F4.1">&emsp;&emsp;&#9654;</a>
+Cosmoi 2,3. <b>Left</b>: 6000 years after the Genesis Cosmos, the Ptolemaic Geocentric Cosmos was the order of the day for the New Testament. <a class="fn">Source°.<span>
+	S Hawking (1988) <cite>A Brief History of Time</cite> (Bantam Books, NYC).
+</span></a> <b>Right</b>: the Copernican Heliocentric Cosmos of 1543.
+</figcaption></figure>
+
+
+
+<a class="tro" href="#06" id="07">&#10835;&emsp;&emsp;</a>
+<h5> <a href="#!"> Gender Bias in the Tall Tales </a></h5>
+<a class="tri" href="#08">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">A serious and continuous obstacle in the study of ancient societies is the indolent assumption that they must have resembled our own. &mdash; <a class="fn">Marija Gimbutas°<span>
+	(1991) <cite>The Civilization of the Goddess</cite> (HarperSanFrancisco): 324.
+</span></a>
+</p>
+
+<p>The first creation story in Genesis 1&ndash;2:3 breaks off in the middle, perhaps because it was gender neutral: &lsquo;in the image of God [Elohim, plural] created he humans; male and female created he them‘. The 2nd, more complete story, is male chauvinism in full cry, and with a different deity: &lsquo;the LORD God [YHVH] formed man from the dust of the ground&rsquo; and as an afterthought, &lsquo;the rib, which the LORD God had taken from man, made he a woman&rsquo;. <b>Different gods, different stories</b>, different gender status. The earliest written creation story we have is the <cite>Enuma Elish</cite> of Babylon, a straightforward tale of a god, Marduk, demonizing and beating up a goddess, Tiamat, which sets the stage for the subjugation of women from that day on. Remnants of this pattern of a matrist or gender-egalitarian culture being subjugated by patriarchal invaders are <a href="../_D/D13.shtml#13">known</a> around the world. Many males pretend this pattern is a recent feminist invention, but it is not.
+</p>
+
+
+
+<a class="tro" href="#07" id="08">&#10835;&emsp;&emsp;</a>
+<h3><a href="#!"> Paternity Discovered </a></h3>
+<a class="tri" href="#09">&#10836;&emsp;&emsp;</a>
+
+<p>Subjugation was probably triggered by the discovery that men have something to do with making babies. While <a class="fn">ignorance of paternity°<span>
+	B Malinowski (1916) &lsquo;Baloma; the Spirits of the Dead in the Trobriand Islands&rsquo; <cite>J. Roy. Anthropological Inst. of Great Britain and Ireland</cite> <b>46</b>: Ch. 6.
+</span></a> occasionally survived into the 20th century, the discovery engendered a profound revolution elsewhere. Previously, creative power was the exclusive property of women, with reproduction by parthenogenesis. Many heroes and demigods &mdash; Taliesin, Llew Llaw, Merlin, Eleusis &mdash; &lsquo;were born of <a class="fn">virgin mothers°<span>
+	R Graves (1948) <cite>The White Goddess: A Historical Grammar of Poetic Myth</cite> 3rd. ed. (Latimer Trend, Whitstable, 1971): 159.
+</span></a> before the institution of father-hood&rsquo;. Animal husbandry had not immediately made it clear that
+</p>
+
+<p class="cen"><b>men : women &amp; babies : : bulls : cows &amp; calves</b>
+</p>
+
+<p class="flu">&mdash; however obvious this may be to us. If this seems improbably dense, consider that exactly this mental block inspires rejection of evolution today, in the face of similar evidence: &lsquo;What animals do has nothing to do with us! We are superior, so the gods look after us differently!&rsquo;
+</p>
+
+<p >The discovery of paternity followed from the invention of agriculture and the sowing of seeds. Men saw the light: Women had <i>nothing</i> to do with creating life, which lay entirely in the seed supplied by men, so that
+</p>
+
+<p class="cen"><b>men &amp; babies : women : : sowers of seeds &amp; plants : soil </b>.
+</p>
+
+<p><i>This </i>is an idea one can live with! The magical power of giving life is the property of males! Hallelujah! We were made in the image of a <i>male</i> god! As philologist John Allegro described this discovery
+</p>
+
+<blockquote>The dream of man is to become God. Then he would be omnipotent; no longer fearful of the snows in winter or the sun in summer, or the drought that killed his cattle and made his children&apos;s bellies swell grotesquely. The penis in the skies would rise and spurt its vital juice when man commanded, and the earth below would open its vulva and gestate its young as man required. &mdash;
+<a class="fn">
+	JM Allegro° <span>(1970) <cite>The Sacred Mushroom and the Cross</cite> (Doubleday, Garden City NYC): Introduction.
+</span></a>
+</blockquote>
+
+<p>This discovery is explicit in the Laws of Manu and in Greek tragedies, epitomized by Apollo saving Orestes from the relative-avenging Furies because Orestes was <a class="fn">not related to his mother°.<span>
+	&AElig;schylus, <i>Eumenides</i>, 659:<br>
+	That word &lsquo;mother‘ &mdash; we give it to the one who bears the child.<br> However, she&apos;s no parent, just a nurse to that new life embedded in her.<br>
+	The parent is the one who plants the seed, the father. Like a stranger for a stranger,&nbsp; &nbsp;[660]<br>
+	she preserves the growing life, &hellip;<br><br>
+
+	Male creative magic&rsquo; seems a central component of the alpha-male mystique, with sufficient vitality so that 2500 years after &AElig;schylus we still find Republican politicians refering to mothers as &lsquo;hosts&rsquo;.
+</span></a>
+</p>
+
+<p>Goddesses were central to creation myths until the Neolithic. Islam retains the inferiority complex that males endured when women possessed creative magic. &lsquo;The entire woman is an evil, and what is worse is that it [sic] is a necessary evil&rsquo;, said Mohammed&apos;s cousin and &lsquo;rightly guided&rsquo; caliph Ali, echoing Chrysostom. Nor was Milton far behind in bemoaning the <a class="fn">Creator&apos;s afterthought°:<span>
+	J Milton (1667) <cite>Paradise Lost</cite> (James Kayk, Pittsburg PA, 1836): Bk 9.
+</span></a>
+</p>
+
+<blockquote>&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; O, why did God,<br>
+Creator wise, that peopled highest Heaven<br>
+With Spirits masculine, create at last<br>
+This novelty on Earth, this fair defect<br>
+Of Nature, and not fill the World at once<br>
+With men as Angels, <a class="fn">without feminine°<span>
+	I had not thought of that passage for 65 years, having met it in junior high school, when it seemed entirely appropriate. Does this suggests that Milton and Ali never outgrew the social inadequacies and hormonal confusions of a 13-year old faced with infinitely attractive and totally incomprehensible girls? What does this say about the emotional maturity of the writer of the 2nd creation story in Genesis, or the author of the Quran?
+</span></a> &hellip;?
+</blockquote>
+
+<p>The &lsquo;incest taboo&rsquo; has often been taken to imply early recognition of paternity, but it is a result of the lack of sexual attraction between children who grow up together, since the &lsquo;instinct&rsquo; is absent between family members separated at birth even when the relationship is understood.
+</p>
+
+
+
+<a class="tro" href="#08" id="09"">&#10835;&emsp;&emsp;</a>
+<a class="tro" href="#05" >&#9651;&emsp;&emsp;</a>
+<h4><a href="#!"> ONE STORY </a></h2>
+<a class="tri"  href="#10">&#10836;&emsp;&emsp;</a>
+<a class="tri"  href="#01"> &#9650;&emsp;&emsp;</a>
+
+<p>Given 100,000 tries, we might expect to get the story right. Unfortunately, we did not, as is obvious from the development of the narrative. Each story is <i>sui generis</i>, claiming to be uniquely correct and the others wrong. This is not the way truth is arrived at in other fields. Those who lack the credulity allele have therefore pieced together a different explanation of the world, whose narrative developed naturally. Independently discovered pieces hang together, forming a coherent (if incomplete) tale. A discordant bit will either be refined, or alter the existing text, until it fits. It appears that there will ultimately be a single consilient story that describes all aspects of the cosmos.
+</p>
+
+<p>This story accepts the changing understanding of the cosmos, and subsumes all manner of details from other disciplines &mdash; but it does not tell us we are important, and it does not promise &lsquo;happily ever after&rsquo;, so many see no point to it at all &mdash; although it did give us airplanes and iPhones.
+</p>
+
+<p>Unsurprisingly, both explanations depend upon invisible agents. Both sorts are held to be important: traditional agents bring messages and adjust events; non-traditional agents govern everything from electric toothbrushes to the Earth&apos;s orbit, and they include 96% of the mass-energy of the universe. The difference is that traditional agents are anthropomorphic, with intelligence, intention, and concern for us. The non-traditional agents obey simple rules (equations), and totally ignore us. Agents can be sometimes be visualized: Archangel Gabriel is said to appear to certain people (but not to <a class="fn" >others°<span>
+	Thus Aisha, Mohammed&apos;s child-wife, upon being introduced to Gabriel by Mohammed, replied, &lsquo;You see what I don&apos;t see&rsquo; {Bukhari 4:54:440}.
+</span></a> who are present); magnetic fields can be visualized with iron filings, but not necessarily understood. The unconcern of the non-traditional agents means that on every line in Table 4.4 the traditional explanation will satisfy more people. Having been in a popularity contest for 12,000 years, the survivors are the stories that make us feel best.
+</p>
+
+
+<hr>
+<table id="T4.4">
+<caption>
+<a class="tro" href="#T4.3">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 4.4 </a> &nbsp;
+<a class="tri" href="#T4.5">&emsp;&emsp;&#9654;</a>
+Explanatory differences. Reasons for choosing between traditional and non-traditional explanations of the world lie in the differences between them.</caption>
+<colgroup>
+	<col>
+	<col>
+	<col class="bggrn">
+	<col class="bgred">
+</colgroup>
+
+<style>
+td:nth-child(3) { background-color: #d0ead0 ;}
+td:nth-child(4) { background-color: #ffe8e0 ;}
+</style>
+
+<thead>
+<tr><th>Category</th>
+	<th>Traditional</th>
+	<th>Non-traditional</th>
+	<th>Rationale for favoring tradition</th></tr>
+</thead>
+
+<tfoot><tr><td colspan="4">* &lsquo;All sciences including the most evolved are characterized by a state of perpetual becoming&rsquo;, as <a class="fn">Piaget°<span>
+	J Piaget (1970) <cite>The Principes of Genetic Epistemology</cite> (Routledge & Kegan Paul, London, 1972): 11.
+</span></a> put it. This is surprisingly disturbing to fundamentalists, who see it as a <i>defect</i> of science, apparently distrusting anything that disagrees with what they first learned. Is this a clue to the brain structure that gives rise to fundamentalism?</td>
+</tfoot>
+
+<tbody>
+<tr><td><b>Number</b></td>
+	<td>100,000</td>
+	<td>1</td>
+	<td>There is safety in numbers.</td></tr>
+
+<tr><td><b>Invisible agents</b></td>
+	<td>Anthropo-morphic</td>
+	<td><i>Sui generis, </i>autonomous, uncaring</td>
+	<td>Uncaring agents seem pointless.</td></tr>
+
+<tr><td><b>Source of information</b></td>
+	<td>Revelation</td>
+	<td>Observation</td>
+	<td>Being told something is easier than discovering it. &mdash; Al-Kindi</td></tr>
+
+<tr><td><b>Immediate informants</b></td>
+	<td>Parents</td>
+	<td>Teachers</td>
+	<td>Parents are always more trustworthy than others.</td></tr>
+
+<tr><td><b>Sample &lsquo;big&rsquo; question</b></td>
+	<td>Why me?</td>
+	<td>How come the sun shines?</td>
+	<td>We are more concerned with ourselves than anything else.</td></tr>
+
+<tr><td><b>Verifiability</b></td>
+	<td>Private</td>
+	<td>Public</td>
+	<td>Private verifiability is more convincing than hearsay.</td></tr>
+
+<tr><td><b>Appeal</b></td>
+	<td>Emotional</td>
+	<td>Logical</td>
+	<td>Emotion trumps logic when things matter.</td></tr>
+
+<tr><td><b>Message</b></td>
+	<td>Prescriptive</td>
+	<td>Descriptive</td>
+	<td>Suggestions are more useful than explanations.</td></tr>
+
+<tr><td><b>Adaptable?</b></td>
+	<td>No</td>
+	<td>Yes</td>
+	<td>Explanations that change are suspect.*</td></tr>
+
+<tr><td><b>Uniform answers?</b></td>
+	<td>No</td>
+	<td>Yes</td>
+	<td>We seldom check the answers, and it is hard to design experiments to test them.</td></tr>
+
+<tr><td><b>Persuasion</b></td>
+	<td>Belief</td>
+	<td>Demonstration</td>
+	<td>Demonstration convinces only the prepared.</td></tr>
+
+<tr><td><b>Disagreement settled by</b></td>
+	<td>Force</td>
+	<td>Experiment</td>
+	<td>The use of force is limited to history books and elusive places like Darfur, Abu Ghraib, and Guantanamo.</td></tr>
+
+<tr><td><b>Epistemology</b></td>
+	<td>&lsquo;It is written&rsquo;</td>
+	<td>Knowledge is traceable to first principles</td>
+	<td>A true First Principle is one in a book written/ dictated/inspired by a god.</td></tr>
+</tbody>
+</table>
+
+
+
+<a class="tro" href="#09" id="10">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Elegance </a></h5>
+<a class="tri" href="#11">&#10836;&emsp;&emsp;</a>
+
+<p >The traditional explanations offer 100,000 different rules. Advocates of some rules are so convinced and caring that they will kill you <a class="fn">for your own good°<span>
+	Especially if you have money or property they can then get their hands on.
+</span></a> rather than let you follow a wrong tradition. There were days when 50,000 Europeans were slaughtered &lsquo;to save them&rsquo;. The non-traditional explanation avoids this problem with a single story that promises nothing. Nor does it
+<a class="fn">kill you°.<span>
+	Many will dispute this, pointing to nuclear weapons, Frankenfoods, biocides, water boarding, and other scientific discoveries as very efficient ways of killing. So are stones. The problem is not discovery, but the Neolithic mind-set that wants to use them intentionally, either to kill The Other, or in aid of making a profit.
+</span></a> It doesn&apos;t talk about purpose and ultimate causes or ask &lsquo;Why?&rsquo;, but inquires about mechanism and proximate causes, asking &lsquo;How come?&rsquo;. How did the world come to be the way it is? Here we can find answers. They are composite, forming a story of many chapters, and the chapters aim at the subtle concept of elegance.
+</p>
+
+
+<hr>
+<table class="bg neu" id="T4.5">
+<caption>
+<a class="tro" href="#T4.4">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 4.5 </a> &nbsp;
+<a class="tri" href="#T4.6">&emsp;&emsp;&#9654;</a>
+Elegance &mdash; its major characteristics and their significance in the context of explanations of the world.
+</caption>
+
+<thead>
+<tr><th>Characteristic</th>
+	<th>Significance</th></tr>
+</thead>
+
+<tfoot><tr><td colspan="2">* This may fail at times because, in the words of JBS Haldane, &lsquo;Not only is the universe queerer than we imagine, it is queerer than we <i>can</i> imagine&rsquo; &mdash; and it gets queerer with time. The redeeming feature is that once we discover the mathematics of the queerness, it doesn&apos;t change and we can tell what it is going to do, even if we don&apos;t know why.</td></tr>
+</tfoot>
+
+<tbody>
+<tr><td><b>Esthetic</b></td>
+	<td>The explanation can be expressed compactly, perhaps as a small set of axioms.</td></tr>
+
+<tr><td><b>Parsimonious</b></td>
+	<td>New approximations to truth usually make few assumptions and changes. (&lsquo;Paradigm shifts&rsquo; are rare exceptions.)</td></tr>
+
+<tr><td><b>Comprehensible</b></td>
+	<td>Correct explanations of most data can be understood by an 8-year old.*</td></tr>
+
+<tr><td><b>Esthetics/Joy</b></td>
+	<td>The beauty of the explanation should make the beholder rejoice.</td></tr>
+
+<tr><td><b>Coherent</b></td>
+	<td>All explanations interconnect in a network of mutual support.</td></tr>
+
+<tr><td><b>Universal</b></td>
+	<td>The explanation holds over all time and space; exceptions are well defined.</td></tr>
+
+<tr><td><b>Precise</b></td>
+	<td>Its facts and its ideas agree numerically; agreement gets better with time.</td></tr>
+
+<tr><td><b>Analytic</b></td>
+	<td>The explanation includes and is part of a logical chain of cause and effect.</td></tr>
+
+<tr><td><b>Predictive</b></td>
+	<td>What it says will happen does happen, with numerical agreement.</td></tr>
+
+<tr><td><b>Falsifiable</b></td>
+	<td>The explanation is vulnerable to testing, and will be modified when it fails.</td></tr>
+
+<tr><td><b>Self-Repairing</b></td>
+	<td>Unlike other human endeavors, the elegant approach will correct its errors.</td></tr>
+</tbody>
+</table>
+
+
+<p>Table 4.5 attempts to dissect &lsquo;elegance&rsquo;. Like beauty, elegance is in the eye of the beholder. Given two explanations of the same puzzle, smart money bets on the more elegant <i>as understood by the people who use it</i>. Cosmological models, describing the first moments of creation in mathematical terms, are at the cutting edge of physics. Assumptions introduced into models for elegance &mdash; &lsquo;simplicity, expediency and <a class="fn">aesthetics&rsquo;°<span>
+	F Wilczek (2003) &lsquo;Analysis and Synthesis III: Cosmic Groundwork&rsquo; <cite>Physics Today</cite> <b>56</b>(#10): 10&ndash;11.
+</span></a> &mdash; produce good descriptions, and become components of better theories. Some call this the &lsquo;unreasonable power of mathematics&rsquo;. We don&apos;t know why it works, yet it may be our best pointer to the fundamental nature of the universe.
+</p>
+
+<p >An important guide to elegance is Ockham&apos;s Razor, freely translated: &lsquo;Other things being equal, the simplest explanation is best&rsquo;. Yet there is a danger. The simplest explanation of anything is &lsquo;a god did it&rsquo;. Insurance companies don&apos;t pay for &lsquo;acts of god&rsquo;, so &lsquo;god&rsquo; is economically useful. But this is an <i>ad hoc</i> explanation that is not part of a chain of natural cause and effect. Despite the simplicity and universality of &lsquo;a god did it&rsquo;, &lsquo;supernatural&rsquo; does not qualify as an elegant explanation.
+</p>
+
+<p >The last 2 entries in Table 4.5 are the acid test. It may seem contrary, but if you don&apos;t try to make an explanation fail quantitatively, you can never trust it, and if you can&apos;t change it when it is wrong, it explains nothing.
+</p>
+
+<p >The non-traditional approach provides precise numerical answers &mdash; but to questions few people ask. Traditional approaches purport to answer more popular questions &mdash; but with poetry. This is one of the dilemmas of the human condition, explored by <a class="fn">Giambattista Vico°<span>
+	G Vico (1730/1744) <cite>Scienza nuova seconda, The New Science of Giambattista Vico</cite>, revised translation of the third edition by TG Bergin, MH Fisch (Cornell University Press, 1948; Cornell Paperbacks, 1976; Ithaca).
+</span></a> in response to the &lsquo;<a class="fn">sterility&rsquo;°<span>
+	This is an odd choice of adjective! In what sense is replacing arbitrary behavior (at the whim of incomprehensible entities) by understandable rules &lsquo;sterile&rsquo;? I would have called Cartesian mechanics &lsquo;fertile&rsquo;: It led, after all, to such things as jet engines and refrigerators.
+</span></a> of Cartesian mechanics. There isn&apos;t much we can do about it except note that &lsquo;elegant&rsquo; explanations grow more comprehensive with time.
+</p>
+
+<p >There is currently a debate about the meaning of elegance
+and the role of models. The conventional (often, &lsquo;Aristotelian&rsquo;) view is summed up by an engineer:
+</p>
+
+<blockquote>Science is all about models of the real world, whether natural (basic science) or manmade (applied science, or technology). These models are not discovered in nature, for nature has no numbers, no coordinate systems, no parameters, no equations, no logic, no predictions, neither linearity nor non-linearity, nor many of the other attributes of science. Models are man&apos;s creations, written in the languages of science: natural language, logic, and mathematics. &mdash; <a class="fn">
+	Jeff Glassman°<span> (2007) &lsquo;Conjecture, hypothesis, theory, law&rsquo; <cite>Crossfit</cite> #64; 4 pp.
+</span></a>
+</blockquote>
+
+<p>The alternative (&lsquo;Platonic&rsquo;) view, suggested by the front end papers, championed in <a class="fn">detail°<span>
+	&bull; E Fredkin (1990) &lsquo;Digital Mechanics&rsquo; <cite>Physica</cite> <b>D</b>: 254-270.<br>
+	&bull; R Penrose (1994) <cite>Shadows of the Mind</cite> (Oxford University Press, London).<br>
+	&bull; M Tegmar (1998) &lsquo;Is <q>the theory of everything</q> merely the ultimate ensemble theory?&rsquo; <cite>Annals of Physics</cite> <b>270</b>: 1-51.
+</span></a> by Edward Fredkin, Roger Penrose, and Max Tegmark, is that nature <i>is</i> the solution of equations. Abstract or running on a computer moment by moment, differential or discrete, probabilistic or deterministic &mdash; there is some <i>reason</i> that we can describe the universe mathematically. We have an immensely challenging philosophical problem to explain: Why does mathematics <i>work?</i> Few have attempted this, and no one has offered a better suggestion than Plato&apos;s: the Ideal World &mdash; of &lsquo;numbers, coordinate systems, parameters, equations, and logic&rsquo; &mdash; is in fact the basic ground of the universe.
+</p>
+
+
+
+<a class="tro" href="#10" id="11">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Questions to be Answered </a></h5>
+<a class="tri" href="#13">&#10836;&emsp;&emsp;</a>
+
+<p>The questions which are supposed to be answered by the 100,000 stories are &lsquo;existential&rsquo;. Traditionally, these include:
+</p>
+
+<p><b>Where did we come from?</b></p>
+
+<p class="p2"><b>Why are we here?</b></p>
+
+<p class="p4"><b>Where are we going?</b></p>
+
+<p>We do not like to feel accidental, useless, or directionless, and much prefer answers that flatter us. This is the role of myth, and nihilism was the response when the Enlightenment began to take our myths away. Nihilism was an unimaginative response, but it evidently takes a resolute spirit to understand that we had always made those supportive myths ourselves. The thing to do is roll up our sleeves and make more useful myths. Some might call this &lsquo;forging Scripture&rsquo;, but then, most &lsquo;valuable antique furniture&rsquo; is modern forgery, the originals having long ago succumbed to wood worm and dry rot. Its real value lies in successful design and careful workmanship, not age.
+</p>
+
+<p>Coyotl&apos;s answer to the 2nd existential question is that he wants to see what will happen next. Most people find such free choice unsettling, for it means that the 3rd answer is up to us: Coyotl hasn&apos;t a clue. This is more responsibility than most people want &mdash; but it has always been true. Yet we have some good data which can help us decide where we want to go. Take a hard look at the last 200 years (and the last 5) and see where people go when they have a choice, or their own culture is inadequate. Immigration being the sincerest form of flattery, historically, many headed straight for the one nation intentionally designed on Enlightenment principles. This should tell us something important. Today, refugees and the <a class="fn">culturally superfluous°<span>
+	Does this sound callous? If so, find a better term to describe that fraction of the population that its culture cannot supply with useful, comfortable, and satisfying lives.
+</span></a> head for the West, or in desperation blame it for their plight.
+</p>
+
+<p>Physical destination is obviously not what the existential question is intended to ask. But the complete lack of a verifiable answer to its philosophical intent, and the suggestive answer to its physical reality, might be taken as a useful clue.
+</p>
+
+<p>The traditional questions do not exhaust the stock. Perhaps the most important existential question is <b>&lsquo;Where</b> <b><i>should</i></b> <b>we be going?&rsquo;</b> We will offer some suggestions in the final chapters, and it will prove impossible to disentangle the physical and philosophical answers.
+</p>
+
+<br><hr>
+
+<p>When Coyotl&apos;s <i>words</i> say one thing, and his <i>works</i> show another, I believe <a class="fn">his works°.<span>
+	Cf the geologist Archibald Geikies. He pointed out that depositing the chalk cliffs of Dover would have taken more than 6000 years, only to be met with all of the convoluted and inconsistent arguments of Young Earth Creationists. Geikies correctly answered, &lsquo;I will not believe that God has written a lie upon the rocks!&rsquo;. The Plymouth Brethren&apos;s Philip &lsquo;Omphalos&rsquo; Gosse explained Geikies&apos;s confusion: &lsquo;God shall send them strong delusion that they may believe a lie.&rsquo; I don&apos;t think Coyotl is up to that. The tangled web of deceit is hard to weave flawlessly. For every microscopic zircon, he would have to have located every uranium atom, calculated its distance from the surface, and allowed the correct fraction of radiogenic helium to escape from the crystal. This is difficult for a single zircon! I suspect that the fastest way to create a consistent picture is to start the universe 13.73 billion years ago and let it run.
+</span></a> (This may be caused by loss of the credulity allele. Alice&apos;s White Queen could believe 6 impossible things <a class="fn">before breakfast°.)<span>
+	The 6 impossible things were elements of the Anglican creed.
+</span></a> Overlooking this peculiarity, a deeper question is, Why are there 2 stories? Why are there 100,000 stories of equal authority &mdash; which is that of hearsay. (Coyotl, alas, never told me his story directly; it comes from an old Miwok medicine man.) The hearsay stories conflict. In contrast, the story embedded in the world is the same thing for <a class="fn">every reader°.<span>
+	This is not to deny debate over readings. Such debates, misunderstood by outsiders, may seem to cast doubt on the reliability of the process under discussion. Come back in a decade and reread the story after the dust has settled. They were probably arguing over 3% differences. Improvement is so continuous that it is hard to write a book which is not obsolete in some details by the time it appears in print.
+</span></a> As those who can read it observe, the story is so complex and fascinating that it seems <a class="fn">rude <i>not</i> to read it°.<span>
+	M Bjornerud (2007) <cite>Reading the Rocks: An Autobiography of the Earth</cite> (Basic Books, NYC).
+</span></a> Recall the happy inhabitants of <cite>Utopia</cite>, who think that just as
+</p>
+
+<blockquote>the Author of nature, &hellip; like the inventors of curious engines amongst mankind, has exposed this great machine of the universe to the view of the only creatures capable of contemplating it, so an exact and curious observer, who admires His workmanship, is much more acceptable to Him than one of the herd, who, like a beast incapable of reason, looks on this glorious scene with the eyes of a dull and unconcerned spectator. &mdash; <a class="fk" href="http://manybooks.net/titles/morethometext00utopi10.html">More (1815)°.<span>
+	T More (1518) <cite>Utopia</cite> (transl. G Burnet 1684): 122.
+</span></a>
+</blockquote>
+
+
+
+<a class="tro" href="#11" id="12">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Learning to Live Together </a></h5>
+<a class="tri" href="#13">&#10836;&emsp;&emsp;</a>
+
+<p>We conclude the discussion of stories by comparing 2 processes belonging to unrelated fields, that gave us answers to dimly recognized but important problems. The common features are that the problems were unconscious and resolved long ago, the results were unanticipated, the time required was long by human standards but instantaneous paleontologically, and the mechanisms were pragmatic selection. Both processes can be characterized as groups learning to live together.
+</p>
+
+
+
+<a class="tro" href="#12" id="13">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Quotidian assistance </a></h5>
+<a class="tri"  href="#14">&#10836;&emsp;&emsp;</a>
+
+<p>The more recent need was simple: to move beyond hand-to-mouth survival, we needed help with daily living, so we recruited suitable animals &mdash; and no civilization has arisen without exploiting them. We owe a deep and irrefragable ethical debt to the animal kingdom. We needed them once, in all their variety &mdash; and we will need them again. This is a debt that civilization owes &mdash; and if our overarching goal is implementing social justice, it is a debt that we must repay to realize our true potential. Repayment is simple: this is their world too, and we must not monopolize it to their detriment. Fail in this &mdash; as we seem intent upon doing &mdash; and we fail in our entire purpose.
+</p>
+
+
+
+<a class="tro" href="#13" id="14">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Leaving our 160,000-year rut </a></h4>
+<a class="tri"  href="#01"></a>
+<a class="tri"  href="#01"> &#9650;&emsp;&emsp;</a>
+
+<p>The earlier need was also simple. Our predecessor, <i>Homo erectus,</i> spent 2 million years as a chimpanzee who cooked his food. We remained in his Middle Paleolithic rut for another 160,000 years &mdash; with our social horizon limited to &lsquo;See a stranger; kill it&rsquo; &mdash; and we needed a way to move on. We didn&apos;t know what we were looking for. The immediate need was only to avoid a fight one day, but the solution we found triggered the exponential growth that distinguishes us from other animals and (briefly) got us to the moon.
+</p>
+
+<p>The last 5000 years have taught us that our universe is not one in which social justice appears automatically. The fact that we have discovered the <i>concept</i> is encouraging: as far as we know, this is a unique discovery. (No other planet in our galaxy has done better, or we would know about them.) The question remains of how to discharge our responsibility. Table 4.6 may offer a clue.
+</p>
+
+<p>For all of the similarities of process in the way we answered our 2 needs, the results are perceived to lie in unrelated fields. It is rare to find a suggestion that animal husbandry and human
+	<a href="../_A/A-1.shtml#14"><img class="im" src="../Images/K-NewIdea3.gif" alt="NewIdea"></a>
+spirituality have anything in common; this oversight may be explained by the overwhelming differences between the processes outside the similarities of the table.
+</p>
+
+
+<hr>
+<table id="T4.6">
+<caption>
+<a class="tri" href="#T4.5"">&#9664;&emsp;&emsp;</a>
+<a href="#!"> Table 4.6 </a> &nbsp;
+<a class="tri" href="#T4.1">&emsp;&emsp;&#9654;</a>
+Needs. Comparison between our approach to resolving 2 prehistoric human needs, leading to experimentally discovered methods for living together.
+</caption>
+
+<thead>
+<tr><th></th>
+	<th colspan="2">Help needed with:</th>
+
+<tr><th>Aspect</th>
+	<th>Getting out of the Middle Paleolithic</th>
+	<th>Quotidian routines of survival</th></tr>
+</thead>
+
+<tfoot>
+<tr><td colspan="3">* <a class="fn">Róheim°<span>
+	G Róheim (1943) <cite>The origin and function of culture</cite> (Anchor, Garden City, 1971): Ch 2.
+</span></a> makes much of this relationship among Australian aborigines, claiming that dingos are kept only for emotional, rather than utilitarian, reasons &mdash; overlooking their utility on a chilly &lsquo;3-dog night&rsquo;. He sees culture as &lsquo;whatever is above the animal level in mankind&rsquo;, and quotes Freud&apos;s definition of the cultural task (in <cite>Civilization and its Discontents</cite>) as being &lsquo;that of uniting human beings into a larger unity&rsquo;, but he missed the intimate connection between domestication and religion suggested by the table.</td>
+</tfoot>
+
+<tbody>
+<tr><td><b>Interaction Psychology</b></td>
+	<td>Unconscious, limbic</td>
+	<td>Unconscious, limbic</td></tr>
+
+<tr><td><b>Time Period</b></td>
+	<td>Middle/Upper Paleolithic transition</td>
+	<td>Upper Paleolithic and Neolithic</td></tr>
+
+<tr><td><b>Result Anticipated?</b></td>
+	<td>No</td>
+	<td>No</td></tr>
+
+<tr><td><b>Groups Interacting</b></td>
+	<td>2 tribes</td>
+	<td>2 species</td></tr>
+
+<tr><td><b>Interaction Between</b></td>
+	<td>Human need and a <i>story</i></td>
+	<td>Human need and a cooperative animal species</td></tr>
+
+<tr><td><b>Time Required</b></td>
+	<td>&lt; 35 generations?</td>
+	<td><a href="../_D/D13.shtml#05">35 generations</a></td></tr>
+
+<tr><td><b>Process</b></td>
+	<td>Genetic and narrative selection</td>
+	<td>Genetic selection</td></tr>
+
+<tr class="ltgra"><td><b>Genetic Selection for</b></td>
+	<td>Neoteny, docility;<br>trust, cooperation;<br>credulity</td>
+	<td>Neoteny, docility;<br>mutual benefit;<br>utility, stupidity</td></tr>
+
+<tr class="ltgra"><td><b>Psychological Result</b></td>
+	<td><b>Horizontal (sib-sib) synthetic kinship</b></td>	<td><b>Vertical (parent-child) synthetic kinship*</b></td>
+</tr>
+
+<tr><td><b>We call the process:</b></td>
+	<td><b>RELIGION</b></td>
+	<td><b>DOMESTICATION</b></td></tr>
+</tbody>
+</table>
+
+
+<p >Selection for mutual benefit was rare (cats being the prime example); the selection for credulity seems general. The credulity allele &mdash; for better or worse &mdash; facilitated belief in authoritative dicta without requiring supporting evidence. Waiting for mutation to produce a favorable allele is a <i>much</i> longer process than the 35 generations for selection of existing alleles. Species such as zebras and Scottish wild cats, lacking the necessary alleles, have never been domesticated. The implication is that we killed off the trusting among them, permanently destroying their &lsquo;trusting&rsquo; allele.
+</p>
+
+<p >A principal difference between the processes is the directionality of the result. Domestication results in animals regarding us as parents &mdash; patently in the case of household pets, rather dimly for <a class="fn">farm animals°.<span>
+	The best example I can offer is a feral lamb I ran down in a side canyon of Utah&lsquo;s Green River on a kayak/Zodiac/inner-tube trip. My raftmates had intended to eat him. When I set him down after the terror of the chase, the first thing he did was butt my leg in the hope that this would produce milk. Still, this befuddled gesture won the hearts of the grad students and saved his life, for they thereafter saw him as cuddly rather than edible. Evidently there <i>is</i> bidirectionality involved here.<br>
+	Domestication was almost certainly an inadvertent result of the maternal instinct, beginning with a foolish soft-hearted woman rescuing the offspring of the tribe&apos;s dinner.
+</span></a>
+
+Religion, at its best, leads to a recognition of the brotherhood of man under the fatherhood of god (or clumsier gender-free circumlocutions). There is further divergence: People are seldom willing to die for their domestic animals, but, oddly, are able to identify so deeply with their stories that they are sometimes willing to die for them. Like altruism &mdash; in which (contrary to naïve theory) one sacrifices resources for the benefit of another&apos;s genes &mdash; this challenge to our current understanding of evolution and selection makes the function of religion a matter for research.
+</p>
+
+<p >Incomprehensibly, people are also willing to <i>kill</i> for their stories. This makes religion, like murder, a matter for civil investigation and regulation. Most murders are crimes of passion or greed, driven by irrational but well understood motives with a solid theoretical foundation. Murder on behalf of a story is irrational to the point of insanity.
+</p>
+
+<p class="cen">
+*&emsp;&emsp;&nbsp;*&emsp;&emsp;&nbsp;*
+</p>
+
+<p><b>Religion was &lsquo;for&rsquo; helping us live together</b>. This raises 2 questions:
+	<a href="_A/A00.shtml#14"><img class="im" src="../Images/K-TakeHome3.gif" alt="TakeHome"></a>
+<br>&bull;  By the middle of the 13th century, Thomas Aquinas had seen that as society and the problems of living together changed, religion must welcome and adapt to new discoveries. <span class="br">Why is this so difficult for us today?</span>
+
+<br>&bull;  Killing people does not &lsquo;help us live together&rsquo;. Consequently, any story that advocates killing cannot be a part of religion. <span class="br">Why is this not obvious?</span>
+</p>
+<span class="fr">◼</span>
+
+<br><hr><div class="cen">
+<a href="../_A/A03.shtml">&vltri;&emsp;&emsp;</a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+<a href="../_B/B05.shtml">&emsp;&emsp;&vrtri;</a></div>
+</body></html>

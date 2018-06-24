@@ -1,0 +1,832 @@
+
+<!-- C11 Paleoinstinct 10/07/2017, 10:33 -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>C11_Paleoinstinct</title>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+</style>
+</head>
+
+<body>
+<p  class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-06-18 18:30 CET;
+Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h3>Book 3:  Its Function</h3>
+<!--#include virtual="TocC11.shtml" -->
+
+
+
+<a class="tri" href="../Index.shtml" id="00">&#11152;&emsp;</a>
+<a class="tri" href="#18">&#9660;&emsp;&emsp;</a>
+<h3><a href="#!"> PALEOINSTINCT </a></h3>
+<a class="tri" href="#04">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#01">&emsp;&emsp;&#9661;</a>
+
+
+<p class="epi">If we could find something that was common to all men, it could not be denied that we should have acquired a wisdom which would lead to greater understanding of our fellow men and their problems. &mdash; anthropologist George Boas
+</p>
+
+<p class="epi">Consider a genotype whose activities increase the productivity of its local population &hellip;. Populations with a high frequency of this genotype will be more productive than those with a low frequency, and will differentially contribute to the pool of dispersers. The genetic composition of the dispersers will be biased toward the genotype that increases the productivity of its group, and this bias is carried into all groups colonized by the dispersers. &mdash; sociobiologist E.O. Wilson
+</p>
+
+
+
+<h3 id="01">
+<a class="tri" href="#00">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> Common Ancestor 1 </a>
+<a class="tri" href="#02">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>What sort of creature was it that evolved into religious humans? What did we have, as we entered the Urzeit (ca 40 ka), that turned into religion? Trying to answer this from fossils and artefacts is risky because it is exceedingly difficult to get into the very different mind of Paleolithic people. We long debated controversial plausibility arguments based on personal deductions from <a class="fn">inadequate evidence.<span>
+	KG Bailey (1987) <cite>Human Paleopsychology: Applications to Aggression and Pathological Processes</cite>. (L. Erlbaum, London).
+</span></a> In an effort to improve this situation, <a class="fn">Wrangham<span>
+	R Wrangham (1987) &lsquo;African Apes: The Significance of African Apes for Reconstructing Social Evolution&rsquo; in <cite>The Evolution of Human Behavior: Primate Models,</cite> 51-71. Ed. by WG Kinzey. (SUNY Press, Albany NYC).
+</span></a>	examined what is known of 8 great-ape species: 2 gorillas, 3 chimpanzees, 1 bonobo, and 2 humans to reconstruct a behavioral model of a hypothetical Common Ancestor. Any common property is deemed ancestral because it is highly unlikely that evolution in species with different lifestyles would converge to the same new behavior. After a decade of successful use, <a class="fn">Boehm<span>
+	C Boehm (1999) <cite>Hierarchy in the Forest</cite> (Harvard University Press, Cambridge MA).
+</span></a>	refined the project into a sociopolitical model on the basis of observations of captive apes.
+</p>
+
+<p>Between the branching of the orangutan and the gorilla, about 7 million years ago, the Common Ancestor (Fig. 11.1) was a quadrupedal arboreal (largely vegetarian) primate whose DNA differed from ours by a mere 2.6%. The human/chimpanzee/bonobo clade, unlike other social animals, is characterized by matrilocal males who stay in natal groups probably no larger than a few dozen, forming closely related male &lsquo;clans&rsquo; with closed social networks, ethnocentric and xenophobic, who cooperate to defend the common territory, leading to hostile and male-dominated intergroup relationships with stalk-and-attack interactions, sub-group formation for foraging, fission-fusion female exogamy (so genes and behavior will spread to other groups rapidly) and a lack of alliance bonds between females, males having sexual relationships with more than one female, moderate sexual dimorphism (unlike gorillas) because in group conflicts it is numbers rather than individual size that is <a class="fn">most helpful,<span>
+	MP Ghiglieri (1987) Sociobiology of the great apes and the hominid ancestor&rsquo;<cite> Journal of Human Evolution</cite> <b>16</b>(#4): 319-357.
+</span></a> and hierarchical group structure. In marginal habitats the flexible open groups of hunter-gatherers emerged, while in resource-rich areas, patrilocal <a class="fn">tribal societies appeared.<span>
+	L Rodseth (1991) Comment on Knauft &lsquo;Violence and sociality in human evolution&rsquo; <cite>Current Anthropol.</cite> <b>32</b>(#4): 414-416.
+</span></a>
+</p>
+
+
+<figure>
+<img class="fl" width="75%"
+src="C-Images/11.1_FamilyTree.jpg"
+alt="A branching diagram of 12 clusters, in which modern humans cover the smallest area &mdash; that is, the least genetic diversity. Neandertal is as far from us as bonobos are from chimpanzees.">
+
+<figcaption>
+<a class="tri" href="#F11.2">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F11.1"> Fig. 11.1 </a>
+<a class="tri" href="#F11.2">&emsp;&emsp;&#9654;</a>
+Hominid Family Tree. Each cluster is a species or subspecies; the (parenthesized) number of branches in it is arbitrary, being the number of DNA sequences available. Distance is a measure of genetic difference. After <a class="fn">Gagneux (1999).<span>
+	P Gagneux &amp;9a (1999) &lsquo;Mitochondrial sequences show diverse evolutionary histories of African hominoids&rsquo; Proc. Natl. Acad. Sci. US 96(#9): 5077-5082. Fig. 2.
+</span></a>
+</figcaption></figure>
+
+
+<p>A number of the preadaptations of the human/chimpanzee clade seem to encourage group aggression. According to Jane Goodall these include cooperative group living, group territoriality, cooperative hunting skills, weapon use, the intellectual ability to make cooperative plans, xenophobia (&apos;see a stranger, kill it!&rsquo;), ritual post-intergroup-conflict resolution via cannibalism, and downright cruelty. More speculatively, she suggests cultural training of warriors, and tribalism, in which a strong sense of group identity distinguishes <i>us</i> from <i>them</i>. The last is illustrated by the splitting of the Kahane chimpanzee community, upon which former friends became enemies in a ritual switch, apparently as instantaneous as <a href="../_B/B07.shtml#03a">Scatcat&apos;s</a>. The level of violence in intra- and inter-group conflicts is dramatically different. Intragroup fights generally last a minute or two; intergroup fights last 20 minutes. Intragroup injuries are bites and blows; intergroup injuries include dislocations, flayings, and  <a class="fn">drinking of blood.<span>
+	Goodall 1986: cited in C Vogel (1989) <cite>Vom T&ouml;ten zum Mord; das wirkliche Böse in der Evolutionsgeschichte.</cite> (Carl Hanser Verlag, Munich).
+</span></a>
+</p>
+
+<p>This we will take as the original behavior of anatomically modern humans. Anything better has to be worked for.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#01">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="02"> The Alpha Male </a>
+<a class="tri" href="#03">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">My guess is that the Y chromosome of every living man has spent at least one generation in the testis of a warlord. &mdash; DNA tracker Brian Sykes</p>
+
+<p>For simplicity, let us subsume all of the above tendencies into the characteristics of the alpha male. Rambo &mdash; apparently the most universally recognized icon of our time &mdash; epitomizes the primordial alpha male, because all males carry these same instincts, and will express them if given the chance. Civilization has made available many more subtle expressions, and we will examine them in due course. For now, it is enough to recognize that this set of instincts exists for a specific reason, best illustrated by an anecdote.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#02">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="03"> Tule Elk </a>
+<a class="tri" href="#04">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Recall the 200 million bison of the Great Plains slaughtered in the 1870s as part of the eradication of Native Americans. Pronghorn and tule elk were similarly abundant in California&apos;s Central Valley. All but 6 elk were eaten during the Gold Rush; these survivors were granted a 1000-acre preserve in 1932, and by the late 60s, the California Fish and Game (CFG) people felt that 300 elk were too many, and called a &lsquo;cull&rsquo;. The Friends of the Tule Elk complained, and I made a computer model of the herd.
+</p>
+
+<p>Real predators succeed in 10&ndash;25% of their attacks, and they pick off the least fit. This was the mode of early human hunters also. In contrast, today&apos;s hunters invariably want a &lsquo;trophy&rsquo;. Even in a 1-animal-per-license cull, if their kill is unimpressive, they will nag CFG until they get a 2nd chance. A reasonable hypothesis was that the elk &lsquo;cull&rsquo; would remove exactly the wrong animals, and permanently impair the fitness of the herd. Astonishingly, this difference was not understood by CFG, who stated firmly that &lsquo;a predator was a predator&rsquo;. A hunter with only a knife, or even a bow, is a predator; if he goes after a prey with a 50% chance of killing him, he is a sportsman; but a hunter with telescopic sights on his rifle is merely a butcher.
+</p>
+
+<p>I put the available field work and avatars of the 6-survivors and into my <a class="fn">computer model.<span>
+	Because such details matter, I should mention 2 things. First, the model was discrete, tracking individual animals throughout their life span, with statistical details taken from field observation. Second, &lsquo;fitness&rsquo; in the model was 50% heritable and 50% random, not because of new mutations, but because allele distribution during meiosis is unpredictable. (However, the ratio itself is unknown, and an educated guess.) &lsquo;Adjusting&rsquo; the model consisted of modifying life expectancy and breeding particulars until it reproduced the 100-year population history of the herd. From abroad, I can no longer access the University of California Master&apos;s Thesis that provided the field data; my computer model is long gone and was never published; and I apologize for not being able to credit whomever did the field work.
+</span></a> When the computer-herd&apos;s growth history matched the detailed history of the real herd, and the herd had grown to 300 animals, the computer killed off the best animals in quantities thought good by CFG, and reported what happened to the mean fitness of the herd. Naturally, I expected to see a serious decline after the hunt.
+</p>
+
+<p>I was right &mdash; and wrong. Killing 25% of the elk, fittest first, created a serious dip in mean fitness for a few years, but then things returned to <a class="fn">normal.<span>
+	Models that tell you something you didn&apos;t expect are often more trustworthy than those that agree with your preconceptions. It is easy for the subconscious to arrange for the latter to happen.
+</span></a> How? By the herdmaster&apos;s alpha-male strategy. In breeding season, he stays awake for 3 weeks, siring half of the calves before he drops from exhaustion and indifference. In any milieu where physical fitness is the primary component of survival, the herdmaster&apos;s strategy is optimal. I tried to explain to the Friends of the Elk that the hunt would not do permanent damage, but I‘m afraid they thought I‘d sold out to the <a class="fn">hunters.<span>
+	Nowadays there are elk herds in a number of locations, and birth control keeps numbers within the carrying capacity. This is neutral toward most aspects of fitness, but nevertheless, the proper predators for the elk are <i>Felis concolor</i>, the puma, and <i>Canis lupus</i>, the gray wolf.
+</span></a> Behavior which I learned decades too late, and which would have halved the recovery time, is that the fittest females come into estrus first.
+</p>
+
+<p>As we move to social species closer to humans, alphas appear to look for more in life than sex. Among primates, symbolic battles become important. Power (dominance by intimidation) saves energy and avoids wounds. Humans who seek power often believe they do so &lsquo;for its own sake&rsquo;, but this is too abstract. They seek it unconsciously because it gives them access to females. Since alpha&apos;s offspring are likely to be high quality, and since they perpetuate the female&apos;s genes, she instinctively seeks alpha as a mate. (Autocrats and European politicians encourage this behavior; US leaders elected by hypocritical Puritans often live to regret it.) If researchers (or the market) provide a primate band with tokens which can be exchanged for valuables like food, alpha will steal them from subordinates and hoard them. Witness the &lsquo;bank bailout&rsquo; of 2008.
+</p>
+
+<p>The triad of sex, bullying, and token-theft seems to complete the repertoire of the alpha male. It is not a pretty picture, but Rolex watches and Ferraris are widely held to improve the image. We should not let such subsidiary perquisites disguise the primary purpose of alpha-maledom. Moulay the Bloodthirsty sired 888 children; Chinghis Khan apparently has <a class="fn">16 million descendants<span>
+	B Sykes (2003) <cite>Adam&apos;s Curse</cite> (Norton, NY, 2006).
+</span></a>	today. The &lsquo;Dark (or James Bond) Triad&rsquo; &mdash; the self-obsession of narcissism; the impulsive, thrill-seeking and callous behaviour of psychopaths; and the deceitful and exploitative nature of Machiavellianism &mdash; is a successful ploy <a class="fn">in aid of sex<span>
+	N Jonason, P Li, GD Webster, DP Schmitt (2009) &lsquo;The Dark Triad: Facilitating a Short-Term Mating Strategy in Men&rsquo; <cite>Eur. J. Personality</cite> <b>23</b>: 5&ndash;18; doi: 10.1002/per.698.
+<br>--------------------------<br>
+	In the undergraduate section of his CV, one of the co-authors &mdash; a recently minted PhD &mdash; listed 6 occasions when he was &lsquo;Awarded $1000 for research with undergraduate ___&rsquo;, where the blank was filled with a girl&apos;s name (one of which was Jennifer Lopez).<br>
+	I bow to a master grantsman!
+</span></a>	Most of these qualities are expressions of alpha&apos;s complete self-centeredness, while thrill-seeking is advertizement signifying &lsquo;I have such good genes that I can afford to take risks&rsquo;.
+</p>
+
+<p>There is nothing new in the idea that alpha&apos;s behavior is the root of all evil. Philosophers from Diogenes the Cynic to Hobbes and <a class="fn">HJ Morgenthau<span>
+	HJ Morgenthau (1948/1958) <cite>Politics among Nations: The Struggle for Power and Peace</cite>. (Knopf, NYC).
+</span></a> &mdash; the Grand Old Man of modern political Realism &mdash; have seen the &lsquo;ubiquity of evil in human action&rsquo; arising from the lust for power &mdash; which is what Instinct-1 and the alpha male are all about. The bottom line is a simple <a class="fn">paradox:<span>
+	Even Mohammed knew this (at least about other people). In what is presumably a hadith (although I cannot find it in available collections) he told a subordinate who asked to be given command of a captured territory that the request itself proved him unsuited for the job.
+<br>
+	Remember Lucius Quinctius Cincinnatus, the Roman farmer who interrupted sowing his crop, accepted the dictatorship, did the job that needed doing (a specific politico-military action) in 16 days, resigned the dictatorship, and went back to farming. (Wars were shorter when politicians did not profit financially from them!)
+</span></a>
+</p>
+
+<p style="margin:auto;"><b>No one who <i>seeks</i> power <br>
+should be allowed anywhere near it.</b>
+</p>
+
+
+
+<h2>
+<a class="trs" href="#03">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#00">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="04"> INSTINCTS </a>
+<a class="tri" href="#11">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#05">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p class="epi">So far as we can judge from experience, light and shadow are so evenly distributed in man&apos;s nature that his psychic totality appears, to say the least of it, in a somewhat murky light. &mdash; C.G. Jung</p>
+
+
+<p>It is easy to get confused about instincts: <a class="fn">One investigator<span>
+	LL Bernard (1924) <cite>Instinct: A Study in Social Psychology</cite> (Allen &amp; Unwin, London).
+</span></a>	thought we had thousands; others argue that humans have none, because there is no basic drive that cannot be overruled by the human will. <a class="fn">One  philosopher<span>
+	PL Griffiths (2002) &lsquo;The Philosophy of Molecular and Developmental Biology&rsquo; in PK Machamer &amp; M Silberstein (Eds.) <cite>Blackwell&apos;s Guide to Philosophy of Science</cite>. (Blackwell, Oxford).
+</span></a>	described instincts &lsquo;as charmingly old-fashioned theoretical constructs&rsquo; &mdash; but I think he has never been truly thirsty.
+</p>
+
+<p>There appear to be instincts in each of the brain&apos;s 3 layers. In the reptilian brain are neural structures controlling the basic processes that keep us alive without attention. Turn off the rest of the brain in a coma, and the brainstem will maintain us vegetatively for years. The limbos has the basic quartet of fear, rage, hunger, and lust. What distinguishes us from other animals is that our cortex can control these to some extent &mdash; although the opposite response of letting our limbos control our cortex is more common. We are clever at finding reasons for doing what our limbos wants. &lsquo;All&apos;s fair in love and war&rsquo; justifies duplicitous means to a limbic end. Experience suggests that this is a poor strategy, leading to accusations of &lsquo;betrayal&rsquo; or &lsquo;war crimes&rsquo;. Because the limbos cannot plan ahead, it insists that such rationalizations are good tactics. We have a built-in conflict of interests in our multi-layer brains.
+</p>
+
+<p>What we might call &lsquo;cortical instincts&rsquo; form the psychological trio of Table 11.1, which introduces ideas that we will pursue in subsequent chapters. It suggests that pothodoxy itself has gained instinctive rank. The timing is complicated. Instinct-1 is primordial and preverbal. Instinct-2 predates language, but its human expansion into deliberate action required the ability to tell stories. The viability increase brought about by this venture then entrained a third instinct, the mammals&rsquo; copycat ability to learn from parental example, transmuting it into the belief in parental stories that I have called pothodoxy. Cooperation between pothodoxy and Instinct-2 was purely beneficial during the Upper Paleolithic. Not until the Neolithic did Instinct-1 subvert pothodoxy to its own ends, but it is still very much with us.
+</p>
+
+<p>The interpolated rows for the combination of instincts formalize processes we will describe in detail below. <a class="fn">Schleiermacher<span>
+	FDE Schleiermacher (1799) <cite>On Religion: Speeches to it&apos;s Cultured Despisers</cite>, trans. J Oman (K Paul, Trench, Trubner &amp; Co., London, 1893).
+</span></a>	described what he called a &lsquo;universal instinct for religion&rsquo;, given to us by god to lead us back to him. We will come to understand its formation in somewhat different terms in Ch. 13. The manner in which this combination was co-opted by Instinct-1 is taken up in Chs. 14 &amp; 15. Alpha&apos;s Instinct-1 is deeply engraved in the genes of social animals &mdash; yet some people manage to minimize its influence. Pothodoxy is a disbenefit by itself, which may have no animal <a class="fn">analog.<span>
+	Konrad Lorenz described a water shrew with a related problem. An assistant moved a rock in the shrew&apos;s cage. The shrew trotted along his known path, jumped onto the (missing) rock, landed hard, went home &mdash; and repeated the process several times, before deciding that something had changed and switching to mapping mode. The shrew&apos;s excuse is that he has the smallest brain among mammals; fundamentalists must take refuge in something like minimal ability to form new synapses.
+<br>-----------------<br>
+	K Lorenz (1949) <cite>King Solomon&apos;s Ring</cite> (Routledge, NY, 1952).
+</span></a>
+</p>
+
+<p>Instinct-1&apos;s co-option of pothodoxy gave us fundamentalism, with the disadvantages of both its parents. The late and civilizing Instinct-2 probably rode piggyback on a common animal system (see <a href="#08">Sibling Justice</a> below), extending it for its own ends. When there was but a single religion, Schleiermacher&apos;s &lsquo;religious instinct&rsquo; combined pothodoxy with Instinct-2 to generate a combination that was useful (which is why are still encumbered with pothodoxy). When religions proliferate, Schleiermacher&apos;s combination often becomes a problem. While it is easy for the flexible agnostic to resolve the problem by dismissing pothodoxy, supernaturalists are not able do this, and this difference is so pronounced that it appears to be genetic.
+</p>
+
+<hr>
+<table>
+<caption>
+<a class="tri" href="#T11.3">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T11.1"> Table 11.1 </a>
+<a class="tri" href="#T11.2">&emsp;&emsp;&#9654;</a>
+Psychological Instincts, mapping the formation of the high-level abstractions &lsquo;fundamentalism&rsquo; and &lsquo;religious instinct&rsquo; by combining pairs of basic traits evolved for other functions.
+</caption>
+
+
+<thead>
+<tr><th>Instinct</th>
+	<th>Synonyms</th>
+	<th>Utility</th>
+	<th>Chap</th></tr>
+</thead>
+
+<tbody>
+<tr>
+	<th class="bgred"><b>Instinct-1</b></th>
+	<td class="bgred">Alpha-male egoism, <i>machismo</i></td>
+	<td class="bgred">Self propagating.</td>
+	<td class="bgred">11</td></tr>
+
+<tr>
+	<td class="td3" style="font-size:330%;border-style-left:hidden;">&emsp;&emsp;⟩</td>
+	<td class="bgorg"><br><b>FUNDAMENTALISM</b><br><br></td>
+	<td class="bgorg">I am made in the image of the all-powerful pack leader, who established the rules. [Obviates the need for thinking, always a difficult chore.]</td>
+	<td class="bgorg">13&ndash;15</td></tr>
+
+<tr>
+	<th class="bgyel"><b>Pothodoxy</b></th>
+	<td class="bgyel">Mammalian copycat learning; limbic trust, blind faith</td>
+	<td class="bgyel">Beginning as trust in parents, pothodoxy was warped by the success of Instinct-2 into a need to
+	believe in the story told by an authority figure.</td>
+	<td class="bgyel">11</td></tr>
+
+<tr>
+	<td class="td3"><span style="color:black;font-size:220%;font-weight:bold;">&emsp;⟩</span></td>
+	<td class="bggrn">Schleiermacher&apos;s <b>RELIGIOUS INSTINCT</b></td>
+	<td class="bggrn">There is a benevolent but invisible parent looking after me. [Useful when attached to useful ideas; deleterious otherwise.]</td>
+	<td class="bggrn">13&ndash;15</td></tr>
+
+<tr>
+	<th class="bgblu"><b>Instinct-2</b></th>
+	<td class="bgblu">Strong altruism, <i>bonisma</i></td>
+	<td class="bgblu">Allows peaceful interaction beyond the tribe.</td>
+	<td class="bgblu">11</td></tr>
+
+</tbody></table>
+
+
+
+<h3>
+<a class="tri" href="#04">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="05"> Instinct-1: Me! <i>Machismo</i> </a>
+<a class="tri" href="#06">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p class="epi">I hold this true, and long have held: Nature hath made one man upright for his neighbors&rsquo; good, while another hath a disposition wholly given over to gain, useless alike to the state and difficult to have dealings with, but for himself the best of men&hellip; &mdash; Iolaus, in <i>The Heracleidae</i> of Euripides.
+</p>
+
+<p>The evolutionary fact behind deliberate evil (and the perplexed concept of original sin) is Instinct-1. We all share it to some extent, we are all subject to its urges and influence, and it is the major drive behind crime and the problems of civilization &mdash; wars, rape, murder, robbery (&lsquo;some will rob you with a 6-gun &mdash; and some with a fountain pen&rsquo;), inequality, injustice, brutality, malfeasance, greed, and all the other nastiness that we get into. It is a major component of &lsquo;the human condition&rsquo;, and religion does not make sense without it. It may be associated with the &lsquo;7R&rsquo; allele of the gene for the <a class="fn">dopamine receptor<span>
+	H Harpending, G Cochran (2002) &lsquo;In our genes&rsquo; <cite>Proc. Natl. Acad. Sci. US</cite> <b>99</b>(#1): 10&ndash;12.
+</span></a>	D4, which is common in aggressive societies like the Yamomanö and rare in peaceful groups like the !Kung.
+</p>
+
+<p>At the beginning of the Miocene our ancestors were led by acquisitive, ruthless, self-centered, harem-keeping bullies. This was the behavior needed for success. The pattern is recognizable today, although we tend to call its human proponents &lsquo;dinosaurs&rsquo;. It may be that the behavior pattern goes back that far, but we have little social data for dinosaurs, and they were not among our ancestors. &lsquo;Baboons&rsquo; is a more realistic comparison. The behavioral suite of the alpha baboon has worked well for 15 million years. It is deeply embedded in the primate genome; as <a class="fn">Milton<span>
+	J Milton (1667) <cite>Paradise Lost</cite> (James Kayk, Pittsburg PA, 1836): 3.130.
+</span></a>	put it in <cite>Paradise Lost</cite>, we are &lsquo;self-tempted, self-depraved&rsquo;. Nevertheless, Instinct-1 is still sometimes useful to humans in emergencies.
+</p>
+
+<p>Table 11.2 suggests examples of Instinct-1 behavior in the Paleolithic. However well it works for baboons and chimpanzees, and however much it is still venerated by socially challenged conservatives, it was not enough to get us out of the Middle Paleolithic. At 50 ka, Instinct-1 was still the master trait of humans. Today it kills unrelated family members (spouses, mothers-in-law) 11 times more often than those who share the <a class="fn">murderer&apos;s genes.<span>
+	M Daly, M Wilson (1982) &lsquo;Homicide and Kinship&rsquo; <cite>American Anthropologist</cite> <b>84</b>: 373&ndash;378.
+</span></a> Baby-battering is 65 times more common in homes with a <a class="fn">new stepfather.<span>
+	TK Burch (1985) <cite>Family History Survey</cite> (Statistics Canada, Ottawa).
+</span></a> When sex is not the immediate issue to Instinct-1, maintenance of dominance and control of anything of value take precedence. This is what reached New Guinea.
+</p>
+
+
+<hr>
+<table>
+<caption>
+<a class="tri" href="#T11.1">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T11.2"> Table 11.2 </a>
+<a class="tri" href="#T11.3">&emsp;&emsp;&#9654;</a>
+Paleolithic Instinct-1. Based on the characteristics of the Common Ancestor and observations of apes and primitive human societies, the driving instinct of primate bands results in the behavior below.
+</caption>
+
+<thead class="cen">
+<tr><th>Instinct-1, <i>Machismo</i></tr>
+</thead>
+
+<tfoot>
+<tr><td>* There have been suggestions that George W. Bush&apos;s slouching, arm-swinging, knuckles-forward walk was an alpha-male trait recommended by his handlers.<br>
+
+&Dagger;&nbsp;This quote comes from the Heroic Age of Ireland, c. 50 CE, via a 12th-century ms. The speaker is Conal Cernach, Alpha Male of Ulster, at the <cite>Dividing of MacDatho&apos;s Boar</cite>. The dividing (by Conal) was judged unfair by the Connaught men, who got only the forelegs, and shortly &lsquo;the blood upon the floor of the house might have driven a mill&rsquo;. This might have been anticipated from a partisan division, but Conal was an Irish politician. The sharing of meat in hunter-gatherer groups is highly regulated to prevent just such debacles. The <a class="fn">ethnographic record<span>
+	RL Kelly (1995) <cite>The Foraging Spectrum: Diversity in Hunter-Gatherer Lifeways</cite>. (Smithsonian Institution Press, Washington).
+</span></a>	describes &lsquo;occasional sharp quarrels, significant attempts to cheat, and <a class="fn">serious punishment<span>
+	C Boehm (2000) &lsquo;Interactions of Culture and Natural Selection in the Upper Paleolithic&rsquo; Paper presented to Anthropology Dept, UCLA, Nov 2000: 21.
+</span></a> of cheaters by the rest of the band&rsquo;. </td></tr>
+</tfoot>
+
+<tbody class="red">
+
+<tr><td>Alpha expects to father all children.</td></tr>
+
+<tr><td>Nepotism rules. Alpha&apos;s kin prosper as long as they don&apos;t challenge him.</td></tr>
+
+<tr><td>Omega males support Alpha.</td></tr>
+
+<tr><td>Bachelor males (and sometimes children) are expendable.</td></tr>
+
+<tr><td>Bachelor males defend group while Alpha shepherds women and children to safety.</td></tr>
+
+<tr><td>We <i>still</i> have individuals who aspire to be big frogs in small ponds.*</td></tr>
+
+<tr><td>&lsquo;I swear by the oath of my tribe that &hellip; I have seldom slept without the head of a slain man of Connaught as my pillow.&rsquo;<sup>&Dagger;</sup></td></tr>
+
+</tbody></table>
+
+
+<p>I have, fortunately, seldom observed this aspect of Instinct-1 in humans. However, Marmelade, as sweet-natured a ginger tomcat as you could ask for, one day identified a male kitten (possibly his own, from the coloration) as competition. Clearly not knowing what he was doing, he pushed the kitten down and buried his nose in its belly. I intervened at this point. The kitten rubbed happily against Marmelade and dashed off to chase a leaf. Marmelade stalked him, ears and head carriage indicating that it was not roughhouse play that he had in mind. The effect was horror itself; civilization had gone by the board, a dark and murderous atavism taking its place. Cats may not have much in the way of free will, but as any devotee of <cite>Old Possum&apos;s Book of Practical Cats</cite> knows, their personalities may be as strong and distinct as those of furless people. Marmelade did not <i>intend</i> to kill the kitten, else he would have savaged it at his first opportunity. He was operating under step-by-step instinct, an automaton bent on &mdash; not murder, not even cat-slaughter, but &mdash; &lsquo;Remove Competition&rsquo;. We see the same blinkered, automatic behavior in step-fathers quieting annoying noises, burocrats following orders, and corporate raiders dismantling local <a class="fn">employers.<span>
+	Marmelade went to the vet to have his testosterone level permanently reduced. (I&apos;ll hazard a guess that this would work on baby-batterers and corporate raiders also.) The kitten survived, forever known by Marmelade&apos;s dictum, &lsquo;You&apos;re <i><q>Toast</q></i>!&rsquo;. They eventually became friends.
+</span></a>
+</p>
+
+<p>Back in New Guinea, <a class="fn">Paula Brown<span>
+	P Brown (1978) <cite>Highland Peoples of New Guinea</cite>. (Cambridge Univ. Press, London).
+</span></a> summarizes the result:</p>
+
+<blockquote>In the highlands, such exceptional men of great renown never established a long-term domination of any large group. No kingdom, establishment, permanent control, or continuity of leadership has ever occurred there.
+</blockquote>
+
+<p class="flu">Although they developed a specialized agriculture, little other progress emerged from this pattern. <a class="fn">Jared Diamond<span>
+	J Diamond (2005) <cite>Collapse</cite> (Penguin, London): 285.
+</span></a> tells us that the New Guineans were &lsquo;more curious and experimental than any other people&rsquo; he had encountered (including his UCLA grad students!), yet neither household implements nor weapons had changed over the millennia. This seems odd: might it indicate an ability to <i>appreciate</i> novelty without a corresponding ability to <i>invent</i> it?</p>
+
+
+
+<h4>
+<a class="tri" href="#05">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="06"> Life in the Middle Paleolithic </a>
+<a class="tri" href="#07">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>The tribal organization of the stone age survived at least into the 19th century in rural India. <a class="fn">James Mill&apos;s<span>
+	J Mill (1817) <cite>The History of British India in 6 volumes.</cite> 2nd ed., Vol 2 (Baldwin, Cradock, &amp; Joy, London, 1826): ii, Ch. 10.
+</span></a>	6-volume <cite>History of British India</cite> describes the life of the Indian peasant in 1817 as differing from that in the Neolithic only by an increased population density and a loincloth of woven cotton instead of skin &mdash; and it is only agriculture (aided, perhaps, by an occasional steel implement) that distinguishes Mill&apos;s &lsquo;1817&rsquo; from the Middle Paleolithic. It was not so long ago that &lsquo;<a class="fn">killing a stranger<span>
+	DD Kosambi (1975) <cite>An Introduction to the Study of Indian History</cite> 2nd. ed. (Popular Book Depot, Bombay): 47.
+</span></a>	or robbing him was often a duty, not a crime as it would have been with a fellow-tribesman&rsquo;. This &mdash; in a culture that is saturated with what it deems religion &mdash; is why we began by defining &lsquo;religion&rsquo; as a &lsquo;<i>supra</i>tribal mythos&rsquo;. Tribal India has not yet achieved that status. Whatever process got us beyond the duty of killing the stranger didn&apos;t happen in haplogroup ♀M.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#06">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="07"> Common Ancestor 2 </a>
+<a class="tri" href="#08">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Wrangham&apos;s analysis of the Common Ancestor did not stop with Instinct-1. The cooperative aspects suggested above by Goodall are not limited to cooperation in aggression. <a class="fn">Cooperation<span>
+	&bull; F De Waal (1989) <cite>Peacemaking Among Primates</cite><br>&bull; &mdash;  (1996)<cite> Good Natured: The Origins of Right and Wrong in Humans and Other Animals</cite>.<br>both (Harvard University Press, Cambridge MA).
+</span></a>	within the group is the basis of any advance beyond the lifestyle of the baboon, and the Common Ancestor&apos;s behavior included features available for altruistic evolution. Among these were political coalitions, aversion to intergroup conflict, methods of tension reduction, and cooperative efforts to reduce bullying by Alpha, including sanctions for behavior disliked by the majority. Nevertheless, there remains a major problem: &lsquo;Inclusive fitness&rsquo; extends altruism to those who share our genes, but why should we care about unrelated people?</p>
+
+<blockquote>Evolutionary theory makes strong predictions about cooperation and the standard sociobiological theory well predicts all but a handful of cases. We are perhaps the most glaring exception, cooperating in large groups of distantly (genetically) related individuals. &mdash; <a class="fn">
+	PJ Richerson, R Boyd (2001) <span>&lsquo;Culture is Part of Human Biology: Why the Superorganic Concept Serves the Human Sciences Badly&rsquo; in S Maasen, M Winterhager (eds.) <cite>Science Studies: Probing the Dynamics of Scientific Knowledge</cite> (Transcript-Verlag, Bielefeld).
+</span></a>
+</blockquote>
+
+<p class="flu">My thesis is that we got from cooperation with kin to cooperation with unrelated people by turning them into <i>synthetic</i> kin.
+</p>
+
+<p>However, before we explore new ideas, it is worth seeing what else can be salvaged from Instinct-1.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#07">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="08"> Sibling Justice </a>
+<a class="tri" href="#09">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The human aspiration for equality and justice has it roots in sibling rivalry. Children with older siblings are constantly on guard lest they lose in the division of spoils. The urge is <i>not</i> &lsquo;Let&apos;s share this equally&rsquo;, but Instinct-1&apos;s &lsquo;I want it all!&rsquo;, battered down to &lsquo;No one gets more than I do!&rsquo; by competition with equals. Out of this wholly selfish urge, clever children invented the eminently equitable &lsquo;<a class="fn">You divide, I choose&rsquo;<span>
+	This obvious choice for division into halves works for uniform objects, and it works for thirds if the 2nd participant trims the pieces and the 3rd chooses. This approach can be extended to any number of players, but fails in the absence of good faith (e.g., Mandate Palestine).
+</span></a> ploy. Resentment of inequality seems to be a function of the <a class="fn">ventromedial prefrontal cortex,<span>
+	E Tricomi &amp;3a (2010) &lsquo;Neural evidence for inequality-averse social preferences&rsquo; <cite>Nature</cite> <b>463</b>: 1089-1091; doi:10.1038/nature08785/
+</span></a> which is happy to see others rewarded and shows indignation even when it is someone else who gets shafted. (At least this is true of individuals who are have not been indoctrinated with a sense of their own intrinsic superiority during childhood &mdash; a psychological variable which the experiment did not consider).
+</p>
+
+<p>Like many steps beyond raw selfishness, this extends what we think of as &lsquo;civilized behavior&rsquo; to close kin. The number of shared genes between relatives tells us how well they treat eachother. This is the concept of &lsquo;inclusive fitness&rsquo;: it is not <i>we</i> (individuals) who are selfish and greedy, but our <i>genes</i>. Alleles have no way of recognizing their copies in another individual, but relatives share alleles in direct correspondence to genetic probabilities. Our genes figured this out long before we did.
+</p>
+
+<p>The intelligent members of a human group usually reach the idea of mutual aid: &lsquo;The best way for <i>me</i> to get more is to help <i>everyone</i> get more.&rsquo; This democratic ideal of equal sharing comes from the same root as Alpha&apos;s urge to have it all, so in this sense we would not need to posit a new instinct to support egalitarianism. The best of intentions, however, fail before Alpha&apos;s <i>force majeur</i>, and there is no reason for any thought of sharing to extend beyond the immediate family. Here biological evolution falters, and cultural evolution comes into its own. As cultural evolutionists <a class="fn">Peter Richerson and Robert Boyd<span>
+	PJ Richerson, R Boyd (2001) &rsquo;Culture is Part of Human Biology: Why the Superorganic Concept Serves the Human Sciences Badly&rsquo; in S. Maasen &amp; M. Winterhager (eds.) <cite>Science Studies: Probing the Dynamics of Scientific Knowledge</cite> (Transcript-Verlag, Bielefeld).
+</span></a> put it in a section heading, &lsquo;group selection on cultural variation selected new social instincts by coevolution&rsquo;. The common practice of <a class="fn">assassinating greedy tribal members<span>
+	C Boehm &amp;8a (1993) &lsquo;Egalitarian Behavior and Reverse Dominance Hierarchy [and Comments and Reply]&rsquo; <cite>Current Anthropology </cite><b>34</b>(#3): 227-254.
+</span></a> &mdash; preferably before they reproduce &mdash; is evidently an essential aspect of the rise to civilization. There is nothing personal about this: it is the alleles we need to get
+	<a href="../_A/A00.shtml#14"><img class="im"
+		src="../Images/K-NewIdea3.gif"
+		alt="New idea" /></a>
+rid of, so sterilization of the greedy would work as well today.
+</p>
+
+<p>Natural selection took care of part of the problem. Small human groups which were mutually supportive raised more children than groups where selfishness reigned. Instinct-2 was increasing group viability long before the days of rational thought. The birth of civilization apparently requires a critical balance between extremes that fail to produce it. On the one hand, an over-abundant economy puts no pressure on groups to thin out selfishness alleles. On the other, persistent scarcity leads to a harsh dog-eat-dog economy in which <a class="fn">armoring<span>
+	&bull; J DeMeo (2005) <cite>Saharasia: The 4000 BCE Origins of Child Abuse, Sex-Repression, Warfare and Social Violence, In the Deserts of the Old World</cite>. (2nd printing, Natural Energy Works, AShland OR).<br>
+	&bull; R Sapolsky (2005) &lsquo;Are the Desert People Winning?&rsquo; <cite>Discovery Magazine</cite> <b>26</b>(#8): 38&ndash;41.
+</span></a> occurs, and altruistic alleles die out. The optimal balance seems to be a moderate stress in which cooperative ventures succeed better than individual rapacity. This ensures identification (and removal, if only by <a class="fn">ostracism<span>
+	The story of the sons of Abraham may reflect this sort of ostracism of &lsquo;wild man&rsquo; Ishmael {Gen.16:12}.
+</span></a>) of those who are not carrying their share of the load.
+</p>
+
+<p>This analysis suggests that moving into an unexploited ecotope with a small population provides a
+	<a href="../_A/A00.shtml#14"><img class="im"
+		src="../Images/K-Research3.gif"
+		alt="Research road sign" /></a>
+window of opportunity for social advance during the ensuing population growth. Sooner or later, per-capita resources will begin to decrease, forcing a change of behavior &mdash; but the <i>direction</i> of change is not a foregone conclusion. Clearly, we have not always taken advantage of such moments, and I am not historian enough to test this hypothesis, but I find it intriguing.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#08">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="09"> Warfare </a>
+<a class="tri" href="#10">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Because of &lsquo;the hostility which appears to have characterized all primitive peoples as <a class="fn">strangers&rsquo;,<span>
+	JMG Van der Dennen (1995) <cite>Origins of War</cite> (Origin, Groningen): Ch. 4.
+</span></a> we have to address the question of Paleolithic warfare. We can dispense with the myth, beloved of wannabe alpha males, that war encourages technological progress. This is usefully true only when governments support development of something besides <a class="fn">weaponry.<span>
+	This is a recent (and reluctant) process. About 1970 the US government reviewed the weaponry that had resulted from recent grants for basic scientific research, and found that there was none. The Mansfield Amendment&apos;s (1973) logical response was that it was pointless to waste money on basic research, so it limited ARPA&apos;s (Advanced Research Project Agency) G$3.2 budget to strictly military projects. (It took scientists several years to respond that today&apos;s weaponry is founded on the basic research of 50 years ago.) Grant applications to NSF (the National Science Foundation) increased 4-fold (with no increase in the NSF budget). Fortunately, the Office of Naval Research (ONR) understands the problem, and devotes itself to diverting as much money as it can from battleship building (beloved by Congress) to funding research for weapons 50 years down the line. (I intentionally devoted my ONR-supported research to a problem which I thought entirely removed from killing people. The Navy found it applicable to minimizing the detectability of ships by sonar, and to an obscure problem of their nuclear reactors.)
+</span></a>
+</p>
+
+
+
+<h4>
+<a class="tri" href="#09">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="10"> The Data </a>
+<a class="tri" href="#11">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Religion has been a <i>cause</i> of war throughout history. If we extrapolate this back to the Paleolithic, it falsifies the Eirenic hypothesis &mdash; but our data do not permit this. Yale&apos;s Human Relations Area Files data behind <a class="fn">Textor&apos;s<span>
+	RB Textor (1967) <cite>A Cross-Cultural Sample</cite> (HRAF Press, New Haven CN).
+</span></a>	monumental <i>Cross Cultural Sample</i> are sometimes described as &lsquo;all we will ever know about small-scale societies&rsquo;, since many of the societies can no longer be studied. (More specifically, it is what we sort of know about the significant correlations of 63 variables from 1280 societies.) One can indeed deduce from it a &lsquo;100% correlation between war and a high god&rsquo; &mdash; but:
+</p>
+
+<ul class="u1">
+<li> This correlation used 36 societies &mdash; and omitted 1244 for lack of data;</li>
+
+<li> The ethnological data apply to societies studied since 1840, and tell us nothing about Paleolithic society when religion was newly invented;</li>
+
+<li> Textor examined only pairwise correlations, but additional variables can <a class="fn">reverse conclusions<span>
+	A Korotayev (2001) An Apologia of George Peter Murdock. Division of Labor by Gender and Postmarital Residence in Cross-Cultural Perspective: A Reconsideration&rsquo; <cite>World Cultures</cite> <b>12</b>(#2): 179&ndash;203.
+</span></a>	from limited data;</li>
+
+<li><a class="fn">Hobhouse<span>
+	LT Hobhouse, G Wheeler, M Ginsberg (1915) <cite>The Material Culture and Social Institutions of the Simpler Peoples</cite>. London School of Economics Monogr. on Sociol. <b>3</b> (London).
+</span></a>	and <a class="fn">Swanton<span>
+	JR Swanton (1943) &lsquo;Are Wars Inevitable?&rsquo; <cite>Smithsonian Inst. War Background Studies</cite> <b>12</b> (Washington DC).
+</span></a> both found that half of cultures are peaceful. Van der Dennen&apos;s analysis of the origin of war observed that Swanton&apos;s paper &lsquo;never penetrated the scientific community&rsquo;, had been cited only once, and was <a class="fn">impossible<span>
+	Things are looking up: an Australian website knew a US bookstore which had the paper for a mere $10.
+</span></a>	to get hold of.</li></ul>
+
+<p><a class="fn">Van der Dennen<span>
+	MG Van der Dennen (1995) <cite>Origins of War</cite> (Origin, Groningen): Ch. 8.
+</span></a>	concluded that war originated as pure Instinct-1: an opportunistic male-primate parental-investment strategy whereby a father could contribute actively to the survival of his genes. If he kills unrelated males, his children have a larger territory, and he has more women and can father more children. <a class="fn">Raymond Kelly<span>
+	RC Kelly (2005) &lsquo;The evolution of lethal intergroup violence&rsquo; <cite>Proc. Natl. Acad. Sci. USA</cite>  <b>102</b>(#43): 15294&ndash;15298.
+</span></a>	identified 3 sequential levels of &lsquo;lethal intergroup violence&rsquo;:
+</p>
+
+<ul>
+<li>(i) chimpanzee-like opportunistic coalitionary killing of individuals by small groups,
+
+<li>(ii) intrinsic defensive advantage after the invention of projectile weapons, and
+
+<li>(iii) war, with dawn attacks on sleeping villages.
+</ul>
+
+<p class="flu">While Level iii was certainly effective in spreading Islam, it is difficult to find any biological utility beyond Level i. Mass-army warfare seems to be one of <a class="fn">Gould and Lewontin&apos;s<span>
+	SH Gould, RC Lewontin (1979) &lsquo;The Spandrels of San Marco and the Panglossian Paradigm: A Critique of the Adaptationist Programme&rsquo; <cite>Proc Roy Soc London</cite> <b>B205</b>(#116): 581&ndash;598.
+</span></a>	&lsquo;spandrels&rsquo;, an evolutionary accident serving no biological purpose.
+</p>
+
+<p>We have half-heartedly tried to back away from the
+</p>
+
+<ul>
+<li>(iv) weapons-of-mass-destruction phase,
+</ul>
+
+<p class="flu">in favor of the
+</p>
+
+<ul>
+<li>(v) increasingly selective drone warfare of the 21st century</ul>
+
+<p class="flu"> &mdash; which aims to decapitate troublesome groups by eliminating their leaders. This looks to be a useful
+	<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-Research3.gif" alt="Research"></a>
+return to allele removal similar to tribal <a class="fn">assassination of the greedy.<span>
+	This will work better when drones can be miniaturized, perhaps to the size of bumble bees.
+</span></a> Unfortunately, &lsquo;decapitation&rsquo; still includes nearby and possibly innocent &lsquo;collateral damage&rsquo; (often women and children), and its effectiveness is <a class="fn">context dependent,<span>
+	Analysis of the technique suffers from lack of data. It has not yet been tried, for instance, on Wall Street or environmentally destructive corporations.
+</span></a> with
+</p>
+
+<blockquote>a strong indication that <i>religious</i> terrorist groups increase their level of deadly violence substantially when subject to decapitation strikes (emphasis added). &mdash; <a class="fn">A Mannes (2008)<span>
+	A Mannes (2008) &lsquo;Testing The Snake Head Strategy: Does Killing or Capturing Its Leaders Reduce a Terrorist Group&apos;s Activity?&rsquo;<cite>Journal of International Policy Solutions</cite> <b>9</b>(Spring): 40&ndash;49.
+</span></a>
+</blockquote>
+
+<p class="flu">This probably reflects the fact that the real leaderof a religious group is its (long dead) prophet and not his late lieutenant. Effective decapitation here will require concerted psychological warfare designed specifically to discredit the prophet or his god. (See the discussion on <a href="../_D/D15.shtml#37">Didactic Warfare</a> below.)
+</p>
+
+<p>The earliest evidences for war are the violent deaths recorded c. 13 ka by the Jebel Sahaba cemetery in Sudan &mdash; still a violent region &mdash; and ambiguous rock paintings in Arnhem Land (Australia). Both appear to be related to environmental stress long after our period of interest. A telling argument against early level-iii wars is that agriculture cannot develop <a class="fn">in the presence of raids.<span>
+	KF Otterbein (2004) <cite>How War Began.</cite> (Texas A&amp;M Univ. Press, College Station).
+</span></a> By biblical times, nomad raiders had learned not to burn date and olive trees, because if they did there would be no loot for <a class="fn">many years.<span>
+	Descendants of nomad raiders found that this gentleman&apos;s agreement failed to protect their &lsquo;sacred&rsquo; trees under modern conditions. When Moslem snipers hid in the groves, the snipees burned them down, resulting in indignant protests in the UN by the snipers, who felt that their livelihood was being criminally destroyed.
+</span></a>
+</p>
+
+<p>Why did chimps and bonobos, in the same environment, go different ways, while chimps and humans, in different environments, developed similar behavior? Our understanding of chimpanzee society is very recent, so we have to modify the question. Are we looking at convergent evolution &mdash; or have we forced new behavior on chimps by crowding? This is known to increase aggression in primate bands. European colonial expansion consistently exacerbated intertribal violence as displaced people tried to find new territory. Perhaps human pressure has raised inter-group chimpanzee violence to new levels, as it did <a class="fn">among the Yanomam&ouml;<span>
+	C Ferguson (1992) &lsquo;Let them eat task forces&rsquo; &hellip;
+</span></a>	<a href="http://huffingtonpost.com/charles-ferguson/financial-crime">⬆︎</a> who became &lsquo;the traditional paragons of primitive ferocity&rsquo;. This would be the circular logic of <a class="fn">Spider Robinson&apos;s<span>
+	S Robinson (1979) &lsquo;God is an Iron&rsquo; <cite>Omni</cite>, May.
+	<br>------------------------<br>
+	&lsquo;If a person who indulges in gluttony is a glutton, and a person who commits a felony is a felon, then God is an iron.&rsquo;
+</span></a>	iron-god: we force the chimps to invent warfare, and then justify our violence as inherited from them.
+</p>
+
+<p>Given the low population density of the Paleolithic, things were <a class="fn">different then.<span>
+	HV Vallois (1961) &lsquo;The social life of early man: The evidence of skeletons&rsquo; in: SL Washburn (Ed.) <cite>The Social Life of Early Man</cite>. (Aldine, Chicago) 214-235.
+</span></a> &lsquo;All evidence suggests that the [Upper] Paleolithic bands were not territorial units, that they were capable of large migrations, and that sexual relations must have existed between them.&rsquo; Cro-Magnon&apos;s artifactual evidence supports peaceful intertribal trading rather than conflict. However, pacific behavior was not necessarily extended to sibling species. <a class="fn">Zubrow<span>
+	E Zubrow (1989) &lsquo;The Demographic Modelling of Neanderthal Extinction&rsquo; in <cite>The Human Revolution: Behavioural and Biological Perspectives in the Origin of Modern Humans</cite>, 212-231. Ed. by P Mellars and C Stringe. (Edinburgh University Press, Edinburgh).
+</span></a>	suggested that we outcompeted Neandertal at hunting, yet neither in <a class="fn">the Dordogne<span>
+	DK Grayson, F Delpech (2003) &lsquo;Ungulates and the Middle-to-Upper Paleolithic transition at Grotte XVI&rsquo; (Dordogne, France). <cite>J Archaeological Science</cite> <b>30</b>:1633&ndash;1648.
+</span></a>	nor <a class="fn">the Caucasus<span>
+	DS Adler &amp;3a (2006) &lsquo;Ahead of the Game: Middle and Upper Palaeolithic Hunting Behaviors in the Southern Caucasus&rsquo; <cite>Current Anthropology</cite> <b>47</b>(#1): 89&ndash;118.
+</span></a>	is there any indication that Neandertal and <i>sapiens</i> differed in their hunting strategies and success.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#10">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#04">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="11"> Instinct-2: We! <i>Bonisma</i> </a>
+<a class="tri" href="#18">&emsp;&emsp;&#9661;</a>
+<a class="trs" href="#12">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p class="epi">The core of ethics runs deep in our species and is common to human beings everywhere. It survives the most appalling hardships and the most ruthless attempts to deprive human beings of their humanity. &hellip; Moreover, some of the common elements [of this core] are so closely parallel to the forms of altruism observable in other social animals that they render implausible attempts to deny that human ethics has its origin in evolved patterns of behavior among social animals. &mdash; Animal-rights philosopher <a class="fn">Peter Singer<span>
+	P Singer (1981) <cite>The Expanding Circle: Ethics and Sociobiology</cite> (Farrar, Straus and Giroux, NYC).
+</span></a>	</p>
+
+<p><a class="fn">Richerson and Boyd<span>
+	PJ Richerson, R Boyd (1999) &lsquo;Complex Societies: The Evolutionary Origins of a Crude Superorganism&rsquo; <cite>Human Nature</cite> <b>10</b>: 253-289.
+</span></a>	are the principal proponents of a &lsquo;2nd instinct&rsquo;, but they define it somewhat differently. Without mentioning &lsquo;Instinct-1&rsquo;, they see us as having one social instinct  &lsquo;shaped by the familiar evolutionary processes of inclusive fitness and reciprocity&rsquo; which we share with other primates, and which extends only to close relatives. Their &lsquo;second set of instincts &hellip; allows us to interact cooperatively with a larger set of people, the tribe&rsquo;. Our &lsquo;Instinct-2&rsquo; includes both of these, and goes beyond the tribe to support the &lsquo;supratribal mythos&rsquo; of <a href="../_A/A04.shtml#T4.3">Chapter 4</a>. We might think of Instinct-2 as the impulse which directs to right conduct, and deters from crime.
+</p>
+
+<p id="11a">Since instincts are carried by DNA, &lsquo;antagonistic instincts&rsquo; may seem an oxymoron. Yet essential instincts often compete. Sleep, hunger, and sex cannot be satisfied simultaneously, so we have the standard dinner-first dating pattern. Watch 2 kittens playing: one moment it&apos;s ears back, claws out, killing practice (Instinct-1); the next it&apos;s mutual grooming and contented purring (Instinct-2). At a more basic level, <a class="fn">Trivers<span>
+	RL Trivers, RL (2000) &lsquo;The Elements of a Scientific Theory of Self-Deception&rsquo; <cite>Ann. N.Y. Acad. Sci.</cite> <b>907</b>: 114&ndash;131.
+</span></a>	has shown that independent classes of DNA &mdash; autosomes, sex chromosomes, mitochondrial DNA, and maternal and paternal chromosomes &mdash; provide a mechanism for independent evolution of competing instincts. Indeed, DNA competes with itself. Only the imperative survival of the organisms that carry the DNA keeps DNA itself disciplined. We see this whenever an extra copy of a chromosome creates a partially triploid individual: with rare exceptions, triploidy is lethal, and it always results in functional sterility. We see this with cancer: for metazoan DNA to survive, all but a tiny fraction of its DNA has to forgo replication. Let a single one of the trillions of somatic cells lose control, start replicating on it own, and if the immune system doesn&apos;t spot it and kill it, it will in turn kill its host. The close analogy between human populations and cancer is occasionally rediscovered by someone, <a class="fn">published<span>
+	&bull; A Gregg (1955) &lsquo;A Medical Aspect of the Population Problem&rsquo;  <cite>Science</cite> <b>121</b>: 681-682.<br>
+&bull; WM Hern (1999) &lsquo;How many times has the human population doubled? Comparisons with cancer&rsquo; <cite>Population and Environment </cite><b>21</b>(#1): 59-80.
+</span></a> &mdash; and ignored.
+</p>
+
+<p>Machismo is instinctive and need not be learned. Altruistic counter behavior is very different, for Instinct-2 is weak, and its strength has fluctuated over time. In chimpanzees and gorillas Instinct-2 may be no stronger than in the Common Ancestor. Bonobos, the hippies among the apes, tried a different direction in which negotiations over recreational sex replace bullying. Appealing as this may be, it is not an <a class="fn">evolutionarily stable strategy<span>
+	J Maynard Smith (1958) <cite>The Theory of Evolution</cite>. 3d ed. (Canto, Cambridge, 1975).
+</span></a>	or ESS for bonobos, because they survive only where chimpanzees cannot get at them. In hippie compounds, and before them in the professed free love of bohemians, jealousy still raised its ugly head. Masculine DNA wants sole access to all females within reach; female DNA wants access to the alpha-est males in sight. Hence soap and other operas.
+</p>
+
+<p>Instinct-2 is less well characterized than machismo, and was overlooked by early evolutionists. This omission got a number of unfortunate programs off to bad careers, including the Social Darwinism of the 1860s, the totalitarianisms of the 1940s, the purblind MBAs since the 1950s, Regan/Thatcher neoconservatism, and Friedrich von Hayek&apos;s
+<a class="fn">neoliberalism.<span>
+	D Harvey (2005) <cite>A Brief History of Neoliberalism</cite> (Oxford University Press, Oxford).
+</span></a> Social Darwinism may be functionally dead, but the others are still with us, thriving under the mistaken belief that they are supported by evolutionary logic. All that they demonstrate is that leaving the Middle Paleolithic behind was a difficult event that seems to have required exceptional circumstances.
+</p>
+
+<p>We can only guess at the expression of Instinct-2 in the Paleolithic. The most comprehensive description is that it is what finally got us out of the Middle Paleolithic. Table 11.3 considers some of the more obvious instances.
+</p>
+
+
+<hr>
+<table>
+<caption>
+<a class="tri" href="#T11.2">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T11.3"> Table 11.3 </a>
+<a class="tri" href="#T11.1">&emsp;&emsp;&#9654;</a>
+Paleolithic Instincts. Based on the characteristics of the Common Ancestor and observations of apes and primitive human societies, the conflicting instincts during the Paleolithic may have been expressed in the following ways. Compare Tables
+<a href="../_D/D13.shtml#T13.3">13.3</a> and
+<a href="../_D/D16.shtml#T16.4">16.4</a>.
+</caption>
+
+<colgroup>
+	<col class="bgred">
+	<col class="bggrn">
+</colgroup>
+
+<thead>
+<tr class="cen">
+<th class="bgred">Instinct-1 (again)</th>
+<th class="bggrn">Instinct-2</th></tr>
+</thead>
+
+<tbody>
+<tr>
+<td class="bgred">Alpha expects to father all children.</td>
+<td class="bggrn">Women express their preferences through clandestine copulations.</td></tr>
+
+<tr>
+<td class="bgred">Nepotism rules. Alpha&apos;s kin prosper as long as they don&apos;t challenge him.</td>
+<td class="bggrn">The oldest woman is the principal arbiter of conflict. Women rank friends ahead of cousins.</td></tr>
+
+<tr>
+<td class="bgred">Omega males support Alpha.</td>
+<td class="bggrn">Beta males form coalitions to resist bullying by Alpha.</td></tr>
+
+<tr>
+<td class="bgred">Bachelor males (and sometimes children) are expendable.</td>
+<td class="bggrn">Women and children tend to adopt young of other species.</td></tr>
+
+<tr>
+<td class="bgred">Bachelor males defend group while Alpha shepherds women and children to safety.</td>
+<td class="bggrn">Females hide weapons when males begin to argue.</td></tr>
+
+<tr>
+<td class="bgred">We <i>still</i> have individuals who aspire to be big frogs in small ponds.</td>
+<td class="bggrn">In ca. 25% of small-scale societies, greedy or aggressive individuals are quietly assassinated. (Why only 25%? Why only &lsquo;small-scale&rsquo;?)</td></tr>
+
+<tr>
+<td class="bgred">&lsquo;I swear by the oath of my tribe that &hellip; I have seldom slept without the head of a slain man of Connaught as my pillow.&rsquo;</td>
+<td class="bggrn">Tribe members incapacitated by accident or war are cared for by the tribe.</td></tr>
+</tbody></table>
+
+<p>Instinct-1 receives obvious hormonal reinforcement. A  latter-day example shows the benefit offered by this perhaps unfair advantage:
+</p>
+
+<blockquote>The first testicular guard, the &lsquo;Cup&rsquo;, was used in Hockey in 1874 and the first helmet was used in 1974. That means it only took 100 years for men to realize that their brain is also important. &mdash; Ken Sorbo on facebook.
+</blockquote>
+
+<p>Instinct-2 is apparently unsupported by hormonal physiology, so its manifestation is less emphatic than Instinct-1&apos;s. It requires the frontal-lobe processes of communication and cooperation, and so is about as far removed from the neural locus of classical instincts as possible. It is encouraged by learning and thinking. The feminine ending of the suggested vernacular name, <i>bonisma</i>, is in aid of promoting gender equality. The <i>bon</i>- root reminds us that Instinct-2 is a good thing &mdash; and indirectly recognizes the investigations of the bonobos in this direction. However it happened, what seems to have begun as a shift in the relative importance of contradictory instincts, became learned altruism and cultural transmission and gave us a way to move beyond machismo, setting us apart from nearly all other <a class="fn">animals.<span>
+	&lsquo;Nearly&rsquo; is there because wolves and orcas are good at cultural transmission, and if we don&apos;t kill them off, may eventually develop their signals into language. Farley Mowat reported that Canadian Inuit can interpret wolf signals about caribou movements, and use this information in their own hunting.
+</span></a></p>
+
+<p>Note that Instinct-2 is not all sweetness and light. The indefatigable efforts of Samuel Bowles, Robert Boyd, Herbert Gintis, and Peter Richerson to create realistic models of small-scale societies lead inexorably to situations in which &lsquo;defectors&rsquo; &mdash; the greedy and aggressive &mdash; are punished. The problem is  that punishment is costly to the punisher (‘You can&apos;t fight City Hall&rsquo;; few Presidents have successfully taken on the banking system single-handedly; in a small group making enemies is not a good idea), and the devil is in the details. At the tribal level, ostracism for greed might mean losing a good hunter who felt that his contribution to the group should be better rewarded. At our level, it is apparently only during the revolutionary installation of a new form of government that we get political leaders who understand that &lsquo;the government&rsquo; is the natural opponent of &lsquo;the people&rsquo;. Any initial governmental interest in protecting the freedoms gained by the revolution quickly shifts to protecting the government from further revolution. Evasion of whatever checks and balances have been put in place receives the full, if usually covert, attention of later-generation politicians (recall Nixon&apos;s &lsquo;When the President does it, it isn&apos;t illegal&rsquo;, and George W. Bush&apos;s &lsquo;Stop throwing the Constitution in my face. It&apos;s just a god-damned piece of paper!&rsquo;) Whistle-blowers are seen as threats. Remember Bradley/Chelsea Manning and Edward Snowden, whistle-blowers extraordiniares, who did more for democracy than anyone since Patrick Henry. As of early October 2011, Manning &mdash; already incarcerated for nearly a year-and-a-half under conditions which 295 legal scholars and philosophers described as &lsquo;inhumane&rsquo; and approaching torture &mdash; topped the Guardian Poll nominations for the Nobel Peace Prize. Snowden was <a class="fn">nominated in 2014.<span>
+	Intended to commemorate those who advance &lsquo;fraternity between nations, reduction or abolition of standing armies, and the promotion of peace congresses&rsquo;, in their absence, the Peace Prize has often been awarded for social milestones, good ideas, sheer admiration, or blind hope.
+</span></a>
+</p>
+
+<p>The <i>models</i> of small-scale societies (as I understand them) are gentle, considering &lsquo;naming and shaming&rsquo; to be effective punishment, and so do not resort to removal of individuals from the gene pool. When gentle measures fail in real life, small-scale societies often resort to quiet assassination. This removes the responsible alleles, and sends an unmistakable message to those who might still possess them. What works well in the <a class="fn">modelling world<span>
+	R Boyd, H Gintis, S Bowles (2010) &lsquo;Coordinated Punishment of Defectors Sustains Cooperation and Can Proliferate When Rare&rsquo; <cite>Science </cite><b>328</b>: 617-620; DOI: 10.1126/science.1183665.</span></a> &mdash; an
+
+ESS that cannot be invaded by less effective approaches &mdash; is <i>coordinated</i> punishment. In model groups of 72 people, coordination requires only a realistic level of genetic relatedness. This suggests that such methods worked well throughout the Paleolithic.
+</p>
+
+<p>However, when the population reaches 300 million, and relentless media manipulation has equated greed with &lsquo;the independent American spirit&rsquo;, the greedy are impossible to shame, they own the media that call them &lsquo;elites&rsquo;, and accept any publicity as recognition of their accomplishments. Coordinated punishment of the sort provided by legislation, whistle-blowers, and watchdog quangos &mdash; with an independent activist press whose editors can quote <cite>The Federalist Papers</cite> &mdash; might help, but it still needs to be backstopped with genetic death of alleles, whether by removal of individuals or gonads. When we neglect such precautions and end up with 2 dozen people owning most of the wealth, we have nobody but ourselves to blame.
+</p>
+
+
+<h3>
+<a class="tri" href="#11">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="12"> The Evolution of Kinship Altruism </a>
+<a class="tri" href="#13">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>Instinct-2 should not be thought of as having arisen by magic. It is the latest expression of a long evolutionary trend. As noted above, the underlying conflict of biology is DNA<b> </b>replication. Among single-celled protists with a single chromosome, every strand of DNA is free to replicate on its own. It has no need to accommodate any other DNA in the universe. It is as self-centered as it is possible to be. The DNA of bacteria is a single continuous piece, without even a nuclear membrane to contain it. Squash a bacterium and its DNA spills out like one long looping spaghetto. As with us, everything else in the bacterium is there for one purpose only: to assist in the replication of the DNA.
+</p>
+
+<p>The problem arose when DNA accidentally discovered that it was advantageous to have more than a single cell involved in replication. Suddenly self-interest was no longer the only criterion of success. That this has been a difficult idea to come to terms with can be seen from contemporary corporation law, which is still governed by the &lsquo;single-cell&rsquo; philosophy. Even though we ourselves are cooperative entities of 60&ndash;100 trillion individual cells, we still think of ourselves in self-centered terms, we still prefer to compete rather than cooperate with other individuals. This is a bit of an anachronism. If our genes haven&apos;t learned the value of cooperation, our brains (which can learn in 35 minutes what genes learn in 35 generations &mdash; a 10-million-fold acceleration) should have learned it in primary school.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#12">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="13"> Colonial organisms </a>
+<a class="tri" href="#14">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Kinship altruism is first seen in organisms which are in the borderland between protoctists and metazoa. In <i>Chlamydomonas rheinhardtii</i>, a single-celled green alga, a gene called <i>regA</i> is switched on under difficult conditions. It prevents the cell from growing and dividing, allowing it to use all of its resources for survival. It was not long before <i>Volvox carteri</i> discovered that it could live as a <a class="fn">colonial alga<span>
+	AM Nedelcu, RE Michod (2006) &lsquo;The evolutionary origin of an altruistic gene&rsquo; <cite>Molecular Biology and Evolution</cite> <b>23</b> 1460-1464.
+</span></a>	in spherical shell of some 2000 cells, if the &lsquo;emergency&rsquo; <i>regA</i> were switched on in all but a handful of large reproductive cells, allowing the many small cells to devote their energy to locomotion.
+</p>
+
+<p>The Portuguese Man-of-War is a <a class="fn">hydrozoan colony,<span>
+	MB Kurlansky (2004) Animal Diversity Web <i>Physalia physalis</i> http://animaldiversity.ummz.umich.edu/accounts/Physalia_physalis/ (accessed 2014-02-17)
+</span></a> made up of four polyp types: pneumatophore (float), gastrozooids (digestion), dactylozooids (with stinging nematocysts in tentacles for defense and prey capture), and gonozooids (reproduction). The individual polyp types are too specialized to survive alone, so cooperation is essential.
+</p>
+
+<p>Colonial insects, naked mole rats, and alpha males carry this division of labor to extremes, with a single reproductive individual surrounded by a non-reproductive society. It may be difficult to see these cases as &lsquo;altruism&rsquo;, since the benefit is not freely offered. Nevertheless, the reproductive benefit to the species is larger than the loss to individuals, and the genes involved profit from this.
+</p>
+
+
+<h4>
+<a class="tri" href="#13">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"     id="14"> Maternal sacrifice </a>
+<a class="tri" href="#15">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>The type specimen of <i>Maiasaurus</i> (‘good-mother lizard&rsquo;) died protecting her eggs from a storm, showing that mother love predates mammals. Indeed, it is found in arthropods, where some spiders protect their young and carry them piggy-back. There is nothing magic or emotionally touching about &lsquo;mother love&rsquo;. Individual mothers (of any species) who successfully defended their young, sometimes at the cost of their own lives, left more <a class="fn">descendants.<span>
+	 This explanation was my introduction to evolutionary biology, from housemate and primatologist Richard Thorington. Thank you, Thor!
+</span></a></p>
+
+
+
+<h4>
+<a class="tri" href="#14">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="15"> Primate defense </a>
+<a class="tri" href="#16">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>Young (non breeding) male baboons will sacrifice themselves to defend the troop of close relatives against a leopard. Alpha feels no such urge &mdash; a pattern that culminates in conscription laws and 70-year-old imams sending 13-year-olds on suicide missions.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#15">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="16"> Racism and Religion </a>
+<a class="tri" href="#17">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p>We have divine authority for the religion-kinship-racism connection: Kali, First Lady of the Hindu pantheon, had a problem with demons. Even though she possessed a sword capable of killing any demon, each drop of blood became a new, if lesser, demon. Seeing that this wasn&apos;t working, she created two men, gave them scarves, and commanded them to <a class="fn">strangle demons<span>
+	F Tuker (1840) <cite>The Yellow Scarf: The Story of the Life of Thuggee Sleeman or Major General Sir Wm. Henry Sleeman KCB 1788-1856 of the Bengal Army and the Indian Political Service.</cite> (J.M. Dent and Sons, London, 1961): 62.
+</span></a> &mdash; and as an afterthought, to &lsquo;destroy all men who were not of their kindred&rsquo; and pass the scarves to their children to continue the practice. Their children are the Thugees of India, to whom <i>family</i> and <i>religion</i> are synonymous.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#16">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="17"> Sacred Band </a>
+<a class="tri" href="#18">&emsp;&emsp;&#9661;</a>
+</h4>
+
+<p class="epi">[I]t is scarcely an exaggeration to say that when fighting at each other&apos;s side, although a mere handful, they would overcome the world. &mdash; Plato, <cite>Phaedrus</cite>
+
+<p>A new kinship altruism appeared early in the Archaic Ægean world. Its military aspect is epitomized by Gorgidas&apos;s organization of pair-bonded homosexuals into the Theban Sacred Band in 378 BCE. They became the most effective defensive unit of their day (twice defeating the otherwise all-conquering Spartans). They were invincible until 338, when as 40-year veterans, all 300 died at Chaeronea, facing the superior numbers of Philip of Macedon, who praised their bravery. We might think of them as the Bronze Age Pink Berets. Recall Achilles&apos;s reaction to the death of Patroklos to understand why this band was so effective, and how culture-bound is contemporary homophobia.
+</p>
+
+<p class="cen"> * * * </p>
+
+<p>These examples are intraspecific kinship surrogates, but there are broader manifestations as well. Domestic animals that would not stand a chance in the wild thrive in association with humans by pseudokinship. Dogs and cats take membership in their human families for granted; lions, wolves, otters, cheetahs, seals, baboons, chimpanzees, elephants, and probably other species offer family membership to people who are harmless and around enough to become <i>familiar</i>, although this may take years of interaction. The mammalian response to kinship surrogates is unconscious, irrational, and strong enough to transcend species boundaries.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#17">&#9651;&emsp;&emsp;</a>
+<a class="tri" href="#11">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="18">  True Belief </a>
+<a class="tri" href="#00">&emsp;&emsp;&#9650;</a>
+<a class="trs" href="#19">&emsp;&emsp;&#9661;</a>
+</h2>
+
+<p>Instinct-2 accounts for everything beneficial that religion has produced. Unfortunately, to achieve these desirable ends, it used trickery and deceit. Just as Instinct-2 arose out of sibling rivalry, it hijacked a pre-existing trust in parental instruction to ensure its own transmission. This is why priests and kings want us to call them &lsquo;father&rsquo; and &lsquo;sire&rsquo;.
+</p>
+
+<p>Eric Hoffer&apos;s <cite>The True Believer</cite> treated this troublesome aspect of religion, which tags certain topics as &lsquo;religious&rsquo;, accepts them as factual, and blocks the prefrontal cortex from considering them. If this idea has been followed up, I haven&apos;t found it, so it looks to me like
+	<a href="../_A/A00.shtml#14"><img class="im"
+		src="../Images/K-Research3.gif"
+		alt="../Images/K-Research3.gif" /></a>
+sadly neglected research. Given the absence of any further work, all I can suggest is a suspicion that the procedure which allowed this hijacking and created the ritual link between kinship and religion was the tribal Coming of Age ceremony, when one was introduced to the mythos of the tribe.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#18">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"   id="19"> Coming of Age </a>
+<a class="tri"  href="#00">&emsp;&emsp;&#9650;</a>
+</h4>
+
+<p>The Coming of Age ceremony marked the transition to adulthood. In the Paleolithic the transition was sharper than it is today, for life was often over before the brain matured. Coming of age includes three components, symbolized in Fig. 11.2.
+</p>
+
+<p>The first component is sexual maturity. Universally recognizable, this needs no comment, except that its obviousness may conceal the other components.
+</p>
+
+<figure> <img class="fl"  width="75%"
+src="C-Images/11.2_ComingOfAge.jpg"
+alt="3 symbolic timelines, showing lifetimes divided into juvenile learning mode, rapid action mode, and &lsquo;Adult&rsquo; or &lsquo;full brain&rsquo; mode. Learning stops at puberty for Prehistory, fades out in the 20s for Contemporary, and extends throughout life for Intellectuals. The &lsquo;full brain&rsquo; mode might have begun in the 20s prehistorically, but wiring is finished near 30 today. Sexual maturity, cessation of learning, and religious initiation are simultaneous in prehistory, but widely distributed later.">
+
+<figcaption>
+<a class="tri" href="#F11.1">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F11.2"> Fig. 11.2 </a>
+<a class="tri" href="#F11.1">&emsp;&emsp;&#9654;</a>
+Coming of Age, then and now. Events once part of a single process are now often separated in time.
+</figcaption> </figure>
+
+
+<p>The second component is mental: the mammalian brain has 2 functional modes, switching from flexible learning to fast response when an offspring becomes independent. It appears in the refusal of some animals to eat foods not introduced by their mothers. A human manifestation is the urge of many teenagers to get out of school and on with life. An example may not be out of place. At age 14, a New England neighbor was pleased to have a tame college professor to respond to his normal curiosity. By 15, he was evading any challenge to think, referring me to his fundamentalist father for True Answers. By 16, having learned everything he needed to know, he dropped out of school to take a job on a fishing smack, throwing rocks overboard and clams into the hold (for which he was paid more than the state paid an assistant professor). The mechanism of this change remains in doubt, although modulation <a class="fn">calcium influx<span>
+	JZ Tsien (2000) Letter, <cite>Scientific American</cite> <b>283</b>(#2): 6.
+</span></a>	through the NMDA receptor has been suggested.
+</p>
+
+<p>The third component was initiation into tribal mysteries, including a formalization of the duties made incumbent by Instinct-2. Its remnant today is a heightened susceptibility to religion, sometimes institutionalized as the sacrament of confirmation. <a class="fn">Konrad Lorenz<span>
+	K Lorenz (????) <cite></cite> (): 60 ff, but which book? (Not <cite>On Aggression</cite>.)
+</span></a>	describes this peri-pubertal period as the time when people are most easily indoctrinated, making it the preferred age for cultic recruiting.
+</p>
+
+<p>These events were once simultaneous, as in the top line of Fig. 11.2 Our only defense against large predators and worsening climate was the social structure of the tribe. Coming of Age combined readiness to breed with the completion of childhood learning, acceptance of adult responsibilities, and initiation into the spiritual mysteries that bound the tribe into a working unit. It marked the moment one started repaying the social debt accumulated during childhood. To encourage the shift from dependency to contribution &mdash; a step that is still difficult &mdash; I suggest that at this time, a specific biochemical process induced emotional bonding to the tribe as a conceptual (spiritual) entity <i>and its accompanying belief system</i>. The neurological process has not been studied, but
+	<a href="../_A/A00.shtml#14"><img class="im"
+		src="../Images/K-Research3.gif"
+		alt="../Images/K-Research3.gif" /></a>
+would be as involuntary as falling in love. Just when the bonds of the nuclear family were dissolving, bonding to the surrogate family of tribe-and-coreligionists was powerfully enhanced. According to Fig. 11.2, this gave us 15&ndash;20 years to live with True Belief in the tribal story.
+</p>
+
+<p>The persistence of True Belief today, when there is no advantage to it, suggests that the cortical block that prevents analytic thinking might be instinctive &mdash; that is, hard wired under genetic control. For this to happen, there must have been strong negative selection against those who did not possess it. This is only half the story, however, and pothodoxy is the other half. Persistence in the <i>wrong</i> belief could get you killed in many historic periods: Muhamad and Charlemagne both considered conversion by the sword a legitimate process, as did Hitler, Stalin, Mao, <a class="fn">Pol Pot,<span>
+	 Pol Pot&apos;s elimination of &lsquo;intellectuals&rsquo; (ie, anyone who wore glasses, an indication that he could read) was probably irrelevant to religion, being merely a precaution to simplify authoritarian control.
+</span></a> and any number of lesser dictators. Recall <a href="../_B/B06.shtml#29">Repopulating Heaven</a>. There were many like him along the river valleys of the ancient civilizations: For the Ganges, the <cite>Arthasastra</cite> (&lsquo;The statecraft of material gain&rsquo;) of Kautalya ca 400 BCE, is as singlemindedly amoral as any CIA manual of corruption, espionage, and regime change. In lineages subjected to such selection, the alogical ability to <i>maintain</i> belief while changing the <i>details</i> of belief was at a premium, for it saved your life. The prototypical pothodox survivalist is the <a href="http://en.wikipedia.org/wiki/The_Vicar_of_Bray_%28song%29"><cite>Vicar of Bray</cite>.</a>
+</p>
+
+<p>The wide geographical dispersion of the philosophers of the Axial Age might argue against a universal negative instinct. Yet the same inbred group that produced Isaiah still sports an Orthodox subset that writes (and follows) pursuers&rsquo; decrees, so there is still work to be done in sorting out the thorny question of genetics vs environment.
+</p>
+
+<p>What one might suspect from a distribution like this is genetic control. This could be a major allele promoting pothodoxy and a rare recessive allele inducing prefrontal connections, or a &lsquo;balanced polymorphism&rsquo; like <a href="../_E/E18.shtml#F18.1">Fig. 18.1</a>. Depending upon earlier episodes of selection,
+	<a href="../_A/A00.shtml#14"><img class="im"
+		src="../Images/K-Research3.gif"
+		alt="../Images/K-Research3.gif" /></a>
+one expects different allele frequencies in different populations. Where Jihad and Inquisition were most effective, the recessive allele will be selected against and rare, but it cannot be extirpated. Where variety and eccentrics were tolerated, the &lsquo;development&rsquo; allele can spread more easily. Perhaps one might explain the distribution of Enlightenment thinkers in this manner: predominantly German, Dutch, English, Scottish, and French &mdash; does this reflect a historical and regional lack of negative selection for cortical thinking? The question requires a major historico-genetic exploration; in the meantime, it will do as a working hypothesis.
+</p>
+
+<p>The &lsquo;rewiring&rsquo; time shown in <a href="#F11.2">Fig. 11.2</a> is today&apos;s, but the process is little understood. It might not have occurred at all, or at the same time, or in the same manner, during prehistory, and its relation to the disintegration of the coming-of-age period, and particularly, the extension of the learning period, is unknown. What we see as &lsquo;play&rsquo; in kittens and other young animals is exploration during the learning mode. It may indeed be fun and accompanied by loud purring, but it is also an imperative instinctive need. I have been importuned by kittens who lacked mothers or siblings: &lsquo;<i>Play</i> with me! It&apos;s <i>important</i>!&rsquo;. I have been pestered by a fledgling California scrub jay (<i>Aphelocoma californica</i>, &lsquo;the only non-primate shown to plan ahead&rsquo;) who felt that it was time to learn to fly, and he made it clear that as his &lsquo;parent&rsquo;, there was something I was supposed to show him at this point in <a class="fn">his life.<span>
+	As it happened, we <i>were</i> flying at the time &mdash; on a commercial flight. I was not able to explain this to him, and whatever it was that he expected of me, I failed to provide. He learned on his own, starting with 45° flights from my shoulder to the ground. He later went through a 10-day period of bringing me food: I would wake up to find a breakfast collation of 6 or 8 dead flies waiting by my pillow. Apparently scrub jays are among those in which the first brood stays around to help the parents feed a second batch.
+</span></a> The &lsquo;Intellectuals&rsquo; bar of Fig. 11.2, with life-long learning indicated, may be a way of saying that scientists and writers and artists and such are simply people who never outgrew the childhood need to learn. Remember the playful photo of Einstein sticking his tongue out. Recall Chaser&apos;s wish to <a href="../_C/C09.shtml#03a">continue learning</a>: perhaps Border Collies, like many contemporary humans, have bypassed the &lsquo;switch&rsquo; and are doomed to lifelong learning.
+</p>
+<span class="fr">◼</span>
+
+<br><hr><div class="cen">
+<a href="../_C/C10.shtml">&vltri;&emsp;&emsp;</a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --></b>
+<a href="../_C/C12.shtml">&emsp;&emsp;&vrtri;</a>
+</div></body></html>

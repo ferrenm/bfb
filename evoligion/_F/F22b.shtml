@@ -1,0 +1,479 @@
+
+<!-- F22b Gaian Thermo  -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>F22b: APPENDIX: GLOBAL HEATING</title>
+
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+</style>
+</head>
+
+<body id="!">
+<p class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-05-23 12:30 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h3>Book 6: Its Repair</h2>
+<!--#include virtual="TocF22b.shtml" -->
+<br><br>
+
+
+<a class="tri" href="../Index.shtml" id="00">&#11152;&emsp;&emsp;</a>
+<a class="tri" href="#40"> &emsp;&emsp;&#9660;</a>
+<h3><a href="#!"> THE FUD</a></h3>
+<a class="trs" href="#01">&#9661;&emsp;</a>
+<a class="tri" href="#01"> &#9661;&emsp;</a>
+
+<p class="epi">I am never content until I have constructed a &hellip; model of the subject I am studying. If I succeed in making one, I understand; otherwise I do not. &mdash; Lord Kelvin (1904), who said &lsquo;mechanical&rsquo; at the ellipsis, but most models today are computational.
+</p>
+
+<p>Climate science is frontier science, perhaps the most complex problem that we have tackled because of the number of disciplines that must be mastered before one can begin to think about their interactions, which can be subtle and counterintuitive. It has not helped the public to understand the serious nature of what is happening, when the 3 main cable &lsquo;news&rsquo; networks are unable, or unwilling, to report climate-related material accurately.
+</p>
+
+<hr>
+<table id="T22.5">
+<caption>
+<a class="tri" href="../_F/F22.shtml#T22.4">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"> Table 22.5 </a>
+<a class="tri" href="#T22.6">&emsp;&emsp;&#9654;</a>
+Accuracy of Climate Reportage. According to the Union of Concerned Scientists, the fraction of segments containing misleading statements in 2013 was as shown.
+
+</caption>
+<thead>
+<tr><th>Cable channel</th>
+	<th>% Errors </th>
+	<th>Comment</th></tr>
+</thead>
+
+<tbody>
+<tr><td>Fox</td>
+	<td>72</td>
+	<td>Mainly FUD by commentators</td></tr>
+˜
+<tr><td>CNN</td>
+	<td>30</td>
+	<td>Mainly FUD by guests</td></tr>
+
+<tr><td>MSNBC</td>
+	<td>8</td>
+	<td>Mainly attribution of specific extreme events to climate change</td></tr>
+
+<tr><td>NPR</td>
+	<td>~0</td>
+	<td>The only reliable source. Is this why Republicans want to kill it?</td></tr>
+</tbody></table>
+
+<p>Fox&apos;s 72% &lsquo;error&rsquo; rate is not sloppy reporting, but a deliberate conservative slant. Like all of Fox&apos;s programs, its climate reporting intends to support Conservative values, which in an economic context reduce to &lsquo;Privatize the Profit! Socialize the Cost!&rsquo;. This advocates the worst possible approach, exemplified in Hurricane Katrina, with no advance planning, no preparation, no mitigation, and a belated and inadequate response (although this may not be the case in properly gerrymandered districts). CNN seems to have no axe to grind, but it still gives air time to those who do. MSNBC&apos;s mistakes are the ones we all make when records fall, even though there is no <i>direct</i> connection to known forcing agents.
+</p>
+
+<p>I came across, on You Tube, a commentator who couldn&apos;t tell me what the Earth&apos;s mean temperature is, or what it would be in the absence of greenhouse gasses, if his life depended on it. Yet on national TV he feels competent (or is paid) to spew raucous, climate-change-denying FUD to an audience that appears to reach the halls of Congress. He presents as rude (interrupting his guests), ignorant (unaware of the data), and stupid (impervious to rationality) &mdash; apparently because these characteristics attract his target audience. Considering the millennial effects of global heating, any responsible organization with a minimal concern for the future of humanity &mdash; which in an ideal world might even include his TV
+	<a href="../_A/A00.shtml#14"><img class="im" src="../Images/K-NewIdea3.gif" alt="New-idea" /></a>
+network, the FCC, and the Supreme Court &mdash; would require equal time for a factual presentation (ie, a reimposition of the Fairness Doctrine, whose abolition by Reagan paved the way for    today&apos;s prejudice-supporting, ignorance-reinforcing media).
+</p>
+
+<p>One gets the impression that the feudofascist 1&permil; understand full well that public understanding of global heating would interfere with their imperial ambitions. Assuming that their billions will shield them for the remainder of their lives, their response is Nasrudic business as usual. They get two last decades of profits (or campaign contributions) &mdash; &lsquo;and maybe the <a class="fn">horse will sing&rsquo;<span>
+	Coyotl appeared to the Sufis in the form of the mullah Hoja Nasrudin. Click and scroll down to read #31,
+<i>The Sultan&apos;s Horse</i>.
+</span></a><a href="http://en.wikibooks.org/wiki/Sufism/Nasrudin"> ⬆︎</a>. In the meantime, they deny anything is happening, and quietly prepare for martial law as things go pear-shaped.</p>
+
+<p>In the process, so much FUD and misinformation &mdash; both deliberate and ignorant &mdash; is broadcast about global heating and climate change that it seems worthwhile to provide a reliable tutorial. Suffice it to say that I have no financial interest in the question, I am professionally competent in 2 or 3 of the score of disciplines involved, and I have driven a bicycle since 1982 because I did not like the predictions of my own irreversible-thermodynamics ocean-atmosphere CO<sub>2</sub> <a class="fn">model.<span>
+	Building on Keeling&apos;s more complex kinetic-box models, whose Lagrange-multiplier solutions lost all contact with the real world for me, I found that I could replicate his back casts and make equally reliable forecasts with a model that I found easier to understand. It ran on a much smaller machine, and if its processor was slower, I could still do more work in a day than was possible &mdash; given the 24-hour turn-around time on ARPANET &mdash; using the Crays at the National Center for Atmospheric Research in Boulder. (Fun fact: NCAR had the world&apos;s first terabyte memory, consisting of ~200 washing-machine-sized magnetic discs housed in a barn-sized room. My laptop has a 2 terabyte memory today, and runs 1000 times faster.)
+</span></a> The climate scientists are doing the best they can, but &mdash; like anyone in the field &mdash; I could poke holes in the IPCC (Intergovernmental Panel on Climate Change) reports and the programs and data sets they are based on, simply because the problem is so complex, no data set is as long or complete or reliable as we would like, and no computer program can include everything of importance with the precision and detail of the real world. But year by year we incorporate complexity more accurately in the models, the data sets get longer and more precise, and computers more capable. Meanwhile, it takes no more brains <a class="fn">than those of a plant<span>
+	Scientific papers are at best approximations to truth.
+	Rigorous peer review is often as much work as writing the paper in the first place, so one seldom does it. Plants, however, are exposed to the full effects of climate change, and respond directly. You can trust them implicitly. Unlike the CEOs of oil companies, they cannot lie to you.
+</span></a> to recognize and respond to global change.
+</p>
+
+<p>Let me emphasize again that the heating is real: 1200 other species, more attuned to their environments than we are, have already altered their range or behavior. Europe is now warmer than it has been at any time in the last 5300 years (if not 120,000 years), otherwise &Ouml;tzi the Ice Man would have thawed and decomposed. Climate does change; the earth has known prior episodes of heat and cold: the small excursions killed appreciable fractions of a <i>much</i> smaller population, and the big ones wiped out large areas that are now heavily populated. This will happen again &mdash; but it is suicidal to encourage it!
+</p>
+
+<p>Still, that seems to be what we are doing.
+</p>
+
+<figure id="F22.10">
+<img class="fl" width="70%"
+src="F-Images/22.10_Temp2016.jpg"
+alt="F-Images/22.10_Temp2016.jpg" />
+
+<figcaption>
+<a class="tri" href="../_F/F22.shtml#F22.9">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"> Fig. 22.10 </a>
+<a class="tri" href="#F22.11">&emsp;&emsp;&#9654;</a>
+&lsquo;The GISS Surface Temperature Analysis  (GISTEMP) is an estimate of global surface temperature change &hellip; updated &hellip; every month using current data files from NOAA GHCN v3 (meteorological stations), ERSST v4 (ocean areas), and SCAR (Antarctic stations), combined as <a class="fn">described.<span>
+ 	J Hansen &amp;3a (2010) &lsquo;Global surface temperature change&rsquo; <cite>Rev. Geophys.</cite> <b>48</b> RG4004; doi:10.1029/2010RG000345.
+</span></a> These updated files incorporate reports for the previous month and also late reports and corrections for earlier months.&rsquo; We are now less than 0.5°C from the 1.5° &lsquo;tolerable limit&rsquo; &mdash; &lt; 25 years at the linearized increase &mdash; and the US elected a dig-baby-dig        administration. We missed &mdash; by a generation &mdash; the window when global heating was controllable. <a class="fn">Source <span>GISTEMP Team, 2017: GISS Surface Temperature Analysis (GISTEMP). NASA Goddard Institute for Space Studies. Dataset accessed 2017-02-23 at</span></a><a href="https://data.giss.nasa.gov/gistemp/">⬆</a>.
+</figcaption></figure>
+
+
+<p> There is a powerful lobby that is extremely anxious to make discussion of global heating go away. If this can&apos;t be done in fact, let no expense be spared to make it go away in people&apos;s minds. To this end, <a class="fn">91 foundations,<span>
+	RJ Brulle (2013) &lsquo;Institutionalizing delay: foundation funding and the creation of U.S. climate change counter-movement organizations&rsquo; <cite>Climatic Change</cite> <b></b> 1-14; doi 10.1007/s10584-013-1018-7.
+</span></a> supported as surreptitiously as possible by corporations and billionaires, have spent nearly a billion dollars lying to you about climate. This turns out to be a <a class="fn">normal psychological response<span>
+	PK Piff &amp;4a (2013) &lsquo;Higher social class predicts increased unethical behavior&rsquo; <cite>Proc Natl Acad Sci US</cite> Early Edition; doi10.1073/pnas.1118373109 .
+</span></a> when people are overpaid: characteristic of the criminogenic environment of unregulated Wall Street, and a result of feudofascist indoctrination by 1&permil; parents. &lsquo;Social class negatively predicted probability of telling the truth, &hellip; and positively predicted favorable attitudes toward greed &hellip;.&rsquo; The 1&permil; have spent 45 years perverting the system to work for them, and do not welcome anything that would change their rules and reduce their profit.
+</p>
+
+
+<h3 id="03">
+<a class="tri" href="#02">&#9651;&emsp;&emsp;</a>
+<a href="#TOC">The Deniers&apos; Best Shot</a>
+<a class="tri" href="#04">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>The NIPPC (Nongovernmental International Panel on Climate Change) is the deniers&apos; most academoid publication, and the booklet <cite>Why Scientists Disagree About Global Warming</cite> is a chapter from their forthcoming volume. It suggests that
+
+<blockquote>policymakers should seek out advice from independent, nongovernment organizations and scientists who are free of financial and political conflicts of interest
+</blockquote>
+
+<p class="flu">
+&mdash; which is exactly what you are currently reading. There isn&apos;t room to respond to all of the booklet&apos;s quibbles, so I answer 4 of the most egregious
+<q>KEY FINDINGS: False Postulates</q>:
+
+
+<ol style="font-size:larger;">
+<li><span style="color:Brown;">Neither the rate nor the magnitude of the reported late twentieth century surface warming (1979–2000) lay outside <span style="text-decoration: line-through;">normal</span> natural variability.</span><br>
+&mdash; <b>This is true but irrelevant</b>. No natural driver has shown a 150-year exponential growth.
+<a href="https://en.wikipedia.org/wiki/Dansgaard%E2%80%93Oeschger_event">Daansgaard-Oeschger Event</a> 8 &mdash; an entirely natural occurrence &mdash; warmed the Northern Hemisphere <a class="fn">11.4°C in 21 years<span>
+	ER Thomas &amp;5a (2009) <q>Anatomy of a Dansgaard-Oeschger warming transition: High-resolution analysis of the North Greenland Ice Core Project ice core</q> <cite>Journal of Geophysical Research</cite> <b>114</b> D08102, doi:10.1029/2008JD011215.
+</span></a> (0.54°C/yr), but D-O events average ~4,000 years apart <b>during an ice age</b> and involve <q>armadas</q> of icebergs being released from Greenland and Antarctic glaciers. A <a class="fn">recent paper<span>
+	J Hansen &amp;18a (2016) <q>Ice melt, sea level rise and superstorms: evidence from paleoclimate data, climate modeling, and modern observations that 2°C global warming could be dangerous</q> <cite>Atmos. Chem. Phys.</cite> <b>16</b>: 3761&ndash;3812; doi:10.5194/acp-16-3761-2016. [Incidentally, the authors find <q>a dominant Southern-Ocean role in controlling atmospheric CO₂</q>, a conclusion I came to 40 years ago from my very simple irreversible-thermodynamic model of CO₂, so I am naturally predisposed to believe this paper, although it is a difficult and dense 50 pages that would occupy a graduate seminar for most of a semester. For anthropogenic CO₂-production rates, the system <i>behaves as though</i> the atmosphere were in annual equilibium with a 5°C ocean, which would be the water flowing into the Antarctic Convergence from the north.]
+</span></a> used Eemian parameters (from the previous interglacial, rather than the IPCC&apos;s parameters from the contemporary interglacial). It produced non-linear ice-sheet melting and resulting D-O-like glacial discharge leading to <q>several meters</q> of sea-level rise by 2100. The paper also mentions 100-ton boulders left 10 meters above sea level by storm waves in both this and the Eemian interglacial.<br><br></li>
+
+
+<li><span style="color:Brown; text-decoration: line-through;">The late twentieth century warm peak was of no greater magnitude than previous peaks caused entirely by natural forcings and feedbacks.</span><br>
+
+&mdash; <b>Which <q>peak</q> would that be?</b> (<a href="#F22.10">Fig. 22.10</a>).<br><br></li>
+
+
+<li><span style="color:Brown; text-decoration: line-through;">Solar forcings are not too small to explain twentieth century warming. In fact, their effect could be equal to or greater than the effect of CO₂ in the atmospere. </span><br>
+
+&mdash; See the effect of the major 11-year sunspot-cycle solar variation in <a href="#22.8">Fig. 22.8</a>. Over the last 1300 years the solar <q>constant</q> has been 1364.75±0.50 W/m², with 2 dominant irregular oscillations of ~170 years and a millennium. This suggests that any effect of solar variability on climate at this scale is modulated by phenomena other than radiated energy (perhaps
+changes in the solar magnetic field affect the Earth&apos;s field in such way that allows cosmic rays to change ion production in the troposphere, and thence the number of cloud nuclei). Denialists mention obscure cycles: the <a href="https://www.nature.com/articles/ncomms4701"><b>DeVries</b></a> <q>solar</q> cycle is a regional 2&permil; oscillation in oxygen-isotope values 4000 years ago, probably an offshoot of the Pacific-North American Oscillation with no net
+effect on mean temperature, and does not seem to be related to changes in solar output. The ~90-year <a href="http://ruby.fgcu.edu/courses/twimberley/EnviroPhilo/Theodor2.pdf"><b>Gleissberg</b> cycle</a> is a cumulative sunspot count which appears to be related to the motion of the sun with respect to the center of mass of the solar system (which is often outside of the sun itself) with possible spin-orbit exchanges of angular momentum modulating the sun&apos;s magnetic field and the solar wind which in turn affect the cosmic ray flux, and thence low-altitude cloud cover and the amount of water vapor in the atmosphere (which is not an important greenhouse gas in the turbulent troposphere). The Gleissberg periodicity is seen geologically in cosmic-ray created nuclides, but its effect on climate has been considered too small to include in models at this stage. Nothing here has an exponential trend, although sunspot number (if not irradiance) shows <a href="https://friendsofscience.org/assets/files/documents/Solar%20Cycle%20-%20Friis-Chr_Lassen-.pdf">some correlation</a> with Fig. 22.10. Unlike most deniers, Landscheidt did offer a way to falsify his hypothesis:<br>
+
+<blockquote>the probability is high that the outstanding Gleissberg minima around 2030 and 2201 will go along with periods of cold climate comparable to the nadir of the Little Ice Age. &hellip; The outcome of this further long-range climate forecast solely based on solar activity may be considered to be a touchstone of the IPCC&apos;s hypothesis of man-made global warming.
+</blockquote>
+
+<p>Of the National Research Council&apos;s <cite>The Effects of Solar Variability on Earth's Climate</cite>, <a href="https://science.nasa.gov/science-news/science-at-nasa/2013/08jan_sunclimate">Hal Maring</a> pointed out that <q>few, if any [of the solar-climate likages suggested] have been quantified to the point that we can definitively assess their impact on climate.</q> This may mean that however academically interesting such linkages prove to be, if they were primary drivers of climate change, they would have shown up in the  various proxy records.
+</p></li>
+
+<li><span style="color:Brown;">Historically, increases in atmospheric CO₂ followed increases in temperature, they did not precede them. Therefore, CO₂ levels could not have forced temperatures to rise.</span><br>
+
+&mdash;This is true, although it is difficult to see at the scale of Fig. 9. Denialists claim it as a falsification of anthropogenic warming. If left unexplained, this would be a major challenge to the IPCC&apos;s efforts. Hence the following contribution.<br><br>
+</li>
+</ol>
+
+
+<h3 id="04">
+<a class="tri" href="#03">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> The Greenhouse </a>
+<a class="tri" href="#05">&emsp;&emsp;&#9661;</a>
+</h3>
+
+
+<p>We examine a toy thermodynamic model in which the earth is a blackbody. The model is rigorous, simple, and  depends upon 3 numbers only, 2 of which are uncomplicated and one that is not. It ignores minor variables, packs all of the incredible difficulties into that single recalcitrant quantity (&tau; = infrared optical depth), and still covers everything important (to first order). It depends on the First Law of Thermodynamics (Energy is conserved), the Perfect Gas Law (PV=<i>R</i>T), and the standard well mixed, constant-composition, troposphere. It starts from a steady state in which all the energy that the earth receives from the sun is reradiated to space at the same rate (otherwise the earth warms or cools). These are all valid assumptions, and they are where the ~40 supercomputer models also started. The <a class="fn">model<span>
+	For a while the Heartland Institute &mdash; a mouthpiece for the 1% &mdash; had a paper on the web purporting to show why the ESMs ran hot, but it has been withdrawn without explanation.
+</span></a> is shown in Fig. 22.11.
+</p>
+
+
+<figure id="F22.11">
+<img class="fl" width="50%"
+src="F-Images/22.11_SteadyState.jpg" alt="F-Images/22.11_SteadyState.jpg" />
+
+<figcaption>
+<a class="tri" href="#F22.10">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"> Fig. 22.11 </a>
+<a class="tri" href="#F22.12">&emsp;&emsp;&#9654;</a>
+The Constant Radiation Temperature. The earth&apos;s steady-state <i>radiation</i> temperature depends upon 3 nearly invariant quantities: the incoming energy from the Sun, 1368±2 W/m<sup>2</sup> over the intercepted area; the fraction that is reflected (30±2%), and the emissivity of the earth (≈1). The reflected fraction, or albedo, amounts to some 400 W/m<sup>2</sup>, leaving 960 W/m<sup>2</sup> to be radiated by the spherical area. The infrared emissivity of water, snow, ice, wet ground, and clouds is about 0.95; the emissivity of the atmosphere is lower, and we absorb these differences in &tau;. The radiation temperature of the earth is then 255&deg;K (-18&deg;C or -1&deg;F). The mean surface temperature is 33&deg;C warmer; this difference is the &lsquo;greenhouse effect&rsquo;
+</figcaption></figure>
+
+
+<p>What intercepts the sun&apos;s rays is the Earth&apos;s disc, with area &pi;R<sup>2</sup>. What radiates to space is the Earth&apos;s spherical surface, with area 4&pi;R<sup>2</sup>. This factor of 4 accounts for the major difference between the incoming and outgoing energy densities; the other 408 W/m<sup>2</sup> is reflected immediately and does not have to be radiated. (Incidentally, 99% of the visible (short-wave) solar and infrared (long-wave) earth radiation &mdash; the orange and red outgoing arrows in Fig. 22.11 &mdash; lie on opposite sides of the 4-micron line, and so are easily separable by satellites.) The relation beween radiated energy density and temperature is the Stefan-Boltzmann law, W = &sigma;T<sup>4</sup>, where Stefan&rsquo;s constant, &sigma; = 5.67·10<sup>-8</sup> W/m<sup>2</sup>T<sup>4</sup>. There is little to argue about in these number, and not much that anyone can do about them except live with them. The CERES (Clouds and the Earth&apos;s Radiant Energy System) satellite recorded a mean long-wave energy emission of 239 W/m<sup>2</sup> for 2009 (compared to 240 for Fig. 22.11), showing that this simple model is right on target. (It&apos;s only variable is the albedo (fraction of sunlight reflected), which depends on aerosols, clouds, snow, ice, and vegetation.
+</p>
+
+<p>Many sunburnt people realize that the sun is the major actor in global heating (true) &mdash; and therefore assume that it is the obvious cause of the minor change we call anthropogenic global heating (not true). But consider this: The atmospheric blanket accounts for a 33&deg;C (59&deg;F) increase in the surface temperature. To raise the Earth&apos;s surface temperature another 1&deg;C, to 256&deg;K, by changing the <i>Sun</i> (with the same 408 W/m<sup>2</sup> reflected), we would have to increase incoming solar energy by 14 W/m<sup>2</sup>. [1368 - 408 + <b>14</b> = 974 = (4*5.67e-8)*(256<sup>4</sup>).] Granted, that is only a 1% change in received energy &mdash; but it is easy to measure changes of 0.04%.
+</p>
+
+<p>Satellites have been measuring the incoming energy density for some years now. As noted above (the &lsquo;Solar variation&rsquo; line in Fig. 22.8), there has been no net increase in solar input in the last 30 years, and the longer-term variability of the sun&apos;s output is ±0.5 W/m<sup>2</sup>). In 2015, &lsquo;Al Gore&apos;s satellite&rsquo; DSCOVR (Deep Space Climate Observatory) was parked at the metastable L-1 Lagrange point between the sun and earth, where it can measure the 3 parameters of Fig. 22.11: the earth&apos;s integrated incoming, reflected, and outgoing energies.
+</p>
+
+<p>To avoid having to deal with the lack of a top to the atmosphere, we ignore gravity and compress the entire atmosphere to its scale depth of 11 km, at which size it is all at a pressure of 1 atmosphere. This compression makes very little difference to anything in the model, and it lets us give a precise meaning to the optical depth &tau;, which is the lowest depth from which infrared photons can escape without interacting with any more <a class="fn">gas molecules.<span>
+	Obviously, like everything else in the climate system (such as the radius of the Earth or its distance from the sun), this is a mean value allowing one to make understandable first-order models. For more detail, see the IPCC reports.
+</span></a> Having found the optical depth, we unscale the atmosphere and let gravity restore the pressure gradient.
+</p>
+
+<p>We now need the concept of &lsquo;potential temperature&rsquo;. Think of air as existing in &lsquo;parcels&rsquo; about the size of weather balloons  surrounded by infinitely elastic membranes which prohibit mixing or energy exchange. Motion is then adiabatic (no heat enters or leaves the parcel). The parcel changes pressure, volume, and temperature in accordance with the perfect-gas law as it rises or descends, but it is always at the same temperature at the same altitude. For climatologists, it makes sense to define the potential temperature at the optical-depth/radiation-level (near 500 mb): its actual temperature after being compressed to 1 bar is then the surface temperature of the earth. Notice once again: no heat is required to raise its temperature during this process, and below the radiation surface, back-radiation from greenhouse gasses can be included as part of the turbulent mixing that maintains a constant composition <a class="fn">troposphere.<span>
+	PV work is done on a parcel as it descends and is compressed and warmed; it does equal work on the surroundings if it rises, expands, and cools. The rate at which the temperature increases below the radiation level is the lapse rate, and ranges from 5.5&deg;C/km for wet air to 10&deg;C/km for dry air, with the meteorologists&apos; standard value 6.5&deg;C/km.<br>
+
+	Energy is conserved in these processes; entropy, which measures the usability of that energy, is produced. Entropy is always confusing because we have no sensor that notices it, and no word for its unit, which is joule/°K,* although the name &lsquo;clausius&rsquo; has been used informally. The most accessible definition is dS=dQ/T, where dS is the change in entropy, dQ the change in heat, and T the temperature. The Earth exports 5800°/255° = 22.7 times as much entropy as it absorbs from the sun, and it is this entropy production that makes energy available and so drives weather and ocean currents and supports life.
+<br>------------------<br>
+	* The powers that be have declared that the degree and its sign are not needed when talking about kelvins. I retain the ° symbol because unadorned K is a chemical-equilibrium constant in my world, appearing along with kelvins in many of the equations that I write, and I am easily confused.
+</span></a>
+</p>
+
+<p>The surprising effect of greenhouse-gas absorption of long-wave energy is that the earth’s surface receives nearly as much long-wave energy from the atmosphere as it does short-wave energy from the sun. This sounds as though energy were not being conserved, but it is just being trapped temporarily, as by an <a class="fn">insulating blanket.<span>
+	The 4th-power dependence of temperature on energy means that doubling the energy input raises the temperature by 2<sup>0.25</sup> = 1.19, from 255°K to 302°K &mdash; a bit more than the observed 288°K because the model is too simple (it ignores convection and clouds, for instance).
+</span></a>
+</p>
+
+
+
+<figure id="F22.12">
+<img class="fl"  width="66%"
+src="F-Images/22.12_LapseRateMt.jpg"
+alt="F-Images/22.12_LapseRateMt.jpg" />
+
+<figcaption>
+<a class="tri" href="#F22.11">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"> Fig. 22.12 </a>
+<a class="tri" href="#F22.13">&emsp;&emsp;&#9654;</a>
+The Changing Surface Temperature: The infrared optical depth &tau; (which shortens as greenhouse gasses increase) determines the altitude at which 255&deg;K photons last interact with molecules and can escape to space. All the red lines are attached to the red dot, and move up as &tau; shortens. (Note that water mostly freezes out at the snow line, and does not have much effect on &tau;.) The intersection of the lapse rate line with the ground then determines the mean surface temperature. (Using the scale-height atmosphere lets us put a conceptual top on the atmosphere, and so define a radiation surface. It also confounds the modelled lapse rate, which in fact is curved and depends upon the pressure changes with height in the real atmosphere. <i>All</i> models simplify: their utility comes from knowing which simplifications are permissible in aid of <a class="fn" >practicality.<span>
+	Click for a slightly more complex model which explicitly includes the emissivity of the atmosphere.
+</span></a><a href="https://www.e-education.psu.edu/meteo469/node/198"> ⬆︎</a>
+</figcaption></figure>
+
+
+<p>If, on a sunny day, one points a $10 pocket bolometer (infrared thermometer) at the blue sky, the sun, the road, a river, a cloud, vegetation, a passing dog, a sunny wall, and a shaded wall, all will report different radiation temperatures. <i>The</i> temperature (as reported by a mercury thermometer in a shaded, ventilated, space, is not any of the various radiation temperatures. The &lsquo;blue-sky&rsquo; measurement, typically a bit above 0&deg;C, is the lapse-rate temperature at the upward optical depth. We don&rsquo;t notice this cold radiation because it is overwhelmed by the denser radiation from the sunny wall, and the higher kinetic temperature of the air around us. The sun itself has 2 temperatures from Earth, a &lsquo;color temperature&rsquo; that defines &lsquo;white&rsquo; for us, determined by its spectrum, and a thermal temperature set by the temperature of the <a class="fn">Sun&apos;s radiation surface<span>
+	Actually, the bolometer gives up when looking at the sun, reporting a meek &lsquo;Out of range&rsquo;. It is exceptional for a scientific apparatus to be able to measure accurately over 2 orders of magnitude. A pocket tape measure is fine for 6 feet; a 6&Prime; steel scale for 0.06 feet (0.72&Prime;); and a surveyor&apos;s chain or geodimeter for 600 feet
+</span></a> (high in its atmosphere and attenuated by distance as <i>r</i><sup>2</sup>). These various temperatures are never in equilibrium, but co-exist just as sun and shadow coexist. Deriving a meaningful average global surface temperature from this stew is something of a challenge!
+</p>
+
+
+
+<h3 id="05">
+<a class="tri" href="#04">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> Some Confusions </a>
+<a class="tri" href="#06">&emsp;&emsp;&#9661;</a>
+</h3>
+
+<p>It might seem strange that &lsquo;belief&rsquo; in an established fact like climate change should separate political parties sharply. Yet psychologically it makes sense that Democrats should try to limit climate change, and that Republicans would obstruct them. (&lsquo;Latent ideology lies in <a class="fn">psychology.')<span>
+	EH Young (2009) &lsquo;Why we&apos;re liberal, why we&apos;re conservative&rsquo; PhD thesis, Stony Brook.
+</span></a><a href="https://dspace.sunyconnect.suny.edu/bitstream/handle/1951/52392/000000880.sbu.pdf;sequence=1">⬆︎</a> This follows from the  <a class="fn">Moral Foundations<span>
+	J Graham, J Haidt, BA Nosek (2009) &lsquo;Liberals and Conservatives Rely on Different Sets of Moral Foundations&rsquo; <cite>J Personality and Social Psychology</cite> <b>96</b>(#5) 1024&ndash;1046; doi: 10.1037/a0015141.
+</span></a><a href="http://www-bcf.usc.edu/~jessegra/papers/GHKMIWD.inpress.MFT.AESP.pdf">⬆︎</a> parameters that best distinguish conservatives from liberals: Liberals score higher on Concern for Others (ie, Care + Fairness); Conservatives on Loyalty, Authority, and Purity. Rs ask themselves, &lsquo;Has climate change &mdash; if it isn&apos;t just weather variability &mdash; hurt me?&rsquo;, and the answer is &lsquo;No. The Ds just like to spend other peoples&apos; money&rsquo;, and &lsquo;They&apos;re not getting mine!&rsquo; Ds looks at the world and see that climate change is already hurting people, that the damage will not be undoable in any human time frame, that is going get worse if we continue business as usual, and to minimize damage, want to limit what Rs are allowed to do to the world in pursuit of money.
+</p>
+
+<p>Common sources of confusion include:
+</p>
+
+
+<h4>0. Climate is chaotic</h4>
+<p>This is Lord Moncton&apos;s confusion. Despited being a British peer, he seems indistinguishable from the US Tea Party/birther fringe. His <a href="https://web.archive.org/web/20160804173707/http://clexit.net/wp-content/uploads/2016/07/clexit.pdf"> objection</a> to climate science is that he thinks it will <q>strangle the leading economies of the world with pointless carbon taxes and costly climate and energy policies, all with no sound basis in evidence or science</q>. To his credit, he once found a misplaced decimal point in an IPCC publication. On the other hand, he can&apos;t recognize the evidence and doesn&apos;t understand the science.
+</p>
+
+<h4>1. Water vapor</h4>
+<p>Water vapor has absorption bands all over the spectrum and so it is more important as a greenhouse gas than CO<sub>2</sub>, with its single deep absorption in the middle of an H<sub>2</sub>O band. This is perfectly true &mdash; in the lower troposphere where radiation is trumped by turbulent mixing. Water vapor pretty much freezes out (at the snow line) well below the radiation surface (above 5 km), and so makes a very minor contribution to global heating.
+</p>
+
+<h4>2. Saturation</h4>
+<p>Noticing that all the available energy in the infrared CO<sub>2</sub> band is absorbed in about 10 m, a voluble subset of deniers has fastened on this fact as meaning &mdash; erroneously &mdash; that adding CO<sub>2</sub> to the atmosphere cannot warm us further, because, obviously, all the IR is already being absorbed. This is exactly equivalent to saying that a cloud (which blocks all direct sunlight) does not get darker as it thickens, but simply casts a pure black shadow.
+</p>
+
+<p>Another way to see that this argument fails is to look at Venus, whose radiation temperature is 220°K. This is lower than the Earth&apos;s 255°K even though Venus is closer to the sun, because dense sulfuric-acid clouds reflect 80% of the incoming energy. Nevertheless, 965,000 ppm of CO₂ raise Venus&apos;s surface temperature by 510°K, compared to the Earth&apos;s paltry 33°K increase.
+</p>
+
+
+<h4>3. Satellite Measurements</h4>
+<p>Perhaps the most frequent denial of global heating is based on the fact that satellite measurements &lsquo;have shown that temperature has not risen in 17 years&rsquo;. This is true but <i>irrelevant</i>: what satellites measure most easily and uncontroversially is the <i>radiation</i> temperature of the Earth, which is constant, rather than its <i>surface</i> temperature, which is changing. The radiation temperature is set as indicated in Fig. 22.11, the surface temperature in Fig. 22.12. Algorithms that attempt to measure something other than brute radiation temperature are fraught with experimental and theoretical difficulties, and often simply wrong.
+</p>
+
+
+<h4>4. <q>Alternative Facts</q></h4>
+<p>A typical <a class="fn">FUD paper<span>
+	D&apos;J Aleo, A Watts (2010) <q>Surface Temperature Records: Policy‐Driven Deception?</q> <cite>SPPI Original Paper</cite> 2010-08-27 http://scienceandpublicpolicy.org/originals/policy_driven_deception.html (2010-09-13),
+</span></a> claims that instrumental records suffer from urban heat islands, land-use change, relocation of stations, missing data, poorly placed thermometers, and undocumented <q>adjustments</q> that have left a record with a warming bias and no reliable way to correct it. The subphrase of its title, <q>Policy-based deception?</q>, again suggests psychological projection of the authors&apos;s own <i>modus operandi</i>. The paper is part of a long carping suite of disinformation from the mendacious Heartland Institute, a raucous denier of climate change supported by and speaking for the <a class="fn">Koch coal billionaires<span>
+	Who, be it noted, would not be billionaires if they paid miners a living wage.
+</span></a>. In contrast to the FUD, careful analysis showed a slight <i>cooling</i> bias in US data, corresponding not to the suggested problems, but to the replacement of mercury thermometers by thermistors. This bias was removed by pairwise comparisons of trend lines spanning the period of replacement. The US Climate Reference Network (with some duplicate stations and triply redundant instrumentation) shows intercomparison uncertainties comparable to the precision of thermistors, in the <a class="fn">millikelvin<span>
+	JM Zurbuchen (2000) <q>Precision Thermistor Thermometry</q> (Measurement Specialties, Dayton OH).</span></a>
+range (±0.001°C). <q>We find <a class="fn">no evidence<span>
+	MJ Menne, CN Williams Jr, MA Palecki (2010) <q>On the reliability of the U.S. surface temperature record</q><cite> J Geophys Res</cite> <b>115</b> D11108, 9pp; doi:10.1029/2009JD013094.</span></a>
+that the US average temperature trends are inflated due to poor station siting</q>.
+</p>
+
+
+<h4>5. You don’t stand by a cold stove to get warm</h4>
+<p>To understand the genesis of this argument, look at the first figure in <a href="https://en.wikipedia.org/wiki/Earth%27s_energy_budget#/media/File:The-NASA-Earth%27s-Energy-Budget-Poster-Radiant-Energy-System-satellite-infrared-radiation-fluxes.jpg">Wikepedia&apos;s</a> <q>Earth&apos;s energy budget</q> article, and notice the large red downward arrow labelled <q>back radiation from greenhouse gasses</q>. Dr Peter L. Ward, a retired USGS vulcanologist with an idiosyncratic grasp of thermodynamics and quantum physics, recognized that this shorthand cannot be the actual warming mechanism, because the radiation from the atmosphere above us is <a class="fn">colder than the surface,<span>
+	The mean free path of an infrared photon at sea level is ~10 m, so the locally backscattered photons are at essentially the same temperature as the surface. A 15-µm photon bounces from one CO₂ molecule to another in gradually longer steps as it climbs and the ambient pressure drops. The climb is a random walk, with half of its steps downward. Between steps it exists as a (mechanical) molecular excitation of an atom of a complex molecule. (Think <q>ball and spring</q> models of molecules here.) The possible excitations are rotational and wagging; bond stretching requires more energy than an IR photon possesses. In this state, an inelastic collision with another gas molecule may convert wagging energy (internal molecular energy) into translational velocity (gas-temperature <i>mv</i><sup>2</sup> energy). The net effect is to reduce the number of hot CO₂ molecules reaching an altitude at which photons can escape to space.
+</span></a> and epitomized this fact, and his concept of radiation physics, with the epigraphic truism. Seeing a correlation between stratospheric ozone and the temperature record, overlooking the <q>correlation is not causation</q> trap, and misconstruing the Bohr-Einstein relation, Ward tells Republican Senators what they want to hear:
+</p>
+
+<blockquote><q>CO₂ is not the culprit. The ozone hole is letting in more UV, which has 48 times as much energy as CO₂&apos;s IR radiation.</q> <b>This is wrong</b>, and needs to read <q><b>energy per photon</b></q>, as <a class="fn">Einstein<span>
+	A Einstien (1905) <q>Über einen die Erzeugung und  Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt</q> <cite>Annalen der Physik</cite> <b>17</b>: 132&ndash;148 [143].
+</span></a> pointed out in defining the photon. There are very few UV photons in this discussion, and many IR photons.</blockquote>
+
+<p class="flu"> See <a href="#T4">Table 4</a> for the relative importance of CO₂ and ozone.
+</p>
+
+<p>Ward has offered <a href="https://whyclimatechanges.com/challenge/">$10,000</a> to anyone</p>
+
+<blockquote>who can demonstrate through direct measurements in the laboratory and/or in the field that a 15% increase in carbon dioxide, such as that observed from 1970 to 1998, can actually cause more <a class="fn">warming<span>
+	Ward&apos;s model is unclear, but he cites an experiment by Ångström which showed that 4-µm solar radiation did not heat CO₂, from which it appears that Ward is expecting 4-µm solar radiation to be absorbed by CO₂ and so warm the atmosphere. This is odd, because there is almost no solar radiation at 4 µm. It is <b>outgoing 15-µm radiation</b> that is absorbed.
+</span></a> of Earth than caused by observed contemporaneous depletion of the ozone layer of up to 60%.
+</blockquote>
+
+<p>Despite serious efforts by at least 3 knowledgeable physicists, no one has been able to correct Ward&apos;s confused quantum optics. He merely points to Galileo as justification for contradicting the established physics of the last 110 years.
+</p>
+
+<p>This argument would go away if Ward tried to do the math for his conjecture &mdash; which he refusing to do on the grounds that it is sufficient for a critic to point out an error, leaving the hard work for those more competent in arithmetic. This is prima facie evidence of an unsupportable position.
+</p>
+
+
+<h4>7. Cold spells</h4>
+<p>The relation between global heating and intensified storms is that storms are the most obvious way the atmosphere moves heat around. More heat to move means more, or bigger, storms. If you are moving warm air north to reduce the temperature gradient, you also have to move cold air south. As a result, an increase in <i>variability</i> is the most noticeable aspect of global heating. Untimely cold spells will occur wherever Arctic air is forced south by warm air moving into the Arctic. This was, I thought, common knowledge by the 1970s, so why is it still surprising people?
+</p>
+
+
+<h4>8. No warming since 1998</h4>
+<p>A slight flattening of the noisy mean-temperature curve inspired many cries of <q>warming has stopped</q> (from the same people who had been denying that warming was occurring). These were premature: see <a href="#F7">Fig. 7</a>.
+</p>
+
+
+<h4>9. <a href="#F3">Figure 3</a> can&apos;t work because the Earth is not a black body.</h4>
+<p>Figure 3 says nothing about the mechanism or details of radiation, and depends only upon the First Law. As Fig. 4 suggests, the outgoing radiation is equivalent to blackbody radiation only after integration over area, time, and spectra (an immensely complex process if one is dealing with individual spectra), instrumentally best performed by a very distant bolometer.
+</p>
+
+
+<h4>10. Climategate</h4>
+<p><q>Climategate</q> was a sophisticated hack of the British Climate Research Unit’s backup server, followed by a <q>highly orchestrated</q> and <q>manufactured controversy</q> in which jargon-filled email between 4 prominent researchers was deliberately misinterpreted. After investigation by 8 separate agencies, the  final analysis was that we had
+
+<blockquote>never before seen a set of people accuse an entire community of scientists of deliberate deception and other professional malfeasance. Even the tobacco companies never tried to slander legitimate cancer researchers. &mdash; Spencer Weart, historian of science
+</blockquote>
+
+<h4>11. Time Scales</h4>
+<p>Where Openness to New Experience is absent, the denialist siezes on one discordant observation among 10,000 that fits his beliefs, while the scientist sees an anomaly which when explained will further our knowledge of the system. Watch this example &hellip;
+
+<p>A typical denialist complaint is that a while back, climate scientists were predicting another ice age. Now they&apos;re predicting heat waves, so obviously they don&apos;t know what they are talking about. (Denialists are uncomfortable with change, but clearly on speaking terms with fraud, since it is the first thing they think of to explain the erratic progress of science.) If you look at the temperature-vs-time curves from the 4 km of ice at Vostok in Antarctica, you see <a href="../_F/F22.shtml#F22.2">Fig.22.2</a>, with a sawtooth curve and a steep rise at the beginning of an interglacial, followed by a slow cooling into the next ice age. (There are now ice cores from 3 dozen sites, showing both general agreement and interesting local variation.) The sawtooth pattern was exciting news in 1999 when it was <a class="fn">first published,<span>
+	JR Petit &amp;18a (1999) &lsquo;Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica&rsquo; <cite>Nature</cite> <b>99</b>: 429&ndash;436; doi:10.1038/20859
+</span></a> and it suggested that 12,000 years into the interglacial (our current timing), snow in eastern Canada should last through the summer very shortly, and we should be in another full-fledged ice age <b>90,000 years down the road</b>.
+</p>
+
+
+<h4>12. Et cetera</h4>
+<p>There are as many misunderstandings as there are denialists. <a href="https://wattsupwiththat.com/">Watts Up With That?</a> is an active and highly political example, interesting for the curious and irrational thought patterns of its inhabitants. Lots of subjects here for physiological
+	<a href="#idio"><img class="im"
+	src="../_K/K-Research3.gif" alt="Research" /></a>
+studies of alt-right brain functions, and how they got that way. See <a href="https://scienceofdoom.com/">Science of Doom</a> for serious scientific reponses.
+</p>
+
+<p>Let us now look at some data which one might hope think could be understood by all.
+</p>
+
+<h3 id="06">
+<a class="tri" href="#05">&#9651;&emsp;&emsp;</a>
+<a href="#TOC"> Some Complexities </a>
+<a class="tri" href="#01">&emsp;&emsp;&#9650;</a>
+</h3>
+
+<p class="epi">This presentation is the &lsquo;one-page&rsquo; version. For the &lsquo;600-page&rsquo; version, see <a href="http://scienceofdoom.com/about/">Science of Doom</a>, a level-headed and thorough collection of tutorial discussions of all aspects of climate science, which responds to rude skeptics with serious attempts explain the view of climate scientists on the issue in question.
+</p>
+
+<p>If the simple thermodynamic model is rigorous, why is so much effort put into IPCC? The easy answer is that the thermo model is a concise description of what the IPCC has discovered. Obtaining the 288&deg;K annual mean surface temperature from the observed daily 100&deg;C range of ground temperatures across the Earth required a long and painstaking international effort. The 255&deg;K radiation temperature is a function of the albedo (fraction of energy reflected), which required worldwide data about land-surface reflectivity, aerosol composition and cloud droplet size, concentration, and distribution, and gas-photon interactions. Explaining and predicting the future of the optical depth is an immensely complex chemical, physical, and mathematical problem, requiring 7-dimensional integration (3D spatial + composition + concentration + wavelength + time) over the spectrum of interactions (with light, and with eachother) of some 200 time-varying chemical species.
+</p>
+
+<p>The supercomputer models become trustworthy only when they <a class="fn">reproduce historical climate<span>
+	Oddly, deniers seem to regard this essential (backcasting) step as cheating, and forecasting as &lsquo;just computer modelling&rsquo;. None of them offer an approach beyond &lsquo;Climate is always changing. Live with it. And don&apos;t use our taxes for preparation!&rsquo;. (They will, one suspects,  be equally vocal about requesting socialist help when climate-related emergencies arise.)
+</span></a> from historical data &mdash; and our records are never as complete as we might like. The attempt to predict future values of the optical depth τ draws in economic historians, futurologists, demographers, anthropologists, and sociologists. The verbal input of these experts must be converted to numerical parameters before the computers can use them: this is one of the subtlest of skills, fraught with uncertainties. Political sensitivities preclude public discussion of realistic events, such as the consequences of a climate-induced population crash, or the probabilty that preparations for martial law and <a class="fn">militarization of police forces<span>
+	Rdley Balko (2014) <cite>The Rise of the Warrior Cop</cite> (PublicAffairs, NYC)
+</span></a> are in expectation of serious disorder when global heating, energy shortages, and crop failures arrive simultaneously.
+</p>
+
+<p>By far the easiest use of increased computer power is to reduce the size of the geographical step, and over the years this has gone from 500-km steps in 1970 to 110-km steps in 2007, and from 1 fluid layer (atmosphere or ocean) to  <a class="fn">30 in each.<span>
+	IPCC (2007): Summary for Policymakers. In: <cite>Climate Change 2007: The Physical Science Basis. 4th Assessment Report</cite> (Cambridge University Press, Cambridge, UK): 113.
+</span></a> (Sometimes this reduction produces unexpected results, for reasons that are not completely understood.) New processes have been added, in the sequence:  CO₂ and rain in 1970s, then clouds and ice, a shallow &lsquo;swamp&rsquo; ocean, volcanoes, sulphates, a deep ocean, the carbon cycle, rivers, aerosols, an overturning ocean, interactive vegetation, and UV-induced atmospheric chemistry.
+</p>
+
+<p>The bottom line, in terms of &lsquo;radiative forcing&rsquo; (which is measured in W/m<sup>2</sup>, like the incoming energy, is that  CO₂ contributes 1.7 W/m<sup>2</sup>. Everything else sums to almost zero:
+</p>
+
+<hr><table  id="T22.6">
+<caption>
+<a class="tri" href="#T22.5">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"> Table 22.6 </a>
+<a class="tri"
+href="../_F/F22.shtml#T22.1">&emsp;&emsp;&#9654;</a>
+Greenhouse Radiative Forcings (4th IPCC, p4). &lsquo;GHG&rsquo; is &lsquo;green- house gas&rsquo;.
+</caption>
+
+<thead><tr><th>Component</th>
+	<th>Forcing<br>W/m<sup>2</sup></th></tr>
+</thead>
+
+<tfoot>
+<tr><td>SUM</td>				<td>1.84</td></tr>
+</tfoot>
+
+<tbody>
+<tr><td>CO₂</td>				<td>1.66</td></tr>
+<tr><td>Other GHG</td>			<td>0.98</td></tr>
+<tr><td>Stratospheric Ozone (UV)</td><td>-0.05</td></tr>
+<tr><td>Tropospheric Ozone (IR) </td><td>0.35</td></tr>
+<tr><td>Stratosphere Water</td>	<td>0.07</td></tr>
+<tr><td>Surface Albedo</td>		<td>-0.1</td></tr>
+<tr><td>Aerosol</td>			<td>-1.2</td></tr>
+<tr><td>Contrails</td>			<td>0.01</td></tr>
+<tr><td>Solar Irradiance</td>	<td>0.12</td></tr>
+</tbody></table>
+
+<p>The water in the stratosphere is newly formed from oxidized methane. Much of the effect of &lsquo;other GHG&rsquo; is from meat-production methane, generated in the rumens of cattle during the bacterial digestion of cellulose. Although the carbon in this methane was removed from the atmosphere by photosynthesis of cattle fodder, methane, with 4 C-H bonds to absorb energy, is a much more powerful GHG than CO₂. With a decadal half-life, it make an appreciable contribution to global warming.</p>
+
+<p>Science fiction might help a bit at this point, with something like a realization of &lsquo;<a class="fn">Chicken Little&rsquo;,<span>
+	F Pohl, CM Kornbluth (1952) <cite>Space Merchants</cite> (St. Martin&apos;s Press, NYC).
+</span></a> a fast-growing  tissue culture fed alga-derived glucose, producing chicken meat <a class="fn">quickly<span>
+	The first tissue-cultured beef was produced in 2013. Chicken breast and fish are also being cultured. The practice is hailed as &lsquo;sustainable&rsquo;, but it still depends upon natural photosynthesis, although it may use the captured energy somewhat more efficiently.
+</span></a><a href="http://gizmodo.com/the-future-will-be-full-of-lab-grown-meat-1720874704">.</a>
+</p>
+
+<p>One final question is &lsquo;Where does the additional energy to warm the earth come from if everything is in balance?&rsquo;. I <i>told</i> you that we lied to you: it isn&rsquo;t quite in balance. NASA&apos;s <a class="fn">
+	Jim Hansen <span>&amp;3a (2011) &lsquo;Earth&apos;s energy imbalance and implications&rsquo; <cite>Atmospheric Chemistry and Physics</cite> <b>11</b>: 13421-13449.
+</span></a> showed that the earth absorbed (0.58 ± 0.15)W/m<sup>2</sup> more than it radiated over the 2005&ndash;2010 period, with 71% of the energy going into the ocean (in proportion to its fractional area), confirming &lsquo;the dominant role of the human-made greenhouse effect in driving global climate change&rsquo;. Note that this is <a class="fn">less than 1/3<span>
+	It is 0.042% of incoming energy: values derived by subtraction of large numbers are inherently inexact.
+</span></a>  of the 1.84 W/m<sup>2</sup> calculated above, and even though warming during this period was about half what it had been a few years earlier, there is still a mismatch of numbers and so deeper understanding to be sought here.
+</p>
+
+<p>Suppose that someday, in our exploration of earthlike exoplanets, we come across a jungle-covered metropolis (like those <a href="http://www.theyucatantimes.com/2018/02/they-find-lost-city-with-40000-buildings-in-mexico/"> recently discovered</a> in Yucatan). Unfortunately, all we recover of their culture is a fragment containing Fig. 22.13 &mdash; but it tells us all we need to know about them. Their fall can be read from the graph: They knew where they were going (RCP8.5), and where they should be going (RCP3-PID) &mdash; but they couldn&apos;t break their addiction (increase of slope from 1.0&permil; to 3.1&permil;). &apos;Nuff said.
+</p>
+
+<figure id="F22.13">
+<img class="fl"  width="66%"
+src="F-Images/22.13_CO2Emission.png"
+alt="F-Images/22.13_CO2Emission.png, ">
+
+<figcaption>
+<a class="tri" href="#F22.12">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"> Fig. 22.13 </a>
+<a class="tri" href="../_F/F22.shtml#F22.1">&emsp;&emsp;&#9654;</a>
+Wrong response: The rate of atmospheric CO₂ increase. The heavy orange line RCP8.5 is &lsquo;Business as Usual&rsquo;; the line RCP3-PID is the desideratum. Other lines are other social responses, described in <cite>XXX</cite>. The increase in slope occurred <i>after</i> we knew the problem.
+</figcaption></figure>
+
+
+<p>A <a class="fn">discouraging aspect<span>
+	One that I learned, after writing the above, from MITx&apos;s 12.340 Climate Change course (recommended for those of mathematical bent).
+</span></a> is the effective <a class="fn">permanence<span>
+	S Solomon &amp;3a (2009) &lsquo;Irreversible climate change due to carbon dioxide emissions&rsquo; <cite> Proc Natl Acad Sci US</cite> <b>106</b>(#6): 1704&ndash;1709; doi/10.1073/pnas.0812721106 .
+</span></a> of adding CO₂ to the atmosphere. If you look only at geochemistry (with a geological timescale), you see atmospheric CO₂ in equilibrium with dissolved CO₂, and the latter reacting with carbonate sediments to form harmless <a class="fn">bicarbonate ions,<span>
+	Disproportionation: CO₂ + H₂O + CO₃<sup>=</sup> ⇄  2HCO₃<sup>-</sup>.
+</span></a> so there is a steady drawdown of atmospheric CO₂ leading to a return to today&apos;s equilibrium. What I <a class="fn" href="http://thinkprogress.org/climate/2009/01/26/203610/noaa-climate-change-irreversible-1000-years-drought-dust-bowls/">(and others)</a> failed to realize &mdash; 50 years ago &mdash; is that most of the ocean does not come in contact with enough solid carbonates to matter <i>on a human timescale</i>. There are none on the deep sea floor (because sinking foraminifera tests dissolve by a pressure effect before reaching the bottom), and it takes 10,000 years for water to make the thermohaline circuit (sinking under polar ice shelves to form bottom water, flowing slowly around the globe, rising imperceptibly to the surface &mdash; most distantly in the North Pacific &mdash; and flowing by surface currents back to the poles. It can make many circuits without contacting shallow-water carbonates on continental slopes. What we have done to the atmosphere and climate may outlive our tenure on the planet.
+</p>
+
+<p>Return to main text <a href="../_F/F22.shtml#09">&#9668;</a>.
+</p>
+<span class="fr">◼</span>
+
+<br><hr><div class="cen">
+<a href="../_F/F22.shtml">&vltri;&emsp;&emsp;</a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+<a href="../_F/F23.shtml">&emsp;&emsp;&vrtri;</a>
+</div></body></html>

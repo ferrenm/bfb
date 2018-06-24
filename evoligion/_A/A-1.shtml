@@ -1,0 +1,371 @@
+
+<!-- A-1 Précis A -->()
+
+<!DOCTYPE html><html lang="en"><head id="HED">
+<title>A-1: Pr&eacute;cis of Book A</title>
+<meta charset="UTF-8">
+
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+<link rel="stylesheet" type="text/css" href="htdocs/bfbv.css">
+
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+</style>
+</head>
+
+<body>
+<p class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-04-28 12:45 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 4,088
+</b></p>
+
+
+<h2>
+<a href="../_F/F-1.shtml#BC"id="BC">6 &#9756;&emsp;&emsp;</a>
+<a href="../Index.shtml">BOOK 1</a>
+<a href="../_B/B-1.shtml#BC">&emsp;&emsp;&#9758; 2</a>
+</h2>
+
+<figure>
+<img width="100%"
+src="A-Images/A-Front-and-Back.jpg"
+alt="Book covers, with a small armless figurine of a well endowed, steatopygous, faceless woman, legs fused and broken above the knees, in brown fossil ivory." />
+</figure>
+<br><hr style="height:4px;">
+
+
+<p id="BFB" class="EP, cen">[On inner fold of the dust jacket]
+</p>
+
+<figure>
+<img style="display:block; margin: auto; width:50%;"
+src="A-Images/0.e_BFB.png"
+alt="Three-quarter view from above, of an octogenarian philosopher." />
+
+<figcaption>No photograph is known of the reclusive Benjamin Franklin Becula, whose autobiography (other than occasional personal glimpses in footnotes) seems to consist of, &lsquo;I make a pretty good hermit&rsquo;. We do, however, have this charcoal sketch by the artist known to one and all as O.B.
+</figcaption></figure>
+<br><hr style="height:4px;">
+
+
+<div class="EP">
+<p id="EP1" class="cen">[FIRST END PAPER, on the inner cover.]</p>
+
+<a class="tri" href="#RdS" id="Goal"> &emsp;&emsp; &#9651;</a>
+<h3><a href="#!"> </a> THE GOAL</a></h3>
+<a class="trs" href="#EP2">&#9661;&emsp;</a>
+<a class="tri" href="#03">&emsp;&#9661;</a>
+
+<p>Life is a learning experience, both for the gods, and for people made in their image. The gods establish the laws that will govern their universe, set the <a class="fk" href="http://astrobiology.com/2016/02/terrestrial-planets-across-space-and-time.html"><b>initial conditions°</b>,<span>
+	Despite the ~2e19 (short for ~2·10<sup>19</sup>, or approximately 20 billion billion) terrestrial-type planets in the visible universe, a computer simulation incorporating the laws of physics, the evolution of the universe, and data on exoplanets from the Kepler Space Telescope, produced only a single planet with the right size, gravity, temperature, composition, cosmic-ray-, solar- and particle-irradiation, rotation rate, and age. There are many suitable planets, but their mean age is only 1.7 Gyr, too young for intelligent life. (This result is for the <i>visible</i> universe, for we see younger epochs the farther away we look because of the finite speed of light. (This is <i>not</i> the coeval universe of the Big Bang, which we cannot see, and in which intelligent life should be common even if short lived.)
+	<br><br>
+
+	Still, this is not encouraging. We used the easily accessible fossil carbon to build the modern world. When it collapses &mdash; as have all its predecessors &mdash; we are unlikely to be able to repeat this process.<br><br>
+
+	If there were intelligent life on Earth, this would inspire us to reconsidered our priorities.
+<br>------------------<br>
+	E Zackrisson &amp;5a (2016) &lsquo;Terrestrial Planets Across Space and Time&rsquo; arXiv:1602.00690v1 [astro-ph.GA] 1 Feb 2016.
+</span></a> and push the go button. <b>Their goal is to discover a set of apparently arbitrary laws and initial conditions, among the millions possible, that will produce a universe in which</b> <a class="fn"><b>social justice prevails</b>°.<span>
+	A similar, if less ambitious, project is underway at COSMOLOGY@Home, a project of the Astronomy Department of the University of Illinois at Urbana-Champaign, which is using distributed computing &lsquo;to search for the model that best describes our current Universe and to find the range of models that agree with the available astronomical particle-physics data&rsquo;.
+</span></a>
+</p>
+
+<p>Gods may work in teams, because the number of gods is one of the experimental variables. Changing the laws in mid-experiment is <a class="fn">forbidden°,<span>
+	We deduce this from the fact that the same laws work as far back in time as we can look, 13.798±0.037 Gyr.
+</span></a> but the students are allowed to make suggestions to any life forms which develop sufficient receptivity.
+
+<figure id="F0.b">
+<img class="fc" width="80%"
+src="A-Images/0.b_Eirene.jpg"
+alt="A-Images/0.b_Eirene.jpg" />
+
+<figcaption>
+This figure gives a mythic overview of the philosophical milieu of the book.
+</figcaption> </figure>
+<br><hr style="height:4px;">
+
+
+
+<p id="EP2" class="EP, cen">[SECOND END PAPER, facing the inner cover.]
+</p>
+
+<a class="tri" href="#EP1">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> THE FIRST 14 ÆONS </a></h4>
+<a class="tri" href="#FP">&#10836;&emsp;&emsp;</a>
+
+
+<br>
+
+<di v class="EP">
+
+<p><span class="br">Once upon a time,</span> there were 3 student goddesses, and a canid. They did the best they could. Over the course of nearly 14 billion years, their universe developed stars, metals, life, and apes that used tools and fire. Nothing much happened for the next 160,000 years. Then one day in the Middle Paleolithic, Peira found a receptive tribal shaman and whispered in his ear. What she suggested worked for about 5 millennia. Then Eirene saw an opportunity to work with the tribal great-great-grandmother, and within 2500 years we had made the Watershed Leap into the Upper Paleolithic. All then went well for 100 centuries, until some of the physical laws combined to return the world to a half myriennium of cold that drove us into isolated refugia. Each group assumed Eirene&apos;s panacea was for itself alone. </p>
+
+<p>After the cold departed, and groups began to meet once more, we were back to the behavior of the Middle Paleolithic. The Leap gave us tools &mdash; and weapons, and when the cold turned to drought, we used them on eachother.</p>
+
+<p>Emphante thought it might help if she sent Coyotl &mdash; Trickster and Shapeshifter though he was &mdash; to explain the role of the gods, and although they tried numerous approaches, it was always a bit like talking to puppies. Not all of the message is understood. What came through, too often, was dysfunctional distraction and abiding confusion, leading to the 5000-year great recurring muddle that we call history. It was only when Emphante and Peira learned to work together that we began to see our way out of this. We found that <i><b><span> not everything we can imagine is true</span</span></b></i> and that there are usually ways of determining which is which. What we <i>should</i> do with that information is use it to help the students reach their goal. What we <i>will</i> do with it remains to be seen.</p>
+
+<figure id="F0.c">
+<img class="fl"  width="98%"
+src="A-Images/0.c_Therblig2.jpg"
+alt="The footnote shows 2 impossible objects. One has 6 equispaced horizontal lines. On the right, they are 3 cylindrical rods; on the left, they end in a square U-bracket. The other object is 3 concentric equilateral triangles whose corners are configured to look like 90-degree joints of square sticks seen in isometric projection. Each corner is realistically shaded; the catch is that while any 2 joints are possible, the 3rd would have to connect 2 ends that are a cube diagonal apart in space." />
+
+<figcaption><b>Things of the imagination</b>. On the left, the object known in engineering circles as a &lsquo;<a class="fn">therblig&rsquo;°<span>
+	In honor of Frank Gilbreth, pioneer of time-and-motion studies.
+</span></a> ready for threading; on the right, a tribar or Escher bracket, invented by Swedish artist Oscar Reutersvärd and popularized by Roger Penrose.
+</figcaption></figure>
+</div>
+<br><hr style="height:4px;">
+
+
+<div>
+
+<a class="tri" href="#EP2" id="FP">&#10835;&emsp;&emsp;</a>
+<h2><a href="#TOP"> Frontispiece </a></h2>
+<a class="tri" href="#De">&emsp;&emsp;&#9661;</a>
+
+<br>
+<div class="clearfix">
+
+<figure>
+<img class="fl" width="66%"
+src="A-Images/0.d_DrenchedCat.jpg"
+alt="A black cat, held aloft by his human&apos;s hands under his arms. The cat has just been lifted from a bathtub, dripping wet, furious, ears back, ready to kill &mdash; but hanging limply because he is constrained by synthetic kinship. He&apos;s glaring at someone whom he responds to as he would his mother." />
+<figcaption>The power of synthetic kinship. This well known picture is &lsquo;Drenched Cat&rsquo;, &copy; by South African photographer Jim McLagen. If looks could kill, the person holding this cat would be dead. What preserves him from serious laceration is that the cat has been tricked (by domestication and adoption) into believing that the handler is his mother, and One Does Not Kill Mom.
+</figcaption> </figure>
+<br><hr style="height:4px;">
+</div>
+
+<div id="De" style="clear:both">
+
+<a class="tri" href="#FP">&#10835;&emsp;&emsp;</a>
+<h1><a href="#TOP"> Dedication </a></h1>
+<a class="tri" href="#A-1">&emsp;&emsp;&#9661;</a>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<p class="cen" style="font-size:1.3em">
+<br>To the memory of Ming and Mac:<br>
+Choice of parents is each life&apos;s most important decision.
+</p>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><hr style="height:4px;">
+</div>
+
+<div id="&copy;" style="background-color:white;">
+
+
+<a class="cen, tri" href="#A-1" id="copy;">&#10835;&emsp;&emsp;</a>
+<h2><a href="#TOP"> &copy;? </a></h2>
+<a class="tri" href="#Ack">&emsp;&emsp;&#9661;</a>
+
+
+<p>Every time I have written to a publisher for permission to use copyrighted material, one of 3 things has happened. Either I receive no answer, or I am run around Robin Hood&apos;s Barn by publishers who sold the rights on, in an apparently endless chain, or I am presented with premature questions like how many copies, in what binding, for what audience, at what price.
+</p>
+
+<p>As an academic, I have always felt that classroom use of such material came under Fair Use, and <i>scholars</i> always seem happy to have their work so used. The Digital Millennium Copyright Act is <i>terra incognita</i> to me. Nobody will make money from this work-in-progress, and if I have overstepped I apologize. Leave a note on the blog, and we can negotiate.
+</p>
+
+<p>As Tom Lehrer famously put it (and assuming that one is allowed to quote him!):<br> </p>
+
+<blockquote>Let no one else&apos;s work evade your eyes!<br> Plagiarize! Plagiarize! Plagiarize!<br>
+But please, always to call it &lsquo;research&rsquo;.<br>
+</blockquote>
+
+<p>With respect to copyrighted material like McLagen&apos;s wonderful &lsquo;Drenched Cat&rsquo;, I believe that at least as long as my material is non-commercial and for comment only, display of such images falls under fair use, for (as Wikipedia Commons puts it), it does not significantly impede the right of the copyright holder to sell the copyrighted material, it is low quality, is not being used to generate profit in this context, and presents ideas that cannot otherwise be exhibited. (In any case, sporadic attempts to contact McLagen over a 10-year period &mdash; including the tourist shop in Amsterdam where I first saw the Cat, the publisher of the post card, McLagen&apos;s newspaper in South Africa, etc. &mdash; have all failed.)
+</p>
+
+<p>Suggestion: Those to whom copyright is important might create a searchable on-line database/tutorial with examples of what is and is not fair use, addresses of copyright holders, and sample request letters.
+</p>
+</div>
+<br><hr style="height:4px;">
+
+
+
+<a class="tri" href="#&copy;" id="Ack"">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC"> Acknowledgements </a></h3>
+<a class="tri" href="#Qui">&emsp;&emsp;&#9661;</a>
+
+<p>Daniel Dennett, Robert Trivers, E.O. Wilson, and an anonymous reviewer offered critiques of and encouragement (or perhaps it was damnation with faint praise) to the parent paper of this book. &lsquo;Too short&rsquo;, said the reviewer, &lsquo;it&apos;s a good book prospectus, and a book well worth reading.&rsquo; &lsquo;Cut it 40%&rsquo;, countered Glenn Yocum, editor of the <cite>Journal of the American Academy of Religion</cite>, &rsquo;and I&apos;ll publish it. I like to make my readers think outside the box occasionally.&rsquo; Comments by Dimitri Kantarelis and participants at a Conference on the Environment improved another ancestral paper. Conversations with Allison Jolly, and the late Lynn Margulis and Garrett Hardin leave ideas which eventually you think were your own.
+</p>
+
+<p>When I stuff my foot in my mouth, it is despite the efforts of experts who answered questions or read chapters: Jim Allen, the late Tjeerd van Andel, Tanya Atwater, Kelly Beller, Samuel Bowles, Robert Boyd, Wallace Broeker, Noam Chomsky, Patricia Crone, Tamara Davis, Howard Diamond, Neil Donahue, the late Marija Gimbutas, Herbert Gintis, Thomas Greytak, John Hainly, Dean Hamer, James Harrod, Geoff Heard, Raymond Ibrahim, Ali Jafarey, Garret Jones, Thomas Kimmel, Richard Klein, Sherri Laizer, Brian McVeigh, Ardeshir Mehta, Branko Milanovic, James O&apos;Connell, Cory Panshin, David Pimentel, Peter Richerson, William Ryan, Robert Schick, and James Thornton among them.
+</p>
+
+<p>Others who offered corrections, URLs of interest, data sources, comments, illustrations, and internet connections include Jim Barty, Vanilla Beer, David Brin, Susan Brown, Ellie and John Clemens, Maren Cooke, Michael Glück, Hayes Griffith, Bob Harris, Aileen Hennes, Bill Jackson, Georgia Lee, Jill Miller, Daniel Peacock, Ellen Rice, Joan Terrell-Smith, Susan Waters, and most notably Michael Cornelison, Ole Bendik Madsø, Charlotte Mann, Dick Miller and Jim Waters. Jukka Korpela helped with the novel process of using HTML5 to display a book. Aileen Hennes agreed to become my literary executor after a monitory minor stroke suggested that I should 'put my affairs in order'.
+</p>
+
+<p>Chapter 22 descends from, and gratefully acknowledges, a John Simon Guggenheim Fellowship.
+</p>
+
+<p>I thank everyone who made his research available <a class="fn">on the web!<span>
+	Plans to digitize everything in sight might profit from leavening by historian Theodore Koditschek&apos;s suggestion that the digital library should be regulated as a public utility.
+</span></a> Viva <cite>PLoS,</cite> the <cite>Public Library of Science</cite>, where tax-supported research can be read free, while proprietary journals charge the price of an expensive book for a day&apos;s access to one paper! <b>&lsquo;What is not in the Web open format, doesn&apos;t exist&rsquo;</b>.
+</p>
+
+<p>A final caution. Although, following Whitehead, one aspires to a &lsquo;coherent, logical, and, in respect to its interpretation, applicable and adequate&rsquo; presentation, it would be unrealistic to expect a finished theory. The hypothesis about religion put forward here is preliminary and based on the decadal research of one outsider starting from scratch, reading no non-Western language, bereft of colleagues and a library, and accepting as core hypotheses a couple of ideas most workers regard with deep suspicion. Africa and the Far East, barely touched, are left for specialists. There&apos;s lots of work for everybody!
+</p>
+
+
+
+
+<a class="tri" href="#Ack" id="Qui">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC"> Editorial Quirks </a></h3>
+<a class="tri" href="#A-2">&emsp;&emsp;&#9661;</a>
+
+<p>It will undoubtedly offend purists that when British, US, and, say, norsk usages disagree, I often pick the the simplest, or most phonetic, version &mdash; single quotes and &lsquo;burocrat&rsquo; being obvious examples. I also prefer <i>eachother</i> for the reciprocal pronoun, by analogy with <i>another</i>, and numerals instead of written-out names for small numbers (except at the beginning of sentences) &mdash; the latter as part of familiarizing the innumerate with the <i>idea</i> of number. Logic compels me to locate punctuation like a grammarian or programmer, rather than a typographer.
+</p>
+
+<p>In bibliographic references, I use &lsquo;&amp;Na&rsquo; in place of &lsquo;et al.&rsquo;, where N is the number of co-authors. If you hover brown text with a <a class="fn">degree symbol,<span>
+	The ° is because the rules say not to depend upon color alone, for the sake of the colorblind. Life is too short to attempt sequential bottom-of-the-page footnotes in HTML!
+</span></a> it will pop up a footnote. Blue text with a °, if
+ 	hovered, also produces a footnote, and if clicked it is a hypertext link. Return from the link by clicking on the browser&apos;s <a href="#BC" class="fk">back arrow°.<span> Click to see the book&apos;s cover.
+</span></a>
+</p>
+
+
+
+<a class="trs" href="#Qui" id="Kn">&#10835;&emsp;&emsp;</a>
+<a class="tri" href="#10">&#9651;&emsp;&emsp;</a>
+<h3><a href="#TOC"> ROAD SIGNS </a></h3>
+<a class="tri" href="#Goal">&emsp;&emsp;&#9650;</a>
+
+<p>Donald Knuth, programmer extraordinaire, promulgated the use of marginal &lsquo;road signs&rsquo; &mdash; cortical emoticons &mdash; to warn readers of what was coming and to help relocate particular material. The set we use is:</p>
+
+<ul class="nobul">
+<li class="liKR">
+<img class="im" src="../Images/K-TakeHome3.gif"
+				alt="../Images/K-TakeHome3.gif">
+<b>Take-home</b>: Remember this, and act on it.<br></li>
+
+<li class="liKR">
+<img class="im" src="../Images/K-NewIdea3.gif"
+				alt="../Images/K-NewIdea">
+<b>New idea</b>, or at least one that I can&apos;t blame on anybody else.<br></li>
+
+<li class="liKR">
+<img class="im" src="../Images/K-Research3.gif"
+				alt="../Images/K-Research">
+<b>Needed research</b>: Why hasn&apos;t this topic been studied and publicized? There are PhD theses lurking here.<br></li>
+
+<li class="liKR">
+<img class="im" src="../Images/K-Arithmetic3.gif"
+				alt="../Images/K-Arithmetic">
+<b>Arithmetic</b> or jargon: Skip and ignore if you don&apos;t find this useful.<br></li>
+
+<li class=" liKR">
+<img class="im" src="../Images/K-SoapBox3.gif"
+				alt="../Images/K-Soapbox">
+<b>Soap box</b>: Rant, but in a good cause.<br></li>
+
+<li class=" liKR">
+<img class="im"	src="../Images/K-Theater3.gif"
+				alt="../Images/K-Theater">
+<b>Theater</b>: Plausible, highly probable fiction here; enjoy.<br></li>
+
+<li class=" liKR">
+<img class="im"	src="../Images/K-Book3.gif"
+				alt="../Images/K-Book">
+<b>Scholarly material</b>. Possibly boring, but I have done my homework.<br></li>
+
+<li class=" liKR">
+<img class="im" src="../Images/K-Enlightenment3.gif"
+				alt="../Images/K-Enlightenment">
+<b>Enlightenment</b>: essential ideas from 1750 or earlier (the icon is Thomas Jefferson).<br></li>
+
+<li class=" liKR">
+<img class="im" src="../Images/K-BellTheCat3.gif"
+				alt="../Images/K-BellTheCat">
+<b>Bell-the-cat</b>: Good idea with a snowball&apos;s chance in hell of implementation.<br></li>
+
+<li class=" liKR">
+<img class="im"	src="../Images/K-Stop3.gif"
+				alt="../Images/K-`Stop">
+<b> Stop this!</b> Write Congress, join quangos, do whatever it takes, but get this stopped!</li>
+</ul>
+
+<p>Clicking on an unfamiliar road sign will bring you to this list; the browser&apos;s Back button will return you to your text.
+<span class="fr">◼</span>
+</p>
+<br><hr style="height:4px;">
+</div>
+
+
+
+<p id="TOC" class="flu" style="border-style:solid; background-color:#fe8;">For a 1-minute version of the 6 books that segu&eacute;s into the 24-minute pr&eacute;cis below, start <a href="../../evoligion/Index.shtml">here.</a> If you find this persuasive, skip the books &mdash; but recommend them to your friends!</p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+
+<h2 style="color:black;">Book 1: Its Preludes</h2>
+
+<h2>
+<a class="up" href="../_F/F-1.shtml#F-2" id="A-2">F&#9756;&emsp;&emsp;</a>
+<a class="up" href="#BC">&and;&emsp;&ensp;</a>
+Pr&eacute;cis A: Preludes
+<a class="tri" href="../_A/A00.shtml">&ensp;&emsp;&#9661;</a>
+<a class="up"  href="../_B/B-1.shtml#B-2">&emsp;&ensp;&#9758;B</a>
+</h2>
+
+<h5>and incidentally, the start of a 24-minute preview. Follow the right-pointing finger below.
+</h5>
+
+<p><b>Chapter 0, the <a href="A00.shtml#A00">Preface</a></b>, introduces the things we need to get started. These include <i>ideas</i> (theories of religion and a strange definition thereof, a timeline, synthetic kinship, pothodoxy, metagods, some <i>odd characters</i> (Coyotl, Eirene, Gaia), and a <i>pair of instincts</i>.
+</p>
+
+<p><b>Chapter 1</b>, <a href="A01.shtml#A01"><b>The Brain</b></a>, observes that to the extent that religious behavior affects the world, the human brain is the instrument responsible for the effects, so we review what little we know about the brain. It has not always worked as it works today, and its &lsquo;operating system&rsquo; (OS) has changed as we have changed. Anthropologists and one eccentric psychologist suggest that it worked rather differently in the days when we invented gods and religions. <i>Then</i> (when we needed them) the gods were unavoidable. There was no question about their reality and utility, nor need for arguments for their existence. When we no longer needed them, they left us, replaced by endless debates, the uncertainty of incomplete knowledge, and the counterfactual contortions of faith.</p>
+
+<p><b>Chapter 2, <a href="A02.shtml#A02">Bicamerality</a>,</b> introduces Julian Jaynes&apos;s hypothesis of the bicameral mind, an earlier developmental organization of the brain, an OS that explains hypnosis, schizophrenia, ghosts, belief in an afterlife, angels, gods, and a great deal of ethology. The chapter cannot replace reading Jaynes&apos;s book, but it should provide sufficient background for our needs. The disappearance of the gods was simply a step in the evolution of the brain, as it develops different operating systems in the process of learning to use itself.</p>
+
+<p >Those who receive revelations are convinced that they come from <i>outside</i> the human brain. Considering the fervor with which we act on revealed doctrine, the question of its source would seem to be <i>the</i> single most important question in human history. <b>Chapter 3, <a href="A03.shtml#A03">Revelation</a></b> examines a 28-year experiment at Princeton not concerned with revelation, but with a more accessible aspect of supernaturalism, concluding that ESP/Psi is both insignificant (&lt;0.03% effect), and unreliable (the direction of the effect is sometimes opposite to intent). Evidence from evolutionary biology, communication theory, the Rosicrucians, and the Mormons suggests that revelation has a prosaic and understandable source <i>inside</i> the brain. Has any revelation included <i>facts</i> not previously known to the prophet?</p>
+
+<p>First, there is language, then there are stories, and <b>Chapter 4, <a href="A04.shtml#00">Stories</a>,</b> concentrates on these, and what they did for us. Living together in larger groups than the extended family was once impossible, and is still not easy: witness intolerance, terrorism, torture, crime, corruption, warfare, deliberate gross inequality, and governments that believe they must lie to the governed. Clearly, we need something to help us live together. The earliest tools that filled this need were racism and religion &mdash; which is why they are still with us.
+</p>
+
+<p >The objective of <cite>Religion 1 / Book A</cite> is to rethink some axioms. Since everyone brings his own idiosyncratic axioms to a discussion of religion, it is pointless to exemplify &lsquo;some&rsquo;. Instead, these are the working hypotheses that replace the axioms:
+	<a href="../_A/A00.shtml#14"><img class="im"
+	src="../Images/K-TakeHome3.gif"
+	alt="TakeHome"></a></p>
+
+<ul class="br" style="font-family: 'Arial', Verdana, sans-serif;">
+<li>The purpose of religion is not salvation.
+<li>The developing brain writes its own operating system.
+<li>Meditation may not take us where we always thought it did.
+<li>Revelation is psychology, misunderstood as theology.
+<li>Religion is best understood as a variety of <i >domestication</i>.
+</li></ul><span class="fr">◼</span>
+<br>
+
+<p class="cen">
+<a href="../_F/F-1.shtml#F-2">F &#9756;&emsp;&emsp;</a>
+<a href="A00.shtml">Chapter 0 &#9660;</a>
+<a href="../_B/B-1.shtml#B-2">&emsp;&emsp;&#9758; B</a>
+</p>
+
+<hr>
+<div class="cen">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+</div>
+</body></html>

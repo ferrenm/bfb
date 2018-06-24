@@ -1,0 +1,910 @@
+
+<!-- B05 Benefits  -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>B05_Benefits</title>
+
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css"  href="../../bfbv.css">
+
+
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+h4	{ margin : 4px ; }
+<header style="position: relative; top: -20px;">
+</style>
+</head>
+
+<body>
+<p  class="date"><!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-06-05 09:00 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h2 id="!">Book 2: Our Preoccupation</h2>
+<!--#include virtual="TocB05.shtml"-->
+
+
+<a class="tro" href="../Index.shtml" id="00">&#11152;&emsp;</a>
+<a class="tro" href="#RD" >&#9660;&emsp;&emsp;</a>
+<h3><a href="#!"> BENEFITS OF RELIGION </a></h3>
+<a class="tri" href="#01">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#09"> &#9661;&emsp;&emsp;</a>
+
+<p class="epi">Even the skeptical historian develops a humble respect for religion, since he sees it functioning, and seemingly indispensable, in every land and age. &hellip; It has conferred meaning and dignity upon the lowliest existence, and through its sacraments has made for stability by transforming human covenants into solemn relationships with God. &hellip; Since the natural inequality of men dooms many of us to poverty and defeat, some supernatural hope may be the only alternative to despair. &mdash; <a class="fn">Will &amp; Ariel Durant°<span>
+	W &amp; A Durant (1968) <cite>The Lessons of History</cite> (Simon &amp; Schuster, NYC): 41. This is a 100-page distillation of their 10-volume <cite>Story of Civilization</cite>. Essential reading.
+</span></a>
+</p>
+
+<p>Some bias creeps in at this point, because the available literature is mostly concerned with the benefits of US Christianity. But Christianity gets short shrift here, because its interesting aspect was obscured long ago. During the first 4 centuries, the
+</p>
+
+<blockquote>religious debates &mdash; questions of
+the nature of God, or of Christ &mdash; simultaneously bore social and political implications that were crucial to the development of Christianity as an institutional religion. In simplest terms, ideas which bore implications contrary to that development came to be labeled as &lsquo;heresy&rsquo;; ideas which implicitly supported it became &lsquo;orthodox&rsquo;. &mdash; <a class="fn">E. Pagels°<span>
+	E Pagels (1979) <cite>The Gnostic Gospels</cite> (Vintage, NY, 1989): xxxvi, changed to past tense.
+</span></a>
+</blockquote>
+
+<p class="flu">Since Jesus was anything but an institutionalist, it seems likely that orthodox Christianity has little to do with what he really taught.
+</p>
+
+
+<a class="tri" href="#00" id="01">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Religion-as-Promoted </a></h4>
+<a class="tri" href="#02">&#10836;&emsp;&emsp;</a>
+
+
+<p class="epi">It is clearly safer to believe in a well-aged religion than to be susceptible to a potentially fatal cult. &mdash; Kieth Henson</p>
+
+<p>One explanation for the persistence of religion is its claimed benefits, many of which are listed in Table 5.1. These perceived boons are so remarkable that they have always been understood as a gift of benevolent deity. To date, this belief has passed from parent to child some 60 billion times, and has been credited with improving the quality of life and providing the strength to meet its challenges. Why would anyone want to question such a helpful approach? The best reason is that religion also brings observed disbenefits of equal importance, also included in Table 5.1.
+ </p>
+
+<hr>
+<table id="T5.1" >
+
+<caption>
+<a class="tri" href="#T5.2">&#9664;&emsp;&emsp;</a>
+<a href="#!">  Table 5.1 </a> &nbsp;
+<a class="tri" href="#T5.2">&emsp;&emsp;&#9654;</a>
+Benefits and Disbenefits of Religion. Some items are supported by sociological studies of varying reliability, some are taken for granted in the literature, some are anecdotal responses mentioned by informants. Items in the same row may or may not be related.
+</caption>
+
+<colgroup>
+	<col style="background-color: #d0ead0" ; >
+	<col style="background-color: #d0ead0" ; >
+	<col style="background-color: #ffe8e0" ; >
+	<col style="background-color: #ffe8e0" ; >
+</colgroup>
+
+<thead>
+<tr><th colspan="2">Claimed Benefits</th>
+    <th colspan="2">Observed Disbenefits</th></tr>
+<tr><th colspan="4" class="bglgr">Personal</th></tr>
+</thead>
+
+<tfoot>
+<tr><td class="bgred" colspan="4">* See <a href="../_A/A00.shtml#06a">here.</a></td></tr>
+</tfoot>
+
+<tbody>
+<tr><td>Longer life span</td>
+	<td>Fewer health problems</td>
+	<td>Dogma replaces curiosity</td>
+	<td>Prayer replaces action</td></tr>
+<tr><td>Spiritual pleasure</td>
+	<td>Fewer mental problems</td>
+	<td>Faith replaces rationality</td>
+	<td>Reduction of autonomy</td></tr>
+</tbody>
+
+<tr><th colspan="4" class="bglgr">Psychological</th></tr>
+
+<tbody>
+<tr><td>Celebration of festivals</td>
+	<td>Ceremonial rites of passage</td>
+	<td>Denigration of science</td>
+	<td>Magical thinking</td></tr>
+<tr><td>Membership in a community</td>
+	<td>Comfort in familiar ritual</td>
+	<td>Belief that ritual is efficacious</td>
+	<td>Convenient displacement activity</td></tr>
+<tr><td>Consolation in times of loss</td>
+ 	<td>Courage in the face of adversity</td>
+	<td>Support for superstition</td>
+	<td>Unwarranted assumption of virtue</td></tr>
+<tr><td>Refuge in time of despair</td>
+	<td>Hope in life&apos;s darkest moments</td>
+	<td>Dismissal of personal responsibility</td>
+	<td>Counterfactual denial of reality</td></tr>
+<tr><td>Guidance for daily living</td>
+	<td>Resolution of personal dilemmas</td>
+	<td>Validation of misogyny</td>
+	<td>Intolerance</td></tr>
+<tr><td>Authorization of behavior</td>
+	<td>Validation of cherished opinion</td>
+	<td>Support for bigotry</td>
+	<td>Sanctimony</td></tr>
+<tr><td>Reduction of the fear of death</td>
+	<td>Verification of deep-seated feelings</td>
+	<td>Encouragement of homophobia</td>
+	<td>Perpetuation of counterfactual belief</td></tr>
+<tr><td>Legitimation of fortune and status</td>
+    <td>Dignity despite inequality</td>
+	<td>Legitimation of undeserved fortune and status</td>
+	<td>Justification of inequality</td></tr>
+</tbody>
+
+<tr><th colspan="4" class="bglgr">Social</th></tr>
+
+<tbody>
+<tr><td>Common morality</td>
+	<td>Community cohesion</td>
+	<td>Polarization of society</td>
+	<td>Terrorism</td></tr>
+<tr><td>More charity giving</td>
+	<td>Diminished crime</td>
+	<td>Increased crime</td>
+	<td>Overpopulation</td></tr>
+<tr><td>More volunteer services</td>
+	<td>Improved education</td>
+	<td>Perpetuation of ignorance</td>
+	<td>Neglect of environmental problems</td></tr>
+<tr><td colspan="2">Opportunity for group singing</td>
+	<td colspan="2">Sharp limit on genre of songs</td></tr>
+</tbody>
+
+<tr><th colspan="4" class="bglgr">Philosophical</th></tr>
+
+<tbody>
+<tr><td>Answers to existential questions</td>
+  	<td>Assurance of meaning to existence</td>
+	<td colspan="2">The same benefits are supplied by Humanism, with the advantage that they are based on observable phenomena.</td></tr>
+<tr><td>Inspiration for selfless acts</td>
+    <td>Justification for morality</td>
+	<td colspan="2">Confusion of morals (social tradition) with ethics (common good)</td></tr>
+</tbody>
+
+<tr><th colspan="4" class="bglgr">Spiritual</th></tr>
+
+<tbody>
+<tr><td>Forgiveness of sins</td>
+	<td>Insight into the mind of god</td>
+	<td>Forgiveness encourages recidivism</td>
+	<td>Delusional thinking</td></tr>
+<tr><td>Eternal life with their deity, or</td>
+	<td>Release from the cycle of rebirth</td>
+	<td>Spiritual arrogance</td>
+	<td>What if the <b>real</b> rules are different? *</td></tr>
+</tbody>
+
+<tr><th colspan="4" class="bglgr">Benefits of myth</th></tr>
+
+<tbody>
+<tr><td colspan="2">We seem unable to live without myths. <br>See <a href="../_F/F24.shtml#F24">Chapter 24.</a></td>
+	<td colspan="2">Religious memes pre-empt more useful mythopoesis.</td></tr>
+</tbody></table>
+
+
+<p>A minor doubt is introduced by the varying reliability of the studies. People who write enthusiastically about the benefits of religion tend unconsciously to filter out contrary indications. In a typical example, <a class="fn">one paper°<span>
+	KG Meador &amp;5a (1992) &lsquo;Religious Affiliation and Major Depression&rsquo; <cite>Hospital and Community Psychiatry</cite> <b>43</b>(#12): 1204&ndash;1208.
+</span></a> on the putative mental-health benefits of religion ignored the author&apos;s own findings of a high association between Pentecostal belief and clinical depression. Another <a class="fn">survey°<span>
+	KI Pargament &amp;3a (2001) &lsquo;Religious Struggle as a Predictor of Mortality among Medically Ill Elderly Patients&rsquo; <cite>Archives of Internal Medicine</cite> <b>161</b>(#15): 1881&ndash;1885.
+</span></a> of hospitalized mainline Christians showed faith-driven mortality, with a 28% increase in the risk of dying among those who felt &lsquo;alienated from God&rsquo; or that Satan had a hand in their illness. (Despite its negative result, this finding is statistical support for faith healing.)</p>
+
+<p>Among the apparent psychological benefits of church attendance is a physiological response in which <i>any</i> shared group activity releases &lsquo;feel-good&rsquo;  <a class="fn">endorphins°.<span>
+	E Cohen, &amp;3a (2009) &lsquo;Rowers&apos; high: behavioural synchrony is correlated with elevated pain thresholds&rsquo; <cite>Biology Letters</cite> <b>6</b>: 106&ndash;108.
+</span></a> This is an evolutionary reward for cooperation because cooperation increases viability. Religion thus benefits by association, as a common focus of cooperation.
+</p>
+
+<p>Henson&apos;s epigraph reminds us of the disturbing association between cults and suicidal behavior. This arises solely because natural selection has preferentially preserved children who obeyed their parents, endowing us with a predilection for trusting authority and the ability to transfer such trust to parental substitutes. Protection from voluntary cultic fatality thus requires the adult&apos;s critical ability to analyze ideas before accepting them. This ability seems difficult to teach by higher education, and is apparently related to education by life experience &mdash; the elusive property commonly called <a href="../_A/A01.shtml#38">&lsquo;wisdom&rsquo;</a>, a joint project of <a class="fn">limbos and cortex°<span>
+	TW Meeks, DV Jeste (2009) &lsquo;Neurobiology of Wisdom: A Literature Overview&rsquo; <cite>Archives of General Psychiatry</cite> <b>66</b>(#4): 355&ndash;365; doi: 10.1001/archgenpsychiatry.2009.8.
+</span></a> acquired with age &mdash; provided always that the aging brain retains the ability to make new synapses. This ability, increasingly useful as life expectancy increases, may be a recent (Ice-age) mutation, since many mammals switch off learning in favor of <a href="../_C/C11.shtml#19">fast response</a> at puberty.
+</p>
+
+
+
+<a class="tri" href="#01" id="02">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> And the Disbenefits </a></h4>
+<a class="tri" href="#03">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">Pressing questions include the reasons &hellip; that the exceptionally wealthy U.S. is so inefficient that it is experiencing a much higher degree of societal distress than are less religious, less wealthy prosperous democracies.  &mdash; <a class="fn">G.S. Paul°<span>
+	GS Paul (2005) &lsquo;Cross-National Correlations of Quantifiable Societal Health with Popular Religiosity and Secularism in the Prosperous Democracies&rsquo; <cite>Journal of Religion and Society</cite> <b>7</b>.
+</span></a>
+</p>
+
+<p>One perhaps surprising correlation is between  <a class="fn">crime and Christian churches°.<span>
+	SA Desmond, G Kikuchi, K Morgan (2010) &lsquo;Congregations and Crime: Is the Spatial Distribution of Congregations Associated with Neighborhood Crime Rates?‘ <cite>Journal for the Scientific Study of Religion</cite> <b>49</b>(#1): 37&ndash;55; doi: 10.1111/j.1468-5906.2009.01491.x
+</span></a> Only one city (Indianapolis) was studied, but after correction for poverty, racial mixture, education, and other known correlates of crime, what was left was that areas with more evangelical Protestant churches had more robbery, aggravated assault, vehicle theft, commercial burglary and larceny. While this may conflict with churches&apos; self-image, the polarizing nature of fundamentalism certainly contributes to social hostility.
+</p>
+
+<p>The correlation also holds regionally. Strong religious belief in the Bible Belt accompanies high rates of homicide, mortality, sexually transmitted diseases, teen pregnancy, and marital and social problems, all of which are markedly lower in the <a class="fn">secular northeast°.<span>
+	&bull;S Aral, K Holmes (1996) &lsquo;Social and Behavioral Determinants of the Epidemiology of STDs: Industrialized and Developing Countries&rsquo; in K Holmes (ed.) <cite>Sexually Transmitted Diseases</cite>, Third Edition. (McGraw-Hill, NYC) pp. 39&ndash;76.
+	<br>&bull; L Beeghley (2003) <cite>Homicide: A Sociological Explanation</cite> (Rowman &amp; Littlefield, Lanham MD).
+	<br>&bull; R Doyle (2002) &lsquo;Quality of Life&rsquo; <cite>Scientific American</cite> <b>286</b>(4): 32.
+</span></a>
+</p>
+
+
+
+<a class="tri" href="#02" id="03">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Belief </a></h4>
+<a class="tri" href="#04">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">Religion is for the unlettered multitude; philosophy for the chosen few. Religion teaches by signs and symbols; philosophy presents the truth itself. In the mind, therefore, of the truly enlightened, philosophy supersedes religion. &mdash; Ibn Rushd (Averroes)
+</p>
+
+<p>The question which Table 5.1 raises for us is, which of these benefits &mdash; if any &mdash; is capable of increasing viability sufficiently to counterbalance the drawbacks inherent in the accompanying gullibility? This is a difficult equation, both because we are comparing incommensurables, and because the various weights are unknown. A safe conclusion is that gullibility was a  greater advantage in the Paleolithic than it is in the Communication Age. The  difficulty of saying more than this means that the traditional interpretation of the boons of religion can be written only non-quantitatively, perhaps as a syllogism:
+</p>
+
+<ol class="oA">
+<li> I believe in Coyotl.</li>
+
+<li> I receive many benefits from my belief.</li>
+
+<li> Therefore <i>Coyotl</i> is the source of benefits.</li>
+</ol>
+
+<p>While this may sound valid, <b>C</b> is not a necessary result even when <b>A</b> and <b>B</b> are true, because others will claim that Offler-the-crocodile-god is the real source of those benefits. If any god&apos;s name can be inserted, there seem only 3 alternatives: <b>polytheism</b>, in which all gods provide blessings; <b>deism,</b> in which god does nothing but set the universe in motion (the benefits then having other causes); or an <b>alternative syllogism</b>:
+</p>
+
+<ol class="oA">
+<li> I believe in Coyotl.</li>
+
+<li> I receive many benefits from my belief.</li>
+
+<li> Therefore <i>belief</i> is the source of benefits.
+</ol>
+
+<p>If <i>belief</i> in god provides the benefits of religion, it doesn&apos;t matter which god, and it doesn&apos;t matter about his degree of reality. As long as belief is strong, the benefits are strong. <i>Faith is its own reward.</i> This is not a new idea, for in the 11th century, <a class="fn">Al-Ghazali°<span>
+	Al-Ghazali, (11th century) &lsquo;Faisal al-tafriqa&rsquo; in B Lewis (ed. &amp; trans.) (1974) <cite>Islam: from the Prophet Muhammad to the Capture of Constantinople</cite> 2 vols. (Macmillan Press, London): 202.
+</span></a> observed:
+</p>
+
+<blockquote>Rather is belief a light which god bestows on the hearts of his creatures as the gift and bounty from him, sometimes through an explainable conviction from within, sometimes because of a dream in sleep, sometimes by seeing the state of bliss of a pious man and the transmission of his light through association and conversation with him, sometimes through one&apos;s own state of bliss.
+</blockquote>
+
+<p>This is halfway to our conclusion. Belief is recognized as the source of boons, but any human source seems too prosaic to account for their wonders, so god is called upon as a source of belief.  Yet in general, beliefs of the 100,000 religions have been incompatible, and monotheists staunchly maintain that the gods of others are false and their <a class="fn">beliefs illusory°.<span>
+	Christian missionaries in China complained that their &lsquo;converts&rsquo; simply tacked Christianity onto an existing mix of Buddhism, Taoism, and Confucianism, but the latter 3 are primarily philosophical, and if one overlooks Paul&apos;s flights of fancy, the Jesus of the Gospels is not wholly incompatible with Buddha.
+</span></a> This leads to 2 logical consequences:
+</p>
+
+
+<ul>
+<li> The chance of any particular religion being the &lsquo;right&rsquo; one is 1 in 100,000;</li>
+
+<li> All 100,000 religions apparently provided their followers with similar rewards</li>
+</ul>
+
+<p class="flu"> &mdash; and an unasked question: How can some one else&apos;s &lsquo;false&rsquo; religion be a source of benefits, unless the benefits arise from faith itself, and not from the details of that faith?
+</p>
+
+<p>Most research behind Table 5.1 surveyed believers &mdash; but the few that examined<a class="fn"> non-believers°,<span>
+	M Shermer (1999) <cite>How We Believe: The Search for God in an Age of Science</cite> (Freeman, NYC).
+</span></a> show that they too enjoy the same benefits, which rather nullifies a major selling point of religion. Surprising as this may seem to supernaturalists, the naturalistic world view is as satisfying and supportive and life-celebrating as anything religion has offered. Among the &lsquo;Big Five&rsquo; personality traits &mdash; Agreeableness, Conscientiousness, Neuroticism/Stability, Intro-/Extroversion, and Openness to New Experience &mdash; the only statistically <a class="fn">significant difference°<span>
+	RR McCrae, PT Costa (1990) <cite>Personality in Adulthood</cite> (The Guilford Press, NYC).
+</span></a> is that the nonreligious are characterized by greater Openness to New Experience, typically in association with higher education. Jail populations are, if anything, biased toward believers, with a lower percentage of atheists than the general population. These results conflicts sharply with the prevailing negative view of non-believers:
+</p>
+
+<blockquote>Americans construct the atheist as the symbolic representation of one who rejects the basis for moral solidarity and cultural membership in American society altogether. &mdash; <a class="fn">L. Galen°<span>
+	L Galen (2009) &lsquo;Profiles of the Godless&rsquo; <cite>RA fi</cite> <b>29</b>(#5): 41&ndash;45.
+</span></a>
+</blockquote>
+
+<p>Ironically, among cortical thinkers, there is a tendency for religious belief to be self-correcting. A study of conversion to atheism concluded:
+</p>
+
+<blockquote>We think the apostates rejected their religion primarily because their religious training made them care so much about the truth and having integrity. Its not that their upbringing failed; indeed it worked so well that ultimately the family religion failed the test it helped establish. &mdash; <a class="fn">Altmeyer &amp; Hunsberger°<span>
+	RA Altemeyer, BE Hunsberger (1997) <cite>Amazing Conversions</cite> (Prometheus Books, Amherst NYC).
+</span></a>
+</blockquote>
+
+<p class="flu">The more limbic religions, instinctively aware of this possibility, may actively protect themselves from self-correction by outlawing apostasy under pain of death. (In sharp contrast, Buddha taught exactly this process: religion is a useful crutch, to be discarded when no longer needed.)
+</p>
+
+<p>The image of the religious person as the necessary moral center of society is self-congratulatory propaganda. When it is coincidentally true (which it may often be), it is true because of the qualities of the individual, and independent of whatever sectarian belief she may profess. It is the people who are attracted to a religion who ultimately determine its merit. In the normal course of group development, this should lead to good religions becoming steadily better, but dogma puts an upper limit on this process, making schism a frequent result. Ecclesiastical time-lines show that the rate of schism increases with time, so that there are ever more variants of religion available. The logical end point is personalized religions for everyone, which is equivalent to the realization that one does not need religion to lead a happy, purposeful, altruistic, constructive, superstition-free life. Organized religions do not want you to notice this!
+</p>
+
+
+
+<a class="tri" href="#03" id="04">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Religion-as-History </a></h4>
+<a class="tri" href="#05">&#10836;&emsp;&emsp;</a>
+
+<p class="epi"> [T]he measure of the civilization which any nation has attained is the extent to which it has curtailed the power of institutionalized religion.  &mdash; Upton Sinclair
+</p>
+
+<p>Mentioning disbenefits of religion is always answered by the claim that these are uncharacteristic deviations from the true path. &lsquo;We sent some Jews to camps in the country so they wouldn&apos;t get bombed.&rsquo; &lsquo;We had to destroy that village in order to save it!&rsquo; &lsquo;<i>Real</i> Islam is peaceful!&rsquo;
+</p>
+
+<p>History denies these evasions, and offers the best reason for reconsidering the benefits of religion. Religion&apos;s bright side of boons to the faithful is countered by its intolerance toward others and some of history&apos;s most shameful excesses. A fair example of the disbenefits are the medieval witch hunts.
+</p>
+
+<p>For 525 years, from the end of the 8th century (Synod of Paderborn, 785) to the beginning of the 14th (Synod of Treves, 1310) it was officially understood that belief in witchcraft was superstition, with excommunication for anyone who believed in witchcraft and a death penalty for anyone who put a witch to death. This is an understanding that should be revived, for it is embarrassing when the Dark Ages prove to have been more civilized than the US Bible Belt.
+</p>
+
+<p>The rot set in with Pope John XXII (1316&ndash;1334), best known for excommunicating William of Ockham. Belief in witches and their power spread, and by 1400 the civil as well as ecclesiastical courts accepted intercourse with the devil as a capital crime. In 1588 when physicians of the hypochondriac Archbishop of St. Andrews could not help him, he sent for a healer, Alesoun Piersoun of Byrehill. She cured him, transferring his complaint to a white palfrey, which died. The grateful Archbishop, <a class="fn">true to his religion°,<span>
+	H Ellerbe (1995) <cite>The Dark Side of Christian History</cite> (Morningstar and Lark, Windermere FL): 142
+</span></a> had her tortured, strangled, and burned for <a class="fn">trafficking with the devil°.<span>
+	Sir W Scott (1830) <cite>Letters on Demonology and Witchcraft</cite>, Letter 5 (John Murray, Albemarle)
+</span></a>
+</p>
+
+<p>The <a class="fn"><cite>Malleus Maleficarum</cite>°<span>
+	J Sprenger, H Kramer = Henricus Institoris (1486) <cite>Malleus Maleficarum</cite>, ed. &amp; trans. Christopher S. Mackay (Cambridge University Press, Cambridge UK, 2006).
+</span></a> (<cite>The Hammer of Witches</cite>) of 1486 remained in daily use for another 300 years, and the witch hunt was responsible for the murder of 5e10<sup>5&ndash;6</sup> people (<a class="fn">30,000 deaths are estimated for 1404)°<span>
+	Q Lederer (1968) <cite>The Fear of Women</cite> (Grune &amp; Stratton, NYC).
+</span></a> &mdash; along with their cats. As brain researcher Rhawn Joseph observed, this was <a class="fn">stupidity incarnate°:<span>
+	R Joseph (2001) &lsquo;The Limbic System And The Soul: Evolution and the Neuroanatomy of Religious Experience&rsquo; <cite>Zygon</cite> <b>36</b>: 105-136.
+</span></a> the sequence went: Burning of Jerusalem&apos;s Church of the Holy Sepulchre by tolerant, <a class="fk" href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/The_Church_of_the_Holy_Sepulchre-Jerusalem.JPG/1024px-The_Church_of_the_Holy_Sepulchre-Jerusalem.JPG">peace-loving°<span>
+	Note the spherical silver object at the left corner of the church. This is a 3"-thick forged-steel container in which bombs may explode harmlessly. Such containers can be found near most of Jerusalem&apos;s historical sites.
+</span></a> Mohammedans (Al Hakim, 1009) &rarr; Crusades &rarr; many men killed &rarr; women look to other religions &rarr; Papal Bull <i>Ad Extirpanda </i> &rarr; witches burnt &rarr; <i>and</i> their cats &rarr; many rats &rarr; Black Death.
+</p>
+
+<p>Despite recent Papal apologies for various <a class="fn">felonies of the Church°,<span>
+	Most of the apologies have been pro forma; only institutionalized pederasty is sufficiently unpopular to generate fiscal recompense under pressure.
+</span></a> there has been no apology for the unconscionable <a class="fn">mistreatment of cats°.<span>
+	Nor, it turns out, have they apologized for the persecution of witches! We have farther to go that I had thought. No apology means that the Catholic hierarchy still thinks the witch hunts had divine approval (they were acknowledged as a &lsquo;mistake&rsquo; in 1982, but not as unethical, or an abomination, or as pure and simple mass murder). The population of Spain dropped by 14 million in 200 years, with Torquemada personally responsible for killing 100,000 women. The Protestants in the north were no better; the US Republican &lsquo;war on women&rsquo; continues the mind-set.
+<br>---------------<br>
+	GR Taylor (1954) <cite>Sex in History </cite>(Thames &amp; Hudson, London). Ch. 6.
+</span></a> (On the contrary, a number of heresies were accused of worshipping the Cat, so it may still be that no kittens are allowed in <a class="fk" href="http://all-creatures.org/hr/hra-popecats.htm">the Vatican.)°<span>
+	John Paul II, who in 1990 finally recognized that animals have souls, might have sorted this out: my information is incomplete. But he did not apologize for the witches&apos; cats.<br><br>
+	His successor, Benedictus XVI, was a cat lover, but could not keep a cat in the Vatican. Pope Francis thinks we devote too much money and love to our pets. And <i>still</i>, none of them has thought it necessary to admit to errors of judgement and abuse of animals.
+<br><br>
+	Think about this for a moment: the Popes couldn&apos;t stand cats; Mohamet couldn&apos;t tolerate puppies. These facts cut through 1400 years of polemic and tell us everything we need to know about the &lsquo;religions&rsquo; involved: neither is Gaian; neither meets the minimum requirements of an acceptable religion, neither is a useful guide to a healthy, happy life.
+<br>-------------<br>
+	Gronowicz, A (1984) <cite>God&apos;s Broker</cite> (Richardson &amp; Snyder, NYC). [Click for more.]
+</span></a> Nevertheless, rough karmic justice prevailed: a third of the (Catholic) population of Europe died horribly of plague.
+</p>
+
+<p>The witch hunt represents a successful patrist attack on matrism, an absolute triumph of supernaturalism, and an indication of the fragility of our civilized veneer. Then, as now, the &lsquo;word of god&rsquo;, <i>by definition</i> superior to human reason, was used as an excuse to protect privilege and downtread the powerless &mdash; yet that there were people with greater understanding is clear from the <i>Maleus</i> itself:
+</p>
+
+<blockquote>Certain writers have tried to maintain that there is no such a thing as magic, that it only exists in the imagination of those men who ascribe natural effects, the cause whereof are not known, to witchcraft. Others declare that the influence of magic is purely imaginary, or maintain that the effects said to be wrought by magic spells are altogether illusory.  &mdash; <a class="fn">Sprenger°<span>J Sprenger, H Kramer = Henricus Institoris (1486) <cite>Malleus Maleficarum</cite>, ed. &amp; trans. Christopher S. Mackay (Cambridge University Press, Cambridge UK, 2006): Part I, Question 1.</span></a> [Extract edited for brevity and clarity.]
+</blockquote>
+
+<p class="flu">Natural explanations were rejected in favor of supernatural ones. Fundamentalists <i>want</i> to believe in the mysterious and invisible &mdash; and still do: even today Discovery Institute wants us to teach our children that magic works. All sorts of US churches want to ban the Harry Potter books, not for the good and sufficient reasons of &lsquo;clichés and dead metaphors&rsquo; (Harry Bloom), or for perpetuating the confusion that &lsquo;wizard&rsquo; is the masculine of &lsquo;witch&rsquo;, or for glorifying a totalitarian subculture &mdash; but because witchcraft is <a class="fk">still believed°<span>
+	As late as 1974, a woman in a German village was attacked as a witch, her house burnt, and her dogs killed as familiars.
+<br>-------------------<br>
+	H Ellerbe (1995) <cite>The Dark Side of Christian History</cite> (Morningstar and Lark, Windermere FL): 137.
+</span></a> and feared.
+</p>
+
+<p>The witch hunt was justified by Ex 22:18, propelled by the primitive fear of women that still pervades Mohammedanism and many US conservatives, and aimed by the Vatican&apos;s definition of &lsquo;witch&rsquo; as any woman who knew a bit of the hard-won lore of phytopharmacology, or tried to assuage the pain of childbirth in spite of YHVH&apos;s wish that it should be a punishment (Gen 3:16 Unto the woman he said &hellip; in sorrow thou shalt bring forth children.).
+</p>
+
+<p>Gods generally have the same interest in violence and rape as their partisans. YHVH&apos;s <a class="fn">Neolithic°<span>
+	We will see in Ch. 9 that the traditions behind Genesis were known by 6000 BCE.
+</span></a> bloodthirst is undeniable, for when Israel
+</p>
+
+<blockquote>warred against the Midianites &hellip; they slew all the males &hellip; and took all the women of Midian captives, and their little ones &hellip; And they burnt all their cities &hellip; And Moses said &hellip; kill every male among the little ones, and kill every woman that hath known man by lying with him. But all the women children that have not known a man by lying with him, keep alive for yourselves <a class="fk" href="http://christianthinktank.com/midian.html">{Num 31: 6-18}°.<span>
+	Interestingly, any good apologetic casuist can turn this story of depravity and violence into a tale of justified compassion! [Click for Glenn Miller&apos;s version.]
+</span></a>
+</blockquote>
+
+<p>A few millennia later YHVH had been painstakingly civilized by a uniquely Jewish cooperation between inspired prophets (working from unconscious bicamerality) and ethical rabbis (working by conscious rationality). Yet in the 13th century, Aquinas, who wrote the rules of Catholicism, still believed the Greek story of woman as a passive field in which one planted seed. In the 16th century, Luther, the founder of Protestantism, still doubted that women were really human, because Genesis did not mention provision of a soul for Eve. Muhamad despised the Jews&apos; civilizing effort, calling it &lsquo;corruption&rsquo;, and retreated to the Neolithic. Today, respectable individuals adhere to religions whose scripture is fallacious and whose ethos and history are saturated with blood, because they personally have not yet indulged in the bloody catharsis of a mob destroying whatever their scripture calls a source of evil. This apparently legitimizes picking the nicer bits out of the scriptural stew and ignoring the nasty ones. St Bartholomew&apos;s Day, Armenia, <i>Kristallnacht,</i> Babi Yar, Auschwitz, Algeria, Ghodra, Kosovo, Darfur, Somalia, Sudan, Guantanamo, &amp;c, follow as the night the day.
+</p>
+
+<p>There are also more subtle problems. Our environmental debacles are by-products of technology and our way of life, but our <i>acceptance</i> of them is founded in dominionism, the religious ideology that sees nature as god-given goodies provided for our use. Our mistreatment of small-scale societies is supported by religious assumptions of superiority and divine privilege. The irrational aspects of what we call &lsquo;morality&rsquo; come from religious roots. Nearly any nasty thing that we want to do can be sanctioned (justified as holy) by citing Scripture. According to the best-selling &lsquo;Left Behind&rsquo; novels of Jerry Jenkins and Tim LaHaye, the fundamentalists&apos; Jesus is a vindictive Old Testament sadist who delights in the smell of barbecued people. This is a textbook case of people creating gods in their own image.
+</p>
+
+
+
+<a class="tri" href="#04" id="05">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Religion-as-Behavior </a></h4>
+<a class="tri" href="#06">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">With or without religion, you would have good people doing good things and evil people doing evil things. But for good people to do evil things, that takes religion. &mdash; Steven Weinberg
+</p>
+
+<p>The conflicting aspects of <i>individual</i> religion as a source of remarkable boons, vs <i>collective</i> religion as the destroyer of people and the planet, cry for analysis and understanding. We need a theory of religion which can reconcile the disparity and help us to get more of the boons and less of the destruction. Attempts to find such a theory have gone in 3 major directions since the Enlightenment:
+</p>
+
+<p><b>Anthropologists</b> looked at the beliefs and behavior of small-scale societies in an attempt to understand the origin and power of religion: James Frazer&apos;s <a class="fn"><cite>Golden Bough</cite>°<span>
+	JH Frazer (1922) <cite>The Golden Bough</cite> (Macmillan, London).
+</span></a> is a classic example of this approach.
+</p>
+
+<p><b>Psychologists</b> peered into myths and the psyche in the same hope: Erich Neumann&apos;s <a class="fn"><cite>The Great Mother</cite>°<span>
+	E Neumann (1955) <cite>The Great Mother: An Analysis of the Archetype</cite>, 2d ed. Transl. by R Mannheim. (Princeton University Press, Princeton NJ, 1974).
+</span></a> is a masterwork of the genre.
+</p>
+
+<p><b>Poets</b> called upon ancient texts and inspiration to reconstruct the mind of earlier man: Robert Graves&apos;s <a class="fn"><cite>The White Goddess</cite>°<span>
+	Graves (1948) <cite>The White Goddess: A Historical Grammar of Poetic Myth</cite>, 3rd. ed. (Latimer Trend, Whitstable, 1971).
+</span></a> is the defining opus of the approach. Chapter 6 will point to other attempts; its Appendix lists some 200 theories of religion, none wrong, but none entirely satisfactory. We hope to improve the situation in what follows.
+</p>
+
+
+
+<a class="tri" href="#05" id="06">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Is Sociology Relevant? </a></h4>
+<a class="tri" href="#07">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">I would defend the liberty of consenting adult creationists to practice whatever intellectual perversions they like in the privacy of their own homes; but it is also necessary to protect the young and innocent. &mdash; Arthur C. Clarke
+</p>
+
+<p>Sensing the inadequacy of the classical approaches, a number of established scholars have assured me that attempts to understand the origins of religion are a waste of time. (<cite>The Golden Bough, The Great Mother,</cite> and <cite>The White Goddess</cite> were singled out as &lsquo;exactly the wrong places to start&rsquo;.) This approach maintains that legitimacy requires repeatable data gathered from living people. Humanist <a class="fk" href="http://humanismtoday.org/vol13/kurtz.html">Paul Kurtz&apos;s°<span>
+	P Kurtz (1999) &lsquo;The Science of Religion: Why Do People Believe or Disbelieve?&rsquo; <cite>Free Inquiry</cite> <b>19</b>(#3). See  http://humanismtoday.org/vol13/kurtz.html also.
+</span></a> attempt to locate heritable aspects of theistic religion in this manner found 9 components:
+</p>
+
+<ul class="u3">
+  <li>The expression of <b>piety</b>,</li>
+  <li>the veneration of the <b>mysterious</b> beyond ordinary experience,</li>
+  <li>the cherishing of <b>overbeliefs</b></li>
+  <li>about the <b>transcendental</b>,</li>
+  <li>symbolic acts of <b>submission</b></li>
+  <li>to a <b>divine</b> figure(s)</li>
+  <li>in expectation of receiving <b>salvation</b>,</li>
+  <li>and the engaging in propitiatory <b>prayer and ritual</b>.</li>
+</ul>
+
+
+<p>Our question then becomes, which of these is sufficiently powerful to have made an impression on our genes? Not all of Kurtz&apos;s components were present in prehistory. <b>Piety</b> and <b>prayer</b> are responses to an existing construct; ordinary experience was so <b>mysterious</b> that there was no &lsquo;beyond&rsquo;; in the absence of natural explanations, &lsquo;<b>overbelief</b>&rsquo; is superfluous; and <b>salvation</b> is a Hellenistic sales gimmick. Other components were pre-existing: <b>ritual</b> comes with the reptilian brain, and <b>submission</b> with alpha males.
+</p>
+
+<p>&lsquo;<b>Divine</b>&rsquo; and &lsquo;<b>transcendental</b>&rsquo; remain as Paleolithic candidates, and we will shortly craft these into something heritable. But first, a <a class="fn">sociologist&apos;s°<span>
+	B Hargrove (1979) <cite>Sociology of Religion: Classical and Contemporary Approaches</cite> (AHM Publishing, Arlington Heights IL).
+</span></a> generation-old critique of the sociological approach:
+</p>
+
+<blockquote>In the middle of the 20th century, a time when secular society was taking over more and more of the obvious functions of religion, it seemed to sociologists that it was only a matter of time before religion became unimportant. The &lsquo;death of God&rsquo; seemed imminent, if not already a fact. But things did not turn out that way. In the 60s, &lsquo;New Age Religions&rsquo; began to attract the thoughtful, while the fundamentalists moved religion into politics. The shift suggests that <b>sociology has been studying the epiphenomena of religion, and that its true function lies much deeper.</b> (Emphasis added.)
+</blockquote>
+
+<p>It is this deeper function that we seek. &lsquo;Genetic determination&rsquo; is a tainted concept to those who still react to the totalitarian excesses of the 30s and 40s. Nevertheless, the major difference between us and chimpanzees is a few alleles and a chromosomal fusion; the differences between hominids and other mammals are a few genes and chromosomal rearrangements; and the genes of mammals have paralogs in insects, worms, fungi, and bacteria. Absence of genes define what we <i>cannot</i> do (breathe underwater, photosynthesize); their presence, what we <i>can</i> do (science, religion). Put this way, it is clear that religion has a genetic basis. What this basis is, and how extensive, remain unknown, but its effects, and the timing of its development, are legitimate objects of scientific study.
+</p>
+
+<p>In 1969 the Carnegie Commission&apos;s Survey of American Academics found that half of them were religious. A century earlier, most faculty positions were sectarian. 30 years later, 95% of the members of the National Academy of Science were atheistic or agnostic. This trend leads to the question: &lsquo;Are the deepest contemporary scientific minds drawn to atheism, or &hellip; do the higher echelons of [science] select for the <a class="fn">trait of disbelief?&rsquo;°.<span>
+	EJ Larson, L Witham (1999) &lsquo;Scientists and Religion in America&rsquo; <cite>Scientific American</cite> <b>281</b>(#3): 78-83.
+</span></a> Others have suggested that &lsquo;perhaps unbelievers differ from the great majority of human beings [by being] <a class="fn">psychologically adult&rsquo;°.<span>
+	M Hunt (2001) &lsquo;The Biological Roots of Religion: Is Faith in Our Genes?’ <cite>Free Inquiry</cite> <b>19</b>(#3): 30-33.
+</span></a> Another suggestion was perhaps less self-congratulatory:
+</p>
+
+<blockquote>As civilization spreads, shopping malls replace self-sufficient villages and the survival advantage of the extended family decreases. Independent individuals no longer get picked off by saber-tooth cats; alleles responsible for religious bonding are no longer strongly selected. Perhaps scientists merely lack the once useful trait of uncritical belief. This might already have been the case in the Bronze Age Aegean, where a relatively inbred group (long extinct) first exhibited this defect.  &mdash; <a class="fn">F. MacIntyre°<span>
+	F MacIntyre (2004) &lsquo;Was Religion A Kinship Surrogate?&rsquo;<cite>J. Amer Acad Religion</cite> <b>72</b>: 653-694.
+</span></a>
+</blockquote>
+
+<p>We have <a href="../_A/A01.shtml#10">noted</a> the established inverse relationship between IQ and belief in the US, with atheists having a mean 6-point advantage over the religious, and liberals an 11-point advantage over conservatives (the solitary distinguishing feature here was concern for the welfare of strangers, higher in liberals than <a class="fn">conservatives)°.<span>
+	S Kanazawa (2010) &lsquo;Why Liberals and Atheists Are More Intelligent&rsquo; <cite>Social Psychology Quarterly</cite> <b>73</b>: 33-57; doi:10.1177/0190272510361602.
+</span></a> These differences are statistically significant, rather than individually definitive.
+</p>
+
+
+
+<a class="tri" href="#06" id="07">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Religion-as-Identity </a></h4>
+<a class="tri" href="#08">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">[A]ttacking the core-beliefs and very basis of faith of an individual is a personal attack as well. &mdash; &lsquo;Solkar&rsquo;, http://infidelsarecool.com (as of 2010-03-10)
+</p>
+
+<p>This odd phenomenon, in which an individual basically identifies with a story, makes historical sense. It began as tribal membership, before the development of the <a href="../_A/A02.shtml#04">&lsquo;analog I&rsquo;</a>, at a time when survival depended upon automatic group defense. Much of Africa still lives this way; the Middle East has not outgrown it. Jews have made a career of it which sometimes served them well, and sometimes merely made them easy targets.
+</p>
+
+<p>In <a class="fn"><i>Hagarism</i>°,<span>
+	P Crone, M Cook (1977) <cite>Hagarism: The Making of the Islamic World</cite> (Cambridge University Press, London), part 1:55.
+</span></a> Crone and Cook present a 5-page overview of identity in (pre-Islamic) Assyria which is such a complex mix of conquest, conversion, and migration that one needs a polychrome time-dependent video map to sort it out. Identity could be provincial, tribal, sectarian, cultural, philosophical, social, ethnic &mdash; but belonging to <i>something</i> identifiable seemed essential. Later, the Ottoman Empire, governing a similar mix, invented the system called <i>millat</i>, which allowed each religious group to police its own community and adjudicate its own laws. &lsquo;Who you were&rsquo; was first and foremost a member of a religious community. Mohamadans still seem to think in these terms. For most of history, only alpha males could assert a primary individual identity, and everyone else needed the protection of <a class="fn">belonging to a group°.<span>
+	I confess to writing this section (very much an afterthought) from an unsympathetic point of view, for I seldom think of myself as a member of anything very cohesive. &lsquo;Californian&rsquo;, when pressed &mdash; but &lsquo;post-Civil-War displaced-gentleman-farmer Californian&rsquo; by family tradition; &lsquo;ex-pat&rsquo; &mdash; but a minority American apologetic about the behavior of his country, amongst a jumble of ethnicity; &lsquo;ecotopian&rsquo; &mdash; but what&apos;s that?; &lsquo;hermit&rsquo; &mdash; or so I am told; &lsquo;academic&rsquo; &mdash; but again, jumbled disciplines, with a background of a half-a-dozen trades, and working toward &lsquo;philosopher&rsquo;. My café society is scattered intercontinentally and reachable only by internet. In any case, the idea of <i>identifying with a story</i> is so foreign that my analysis is undoubtedly superficial.
+</span></a>
+</p>
+
+<p>Since the Enlightenment, religion-as-identity looks increasingly like minor psychopathy, becoming &mdash; like other forms of identity-borrowing &mdash; little more than a way of compensating for <a class="fn">low self esteem°.<span>
+	DL Peacock (nd) <cite>The Status Eaters</cite> (in preparation).
+</span></a> Supporters of sports teams are emotionally rewarded when their team wins; the coach assures them that a loss is an opportunity for the team to correct mistakes, which need not diminish the fans&rsquo; self-respect. (This does not always keep them from expunging their disappointment with a riot.) Supporters of monotheistic religions <i>are</i> the team, and have &lsquo;coaches&rsquo; who tell them that winning is everything.
+</p>
+
+<p>&lsquo;Solkar&rsquo; of the section epigraph is a European-educated Moroccan who has created his own version of <a class="fn">Islam-3°,<span>
+	Anticipating the discussion in Ch. 15, &lsquo;Islam-3&rsquo; is any private, unofficial, civilized version created by Moslems who have apparently never read Muhamad&apos;s official, highly contradictory, and often sociopathic biography.
+</span></a> rejecting hadiths as man-made, and attributing all &lsquo;uncivilized&rsquo; &lsquo;Islamic&rsquo; practices to benighted tribes in 3rd-world countries. It is not often that I disagree with <a class="fn">Bernard Lewis°<span>
+	B Lewis (1995) <cite>The Middle East: 2000 Years of History from the Rise of Christianity to the Present Day</cite> (Weidenfeld &amp; Nicholson, London: 73.
+</span></a> on matters Islamic, but when he says:
+</p>
+
+<blockquote>It is a striking testimony to the universalist appeal and the continuing revolutionary power of the Islamic idea that the great radical movements in the Islamic empire were all movements within Islam and not against it.
+</blockquote>
+
+<p class="flu">I must respond firstly, that anyone who advocated ideas identifiably counter to Islam was likely to be lethally silenced for apostasy, and secondly, that universalist appeal is a property of Christianity also. Cathars, Mormons, Christian Scientists, Protestants, and Orthodox &mdash; with as much variety as the radical movements of Islam &mdash; all think of themselves as more true to Christianity than the Catholics. It is easier to reinterpret existing material than to start from scratch. &lsquo;Solkar&rsquo;, and other adherents of an Islam-3, create their own acceptable core beliefs by selectively reading the Quran (or following others who have done this for them). They could create their own ethical systems without needing to defend and distort questionable scripture &mdash; except that pothodox-infected individuals <i>need</i> to believe that their ethics are god-given.
+</p>
+
+
+
+<a class="tri" href="#07" id="08">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Mathematical Genetics </a></h4>
+<a class="tri" href="#09">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">The way to see by faith is to shut the eye of reason. &mdash; Benjamin Franklin
+</p>
+
+<p>Lamarck&apos;s name is attached to the straightforward suggestion that the giraffe got its long neck by constantly reaching for higher leaves on the trees. This is perfectly logical &mdash; but it doesn&apos;t work that way, although Lamarckism was not definitively quashed until 1930.
+</p>
+
+<p>The quashing was done by Mendel&apos;s earlier, but overlooked, demonstration of &lsquo;particles of heredity&rsquo; (now called genes), showing that information flows from germ cells to somatic cells. <a class="fn">RA Fisher°<span>
+	RA Fisher (1930) <cite>The Genetics of Natural Selection</cite>. (Oxford University Press, Oxford).
+</span></a> presented 2 definitions which are everything else we need. As noted in the <a href="../_A/A00.shtml#06.5">Preface</a>, these are:
+</p>
+
+<p><b><i>Viability</i> is the fraction of offspring that survive to breed</b>, and
+</p>
+
+<p><b><i>Evolution </i>is an increase in viability.</b></p>
+
+<p class="flu">Even a dyed-in-the-wool special-creationist should be embarrassed to object to evolution of this sort. What kind of god would want <i>fewer</i> children to survive?</p>
+
+<p>Superficially, there is a logical mismatch here. On one hand, we have Kurtz with &lsquo;divinity&rsquo; and &lsquo;transcendental&rsquo;, and on the other, Fisher with &lsquo;viability&rsquo;. This is not an &lsquo;apples-vs-oranges&rsquo; comparison (where there are many features in common), but more like &lsquo;apples-vs-sunsets&rsquo;. What was present in the Paleolithic that connects child survival to abstract theology?
+</p>
+
+<p>This apparent gulf, plus the fact that humans are more complex than the organisms in which genetics is studied in the lab, have led theists to assert that we are religious because a god implanted an urge to return to him.
+</p>
+
+<blockquote>In order to hold men&apos;s minds in subjection, clever men have devised very many things in religion by which to inspire the common folk with reverence and to strike them with terror. But they would never have achieved this if men&apos;s minds had not already been imbued with a firm conviction toward God, from which the inclination of religion springs as a seed.  &mdash; <a class="fn">Calvin°<span>
+	J Calvin (1599) <cite>Institutes of the Christian Religion</cite> Transl. Henry Beveridge (Arnold Hatfield for Bohman Norton, London): I:3.2.
+</span></a>
+</blockquote>
+
+<p class="flu">The seed from which religion springs is by definition an instinct, and therefore under genetic control, since DNA is the only way to carry instinct from one generation to the next. Showing that Calvin was on the right track is nonetheless difficult. It begins with noting that clever men have inspired not only terror and subjection, but a willingness to part with income: 10% for Christian tithes; 20% for Islamic booty<i>,</i> 50% for ISKCON (‘Hare Krishnas‘), and 100% for monasteries and communes. This feature is paradoxical to the biologist, because any other organism which failed to use its resources efficiently would leave fewer descendants. 10% altruism &mdash; where <b>&lsquo;altruism&rsquo; designates</b> <b>any use of resources which helps others reproduce</b> &mdash; should quickly die out if it were genetic. The biologist wonders, &lsquo;How did altruism invade the original selfish communities?’.
+</p>
+
+<p id="08a">Once altruism is established, it is self-perpetuating because everyone benefits from it, and social pressure can shame the selfish <a class="fk" href="http://www.motherjones.com/mojo/2014/09/walmart-walton-heirs-charity">into behaving.<span>
+	Or so went the theory. It is notoriously not working with, e.g., the heirs of Walmart. As percentage of net worth, even the Koch brothers give 11 times as much as the Sam Walton family, and Warren Buffet gives 477 times as much. &lsquo;Shame&rsquo; is a response that has to be learned from parents. Are our 21st century&apos;s problems simply the adult version of the &lsquo;Me generation&rsquo;?
+</span></a> Anthropologists have assumed that when altruism is rare, it is easily displaced by selfish strategies. It would thus not be an <a class="fn"><b>Evolutionarily Stable Strategy</b>,<span>
+	J Maynard Smith (1982) <cite>Evolution and the Theory of Games.</cite> (Cambridge Univ. Press.)
+</span></a> <b>or ESS</b>, if there were the slightest genetic component to altruism (yet there must be!). Those who cheat in a partially altruistic society would increase the fraction of non-altruists until the system <a class="fn">broke down.<span>
+	This common argument overlooks the propensity of small-scale societies to quietly eliminate the glaringly non-altruistic. I suspect that this tendency more than compensates for the sharing of resources through altruism.
+</span></a> The fact that altruism nevertheless did arise among humans is a strong indication that group selection was at work.
+</p>
+
+
+
+<a class="tri" href="#08" id="09">&#10835;&emsp;&emsp;</a>
+<a class="tri" href="#00">&#9651;&emsp;&emsp;</a>
+<h2><a href="#!"> THE REAL BENEFIT </a></h2>
+<a class="tri" href="#10">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#RD"> &#9661;&emsp;&emsp;</a>
+
+<p class="epi">The main religions worship a god with the personality of Stalin. &mdash; Michael Kornelisson
+
+<p>The consistent theological order of creation, arrived at because it all happened too long ago for our tribal memories to compass, is the familiar
+</p>
+
+<p class="cen">gods &rarr; animals &rarr; humans,</p>
+
+<p class="flu">of Genesis. Very recently in our history, the scientific method of Cartesian reduction (in the writing of Charles Darwin) suggested the simpler process:
+</p>
+
+<p class="cen">protoctists &rarr; animals &rarr; humans.
+</p>
+
+<p class="flu">This was a necessary step toward understanding the actual sequence, because potoctists are relatively easy to explain, and it is even easier to get from protoctists to animals. The sequence was quite properly recognized as incomplete by the limbos of the devout, but their response &mdash; rejection by <i>hoi polloi</i> and floundering by theologians &mdash; did not suggest an improvement. Scientific research has satisfactorily lengthened the chain on the left so that it is now conceptually straight-forward to get from the Big Bang to chimpanzees.
+</p>
+
+<p>More to the point, bicamerality rearranged the chain on the right, so that it now reads:
+
+<p class="cen">&hellip; &rarr; physical chemistry &rarr; &hellip; &rarr; protoctists &rarr; chimpanzoids &rarr; gods &rarr; humans.
+</p>
+
+<p class="flu">It was not that some god created us <a class="fn">in his own image,<span>
+	Recalling the tendency of creators to propagate their own, the inclusion of physical chemistry in this chain should not be surprising in a book written by a physical chemist. The ellipses indicate that the chain could be lengthened to include steps described by many essential disciplines. It is only the last step that requires the gods.
+</span></a> superior to the animals. After 160,000 years of animal existence (critically, with an ever expanding vocabulary and associated grammar &mdash; but always with the chimpanzees social rule of &lsquo;See a stranger, Kill It!&rsquo;) our brain created the gods, who then lifted us out of the animal kingdom. This bootstrapping is a mysterious ability of the brain, but it is a general one. There was never, for instance, evolutionary pressure for symphonies or literature or art or number theory or quantum field theory, yet the brain produced them all as they became possible, and they are much harder to explain than our gods. Progressive insight in any field is an emergent property of neural complexity that defies anticipation or explanation.
+</p>
+
+<p>The message of this book is that <b>it is because of the gods that we are no longer animals</b>. Stepping out of the animal kingdom to become time-binding humans was the single most important process in the history of biology. To the extent that it has happened it is the real benefit of religion. It did not happen suddenly; it did not happen universally; and (as the section epigraph and current politics suggest) it is far from complete. We have our work cut out for us.
+</p>
+
+
+
+<a class="tri" href="#09" id="10">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Group Selection </a></h4>
+<a class="tri" href="#11">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">We must respect the other fellow&apos;s religion, but only in the sense and to the extent that we respect his theory that his wife is beautiful and his children smart. &mdash; H. L. Mencken
+</p>
+
+<p>Darwin suggested kin selection as the evolutionary origin of altruism, but after Fisher explained evolution as natural selection acting on Mendelian genetics (given some random experiments to work on), the short range of <a class="fn">kin selection°<span>
+	Beyond cousins and grandchildren, its effects are hardly noticeable.
+</span></a> inspired a search for a more plausible arena of action. The case for group selection was made by <a class="fn"> Wynne-Edwards°:<span>
+	VC Wynne-Edwards (1962) <cite>Animal Dispersion in Relation to Social Behaviour</cite> (Oliver &amp; Boyd, Edinburgh).
+</span></a>
+</p>
+
+<blockquote>There are a great many important character[istic]s &hellip; that are in the nature of collective attributes, all possessing the common quality of contributing to the welfare and survival of the group &hellip; and when necessary subordinating the interests of the individual.
+</blockquote>
+
+<p class="flu">This reads well, but the last clause explains why it seldom works for animals. Mothers may subordinate their interests in defense of their own young, but that is usually as far as it goes. The same argument holds for early humans. This we know from the ferocious xenophobia of the Andamanese islanders and the cultures of the New Guinea highlands, isolated &lsquo;descendants [who maintain the behavior of] early paleolithic colonizers of South East Asia &mdash; the hunter gatherers [&hellip;who] moved out of Africa about <a class="fn">60,000&ndash;100,000 years ago&rsquo;°.<span>
+	K Thangaraj &amp;8a (2003) &lsquo;Genetic Affinities of the Andaman Islanders, a Vanishing Human Population&rsquo; <cite>Current Biology</cite> <b>13</b>(#2): 86-93; doi: 10.1016/S0960982202013362.
+</span></a> Ethnographic descriptions of such groups are rare because they killed ethnographers (and other strangers) on sight. And this is why they remained Paleolithic.
+</p>
+
+<p> <a class="fn">Jared Diamond°<span>
+	J Diamond (1992) <cite>The Rise and Fall of the Third Chimpanzee</cite> (Vintage, London).
+</span></a> described the New Guinea highlanders, whose first contact with the modern world was in the 1930s. The attitudes which they brought to the island are similar to those of chimpanzees. A lone male entering a foreign territory will be killed. A lone female will be raped. Low-level warfare with neighbors is continuous. Religion was invented after the New Guineans left Africa. What they developed instead was the <i>wontok</i>, Pidgin for &lsquo;one talk&rsquo;, or common-language group. This secular aggregation offers some of the psychological benefits of religion, but with 700+ languages in New Guinea, the range of the benefits is too short to generate a functioning group <a class="fn">larger than the tribe°.<span>
+	In 1961, Western administrators initiated an annual &lsquo;Highland Singsing&rsquo; as a nation-building festival where diversity is celebrated rather than attacked. This was the first time in 200,000 years that tribes had interacted peacefully &mdash; if nervously &mdash; and has now become a tourist attraction.
+</span></a> An anecdote (which I can&apos;t relocate) tells of 2 tribal members offered their first ride in a small airplane. After some consultation, they accepted the offer, provided the door could be left open. Then they wanted to bring a large rock with them &mdash; to drop on the neighboring village. Given a new technology, the first use for it was <a class="fn">killing neighbors°.<span>
+	That the US Department of Defense does the same is irrelevant. Millions manage to live in cities today without feeling a need to kill every stranger they meet. New Guineans are uncomfortable in an intertribal assembly with 20 nominally friendly strangers from the same wontok. When the US drops rocks on small neighbors, it is not for the primitive reason that they are strangers, but for a subtle and cultured reason of politico-economics, often because their social system threatened gangster capitalism by working well without it.
+</span></a>
+</p>
+
+<p><a class="fn"><b>Rappaport</b>°<span>
+	RA Rappaport (1997) <cite>Ritual and Religion in the Making of Humanity</cite> (Cambridge University Press, Cambridge): 10.
+</span></a> explained how group selection works for later humans:
+</p>
+
+<blockquote>All that is needed to make group selection possible is a device that leads individuals to separate their conceptions of well-being or advantage from biological survival
+</blockquote>
+
+<p class="flu">(suicide bombers being a prime example). We are so good at finding such devices that <a class="fn">some°<span>
+	R Boyd, PJ Richerson (1985) <cite>Culture and the Evolutionary Process</cite> (University of Chicago Press, Chicago).
+</span></a> see group selection as the primary force in human evolution, and evolutionary biologists find selective forces acting independently on alleles, genes, combinations of genes, chromosomes, cells, individuals, <i>and communities</i> at all levels of the  <a class="fn">hierarchy°.<span>
+	&bull; S Sober, DS Wilson (1988) <cite>Unto Others: The Evolution and Psychology of Unselfish Behavior</cite> (Harvard University Press, Cambridge MA).<br>
+	&bull; G Cziko (1995) <cite>Without Miracles: Universal Selection Theory and the Second Darwinian Revolution</cite>, (MIT Press, Cambridge, MA).<br>
+	&bull; J Maynard Smith, E Szathmáry (1995) <cite>The Major Transitions in Evolution</cite>, (Oxford University Press, NYC).
+<br>
+	&bull; J Soltis, R Boyd, PJ Richerson (1995) &lsquo;Can Group-functional Behaviors Evolve by Cultural Group Selection? An Empirical Test&rsquo; <cite>Current Anthropology</cite> <b>39</b>: 473-494.<br>
+	&bull; AV Bell, PJ Richerson, R McElreath (2009) &lsquo;Culture rather than genes provides greater scope for the evolution of large-scale human prosociality&rsquo; <cite>Proc Natl Academy Sci US</cite> <b>106</b>(#42): 17671&ndash;17674.
+</span></a> Getting &lsquo;communities&rsquo; into that list required the invention of religion.
+</p>
+
+
+
+<a class="tri" href="#10" id="11">&#10835;&emsp;&emsp;</a>
+<h5><a href="#!"> Strong Reciprocity </a></h5>
+<a class="tri" href="#12">&#10836;&emsp;&emsp;</a>
+
+<p class="epi">Religion is what keeps the poor from murdering the rich.  &mdash; Napoleon Bonaparte
+</p>
+
+<p>After 3 decades of controversy over group selection, including <a class="fn">many attempts°<span>
+	&bull; RL Trivers (1971) &lsquo;The Evolution of Reciprocal Altruism&rsquo; <cite>Quarterly Review of Biology</cite> <b>46</b>: 35&ndash;57.<br>
+	&bull; R Axelrod (1984) <cite>The Evolution of Cooperation</cite> (Basic Books, NYC).<br>
+	&bull; R Boyd, PJ Richerson (1988) &lsquo;The Evolution of Reciprocity in Sizable Groups&rsquo; <cite>Journal of Theoretical Biology</cite> <b>132</b> :337&ndash;356.<br>
+	&bull; R Boyd, PJ Richerson (1992) &lsquo;Punishment Allows the Evolution of Cooperation (or Anything Else) in Sizeable Groups&rsquo; <cite>Ethology and Sociobiology</cite> <b>113</b>:171&ndash;195.<br>
+	&bull; O Leimar, P Hammerstein (2001) &lsquo;Evolution of Cooperation through Indirect Reciprocity&rsquo; <cite>Proc Royal Soc Lond</cite>. B<b>268</b>:745&ndash;753.</span></a>
+
+to model the evolution of altruism, economists <a class="fn">Samuel Bowles and Herbert Gintis°<span>
+	S Bowles H Gintis (2004) &lsquo;The Evolution of Strong Reciprocity: Cooperation in Heterogeneous Populations&rsquo; <cite>Theoretical Population Biology</cite> <b>61</b>: 17&ndash;28.
+</span></a> developed a model that avoids the need to depend upon the inclusive fitness of kinship to support altruism. Their studies had already lead them to a number of insights contrary to standard economic theory. Among them:</p>
+
+<ul>
+<li>Market incentives do not encourage cooperation;</li>
+<li>The market is usually less efficient than voluntary, altruistic behavior;</li>
+<li>The greater the emphasis on financial reward, the more selfish the behavior;</li>
+<li>Gross inequality results in economic inefficiency;</li>
+<li>Framing choices in economic terms will justify otherwise unconscionable behavior.</li>
+</ul>
+
+
+<p>These once heretical ideas became rather more obvious to the general public with the economic collapse of 2008 and its political and financial aftermath. You probably have to be among the 1&permil; not to find them definitive <a class="fn">today°.<span>
+	Or, perhaps, among the 50% who still imagine that they too can become millionaires by voting for the millionaires who exploit them.
+</span></a>
+
+<p>The result shows that <i>strong reciprocity</i> &mdash; altruism that benefits others at the expense of the individual exhibiting it &mdash; may indeed be an ESS under Paleolithic conditions. Justifying the importance of this remote period, they explained:
+</p>
+
+<blockquote>As the late Pleistocene is the only period long enough to account for a significant development in modern human gene distributions, we base our model on the structure of interaction among members of the small hunter-gatherer bands in this period, which constitutes most of the history of <i>Homo</i> <i>sapiens</i>. &mdash; <a class="fk" href="http://santafe.edu/media/workingpapers/00-12-072.pdf">S. Bowles, H. Gintis°<span>
+	S Bowles, H Gintis (2000) &lsquo;The Evolution of Reciprocal Preferences&rsquo; (as of 2010-09-17).
+</span></a>
+</blockquote>
+
+<p>The model has 18 parameters, evaluated from ethnographic data on 8 societies resembling the foragers of the Paleolithic. Its explicit assumptions include:
+</p>
+
+<ol class="o2">
+<li>Group size is such that members interact with and monitor one another, yet some shirking of group projects occurs;</li>
+
+<li>Enforcement of norms depends on the participation of peers;</li>
+
+<li>There are many unrelated individuals, so altruism cannot be explained by inclusive fitness;</li>
+
+<li>Status differences are small, and individuals are homogeneous other than by behavioral type and by the group to which they belong;</li>
+
+<li>The sharing of individually acquired food and the common work of acquiring food, are characteristic of these societies;</li>
+
+<li>Individuals do not store food or accumulate resources;</li>
+
+<li>The major punishment is ostracism, as individuals can leave the group to avoid other sorts of punishment;</li>
+
+<li>Behavioral heterogeneity is an emergent property of populations.</li>
+</ol>
+
+
+<p>Three strategies emerged: <i>Selfish</i> do as little work as possible; <i>Cooperators</i> cooperate regardless of what others do; <i>Reciprocators</i> use Tit-for-Tat, known to be the optimal strategy in many situations, cooperating until met by selfishness, and then reciprocating whatever behavior is offered. Figure 5.1 shows what happens over time: After 1000 interactions, the system reaches steady state with behavioral classes in roughly equal numbers, so that while selfishness is still the most popular choice, and continually tries to reassert itself, it remains a minority.
+</p>
+
+<figure id="F5.1" class="fl">
+<img width="55%"
+src="B-Images/5.1_StrongReciprocity.jpg"
+alt="B-Images/5.1_StrongReciprocity.jpg. Percent on y-axis, number of interactions (0 to 3000) on x-axis. Four curves reach steady state after 1000 interactions. The shirking rate drops from 90% to 12%, Cooperators rise from 0 to 20%, Reciprocators from 0 to 37%, while Selfish fall from above 90% to 37%.">
+
+<figcaption>
+<a class="tri" href="#F5.2">&#9664;&emsp;&emsp;</a>
+<a href="#!">   Fig. 5.1 </a> &nbsp;
+<a class="tri" href="#F5.2">&emsp;&emsp;&#9654;</a>
+Strong Reciprocity.  Invasion of cooperation (<i>not</i> dependent upon kinship) into an Instinct-1-driven group in a model Paleolithic society. The secret lies in the ability of small-scale societies <a class="fn">&lsquo;to punish those who violate group-beneﬁcial norms&rsquo;°<span>
+S Bowles, H Gintis (2004) &lsquo;The Evolution of Strong Reciprocity: Cooperation in Heterogeneous Populations&rsquo; <cite>Theoretical Population Biology</cite> <b>61</b>: 17&ndash;28.
+	</span></a> &mdash; often by midnight assassination. We no longer do this, but instead offer pardons to politicians and bonuses to banksters when we catch them, which only encourages further exploitation.
+	(Note that Selfish + Reciprocator + Cooperator = 100%. Shirking is a separate calculation.)
+</figcaption></figure>
+
+
+<p>Experience with models suggests that 18 adjustable parameters permit any desired result, using justifiable inputs. Such models are thus a way of estimating parameters in operation in the Paleolithic, since we know that altruism did in fact develop. The difficult part is finding vernacular names for the <a class="fn">parameters°.<span>
+	Example: If we define &lsquo;the expected fitness cost of working, g(σ), as the cost of effort, plus the expected cost of being ostracized, plus the agent&apos;s share in the loss of output associated with one&apos;s own shirking&rsquo;, or
+
+	g(σ) = λ(1 − σ) + sfσ + σb/n,
+
+	how might we describe different values of g(σ) in dinner-table conversation? Alternatively, &lsquo;What does it all mean?’.
+</span></a> This matters to our discussion because the effects of religion enter as the numerical values of <i>other</i> abstract ideas in ways that may be impossible to deduce or explain. For instance: <i>Why</i> do cooperators cooperate?</p>
+<p>The relevance of this model to the giant next step (<i>not</i> killing strangers on sight) lies in the fission-fusion nature of primate bands. In a tribe of 250 people, there will be perhaps 16 foraging bands with 2 extended families in each band.
+</p>
+
+<blockquote>If many such groups are forming and dissolving by random draws from the population, one, by chance will have a [favorable] distribution of types. &hellip; It will then evolve as a social group with its equilibrium distribution of reciprocators. The superior fitness of its members will then lead to the expansion and fissioning of this group until it becomes generalized in the population. <a class="fk" href="http://santafe.edu/media/workingpapers/00-12-072.pdf?">Bowles &amp; Gintis (2000)°<span>
+	S Bowles, H Gintis (2000) &lsquo;The Evolution of Reciprocal Preferences&rsquo; p14. [Click to download, as of 2017-09-307.]</span></a>
+
+</blockquote>
+
+<p>We did not need supernatural aid to discover &lsquo;group-beneficial norms&rsquo; or the advantage of punishing violators thereof, but this discovery is one of the critical steps on the road to synthetic kinship. All we need now is for one fission-fusion band to stumble upon the concept of synthetic kinship (by whatever stroke of accident or genius). This might have occurred at many times and in many places, but I think that it happened early and effectively at the start of the Upper Paleolithic in western Eurasia, and we will look at how it might have come about in Book C. Here, we claim that a hitherto unregarded process is the truly singular and unambiguous benefit that we can attribute to religion.
+</p>
+
+
+<a class="tri" href="#11" id="12">&#10835;&emsp;&emsp;</a>
+<h4><a href="#!"> Escape from the Animal Kingdom </a></h4>
+<a class="tri" href="#RD">&#10836;&emsp;&emsp;</a>
+
+<p>The sequence of events is not clear. The time period is both an eyeblink of geological time, and 12 times as long as we have been able to think about our own mental processes: pick a perspective. During this period, we underwent the greatest change in all of biology, starting as food-cooking chimpanzees living in an unchanging annual cycle, and becoming
+time-binding humans, unwittingly facing the untried experiment of exponential change.
+</p>
+
+<p>Models show how altruism could develop in Paleolithic society, and anthropology shows that it did. We need to connect this fact with the precding paragraph &mdash; if not numerically, at least conceptually. We have some clues:
+</p>
+
+<ul class="u1">
+  <li>Not all cultures experienced the Paleolithic Transition;</li>
+
+  <li>The ones that did not, do not have religion today;</li>
+
+  <li>Other than these exceptions, religion is coterminous with post-Paleolithic culture;</li>
+
+  <li>We have empirical evidence for cultural <a class="fn">group selection°;<span>
+J Soltis, R Boyd, PJ Richerson (1995) &lsquo;Can Group-functional Behaviors Evolve by Cultural Group Selection? An Empirical Test&rsquo; <cite>Current Anthropology</cite> <b>39</b>: 473-494.
+  </span></a>
+  </li>
+
+  <li><a class="fn">Bowles &amp; Gintis°<span>
+S Bowles, H Gintis (2004) &lsquo;Strong Reciprocity: Cooperation in Heterogeneous Populations&rsquo; <cite>Theoretical Population Biology</cite> <b>61</b>: 17&ndash;28.
+  </span></a> note that strong reciprocity is uniquely human behavior, linking it to our &lsquo;cognitive and linguistic&rsquo; abilities (plus the ability to punish at a distance with projectile weapons);</li>
+
+  <li><a class="fn">D.S. Wilson°<span>
+DS Wilson (2002) <cite>Darwin&apos;s Cathedral: Evolution, Religion, and the Nature of Society</cite> (University of Chicago Press).
+  </span></a> sees religion as a coevolutionary force shaping humans and societies.</li>
+</ul>
+
+
+<p>Looking back in time, it appears that <a class="fn">&lsquo;<i>Pan prior</i>&rsquo;°,<span>
+	RW Wrangham (2001) &lsquo;Out of the <cite>Pan</cite>, into the fire: from ape to human&rsquo; in de Waal FBM, (ed.) <cite>Tree of Origin</cite> (Harvard Univ. Press, Cambridge MA): 119&ndash;143.
+</span></a> the anthropithecine ancestor of the Hominina sub tribe (<i>Pan</i> and <i>Homo</i>), possessed both Instincts-1 and -2. Parsimony, and the behavior of gorillas, suggests that this was also true of the ancestor of all the Hominini tribe of Fig. 5.2. More recently, chimps and bonobos have diverged sharply on the relative importance of these instincts, with chimps opting for machismo and bonobos (on the other side of the Congo where <i>troglodytes</i> couldn&apos;t get at them) opting for, well, <i>bonisma</i>. <i>H. sapiens</i> certainly has both proclivities, with <a class="fk" href="http://www.vancouversun.com/life/Babies+often+tortured+fundamentalist+polygamists+Witness/4100427/story.html">polygamous patriarchs°<span>
+	In the Fundamental Church of Jesus Christ of Latter Day Saints, fathers teach fear-and-obedience by waterboarding their infants. Christopher Hitchens agreed to submit to the process &mdash; after signing a release saying &lsquo;&ldquo;Water boarding&rdquo; is a potentially dangerous activity in which the participant can receive serious and permanent (physical, emotional and psychological) injuries and even death, including injuries and death due to the respiratory and neurological systems of the body.&rsquo; One is immobilized on a sloping board, head low, face covered with a towel. Water poured onto the towel trickles into the nose, triggering a life-or-death reflex to drowning, below conscious control (without prior training). Hitchens lasted 15 seconds before panic&apos;ing, and reports persistent nightmares reliving the experience.
+<br>-----------------------<br>
+	&bull; D Brahman (2011) 2013-04-28.<br>
+	&bull; C Hitchens (2008) &lsquo;Believe me, it&apos;s torture&rsquo; <cite>Vanity Fair</cite>, Oct.
+</span></a> reflecting the chimpanzees&apos; choice and hippies the bonobos&apos;.
+</p>
+
+<figure id="F5.2">
+<img class="fl"
+src="B-Images/5.2_Instincts-Time.jpg" alt="B-Images/5.2_Instincts-Time.jpg" width="50%">
+
+<figcaption>
+<a class="tri" href="#F5.1">&#9664;&emsp;&emsp;</a>
+<a href="#!">   Fig. 5.2 </a> &nbsp;
+<a class="tri" href="#F5.1">&emsp;&emsp;&#9654;</a>
+Instincts over time. Parsimonious schematic of the relative importance of Instincts-1 and -2 in the Hominini tribe. Chimps specialized in Instinct-1, Bonobos in Instinct-2; we can choose.
+</figcaption></figure>
+
+
+<p>Ironically (or prophetically), the division remains dominant among us today, epitomized by Gershon Legman&apos;s slogan, &lsquo;<a class="fn">Make love, not war&rsquo;°.<span>
+	Be it noted that Legman was also the collector of <cite>The Limerick</cite>, in which possibly 35 of some 1700 examples are worth recalling (among them, <i>Khartoum, Rose Madder,</i> and the <i>Polyglot Plumber</i>).
+</span></a> This evolutionary development gives a unique opportunity to evaluate our own choices. As <a href="../_A/A01.shtml#F1.4">Fig. 1.4</a> shows, we opted for a third choice, increasing brain volume. Remaining nasty enough to wipe out the competition, we were just smart enough &mdash; and gullible enough &mdash; to be able to compensate for our nastiness with the mental trickery of synthetic kinship.
+</p>
+
+<p>It is this trickery, I suggest, that is the critical benefit of religion,<a class="en" href="#RD">D</a> the one powerful enough to drive pothodoxy into our genes. Because it long ago did its job, it is not noticed today, and has never been mentioned when I have asked for suggestions. Nevertheless, it overcomes our genetic tendency to kill people who don&apos;t share enough genes to look like us, as long as belief in a common story persuades us that we share enough genes to treat them like relatives. In this way, religion introduced &lsquo;conceptions of well-being&rsquo; that did not depend upon individual survival. Without requiring the genetic dominance of Instinct-2, we permitted group selection to take off, with the ultimate result that <span class="br">Eirenic religion got us out of the Middle Paleolithic.</span>
+
+<a href="../_A/A-1.shtml#14">
+<img class="im" src="../Images/K-TakeHome3.gif" alt="TakeHome roadsign"></a>We had spent 160,000 years behaving like chimpanzees. Had we not unconsciously invented religion, we&apos;d still be there.<span class="fr">◼</span>
+</p>
+<hr>
+
+
+
+<a class="tri" href="#12" id="RD">&#10835;&emsp;&emsp;</a>
+<a class="tri" href="#09"> &#9651;&emsp;&emsp;</a>
+<h2><a href="#!"> NOTE: Religious DNA? </a></h2>
+<a class="tri" href="#00">&emsp;&emsp;&#9650;</a>
+
+<p class="flu"><a class="en" href="#F5.2">D&nbsp;</a>&lsquo;Is a genetic predilection really needed?’, asked an early reader. &lsquo;Consider Piaget &mdash; about 70% of people never move beyond &ldquo;concrete operations&rdquo; &mdash; they are unable to think in the abstract. That means they need a god &hellip; as an explanation of higher level stuff.’ Table 5.2 summarizes Jean Piaget&apos;s theory of cognitive development in children.
+</p>
+
+<hr>
+<table id="T5.2">
+<caption>
+<a class="tri" href="#T5.1">&#9664;&emsp;&emsp;</a>
+<a href="#!">  Table 5.2 </a> &nbsp;
+<a class="tri" href="#T5.1">&emsp;&emsp;&#9654;</a>
+Piagetian Stages. The 4 principal stages of childhood cognitive development. (The &lsquo;Math analog&rsquo; column describes another model system in which each layer builds upon its predecessor, while introducing new material; it is <a class="fn">Piaget&apos;s°<span>
+  	J Piaget (1970) <cite>The Principes of Genetic Epistemology</cite> (Routledge &amp; Kegan Paul, London, 1972).
+</span></a> parallel example, unrelated to childhood development. Compare with the more complex view of mathematics of <a href="../_F/F24.shtml#F24.2">Fig. 24.2</a>: childhood development may be similarly complex!)
+</caption>
+
+<thead>
+<tr><th>Stage</th>
+	<th>Age</th>
+	<th>Indicators</th>
+	<th>Mathematical analog</th>
+    <th>Adult expression</th></tr>
+</thead>
+
+<tbody>
+<tr><td><b>Sensorimotor</b></td><td>2&nbsp;months<br>&ndash;2 years</td>
+	<td>Out of sight, out of mind;<br>
+	Elaboration of inborn reflexes</td>
+	<td>Operators: + &ndash; * /</td>
+	<td>Not in my backyard!</td></tr>
+<tr><td><b>Pre-operational</b></td>
+	<td>	2&ndash;7 years</td>
+	<td>Language, role-playing;<br>
+	Self-oriented, egocentric</td>
+	<td>Algebraic group, (with identity and inverse)</td>
+	<td>Pogo&apos;s Predicament</td></tr>
+<tr style="background-color:#f0f0e0;"><td><b>Concrete Operations</b></td>
+	<td>7&ndash;11 years</td>
+	<td>Conservation of matter understood; Multiple viewpoints; Concrete examples</td>
+	<td>Vector field</td>
+	<td>Corporate behavior</td></tr>
+<tr class="bggrn"><td><b>Formal Operations</b></td>
+	<td>12&ndash;adult</td>
+	<td>Deductive logic, Abstract reasoning</td>
+	<td>Axiomatic system</td>
+	<td>Ecosystem thinking</td></tr>
+</tbody></table>
+
+
+<p>The stages are further subdivided: Object Permanence &mdash; the realization during the sensorimotor stage that objects that can no longer be seen still exist &mdash; is itself a <a class="fn">6-step process°.<span>
+	J Piaget (1977) (HE Gruber, JJ Voneche eds.) <cite>The essential Piaget</cite> (Basic Books, NYC).</span></a> Further research has somewhat modified Piaget&apos;s ideas, and newer experimental methods and a more comprehensive selection of subjects suggest that children learn earlier than Piaget recognized. There is general agreement that movement through the stages is not automatic, and every commentator notes that &lsquo;not everyone reaches Formal Operations&rsquo;. The &lsquo;70%&rsquo; figure may come from a long-ago classroom lecture.
+</p>
+
+<p>Bicameral thinking is concrete: for Piaget, the Torah is a product of Concrete Operations; for Jaynes, it is a product of bicamerality. It demonstrates that it is possible to develop a complex theology with Concrete Operations. The results of the changing OS are clearly evident in Jewish law:</p>
+
+<ol>
+<li><b>Torah</b>: the Oral Law delivered piecemeal by bicameral prophets;</li>
+<li><b>Mishna</b> 200 CE: the Torah systematically codified by Rabbi Judah;</li>
+<li><b>Talmud</b> 400-500 CE: During the Axial Age, rabbinical discussions of the Mishna were recorded extensively in the Babylonian Talmud.</li>
+</ol>
+
+<p>Apparently the development of the Conscious Introspective OS led to abstract reasoning and the Axial Age. In uncomplicated cases, concrete and abstract thinkers may arrive at same result. This becomes increasingly unlikely as the situation becomes more complex, and one might suggest the Industrial Revolution as the time that  Concrete Operations finally lost their political utility.
+</p>
+
+<p>The question of a &lsquo;genetic predilection&rsquo; is best answered by the title of one of Piaget&apos;s more accessible works: <cite>The Principles of Genetic Epistemology</cite>. The implication is that progression through Piagetian stages is genetically programmed. Pothodoxy can be classed as part of a failure to reach the Formal Operations stage, which automatically gives pothodoxy a strong genetic component.
+</p>
+
+<p>Having said that, we will see later that this failure can also be deliberately <a href="*********">encouraged</a> by fairly simple manipulations.
+</p>
+
+<p>The final column is a suggestion that childhood responses are always with us, and can be called on at any time. NIMBY is a popular response when an unpleasant cultural necessity intrudes on our local environment. We recognize its necessity, and can ignore its drawbacks as long as it is out of sight. Pogo&apos;s Predicament (&lsquo;We have met the enemy, and he is us&rsquo;) is the subject of <a href="../_F/F21.shtml#01">Chapter 21</a>. Corporate behavior &mdash; with its single-minded focus on short-term profit and persistent evasion of externalities &mdash; is the culture that one expects from the denizens of <a class="fn"><cite>Lord of the Flies</cite>°.<span>
+	Wm Golding (1954) <cite>The Lord of the Flies</cite> (Faber &amp; Faber, London).
+</span></a> <a class="en" href="#F5.2">D&nbsp;</a>
+</p>
+<span class="fr">◼</span>
+
+<br><hr><div class="cen">
+<a href="../_A/A04.shtml#TOC">&vltri;&emsp;&emsp;</a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+<a href="../_B/B06.shtml#TOC">&emsp;&emsp;&vrtri;</a></div>
+</body></html>

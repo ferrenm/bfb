@@ -1,0 +1,994 @@
+
+<!--  F21 Predicament  2018-03-14 16:00  -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>Pogo&apos;s Predicament</title>
+
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+<style>
+body { background-image:
+url("http://electromontis.net/evoligion/Images/I-parch6ment.jpg");
+body { background-image:
+url("localhost/evoligion/Images/I-parch6ment.jpg");
+
+.tro { text-decoration : overline; }
+
+</style>
+
+<body id="!">
+<p  class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit: 2018-04-15 16:00 CET;
+   Last upload: <!--#echo var="DATE_GMT" --> GMT -- 26,543
+</b></p>
+
+<!--#include virtual="../ChapTab.shtml" -->
+<h3>Book 6: Its Repair</h2>
+<!--#include virtual="TocF21.shtml" -->
+<br>
+
+
+<a class="tro" style="text-decoration:overline;" href="../Index.shtml" id="01">&#11152;&emsp;&ensp;</a>
+<a class="tro" style="text-decoration:overline;" href="#20"> &#9660;&emsp;&emsp;</a>
+<p class="hh3"><a href="#!">Pogo&apos;s Predicament</a></p>
+<a class="tri" href="#02">&#10836; &emsp;&emsp;</a>
+<a class="tri" href="#02"> &#9661;&emsp;&emsp;</a>
+
+
+<p class="epi">[I]f your party&apos;s central mission is to comfort the comfortable and afflict the afflicted, you need to claim that all kinds of wonderful side effects will take place from what might otherwise look like a combination of greed and cruelty. &mdash; Paul Krugman
+</p>
+
+<p>The one-line extract from <a href="../_F/F-1.shtml#T21.0">Table 21.0</a> in the heading table suggests that an important short-term project for fixing religions is the replacement of the objects of current pothodoxy. The religious person appears to be able to justify nearly anything as &lsquo;important to his religion&rsquo;, so the myths protected by traditional belief range from the harmlessly diverting (Easter bunny) through tribal markers (beards, dress codes) to erroneous and socially disruptive (homophobia, male chauvinism) and the economically fallacious (tax exemptions). Why we haven&apos;t refined our myths in the 3 centuries since the Enlightenment is a deep question about human behavior: explanations include inertia, conservatism, neophobia, privilege, and self-righteousness, none of them exactly a worthy cause. Equally likely, perhaps, is our reluctance to arrive at Pogo&apos;s conclusion, with nowhere else to lay the blame.
+</p>
+
+<figure>
+<img class="fl"  width="50%"
+src="F-Images/21.1_Pogo.jpg" alt="F-Images/21.1_Pogo.jpg">
+
+<figcaption>
+<a class="tro" href="#F21.1">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="F21.1"> Fig. 21.1 </a>
+<a class="tri" href="#F21.1">&emsp;&emsp;&#9654;</a>
+Walt Kelly&apos;s take on Earth Day 1971. Two generations later, Pogo&apos;s Predicament is still with us. Here, although Pogo is looking only at the Gaian half of the problem, he has immortalized its cause. Source <a href="http://en.wikipedia.org/wiki/File:Pogo_-_Earth_Day_1971_poster.jpg">Wikipedia</a> &copy; O.G.P.I. [See the Wikipedia page for a fair-use rationale that I believe is largely applicable here. As I write, on 2013-08-04, the O.G.P.I. website is closed for repairs.]
+</figcaption></figure>
+
+<p>The primary myth of the United States is &lsquo;American Exceptionalism&rsquo;, which combined the free gifts of a virgin continent (in terms of industrial resources), the heritage of the Northern European Enlightenment (in the form of the Founding Fathers), and immigrants (a subset of the population self-selected for initiative) into an initially realistic evaluation: &lsquo;We are blessed among nations!&rsquo;. Unfortunately, wishful thinking and Instinct-1 have turned this into pervasive, if mythical, conclusions:
+</p>
+
+<ul>
+<li>We can do whatever we want to the environment.</li>
+<li>We can do whatever we want to other nations and lesser peoples.</li>
+<li>This will always be true.</li>
+</ul>
+
+<p>American Exceptionalism still pervades American thinking. A century as the world&apos;s major superpower left us believing that this was the natural and permanent order of things.
+</p>
+
+<p>Babies go through a similar stage. The classical outcome is to grow up; if this fails, we end up with narcissists and psychopaths instead of adults.
+</p>
+<br><br>
+
+
+
+<a class="tro" style="text-decoration:overline;" href="#01" id="02">&#10835;&emsp;&emsp;</a>
+<a class="tro" style="text-decoration:overline;" href="#01"> &#9651;&emsp;&emsp;</a>
+<p class="hh4"><a href="#TOC"> DIY RELIGION </a></p>
+<a class="tri" href="#03">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#11"> &#9661;&emsp;&emsp;</a>
+
+<p class="epi">Europe had 4 powerful mythological traditions in full career before the introduction of Christianity: [&hellip; Classical Greek, Roman, Celtic, and Germanic. They agreed in] represent[ing] something that is <b>typical in Europe and nowhere else</b> &mdash; that is, respect for the individual and the individual path. &mdash; Mythologist <a class="fn">Joseph Campbell<span>
+	(1990) <cite>Transformations of Myth through Time</cite> (Harper Perennial, NY, 1999): 210; emphasis added.
+	</span></a>
+</p>
+
+<p>There was little outcry from America&apos;s churches against the Patriot Act&apos;s carefully planned destruction of civil rights, or against Presidential sullying of America&apos;s international image by a return to torture and the mentality of the Inquisition. Civil rights being our principal reification of the abstract goal of living together peacefully &mdash; which was the original purpose of religion &mdash; one might hope that churches would take a more active role <a class="fn">in their defence.<span>
+	Early readers reminded me that churches lose their tax exemption for indulging in politics. The definition of &lsquo;politics&rsquo; is itself a political question, and no doubt those in power would interpret anything that threatened them as illegal. Two points:<br> 1) The Old Testament prophets constantly railed against defective government, and this can be done from a position of high principle (as opposed to really illegal partisan campaigning).<br>
+	2) Church income not used for Gaian and Eirenic purposes <i>should</i> be taxed &mdash; and civil rights are as Eirenic as it gets.
+</span></a> We still understood this a few decades ago, when anybody who remembered the Axials or the Enlightenment put himself in harm&apos;s way during the Civil Rights Movement.
+</p>
+
+<p>One hopes that any Christian &mdash; and his church &mdash; will be sensitive to a recrudescence of inquisitorial practice, lest we remind ourselves the hard way of the centuries (~12th&ndash;20th) when the church was the chief enemy of civilization.
+</p>
+
+<p>I was in Australia for the Nixon years (as usual, without TV), and followed the daily degradation of the Presidency only through the political cartoons stuck on campus doors. I was in northern Europe for the Bush years ( " ), and could not observe the public consequences of electoral corruption, disregard of the Constitution, and corrosion of democracy. Perhaps I missed something that would help explain why the official myth of 9/11 so easily overwhelmed what I had understood to be a national commitment to the Enlightenment ideals of the Founding Fathers. I was continually embarrassed by the critical, if insightful, comments of my foreign professorial colleagues, but did what little one expat could to apologize for the behavior of my government. Nobody I knew had voted for them.
+</p>
+
+<p>In any case, from my distant perspective, I see no sign of a grass-roots resurgence of ecclesiastical leadership to regain the rights that we fought the Revolutionary War to establish. Why is this? Don&apos;t sectarian schools teach history? The threat to any of our protections from government is a threat to all, including freedom from an imposed religion.
+</p>
+
+<p>Religious people rarely adhere to every nuance of their religion &mdash; if for no other reason, because there are too many contradictions in scripture, and some practices once commanded or performed <a class="fn">by the priests<span>
+	Human and animal sacrifice, lapidation, temple prostitution, killing infidels, inquisitorial torture, burning witches, seducing altar boys, comforting widows, &hellip;
+</span></a> are now frowned upon in civilized nations. We are forced to pick and choose, and we follow interpretations which appeal to us. Our minds &mdash; just like Thomas Paine&apos;s &mdash; are our own churches, no matter how slavishly we follow selected portions of a revealed religion. If we are not going to smite our neighbors for wearing cotton-polyester shirts (as we were ordered to do), or take bullwhips to bankers (as our pre-eminent behavioral model did &mdash; although here we probably <i>should</i> follow Jesus&apos;s example), we might as well accept full responsibility for defining our own personal religion. Then, if it has rough edges, we have nowhere to lay the blame, and must smooth them ourselves. If it turns out to be incapable of doing its duty, <i>it is ours to correct</i>.
+</p>
+
+<p>As Campbell&apos;s epigraph makes clear, this is <i>the</i> Western tradition. With unique insight, he rescued a key instance that is precisely relevant to our situation. Malory, translating and condensing <cite>La Queste del Saint Graal</cite> as <cite>Le Morte d&apos;Arthur</cite>, omitted the passage that for Campbell &lsquo;epitomize[d] the whole sense of the Grail symbology&rsquo;. When Gawain proposed the Grail quest as a fitting occupation for the Round Table, the knights &lsquo;thought it would be a disgrace to go forth in a group, so each entered the forest at a point that he, himself, had chosen, where it was darkest and there was no path&rsquo; {211}. The path &mdash; <i>your</i> path &mdash; &lsquo;<b>is the fulfillment of something that never was on the earth before, namely, your own potentiality</b>&rsquo; {212}. This idea is foreign to earlier cultures, and to contemporary &lsquo;honor&rsquo; cultures of the East where the individual is submerged in her tribe or family.
+</p>
+
+
+
+
+<a class="tro" style="text-decoration:overline;"
+href="#02" id="03">&#10835;&emsp;&emsp;</a>
+<p class="hh5"><a href="#TOC"> Personal Options </a></p>
+<a class="tri" href="#04">&#10836;&emsp;&emsp;</a>
+
+
+<p class="epi">I was compelled to participate in worldly affairs, which excited the envy of fools, but which made the wise pity me. &mdash; Al-Biruni, Persian polymath, 1000 CE.
+
+<p>Table 21.1 suggests 4 approaches to &lsquo;fixing&rsquo; personal religion. Because religion is primarily a social activity, none of these is entirely satisfactory. I have Buddhist friends who have sold houses and changed cities to be near a preferred guru, and been happy with the result. But schools and jobs often militate against uprooting. If one were serious about Akhnaton or another minority religion which might be totally acceptable, one might be hard put to find compatible minds within reach.
+</p>
+
+
+<hr>
+<table class="tcen">
+<caption>
+<a class="tri" href="../_F/F-1.shtml#T21.0">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T21.1"> Table 21.1 </a>
+<a class="tri" href="#T21.2">&emsp;&emsp;&#9654;</a>
+Options for personal religion.
+</caption>
+
+<thead><tr><th>Option</th>
+	<th>Pro</th>
+	<th>Con</th></tr>
+</thead>
+
+<tbody>
+<tr><td><b>Find an acceptable religion</b></td>
+	<td>Organizational support</td>
+	<td>Local examples are scarce</td></tr>
+
+<tr><td><b>Improve your congregation</b></td>
+	<td>Possibility of local action</td>
+	<td>Inertial resistance; Kirsopp&apos;s law</td></tr>
+
+<tr><td><b>Consensus DIY</b></td>
+	<td>Partially working example</td>
+	<td>Little influence on the mainstream</td></tr>
+
+<tr><td><b>DIY</b>
+	<td>Fine-tuned satisfaction</td>
+  	<td>Lack of social support or effectiveness</td></tr>
+</tbody></table>
+
+
+<p>If the opportunity to join a pressure group for intelligent change is important, joining and influencing an existing congregation may be the best option. <a href="../_E/E17.shtml#01">Kirsopp&apos;s Law</a> &mdash; &lsquo;The church shrinks from left to right&rsquo; &mdash; suggests that this becomes increasingly difficult with time, and I can vouch for the improbability of changing anything a Baptist minister has once gotten firmly into his head.
+</p>
+
+<p>The best example we have of &lsquo;Consensus DIY&rsquo; is Islam-3 in its many versions. Many Moslems (apparently unaware of the scriptural instructions of Islams-1 and -2) subscribe to versions of Islam-3 &mdash; always interpreted as &lsquo;the Real Islam&rsquo; &mdash; that they are personally comfortable with. These are often partially Eirenic (as Mohamet&apos;s Islam-1 and Tradition&apos;s Islam-2 are not), but they retain an inherited belief structure with many dubious remnants, and they have no influence on Islam-1. As soon as they recognizably differ from Islam-1 they become apostate and subject to Islam-1&apos;s corrective lethality.
+</p>
+
+<p>There is a rising discipline of &lsquo;the<i>a</i>logy&rsquo;, a long overdue response to the boost given to male egos by the discovery of the function of semen which still dominates the patriarchal religions. One aspect is a (necessarily self-conscious) attempt to rediscover the several pre-Paulist religions of Europe, going by the names of Goddess worship and Wicca, with many variants. With its matrist outlook, it is anathema to Instinct-1, so it is worth investigating. According to a New Zealand anthropologist who studied the local Wiccan development, Wicca allows people
+</p>
+
+<blockquote>to locate authority within themselves, to give themselves licence to construct and conduct their own spirituality (unmediated by minister, priest or priestess), to recognize their beauty and value, to use their power, to trust their own judgements and intuition, to take responsibility for their lives, to love themselves and others. &mdash; <a class="fn"
+	>K Rountree (2005)<span> &lsquo;The Lion, the Witch and the Celebration of Discursive Diversity&rsquo; <cite>Feminist Theology</cite> <b>13.2</b>: 161&ndash;173.
+</span></a>
+</blockquote>
+
+<p>Rountree does not explain why New Zealanders don&apos;t take these abilities for granted: perhaps it has something to do with growing up Anglican? Still, if it takes Wicca to alert them to their autonomy, then Wicca pretty well sums up what one expects of a DIY religion.
+</p>
+
+<p>In the absence of projects like Wicca, the DIY solution is for rugged individualists who feel no need for the flock. It has the advantage of providing a perfect fit to one&apos;s philosophical predilections, but this may not be much help in resolving real-world problems. Still, we know enough about the genesis of religion for people to construct versions that lift the spirits, inspire care for our life-support system, and give meaning to life, without the urge to destroy others.
+</p>
+
+<p>If you feel up to advancing the state of the art, the dyads of Frankfurt <a href="../_B/B06.shtml#14">critical theory</a> and the project of reconciling radical enlightenment with <i>any</i> aspect of supernaturalism provide serious challenges. The summary of the <cite>Gathas</cite> in Table 14.1 and the end paper strikes me as the closest thing we have to an all-around guide to behavior, and it has the advantage of already having influenced Hinduism, Judaism, Christianity, and &mdash; at least in the trivial direction of monotheism &mdash; Islam. It should not be impossible to rediscover some of these ideas in a Christian environment, since Zoroaster introduced many of the better ideas picked up by the Abrahamic religions.
+</p>
+
+
+
+
+<a class="tro" style="text-decoration:overline;"
+href="#03" id="04">&#10835;&emsp;&emsp;</a>
+<p class="hh5"><a href="#TOC"> Constraints </a></p>
+<a class="tri" href="#05">&#10836;&emsp;&emsp;</a>
+
+
+<p>If there is any universal characterization that applies to known religions, it might be that they recognize no common constraint. This is sufficient to exclude many of them from the category &lsquo;useful&rsquo;. The two constraints demanded by that category should by now be <a href="../_A/A00.shtml#10">familiar</a>.
+</p>
+
+
+
+
+<a class="tro" style="text-decoration:overline;"
+href="#04" id="05">&#10835;&emsp;&emsp;</a>
+<p class="hh6"><a href="#TOC">Eirenic constraint</a></p4>
+<a class="tri" href="#06"> &#10836;&emsp;&emsp;</a>
+
+
+<p class="epi">An imbalance between the rich and the poor is the oldest and most fatal ailment of all republics. &mdash; Plutarch
+</p>
+
+<p class="epi">When the Congressional Research Service produces a report that shows zero correlation between low income-tax rates for the wealthy, on the one hand, and improved performance of the national economy, on the other &mdash; thus undermining one of the central GOP arguments two months before the election &mdash; the reaction of Senate Republicans is to force the withdrawal of the report. &mdash; Tod S. Purdun
+</p>
+
+<p>A personal religion should be Eirenic &mdash; not &lsquo;peaceful&rsquo; in Mohammed&apos;s sense of allowing people to live only after they agree to believe your story and pay your taxes &mdash; but in the wider sense of the <a href="../_D/D16.shtml#05">Enlightenment values</a>. This does not mean that we have to like everyone, or that we are all of equivalent value. The things that make evolution appear teleological, that have led to better survival of our children &mdash; <a class="fn">cooperation,<span>
+	The silicon-chip industry is about as cutthroat as it can get, but its success in implementing Moore&apos;s Law has for 25 years depended upon the underlying cooperative effort of Sematech, a consortium of 14 rival companies dedicated to bringing technical possibilities to fruition.
+</span></a> altruism, and intelligence &mdash; are demonstrably more valuable than competition, self-centeredness, and stupidity. A cooperative open-source Linus Torvald is more valuable to the world than a monopolist Bill Gates; an altruistic microbanker Mohammed Yunus than financier David Rockefeller, an exiled Dalai Lama than a vote-fraud president like George W. Bush &mdash; because of their ideas and behavior.
+</p>
+
+<p>On the other hand, whether we are valuable or useless to society as individuals, we are equal in the sight of whatever gods may be, and &mdash; theoretically &mdash; we are equal in the eyes of the law. (&lsquo;Theoretically&rsquo;, because <i>unequal arms</i> mean unequal combat and biased outcomes.)
+</p>
+
+<p>Proselytizing religions fail the Eirenic constraint because they recognize equality only after conversion (Islam maintains that infidels have no souls). What is required is that everyone have an equal opportunity to work for, and share in, the religious and evolutionary task of &lsquo;establishing Justice, insuring domestic Tranquility, providing for the common defence, promoting the general Welfare, and securing the Blessings of Liberty to ourselves and our Posterity&rsquo;.
+</p>
+
+<p>We wrote those goals into our founding political document because our religions had failed to achieve these preconditions to a civilized life. One thing we seem able to agree upon is that we can&apos;t do these things when we are miserable, which makes the alleviation of human misery a fundamental duty of society. Ignorant people make life difficult for us (especially if they get elected), so it is in our society&apos;s interest to educate them to the limit of their ability.  Economic inequality, with its resulting envy and inefficiency, causes many problems, so it is in our group interest to find an equitable economic policy. Unhealthy people are both miserable and unproductive, so it is in our social interest to keep them healthy. (Caveat: Public medical interest ceases in the absence of personal responsibility for avoiding the 4 great life-shorteners: lack of excersize, unhealthy diet, obesity, and smoking. Indulge here, and pay the price yourself.)
+</p>
+
+<p>It is not necessarily the job of Eirenic religion to deal with these issues directly, but to provide the psychological grounding that makes them palpable matters of immediate and public concern.
+</p>
+
+
+
+
+<a class="tri" style="text-decoration:overline;"
+href="#05" id="06">&#10835;&emsp;&emsp;</a>
+<p class="hh6"><a href="#TOC" >Gaian constraint</a></p>
+<a class="tri" href="#07"> &#10836;&emsp;&emsp;</a>
+
+
+<p>A personal religion should be Gaian. The greatest Gaian danger today is ecosystem collapse as the result of <a class="fn">unsustainable practices.<span>
+	3 years after the tsunami, radioisotopes from the 250 tons of nuclear fuel that melted out of 3 Fukushima reactors are moving down the US coast, and will spread throughout the Pacific Ocean in another 3 years. This may help dolphins and tuna (by making the latter unsafe for human consumption), but the Daiichi reactor site is still a potpouri of disasters waiting to happen. The worst-case scenario spreads plutonium aerosol across the northern hemisphere, where its 80-million year half life will make it a permanent carcinogen. This might trump ecosystem collapse.
+</span></a> This is something we have much experience with. but little awareness of, primariy because record-keeping is lost early in the collapse. It is, for example, moot whether desiccation, salinization, or warfare was the principal destroyer of Mesopotamia, or whether these can even be separated. The Dust Bowl is our clearest modern example. Caused by poor farming practices and a deep El Niño, its social consequences were unnecessrily exacerbated by bankerly (ie, deliberate, cruel, profitable, malicious) exploitation, it is an experience we should pay more attention to, because its friends and relations lie in wait for us as the global temperature rises and armored psyches multiply.
+</p>
+
+<p>The carrying capacity of the world depends upon one&apos;s axioms, and in particular, upon the per-capita energy deemed necessary to maintain an adequate life style. Given this number, &lsquo;sustainability&rsquo; enfores an exact mathematical constraint, given by:
+</p>
+
+<p class="rc">&lsquo;sustainability&rsquo; requires that&emsp;&emsp;&emsp;<br>
+(solar energy) / (energy per person) ≥ world population&emsp;&emsp;&nbsp;(1)
+</p>
+
+<p class="flu">While the equation is defining, the parameters are adjustable. The term on the left is a complex function of technology, economics, politics and social systems, and as <a href="../_E/E20.shtml#045">mentioned</a>, we are already consuming a major fraction of currently available <a class="fn">solar energy.<span>
+	Nuclear fusion &mdash; perennially &lsquo;50 years in the future&apos; &mdash; is the only known extension of this equation.
+</span></a> There are also material constraints on &lsquo;sustainable&rsquo;, since the planetary inventory of crustal chemical elements is finite, those in the core inacessible, and those of the mantle limited to volcanoes and mid-ocean ridges. Entropy is not on our side, meaning that sustainable recycling uses appreciable energy.
+</p>
+
+<p>Where has the zinc gone when galvanized iron rusts? Where is the molybdenum that went into dry lubricants? The tungsten in incandescent bulbs and toolbits? The mud in the upper reaches of Narragansett Bay may be worth mining for precious metals from the early jewelry trade, but this is not true of most of our dispersed materials. If we can&apos;t wait for geophysiological processes to reconcentrate these, we have to find alternative materials, which is not always feasible.
+</p>
+
+<p>Considering the relative rates of population growth and state failure on the one hand, and resource depletion and geophysiological change on the other, the presently neglected discipline of &lsquo;sustainability studies&rsquo; &mdash; encapsulated in equation (1) &mdash; should be a primary and ultimate concern of Gaian religion.
+</p>
+
+<p>Energetic and material constraints mean that we can even now estimate the sustainable population for any chosen parameters. 3 billion people at 1/3 the US standard of living is an optimistic but perhaps reasonable value: if you want more (because whatever political or religious dogma you are caught up in insists upon &lsquo;More is better&rsquo;) <b>show how it can be done sustainably</b>. No advocate of population growth has yet been sufficiently numerate to do this! Wishful thinking does not work here: We need an engineering answer, with plans, numbers, worst-case scenarios, safety factors, and instructions on how to recoup from failure. (Sample: Do you have a feasible route whereby we might retreat gracefully to 3 billion if 7 billion proves to be undesirable?)
+</p>
+
+<p>In this context, note that UNFPA&apos;s <cite>State of World Population 2011</cite>, like most official reports, is an interpretation from an innumerate 3rd-world point of view that assumes Stone Age instincts are immutable values, and that the conditions that allowed the myriennial Golden Age are accessible as soon as we recover from colonialism. The Marxist claim that every hungry mouth is accompanied by a pair of capable hands &mdash; which fails by eq(1) &mdash; is replaced by the hope that more people mean more good ideas, thus increasing the numerator of eq(1) (ie, making solar collectors more efficient. Currently, 20% is good; 45% is on the horizon.) This hope overlooks the Aegean experience, where 2500 years ago, 30,000 people had perhaps 75% of all known good ideas &mdash; and we killed the Aegeans through the population pressure of tribal peoples with <i>no</i> ideas, and extinguished most of the good ideas for 2 millennia. We can do this again.
+</p>
+
+
+
+
+<a class="tri" href="#06" id="07">&#10835;&emsp;&emsp;</a>
+<h4><a href="#TOC" > Enlightenment values </a></h4>
+<a class="tri" href="#08"> &#10836;&emsp;&emsp;</a>
+
+
+<p>In crafting a personal religion, we can dispense with Secularism for the sake of mythic structure, but other principal Enlightenment values should figure prominently: Scepticism, Tolerance, Rationality, Individuality, Democracy, Empiricism, and Social Justice. All of these values are in short supply; our own schools make a point of not teaching some of them; and there are <a href="../_D/D15.shtml#-1">wannabe world systems</a> that reject every one.
+</p>
+
+
+<a class="tri" href="#07" id="08">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC" > Epistemology </a></h3>
+<a class="tri" href="#09"> &#10836;&emsp;&emsp;</a>
+
+
+<p>One also needs to decide on criteria for truth. Table 21.2 suggests some stages in developing a working scepticism. There is no problem with believing something beyond the reach of science, provided that it does no harm and increases the Eirenic and Gaian content of life &mdash; and can be modified if later found incompatible with data. I know Buddhists and Conservative Jews who perform what I regard as pointless rituals, for the same disciplinary reason that I abjure owning an automobile: rituals do no harm (and may help), and they provide a structure to daily life that reminds one of what is important. (Such people are selective and critical; they do not kill infidels or homosexuals or neighbors who gather wood on the Sabbath, although the tribal laws that outline their rituals demand these things of them also.)
+</p>
+
+
+<hr>
+<table>
+<caption>
+<a class="tri" href="#T21.1">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T21.2"> Table 21.2 </a>
+<a class="tri" href="#T21.3">&emsp;&emsp;&#9654;</a>
+Epistemology. To avoid being led down the garden path by those with exploitation in mind, one should, by age 30-something (when frontal-lobe rewiring is completed), have devised fairly formal criteria for selecting working hypotheses.
+</caption>
+
+<thead><tr><th>Age</th><th>Developing Criteria of Truth</th></tr>
+</thead>
+
+<tbody>
+<tr><td><b>Elementary school</b></td>
+  <td>(Dad/Mom/Teacher/Preacher/A book) says&hellip;. When they differ, wonder why.</td></tr>
+
+<tr><td><b>Middle school</b></td>
+  <td>Start asking Dad and the others how they know what they say they know. Learn to use the internet to evaluate what people tell you to believe. Download and read ebooks by the dozen.</td></tr>
+
+<tr><td><b>High school</b></td>
+  <td>Thorough scepticism about all claims to truth. Read Wikipedia&apos;s &lsquo;talk&rsquo; pages, where controversial issues are thrashed out. Learn to detect bias. Ask political candidates embarrassing questions.</td></tr>
+
+<tr><td><b>College</b></td>
+  <td>Bull sessions; refine own epistemological criteria. Register for blogs where experts contest ideas on important subjects.</td></tr>
+
+<tr><td><b>30-something</b></td>
+  <td>Explain to your kids how you test ideas for veracity, how you try to falsify hypotheses, what statistical probability you accept for working hypotheses, and why you believe whatever undecidable propositions are important in your life.</td></tr>
+</tbody></table>
+
+
+
+
+<a class="tro" href="#08"  id="09">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC" > Meaning </a></h3>
+<a class="tri" href="#10"> &#10836;&emsp;&emsp;</a>
+
+<p>If neither harps nor houris lie ahead, what is there to compensate for life&apos;s miseries? If nirvana and ecstasy are on a par with the haze of alcohol and sparkles of LSD, what meaning is there in meditation and attempts to reach these states? Why not just settle for a nap?
+</p>
+
+<p>&lsquo;The Meaning of Life&rsquo; is a very personal matter, but rather over-rated among the chattering class. For most of the world, it reduces to surviving for one more day; maybe tomorrow will be better. Cats are content to catch mice, sire or raise kittens, and purr. Dogs want to please the pack leader and go for walks. In the affluent West, we watch bank accounts grow. Survival, purrs, walks, and bank balance affirm personal worth. &lsquo;The ancestors helped me through another day&rsquo;. &lsquo;My god loves me&rsquo;, rumble rumble. &lsquo;I hear and obey and will be rewarded&rsquo;, thump thump. &lsquo;Worth? I know exactly what I am worth!’
+</p>
+
+<p>Others may settle for the &lsquo;meaning&rsquo; offered by a guru and make it their own. But most gurus have paltry imaginations: Paul, Mohammed, Moon, and Smith seldom rose above daytime TV. L. Ron Hubbard at least matched <cite>Star Wars</cite> in epic scope. Anyone who has made it through this book can do better! The US Founding Fathers never had to have agonized about Meaning: Moses, Jesus, and Enlightenment philosophers offered a mix that guided 2 centuries of world leadership.
+</p>
+
+<p>&lsquo;Leaving a better world&rsquo; looks more difficult now than in those heady days of a virgin continent and inspired statesmen. The immediate challenge is to ameliorate life on the way to the world of 2100 CE, with its population of 3 billion, no petroleum, encroaching seas, stronger storms, more deserts, camels, clipper ships, hotter weather, less air conditioning. This is the problematic process that British inventor and atmospheric scientist James Lovelock calls a &lsquo;sustainable retreat&rsquo;. Denial, which has always been our most popular defence against the unpleasant, works only until reality catches upwith it.
+</p>
+
+<p>Considering the ethics of some of the founders of known religions, and the slow increase in ethical understanding over the millennia, the average person today should be able to construct a religion superior to the average of the 100,000. It would not take much to construct one in the top 1%. This follows from the knowledge that most of our religions were managed or designed bicamerally for power, or consciously for profit &mdash; the lowest of motives and pure Instinct-1. The average person, thinking only of the existential questions and ultimate concerns of religion in the sort of universe he would like to live in, will automatically do better than a religion crafted to extract money from people.
+</p>
+
+
+
+<a class="tr0" href="#09" id="10">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC"  > A DIY Example </a></h3>
+<a class="tri" href="#11"> &#10836;&emsp;&emsp;</a>
+
+
+<p>Coyotl is one example of adaptive DIY mythopoesis, but another might not hurt. Shortly before her death, my mother, tired of the often thankless job of teaching teenagers, decided that she wanted her next job to be that of <a class="fn"><i>cloud shepherd</i>.<span>
+	The &lsquo;shepherd of the Cloud-lambs&rsquo; is a known occupation in Finnish mythology, but despite &lsquo;the best folklore library west of the Mississippi&rsquo; in our house, we did not have Castrén.
+<br>--------------------<br>
+	MA Castrén, <cite>Finnish Mythology</cite> p 7, cited by<br>
+	EB Tylor (1920) <cite>Primitive Culture</cite> (Murray, London): 2, 257. [References to <cite>Föreläsningar i Finsk Mytologi</cite> and <cite>Lectures in Finnish Mythology</cite> appear in a couple of rare-book catalogs, but WorldCat says &lsquo;We were unable to get information about libraries that hold this item&rsquo;.
+</span></a> Like any atmospheric scientist, I could lecture for a week on the physics, chemistry, thermodynamics, and behavior of clouds, but &lsquo;cloud shepherd&rsquo; was a novel idea. No cloud physicist will offer any but statistical projections about the chaotic behavior of the troposphere. Such a lecture series nevertheless leaves much unexplained. The <a class="fn">Azande,<span>
+	Evans-Pritchard, EE (1937) <cite>Witchcraft, Oracles & Magic among the Azande</cite> (Faber &amp; Faber, London).
+</span></a> who understand perfectly well the physical causes and random nature of accidents, built a complex and internally consistent structure of witchcraft to explain imponderables like &lsquo;Why me?’, &lsquo;Why now?’. When the mountains put on a display of <a class="fn">cumulonimbus incus,<span>
+	The other day, we had cumulonimbus over a 200-km stretch, with 3 full anvil-heads visible from the flatlands below.
+</span></a> lightning, storm winds, and throw in a sunset, the result is art, <a class="fn">not science.<span>
+	&lsquo;Nature&apos;s bad taste&rsquo;, scoffed an artist friend.
+</span></a> Orchestrating such a county-wide pageant is a job for an expert, so I suspect that my mother&apos;s role is still more like a border collie&apos;s than a shepherd&apos;s &mdash; but I have never seen an unhappy border collie at work. Clouds have to be a relief from teenagers, and more rewarding than harps.
+</p>
+
+
+
+<a class="tro" href="#10" id="11">&#10835;&emsp;&emsp;</a>
+<a class="tro" href="#02"> &#9651;&emsp;&emsp;</a>
+<h2><a href="#TOC" > DIY ASSISTANCE </a></h2>
+<a class="tri" href="#12">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#18"> &#9661;&emsp;&emsp;</a>
+
+<p>The better class of gods has always made a point of approachability,
+</p>
+
+
+<a class="tro" href="#11" id="12">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC"> Straining at Gnats, Swallowing Camels </a></h3>
+<a class="tri" href="#13"> &#10836;&emsp;&emsp;</a>
+
+
+<p class="epi">[T]he simplest method of securing a silent weapon and gaining control of the public is to keep the public undisciplined and ignorant of the basic system principles on the one hand, while keeping them confused, disorganized, and distracted with matters of no real importance on the other hand. &mdash; <a class="fn">
+	Anonymous (1979)<span>&lsquo;Silent Weapons for Quiet Wars: Operations Research Technical Manual&rsquo;, excerpted in Cooper, W. <cite>Behold a Pale Horse</cite> (Light Technology Publications, Flagstaff AZ, 1991).
+</span></a>
+</p>
+
+<p class="epi">Has it changed the way they act? I don&apos;t think so. There is a continuation of corporate fraud and greed. They are as brazen as ever in their view of the world, but their stature has been diminished. &mdash; Bill Lerach, ex Nader Raider, on CEOs and punishment for white-collar crimes.
+</p>
+
+<p>The first epigraph describes the behavior (and presumably, the function) of the news media. Table 21.3 lists some distractions and red herrings (presented as serious ethical problems); then some of the &lsquo;basic system principles&rsquo; that we are supposed to ignore; and for comparison, some Gaian problems that we should be worrying about, because they are as close to being &lsquo;ultimate concerns&rsquo; as we will meet.
+
+<hr>
+<table class="tcen">
+<caption>
+<a class="tri" href="#T21.2">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T21.3"> Table 21.3 </a>
+<a class="tri" href="#T21.4">&emsp;&emsp;&#9654;</a>
+Ethical concerns: Some highly publicized concerns are not particularly important; the ones that should concern us most are seldom mentioned.
+</caption>
+
+<thead><tr><th>Concern</th><th>Comment</th></tr>
+</thead>
+
+<tfoot>
+<tr><td colspan="2">* Some who object to abortion are principled and compassionate. They are the ones who adopt unwanted babies.<br>
+Like all men, I have little idea of the problems that can arise with pregnancy. So, quoting <a href="http://www.dailykos.com/story/2013/08/01/1228105/-Why-it-cant-be-up-to-men-things-I-never-knew-before-becoming-pregnant?detail=email">someone who knows</a>: &lsquo;the issue of abortion used to be completely black and white &hellip; but because I&apos;m a woman &mdash; who has become pregnant &mdash; I very quickly realized that it is much more complicated than that &hellip; and when men &mdash; who have never been pregnant and will never be pregnant (and many of which obviously know nothing about pregnancy) make up the rules &hellip; they literally are putting womens&apos; lives on the line &hellip;<br>
+
+&lsquo;The Democratic position of <q>safe, legal, and rare</q> is the only educated position on the subject&rsquo;.<br>
+
+&dagger; White-collar crime and its costs are, for several reasons,  <a href="https://mobile.nytimes.com/search?query=under-reported%20white-collar%20crime&sort=rel&action=click&contentCollection&region=TopBar&module=SearchSubmit&pgtype=undefined">notoriously underreported</a>. According to its Annual Report 2009, the National White-Collar Crime Center received 315,000 complaints representing M$620 in losses, recovering M$2. Perpetrators were sentenced to a total of 30 years of jail time. The FBI does better, but in general, white-collar crime seems to pay remarkably well.<br>
+
+&Dagger; In my mid-80s, I write this from a total lack of experience with health care plans. I may have had medical coverage when a faculty member (I certainly did not in blue- and white-collar aerospace): if so, I did not have occasion to use it. Expatriate, no longer covered by Medicare or Medicaid, and unaware of any private health plan that costs less than my pension, I have not followed, and do not understand the nuances of the US debate (e.g: &lsquo;single-payer&rsquo; meant nothing to me before I wrote this table).<br>
+
+It is worth remarking that the over-payment of health-care CEOs is why Republicans and the AMA are so anxious to privatize health care.<br>
+
+<a
+href="http://www.dailykos.com/story/2013/07/31/1227946/-Montana-Experiment-Brings-NHS-Style-Health-Care-to-USA-Saves-State-Millions-Patients-Delighted">Montana&apos;s</a> free primary healthcare services (so far, for state employees only), saves the state $1,500,000 annually for healthcare, and &lsquo;patients wait just a couple minutes to see a doctor&rsquo;.
+</tfoot>
+
+<tr><td colspan="2" class="tdiv grn">Overrated ethical problems to preoccupy concerned citizens,<br>
+Red herrings to distract them</td></tr>
+
+<tr><th>Capital punishment</th>
+  <td>This is best reserved for white-collar crime and political malfeasance. E.g.: for officers of the PR firm Hill & Knowlton, who, to influence Senatorial support for war, hired a fake nurse to lie about Iraqis dumping Kuwaiti babies from incubators {<i>GW</i>   2001-10-04}.</td></tr>
+
+<tr><th>Stem-cell research</th>
+  <td>Cells are cells. Embryonic stem cells, being pluripotent, offer the possibility of astonishing medical advances.</td></tr>
+
+<tr><th>Abortion*</th>
+	<td>Abortion is a natural process. 2/3 of pregnancies are spontaneously aborted because of genetic errors. In-vitro-fertilization babies have 60% more known genetic defects than fetuses exposed to natural but little understood error-correction steps. &lsquo;The social benefit from reduced crime as a result of [legalized] abortion [since 1991 is estimated at] <a class="fn">30 billion dollars<span>
+JJ Donohue III, SD Levitt (2001) &lsquo;The Impact of Legalized Abortion on Crime&rsquo; <cite>Q J Economics</cite> <b>116</b>(#2): 379&ndash;420.
+	</span></a> annually&rsquo;. Most &lsquo;pro-life&rsquo; agitation is driven by Instinct-1&apos;s &lsquo;barefoot and pregnant&rsquo; meme. Worry about <i>life</i> would be accompanied by concern for the future of the child in terms of health care, education, and economic security of his family &mdash; the &lsquo;general Welfare&rsquo; of the Constitution.</td></tr>
+
+<tr><th>Drugs</th>
+	<td>Serious damage is done by Big Pharma in selling dysfunctional prescription drugs: &lsquo;[P]atients are exposed to harm on a staggering scale throughout the whole of medicine&rsquo; {<i>GW</i> 2012-10-04 p25&ndash;28}.<br>
+	In addition, the &lsquo;war on [illegal] drugs&rsquo; is a fiasco, probably because the government still profits from the  <a class="fn">trade<span>
+G Webb (1999) <cite>Dark Alliance: The CIA, the Contras, and the Cocaine Explosion </cite> (Seven Stories Press, NYC).
+	<br>--------------------<br>
+Supporting Webb&apos;s story is Coroner Robert Lyons&apos;s report that (after being blacklisted and unable to find further employment in mainstream journalism), Webb used a .38 pistol to commit suicide. The Coroner, in an apparent compromise between professionalism and a realistic fear for his own life, added that it was not unknown for suicides to shoot themselves in the head twice.
+	</span></a><a href="http://www.rense.com/general60/move.htm">⬆</a>. For a  workable alternative to the war on drugs, see <a class="fn">Fitts (2002)<span>
+CA Fitts (2002) &lsquo;How The Money Works In The Illicit Drug Trade&rsquo;
+	</span></a><a href="http://www.scoop.co.nz/stories/HL0202/S00054.htm">⬆︎ </a>.</td></tr>
+
+<tr><th>Blue-collar Crime</th>
+	<td>Street crime, burglary, robbery, costs us G$4 annually. This is not good &mdash; but it is paltry compared to &hellip;</td></tr>
+
+<tr><td colspan="2" class="tdiv red">Economic parasitism
+	and ethical failures which we ignore</td></tr>
+
+<tr><th>White-collar Crime<sup>&dagger;</sup></th>
+	<td>&hellip;the annual costs of <a
+	href="https://oig.hhs.gov/fraud/enforcement/criminal/">HMO fraud</a>, G$3.2(as of 2014-01-16); securities fraud, G$16;  and the G$33 bonus that bankers pay themselves.</td></tr>
+
+<tr><th>Health Care<sup>&Dagger;</sup></th>
+	<td>Privatization in the US, with its poor care, low coverage, over-rewarded stockholders (15% of revenue, vs 5% for the Fortune 500), overpaid CEOs (up to M$50), supernumerary layers of management (up by a factor of 5 since 1990), inefficiency (Medicare overhead is 3%; private concerns want 15%), lobbying costs, predatory pharmaceutical companies, kickbacks, marketing (30% of revenues), fraud (along with legal costs and fines), raises the per capita cost to nearly $9000, <a class="fn">twice that<span>
+That list is precisely why Republicans were so desperate to overthrow Obamacare. It wasn&apos;t that he had a permanent tan and was smarter than they were (although those were enough to induce fear and loathing), but that he was attacking one of their longest running and  most successful approaches to pumping money uphill from the poor to the rich.
+	</span></a>  of other industrialized countries. Out of 314 new medicines licensed by the FDA in 2000-2003, <a class="fn">only 7<span>
+Physicians&aos; Working Group for Single-Payer National Health Insurance (2003) &lsquo;Medicare Privatization&rsquo; <cite>J Amer Med Assoc</cite> <b>290</b>: 798&ndash;805.
+	</span></a> were effective new molecules developed by <a class="fn">Big Pharma.<span>
+Put yourself in Big Pharma&apos;s shoes: if you sold drugs for profit, would you prefer to &lsquo;Cure people&rsquo;, or to &lsquo;Treat their symptoms forever&rsquo;?
+	</span></a></td></tr>
+
+<tr><th>Regulatory failure</th>
+  <td>In dereliction of duty, financial regulators under Clinton and Bush observed and allowed the &lsquo;predatory lending&rsquo; that led to the bailout. Why?</td></tr>
+<tr><th>Inflation</th>
+  <td>Inflation is what fractional-reserve banking is <i>for</i>. Both can be profitably eliminated.</td></tr>
+
+<tr><th>Legal inequality</th>
+  <td>Counterfeiting and fractional-reserve &lsquo;money creation&rsquo; are the same process &mdash; yet we do not treat them equally.</td></tr>
+
+<tr><th>Economic inequality</th>
+  <td>This is the parasitical <i>goal</i>.</td></tr>
+
+<tr><th>Martial law</th>
+  <td>For 30 years there has been sustained preparation for martial law. Who is so afraid of the American people? Are they right to fear us?</td></tr>
+
+<tr><th colspan="2" class="tdiv">Neglected Gaian problems</th></tr>
+
+<tr><th>Biodiversity loss</th>
+  <td>It is extremely difficult to regenerate an extinct species.</td></tr>
+
+<tr><th>Climate change</th>
+  <td>We may have to shut down the US Senate to make any progress here.</td></tr>
+
+<tr><th>Population management</th>
+  <td>Today this is most often left to Malthusian Misery. We could do better.</td></tr>
+
+<tr><th>Sustainability</th>
+  <td>Nothing we do today is sustainable. Everything we do tomorrow must be. If we want a tomorrow.</td></tr>
+</tbody>
+</table>
+
+
+<p>All aspects of Table 21.3 can be investigated farther on the internet; <a class="fn">this link<span> http://lawprofessors.typepad.com/whitecollarcrime_blog/</span></a> summarizes ongoing activity in corporate crimes. Learn about them; ask your representatives in Congress what they are doing about them. If you belong to an organized religion, ask your local leader &mdash; or tell him &mdash; what your congregation should be doing about them.
+</p>
+
+
+
+
+<a class="tro" href="#12" id="13">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC"  > Plagiarism </a></h3>
+<a class="tri" href="#14"> &#10836;&emsp;&emsp;</a>
+
+
+<p class="epi">If truth is found in other writings, incorporate it into your worldview. &mdash; Zoroaster.
+</p>
+
+<p>Few religions have arisen in isolation. Every one has borrowed from its neighbors and predecessors, and a vast collection of pre-imagined world views exists in folklore and mythology. Channel scanning reveals that out of 400 simultaneous TV broadcasts, most are drivel, ads, and porn, and the remaining dozen frequently offer nothing worth watching, so little is lost by recycling your TV. This will provide time for browsing the world&apos;s mythology in libraries and internet.
+</p>
+
+<p>Some (but not all) of the &lsquo;heresies&rsquo; that inspired the Catholics to murder other Christians were better religions, with less Instinct-1 and more Instinct-2 in their makeup. They deserve further investigation.
+</p>
+
+<p>Utopias and science fiction require imagination, logic, and the ability to extrapolate
+small changes of present reality into future social behavior. As in mythology, there are numerous improvements upon the present to offer guidance. Science fiction can suggest legitimate ways to work around features which are currently believed to limit our scope. One should not introduce principles which are counter to known science. (Augustine knew this in the Middle Ages.) Good science-fiction writers do not find this a problem, nor do acceptable prophets. There is so much still unknown that only stupidity or lack of imagination can justify contravening what little we do know.
+</p>
+
+<p>Note, also, that in many imagined futures, religion of any sort is no longer considered either necessary or useful. Does this suggest anything?
+</p>
+
+<p>Bear in mind, if you choose to create your own religion, that what you are doing consciously is at least as valid as what has gone before. Akhnaton, Zoroaster, and Gautama saw some things very clearly &mdash; but they knew less about the universe than you do today. James Thornton, an environmental <a class="fn">lawyer,<span>
+	Working for the Environmental Defense Fund, he never lost a case against Big Business. In the nature of things, a lawyer should win half his cases. 100% success suggests that it is profitable to break environmental laws and pay the token fines, and that you will be rewarded by the Board of Directors for doing so. It follows that <i>effective</i> laws would provide draconian fines, long prison sentences, and dissolution of errant corporations.
+</span></a> has written <a class="fn">a book<span>
+	J Thornton (1999) <cite>A Field Guide to the Soul</cite> (Bell Tower, NYC).
+</span></a> which &mdash; while never quite advocating a full-fledged DIY religion &mdash; is full of better advice than I can offer on how to go about creating one.
+</p>
+
+<p>We have covered most of the requirements of a DIY religion. The irrational overbeliefs that distinguish religions (salvation, eternal erections) are a matter of taste. The rest is up to you. It is not difficult. Mohamet, Joseph Smith, and Mary Baker Eddy showed that plagiarism was no bar to a religion&apos;s popularity. L. Ron Hubbard showed that any competent pulp writer could create religions for fun and profit. Neither logic nor consistency nor great imagination is essential.
+</p>
+
+<p>If we accept the human construction of all religions, and view them as our joint effort to civilize Instinct-1, we are not only free to pick and choose, but logically required to preserve the best preceding work and try to improve upon it. Since many good ideas were introduced by the Axial thinkers, there is no reason not to use such of their suggestions as seem promising.
+</p>
+
+<p>As an example, the ethical base is well covered by Buddhism. With even less appeal to supernaturalism than the Boy Scouts&rsquo; <a class="fn">adjectives,<span>
+	&lsquo;A Boy Scout is: Trustworthy, loyal, helpful, friendly, courteous, kind, obedient, cheerful, thrifty, brave, clean, &apos;n reverent.&rsquo; In the hills of Berkeley, the last was modified in chorus to &lsquo;&hellip;brave, clean, irreverent.&rsquo;
+</span></a> this includes everything in Table 21.4.
+</p>
+
+
+<hr>
+<table class="tcen">
+<caption>
+<a class="tri" href="#T21.3">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T21.4"> Table 21.4 </a>
+<a class="tri" href="#T21.5">&emsp;&emsp;&#9654;</a>
+Buddhist concerns, desirable and undesirable.
+</caption>
+
+<thead><tr> <th><i>PARAMITA</i>* (positive qualities)</th><th><i>PRATIMOKSA</i> (negatve qualities)</th></tr>
+</thead>
+
+<tfoot>
+<tr><td colspan="2">* The names change somewhat with the language: these are Sanskrit.</td></tr>
+</tfoot>
+
+<tbody>
+<tr><td><i>Prajna</i>, Wisdom</td>
+    <td><i>Abhidhyana</i>, Greed</td></tr>
+<tr><td><i>Ahimsa</i>, Stewardship/Empathy</td>
+    <td><i>Kamamithyacara</i>, Lust</td></tr>
+<tr><td><i>Sila</i>, Ethics</td>
+    <td><i>Vyapada</i>, Malevolence</td></tr>
+<tr><td><i>Satya</i>, Truth</td>
+    <td><i>Parusavacana</i>, Harsh speech</td></tr>
+<tr><td><i>Maitri</i>, Friendliness</td>
+    <td><i>Pisunavaca</i>, Slander</td></tr>
+<tr><td><i>Dana</i>, Generosity</td>
+    <td><i>--------</i>, Stealing</td></tr>
+<tr><td><i>Ksanti</i>, Patience</td><td></td></tr>
+<tr><td><i>Adhisthana</i>, Steadfastness</td><td></td></tr>
+<tr><td><i>Virya</i>, Energy</td><td></td></tr>
+</tbody>
+</table>
+
+
+<p>This list has minor modifications from <a class="fn">the original.<span>
+	The canonical negatives include murder, but this is now a civil crime that (presumably) no longer needs ethical attention. Stealing (also a civil crime) remains, because it is integrated into all contemporary governments.
+</span></a> Ahimsa replaces <i>Naiskramya</i>/Renunciation, on the grounds that renunciation is a private discipline while fierce protection of the environment is a public responsibility. To the extent that renunciation is equivalent to walking lightly on the earth, it qualifies as useful; when it means celibacy based on the primitive fear of women that infects Islam and Paulinity, it is unhelpful.
+</p>
+
+<p>Anyone who can manifest the positive list and avoid the negative list has no need of supernatural overbelief. The short list of acceptable religions in the Preface means that there may be others among the 556 statistically independent varieties, and a search for more would be a useful PhD-thesis project. The <cite>Gathas</cite> add ideas not in the Buddhist list. If you feel a need for a central icon, Akhnaton&apos;s image of the helpful sun might be a place to start. If you need something mind-stretching, inexplicable, but factual and natural, look into Bell&apos;s Theorem, quantum entanglement, non-locality, and the Einstein-Podolsky-Rosen paradox. Explore chaotic inflation and eternal inflation, with its continuous creation of Big Bangs, each generating an infinite universe. Check out Halton Arp&apos;s controversial Steady State universe. Work on the theological consequences of an infinite universe, with an infinite number of identical copies of you, and a larger infinity of nearly identical copies, who made every choice that you did not. What was Coyotl thinking about when he made a universe like this? What are his other universes like? What happens to all the karmic variables &mdash; free will, choice, responsibility, ethics &mdash; when all possible choices are made by our twins in other universes? Does, perhaps, the best of class win? Win what? And if so, how do we determine &lsquo;best&rsquo; when the class grades imperceptibly into other classes?
+
+In short, there is no shortage of theological questions one might chose as central to a DIY religion. Today you can explore theological dilemmas which no earlier prophet prior could begin to imagine.
+</p>
+
+
+
+<a class="tro" href="#13" id="14">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC"  > Stealing </a></h3>
+<a class="tri" href="#15"> &#10836;&emsp;&emsp;</a>
+
+
+<p class="epi">Direct, overt taxation raises hackles and can cause revolution; inflationary increases of the money supply can fool the public &mdash;  its victims &mdash; for centuries. &mdash; <a class="fn"> M. N. Rothbard (1983) <span><cite>The Mystery of Banking</cite> 2nd ed. (Ludwig von Mises Institute, Auburn AL, 2008): 54.</span></a>
+</p>
+
+<p>Table 21.4 included stealing because it is a deliberate policy of most governments, by whom it is called &lsquo;inflation&rsquo; and discussed as though it were an intractable problem that they were doing their best to resolve. This is a bald-faced lie.
+</p>
+
+<p>In 1980, when Arthur Burns, ex-Chairman of the Federal Reserve System, spoke to the Senate Committee on Banking {1980-03-14}, he offered the 12 explanation of inflation shown in Table 21.5. Eleven are spurious, <i>and he knew it</i>.
+
+
+<hr>
+<table class="tcen">
+<caption>
+<a class="tri" href="#T21.4">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T21.5"> Table 21.5 </a>
+<a class="tri" href="#T21.6">&emsp;&emsp;&#9654;</a>
+Excuses for Inflation.  Red = Inflationary. Yellow = Non-inflationary when intelligently managed. Green = Neutral or non-inflationary when intelligently done.
+</caption>
+
+<thead><tr><th>&lsquo;Explanation&rsquo;</th>
+  <th>Analysis</th></tr>
+</thead>
+
+<tfoot><tr><td colspan="2">* Looking back, one wonders how much bad publicity &mdash; union ties to organized crime, embezzlement of funds by union bosses &mdash; and government vendettas against, say, Jimmy Hoffa and the Teamsters, were simple propaganda to discredit unions in the public mind. It worked for me: I deeply resented mandatory dues to the Machinists Union &mdash; which never attracted a breath of scandal, and negotiated minuscule raises for me even when I was a non-member working in an industry they covered. By the time dues were mandatory, unions no longer had to recruit members, or educate them, or do anything  but broker pay raises indexed to a version of inflation that excluded its major components. A union settlement in an aerospace town like San Diego was a signal for rents and retail prices to rise by the same percentage.</td></tr>
+</tfoot>
+
+<tbody>
+<tr class="grn"><td><b>Bad harvests</b></td>
+  <td>Market forces doing their thing: prioritizing our purchases.</td></tr>
+
+<tr class="grn"><td><b>Devaluation of the dollar</b></td>
+  <td>International market forces doing their thing. This is how nations balance capital flow.</td></tr>
+
+<tr class="grn"><td><b>Union power</b></td>
+  <td>History shows that this is &mdash; if not abused &mdash; an anti-inflationary market force. See <a href="../_F/F22.shtml#F22.1">Fig. 22.1</a>.<sup>*</sup></td></tr>
+
+<tr class="grn"><td><b>Expensive health, safety, and environmental laws</b></td>
+  <td>The intention is to pay a little now to avoid later disaster &mdash; for individuals, the country, and the world.</td></tr>
+
+<tr class="yel"><td><b>Productivity stagnation</b></td>
+  <td>A neutral player in a stable, sustainable economy. A problem to capitalism, which requires eternal exponential (= impossible) growth.</td></tr>
+
+<tr class="yel"><td><b>Government interference with market competition</b></td>
+  <td>In the form of targeted taxes, subsidies, and regulations, this is a Congressional prerogative in aid of achieving political ends. Not always done for <i>general</i> welfare.</td></tr>
+
+<tr class="yel"><td><b>Federal budget deficits</b></td>
+  <td> &mdash; are inflationary if not counterbalanced.</td></tr>
+
+<tr class="yel"><td><b>Government intervention in the economy</b></td>
+  <td>The Constitution empowers Congress do this to increase the general Welfare, which seems to work &hellip;</td></tr>
+
+<tr class="yel"><td><b>Stimulation of the economy</b></td>
+  <td>&hellip; only in the absence of lobbyists.</td></tr>
+
+<tr class="red"><td><b>Monopolies</b></td>
+  <td>Capitalism doing its thing, charging all the market will bear.</td></tr>
+
+<tr class="red"><td><b>The OPEC cartel</b></td>
+  <td>A cartel doing its thing, charging all the market will bear, with some political constraints.</td></tr>
+
+<tr class="red"><td><b>Growth of the money supply
+  <td>Correct (in the absence of a corresponding increase in productivity) and the only correct answer.</td></tr>
+</tbody>
+</table>
+
+
+
+<p>Inflation is, simply and entirely, an increase in the money supply. Burns before the Banking Committee was mere theater, because the <i>purposes</i> of a central bank (such as the Federal Reserve System) are:</p>
+
+<ol>
+<li>To &lsquo;bail out banks in trouble&rsquo;, and</li>
+<li>&lsquo;To inflate the currency in a smooth, [invisible,] controlled, and uniform manner throughout the nation&rsquo; &mdash; <a class="fn"> M. N. Rothbard (1983) <span><cite>The Mystery of Banking</cite> 2nd ed. (Ludwig von Mises Institute, Auburn AL, 2008): 233</span></a></li>
+</ol>
+
+
+<p class="cenlr"><b>In short, inflation is taxation without accountability.</b>
+</p>
+
+<p>For public consumption, however, both Congress and the Fed have to pretend to be fighting mysterious inflation, because it is an essential source of government income. Effective action to curb inflation would infuriate conservatives by raising taxes to pay for popular social programs. It would annoy movers and shakers by eliminating clandestine funding for &lsquo;black&rsquo; projects that cannot bear public scrutiny &mdash; most of them undertaken for the benefit of US corporations. It would interfere with MIC wars (those undertaken primarily to transfer wealth from the middle class to the Military-Industrial Complex). A corrupt government does not want people to understand that these things are happening.
+</p>
+
+<p>From mid-18th century to 1940 (except during wars), increase in productivity lowered prices despite increases in the money supply. Since then, as shown in <a href="../_E/E19.shtml#F19.7">Fig. 19.7</a>, fiat money (any money whose value is determined by <a class="fn">government decree<span>
+	The solitary magic of the gold standard is that it prevents arbitrary expansion of the money supply, which is why governments worked so hard to get rid of it.
+</span></a> has increased faster than productivity. The relation of money&apos;s value to its quantity is as <a class="fn">immutable<span>
+	Some will claim that this is overly simplistic, but like the Perfect Gas Law, it is a powerful first-order abstraction. (The behavior of real gasses is more complex, so we have thick volumes of steam tables etc that are 2nd-order corrections to the critical law that made sense of a vast amount of previously disorganized data. Similar corrections account for the <i>wiggles</i> in Fig. 19.7), where the constant (R = 1) is implicit because P and T are functions of time.
+</span></a> as the Gas Law of thermodynamics:
+</p>
+
+<p class="cen"><i>PV</I> = R<I>T</i>
+</p>
+
+<p class="flu">where <i>P</I> is Pressure (or the Purchasing Power of money), <i>V</I> is Volume of gas (or the quantity of money), <i>T</I> is Temperature (or Total value of the money supply), and R is a constant scale factor. As the money supply <i>V</i> increases, the value <i>P</i> of the dollar drops. Every increase in the debt ceiling increases <i>V</i> and decreases <i>P</i>, while <i>T</i> remains nearly constant.
+</p>
+
+<p>One reason that this simple fact is not intuitively understood is that during the 3 years 2009&ndash;2011, the Bank of England  created G£247, producing a steady inflation of 3.8%. Meanwhile, it was telling school children: &lsquo;The Bank is injecting money into the economy to boost spending to meet the inflation target. [&hellip;But m]oney is not growing quickly enough to keep inflation close to the 2% target&rsquo;. One concludes that either the Bank doesn&apos;t understand finance, or it is deliberately lying to children.
+</p>
+
+
+<a class="tro" href="#14" id="15">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC"  > Entheogens </a></h3>
+<a class="tri" href="#16"> &#10836;&emsp;&emsp;</a>
+
+
+<p>The internet is excited about entheogens, biochemicals that alter consciousness for spiritual purposes. The <a href="http://csp.org/general/site_index.html">Council on Spiritual Practices</a> has an informative web page, there is an <cite>Eleusis Journal of Psychoactive Plants & Compounds</cite>, and a sample issue of the <cite>Entheogen Review</cite> mentioned 66 entheogenic plant genera &mdash; plus a gourmet list including antelope and buffalo horn, <i>Bufo</i> (frog), chicken-gizzard skin, cicada fungus, deer-antler and donkey-hide gelatin, deer tail, gecko lizard, hornet&apos;s nest, scorpion, sea horse, and silkworm excrement.
+</p>
+
+<p>Plants can&apos;t run, and they can&apos;t hide, so their defence against predators is often biochemical. Most of our pharmacopeia originated in poisonous botanical extracts, useful because they are more poisonous to bacteria and parasites than to humans. Yet because we had no evolutionary need to defend ourselves against some of the more exotic molecules, they can pass the blood-brain barrier and affect us psychologically rather than physically.
+</p>
+
+<p>The Johns Hopkins University is studying psilocybin, the active ingredient in <cite>Psilocybe</cite> mushrooms. Heralding the modern rediscovery of entheogens, John Allegro, in a rather disorganized <a class="fn">1970 book<span>JM Allegro (1970) <cite>The Sacred Mushroom and the Cross</cite> (Doubleday, Garden City NYC).</span></a> that he has never been forgiven for writing, described how much Christian doctrine owed to the use of hallucinogenic mushrooms in the early church. If you think that modern culture is overly concerned with sex, you should read Allegro&apos;s description of the mystery religions that contributed so much to Paulinity, and the sexual symbolism with which they endowed mushrooms (not to mention birds, the cross, the crown of thorns, the names of gods, carpentry, etc.), and the extent to which Biblical stories can be read as cryptographic puns on the <a class="fn">symbolic objects.<span>
+	One problem: Allegro&apos;s method of interpreting phrases as wordplay in a dead language offers abundant opportunity for creative interpretation. No one questions his mastery of Middle Eastern philology, but every example he gives is open to alternative meanings. The same challenge can be raised against the <cite>Textus Receptus</cite>, but Allegro&apos;s treatment is more sensational than, say, Streeter&apos;s analysis in <cite>The Four Gospels</cite>
+<br>---------------<br>
+	BH Streeter (1924) <cite>The Four Gospels: A Study Of Origins The Manuscript Tradition, Sources, Authorship, & Dates</cite> (MacMillan, NYC).
+</span></a> There is solid religious tradition behind seeking inspiration in entheogens, all of it ultimately rooted in the central concern of fertility.
+</p>
+
+<p>Given the suggestion that nirvana and religious ecstasy are <a href="../_A/A01.shtml#37">infantile narcissism</a>, chemical induction of altered states of consciousness offers little promise of spiritual growth. The only useful objective might be to experience, once, the far end of the <a href="../_A/A01.shtml#19">&lsquo;universal consciousness&rsquo;</a> scale that the original Vedantic people reached with soma/ergot. The experience shaped the better aspects of Hinduism; it is the goal of yoga and Zen; and those who have reached it by whatever means report largely identical spiritual experiences. Unfortunately, the &lsquo;universal consciousness/samadhi&rsquo; state does not automatically compel one to think of the rest of his ecosystem as being as important as himself when he returns to the real world. This is something that we evidently have to work at, but those who have experienced chemical samadhi may have an advantage. Still, read the following section.
+</p>
+
+
+
+
+<a class="tro" href="#15" id="16">&#10835;&emsp;&emsp;</a>
+<h4><a href="#TOC"  > Caveat Utor </a></h4>
+<a class="tri" href="#17"> &#10836;&emsp;&emsp;</a>
+
+
+<p>Psychotropic drugs are dangerous. The only one I have any experience with is LSD, tried on the joint recommendation of <a class="fn">Aldous Huxley<span>A Huxley (1954) <cite>Doorway to Perception</cite>; (1956) <cite>Heaven and Hell</cite> (Harper Bros., NYC).</span></a> and a trusted friend. The experience was <a class="fn">interesting,<span>
+	In addition to collecting and refiling some memories, it made lovely polychrome fractal HD movies, and it turned the contents of a grad student&apos;s bedside floor into a form of tactile poetry as I swung my hand back and forth. Interesting, but inconsequential.
+</span></a> but I see no reason to repeat it. I cannot offer any advice beyond the accumulated experience with prescription psychotropic drugs, of which there are 174 or more on the books. I do not trust any of them, for good reason, and I don&apos;t trust entheogens by analogy, because they mess with the same delicate system, the chemical balance of the brain. Brain researchers report that
+
+
+<ul>
+<li>treatment with commonly prescribed antipsychotics <a class="fn">reduce brain volume<span>
+	KA Dorph-Petersen &amp;5a (2005) &lsquo;The influence of chronic exposure to antipsychotic medications on brain size before and after tissue fixation: A comparison of haloperidol and olanzapine in macaque monkeys&rsquo; <cite>Neuropsychopharmocology</cite> <b>30</b>: 1649&ndash;1661.
+</span></a> in primates, and that</li>
+
+<li>&lsquo;finding mental health patients who have not been treated medically has become <a class="fn">nearly impossible&rsquo;,<span>
+	R Bentall (2009) <cite>Doctoring the Mind: Is Our Current Treatment of Mental Illness Really Any Good?</cite> (NYU Press).
+</span></a> and too much of such treatment is of the &lsquo;we don&apos;t know what this will do, but let&apos;s collect some data&rsquo; variety.</li>
+
+</ul>
+
+<p>&lsquo;Chemical balance&rsquo; is not measurable in the brain, and in connection with psychotropic drugs is only a marketing buzzword. Making it meaningful would require measuring the concentration of a handful of molecules with a spacial accuracy of a few microns deep inside the brain. This we cannot do, now or in the foreseeable future.
+</p>
+
+<p>There is not a single objective test for any of the &lsquo;mental diseases&rsquo; voted into the 868-page <cite>Diagnostic and Statistical Manual</cite> by the Instinct-1-driven psychiatric industry, nor do the drugs prescribed purport to do more than treat &lsquo;symptoms&rsquo;. If an FDA-registered chemical does not work for one &lsquo;disease&rsquo;, it is renamed and prescribed for another. The most such chemicals can do is conceal the existence of an underlying physical condition that needs medical (not psychiatric) treatment. The opinion of medical experts looking at the <a class="fn">pharma-psychiatric<span>
+	If &lsquo;pharmaco-’ is the combining form for &lsquo;relating to drugs&rsquo;, then &lsquo;pharma-’ is the form for &lsquo;subservience to the pharmaceutical industry&rsquo;.
+</span></a> axis is that it engages in disease mongering: &lsquo;If you can come up with a label for a newly invented disorder [e.g., &lsquo;shyness&rsquo; is now called &lsquo;Social Anxiety Disorder&rsquo;, or SAD], the pharmaceutical industry will market a drug for it [Paxil], ghostwrite papers about it for medical journals, and buy ads in the journals. Academic psychiatrists put their names on the papers, the FDA approves the drug quickly on the basis of dubious clinical trials, psychiatrists diagnose the disorder in 10-minute interviews, prescribe the drug, and are rewarded by the pharmaceutical company with grants and honoraria. Everyone wins except the patients. It is &lsquo;a billion-dollar business model [Paxil rakes in G$3.3 annually] which by any rational definition is a <a class="fn">crime against humanity&rsquo;.<span>
+	Citizens’ Commission on Human Rights (2008) <cite>Making a Killing</cite>. (A free DVD from cchr.org)
+</span></a>
+</p>
+
+<p>Remember &mdash; always &mdash; that the objective of Big Pharma is to sell drugs, not to cure anyone. You can&apos;t sell drugs to healthy people. You <i>can</i> sell drugs that ameliorate symptoms to unhealthy people for the rest of their miserable lives.
+</p>
+
+<p>Drug giant Pfizer paid G$2.3 in a settlement for &lsquo;mispromoting drugs and paying kickbacks to doctors&rsquo; {<i>GW</i>  2009-09-11 p8}. &lsquo;At Pfizer I was expected to increase profits at all costs, even when sales meant endangering lives&rsquo;, said ex-Pfizer-sales-rep John Kopchinski. Does private profit really seem like a responsible business model for health care? The claim is always that developing new drugs is costly, but in practice most promising chemicals are found by academic researchers, and  &lsquo;development&rsquo; by industry is trivial organic chemistry, patenting all possible derivatives in case one proves marketable.
+</p>
+
+<p>My recommendation is to avoid psychotropic drugs, particularly the prescription variety, and above all, never, ever, let a school or anyone else give them to <a class="fn">your children.<span>
+	Learn about &lsquo;informed consent&rsquo;, ask for objective tests for syndromes and drug effectiveness, bring up the subjects of &lsquo;malpractice&rsquo;, &lsquo;conflict of interest&rsquo; and &lsquo;lawyers&rsquo;, consult CCHR.
+</span></a> Stay away from psychiatric screening. All drugs have &lsquo;side&rsquo; effects: psychotropic prescription drugs have induced obesity, hallucination, diabetes, kidney failure, heart failure, violence, addiction, suicide, school shootings, and serial murder in healthy people, and they kill c. 42,000 people a year. We have no idea about long-term effects, but given that list, they can hardly be beneficial. Individual differences matter: a pleasant trip for one person may be a psychotic horror for another at the same dose. Normal people have hanged themselves after a week of commonly prescribed anti-depressant. Entheogens are psychotropic drugs, and share these problems, less dangerous in the aggregate only because the financial incentives are smaller and the active principle less concentrated, more dangerous because dosage is uncontrolled. They do not bring you closer to any god. (My best guess is that they may be revelatory to people of limited imagination and those whose thinking is less than analytic.)
+</p>
+
+
+
+<a class="tro" href="#16" id="17">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC"  > Licensed Ministers </a></h3>
+<a class="tri" href="#18"> &#10836;&emsp;&emsp;</a>
+
+<p class="epi">[T]he measure of the civilization which any nation has attained is the extent to which it has curtailed the power of institutionalized religion. &mdash; Upton Sinclair
+</p>
+
+<p>To minimize the mismatch between religion and survival, we might demand government licensing for the pulpit &mdash; without grandfathering existing fundamentalists! The Bill of Rights prevents Congress from foisting a government-approved religion on us, but nothing prevents State or Federal licensing of professionals whose incompetence can harm people. The Religious Freedom Restoration Act of 1993 provided that &lsquo;Government shall not substantially burden a person&apos;s exercise of religion [&hellip;except] in furtherance of a compelling governmental interest&rsquo;, but the Supreme Court correctly held that this exceeded Congress&apos;s right of enforcement &lsquo;because it contradicts vital principles necessary to maintain separation of powers and the federal/state balance&rsquo; {95-2074}.
+</p>
+
+<p>We currently find a &lsquo;compelling governmental interest&rsquo; in licensing professionals in law, medicine, civil engineering, private detection, pharmacy, psychiatry, etc, where the burden of licensing is that it determines one&apos;s career. Jim Jones and the People&apos;s Temple in Guyana, Heaven&apos;s Gate in San Diego, the Branch Davidians of Waco, and Aum Shinrikyo (now Aleph) of Japan provide a prima facie case that unlicensed religion is more dangerous to society than, say, unlicensed psychiatry. Psychiatrists can damage individual paying clients; missionaries are a danger to the gullible masses. Lack of a license would not interfere with a person&apos;s own excercize of his religion, which is all that the Bill of Rights guarantees.
+</p>
+
+<p>Norwegian Statskirke ministers are required to have 8 years of <a class="fn">real university,<span>
+	Not all universities qualify. It would be invidious to name names, but you know who you are!
+</span></a> and to read Hebrew, Greek, and Latin &mdash; in other words, a professional education. We require that psychiatrists have an MD, internship, further training, psychoanalysis and an exam before they mess with <a class="fn">people&apos;s minds<span>
+	As indicated in the <i>Caveat Utor</i> section, licensing psychiatrists has not prevented massive abuse, nor has the &lsquo;watchdog&rsquo; Food and Drug Administration. Is this a reason for not trying to control abuse of the pulpit?
+</span></a> &mdash; yet we give this privilege to anyone &mdash; con-man, madman, ignoramus, thief &mdash; who claims to dispense religion. Even the preaching of &lsquo;harmless&rsquo; ignorance from the pulpit is bad for society, because of the pothodox propensity of True Believers to accept the pulpit as unquestioned truth.
+</p>
+
+<p>The pulpit needs an understanding of scientific method, and enough logic, thermodynamics, cosmology, and evolutionary biology so it won&apos;t talk arrant nonsense. This would give student ministers something useful to do in their 8 years of university. A properly balanced curriculum would fit them for many productive jobs, in the manner of a degree in English. Balance is also needed in the licensing law, to allow qualified laymen to preach on occasion. The objective is to remove ignorance, greed, and dogma from Sunday morning, not ideas and debate. It might be difficult to enforce licensing in rural churches, but the primary targets are media ministries, which are easy to control.
+</p>
+
+
+
+
+<a class="tro" href="#17" id="18">&#10835;&emsp;&emsp;</a>
+<a class="tro" href="#11"> &#9651;&emsp;&emsp;</a>
+<h2><a href="#TOC"  > INCREASING THE ETHICAL AND IDEAL CONTENT OF RELIGION </a></h2>
+<a class="tri" href="#01">&#10836;&emsp;&emsp;</a>
+<a class="tri" href="#19"> &#9650;&emsp;&emsp;</a>
+
+
+<p class="epi">The modern conservative is engaged in one of man&apos;s oldest exercises in moral philosophy; that is, the search for a superior moral justification for selfishness. &mdash; James K. Galbraith.
+</p>
+
+<p>The 10 Commandments of the Torah have been the touchstone of Western personal ethics for 3 millennia. It is not clear that they deserve this exalted status. In the first place, there is confusion about what was written on the stone &lsquo;tables&rsquo;. Moses twice spent 40 days without food and water, listening to YHVH laying down the rules, including details of offerings of badgers&rsquo; skins {Ex25:5, 35:7}, construction of the ark, its tongs and snuff dishes, and the clothing that Aaron must wear when approaching the altar &lsquo;that he die not&rsquo; {28:35, 35:19}.
+	The lethality of the ark has led to suggestions that it was in fact a large Leyden jar, chargeable by static electricity, and capable of holding a deadly charge for some time, which could be used for displays of impressive electrical arcs. (Benjamin Franklin knocked himself out experimenting with a half-liter Leyden jar.)
+</span></a> Two sets of stone tables carrying these instructions were needed, because Moses broke the first set, hand-written by YHVH {34:1}. YHVH made him write the 2nd set himself {34:28).
+</p>
+
+<p>Deuteronomy is more explicit, but less authoritative and much simplified, having in all probability been written much later with politics in mind. Here there are no 40 days, just YHVH speaking directly to the people. The first 4 commandments {Deut 5:7&ndash;15} are theological ritual dealing with tribal solidarity, not ethics. Three more prohibitions &mdash; killing, adultery, and theft {5:17&ndash;19} &mdash; have since moved from theological sins to legal crimes. If we accept society&apos;s definition of criminal behavior, Big Brother now wields the stick that keeps us in line, so Big Daddy no longer needs to.
+</p>
+
+<p>The ethical content of the Mosaic Commandments thus reduces to:</p>
+
+<ul>
+<li>5.  Honor thy father and thy mother {5:16};</li>
+<li>9.  Thou shalt not bear false witness {5:20}; and</li>
+<li>10. Thou shalt not covet {5:21}.</li>
+</ul>
+
+
+<p class="flu">This is well and good &mdash; but a bit thin and primitive.
+</p>
+
+<p>A second set of 10 Commandments from a more settled and philosophical era 1000 years later carries less supernatural baggage and expects more of us. Solon&apos;s advice to the citizens of Athens retains something of Moses, and adds 7 bits of practical guidance:
+</p>
+
+<ol>
+<li>Honor the gods.</li>
+<li>Have regard for your parents.</li>
+<li>Do not speak falsely.</li>
+<li>Trust good character more than promises.</li>
+<li>Do not associate with people who do bad things.</li>
+<li>Do good things.</li>
+<li>Do not be hasty in making friends, but do not abandon them once made.</li>
+<li>Learn to obey before you command.</li>
+<li>When giving advice, do not recommend what is most pleasing, but what is most useful.</li>
+<li>Make reason your supreme commander.</li>
+</ol>
+
+
+<p>Thus by 500 BCE we had already moved too far for fundamentalists, who unanimously prefer the dicta of their god to Solon&apos;s last suggestion.
+</p>
+
+<p>Around 250 CE, Mani&apos;s syncretism of &lsquo;Zoroastrian Dualism, Babylonian folklore, Buddhist ethics, and some small and superficial additions of Christian elements&rsquo; (as the <cite>Catholic Encyclopedia</cite> puts it) returned to a negative decalog, forbidding &lsquo;idolatry, mendacity, avarice, all killing, fornication, theft, seduction to deceit, magic, hypocrisy, and religious indifference&rsquo;.
+</p>
+
+<p>A superior Decalog was selected from a crowdsourced project of 2800 submissions to the <a href="http://www.atheistmindhumanistheart.com/">Atheist Mind Humanist Heart</a> website. Half of its suggestions are truths about the world that we have learned since the time of Moses; the boldface half are still commandments. With some editing, we have:
+</p>
+
+<ol>
+<li>We have the responsibility to consider others, including future generations, other species, and the interacting systems that keep the world alive.</li>
+
+<li><b>Do not treat others as you do not want to be treated. Think about their perspectives</b>.</li>
+
+<li>The scientific method is the most reliable way of understanding the natural world.</li>
+
+<li><b>Strive to understand what is most likely to be true, not to believe what you wish to be true</b>.</li>
+
+<li>There is no one right way to live.</li>
+
+<li><b>Be open-minded and be willing to alter your beliefs with new evidence</b>.</li>
+
+<li>All individuals have the right to control of their minds and  bodies.</li>
+
+<li>Belief in god is not necessary to be a good person or to live a full and meaningful life.</li>
+
+<li><b>Be mindful of the consequences of all your actions and recognize that you must take responsibility for them</b>.</li>
+
+<li><b>Leave the world a better place than you found it</b>.</li>
+</ol>
+
+<p>The Seven Fundamental Tenets of the <a href="http://www.patheos.com/blogs/progressivesecularhumanist/2016/01/satanic-temples-seven-tenants-are-morally-superior-to-ten-commandments/">Satanic Temple</a> add important boldfaced considerations:
+ </p>
+
+<ol>
+<li>Strive to act with compassion and empathy toward all creatures in accordance with reason.</li>
+
+<li><b>The struggle for justice is an ongoing and necessary pursuit that should prevail over laws and institutions.</b></li>
+
+
+<li><b>One’s body is inviolable, subject to one’s own will alone.</b></li>
+
+<li>The freedoms of others should be respected, <b>including the freedom to offend</b>. To willfully and unjustly encroach upon the freedoms of another is to forgo your own.</li>
+
+<li>Beliefs should conform to our best scientific understanding of the world. We should take care never to distort scientific facts to fit our beliefs.</li>
+
+<li>People are fallible. If we make a mistake, we should do our best to rectify it and resolve any harm that may have been caused.</li>
+
+<li>Every tenet is a guiding principle designed to inspire nobility in action and thought. The spirit of compassion, wisdom, and justice should always prevail over the written or spoken word.</li>
+</ol>
+
+
+
+<a class="tro" href="#18" id="19">&#10835;&emsp;&emsp;</a>
+<h3> Personal Ethics </a></h3>
+<a class="tri" href="#20">&#10836;&emsp;&emsp;</a>
+
+
+<p class="epi">If a man were called upon to fix the period during which the human race was most happy, he would without hesitation name that which elapsed from the accession of Nerva [96 CE] to the death of Marcus Aurelius [180 CE]. Their united reigns are possibly the only period of history in which the happiness of a great people was the sole object of government. &mdash; Edmund Gibbon
+</p>
+
+<p>Islam, as noted <a href="../_D/D15a.shtml#26">above</a>, formally prefers government by divine edict to government by popular will. Fundamentalist Christians aspire to the same status, but with radically different divine edicts. Enlightenment secularism (in which we recognize &lsquo;god&apos;s will&rsquo; as arbitrary bicamerality) &mdash; has done reasonably well at implementing the popular will in matters of state, as measured by immigration. Yet if we reject divine guidance in personal matters, one gets the feeling that many might feel a bit lost, wondering, &lsquo;How do I know what is right if a god doesn&apos;t tell me?’
+</p>
+
+<p>Details are always the difficult aspect, but the overall rule is straightforward: Personal ethics are reflexive. What if it were being done to you? For most people, most of the time, most situations resolve to the Golden Rule: <b>&lsquo;If you don&apos;t want it done to yourself, don&apos;t to it to other sentient beings&rsquo;</b>. This is usually adequate for interpersonal ethics. Sometimes one meets an ethical dilemma in which one has to pick the lesser of two evils, but, as in <cite>Sophie&apos;s Choice</cite>, there is no lesser. When this happens one does what one does, and denial and rationalization let us live with ourselves thereafter. Or not.
+</p>
+
+
+<hr>
+<table>
+<caption>
+<a class="tri" href="#T21.5">&#9664;&emsp;&emsp;</a>
+<a href="#TOC"   id="T21.6"> Table 21.6 </a>
+<a class="tri" href="#T21.1">&emsp;&emsp;&#9654;</a>
+Epitomization of Behavior. With a common opposition to Instinct-1 and timeless applicability, the maxims fall into 4 types: Universal impersonal observation (blue), Axial interpersonal guidance (cyan), Enlightenment generalizations (green), and the Gaian Evolutionary Imperative (yellow).
+</caption>
+
+<thead><tr><th colspan="2">Naturalistic Ethics</th></tr>
+</thead>
+
+<tfoot><tr><td colspan="2">
+* Perhaps not as close to being a household name as the others, Shudraka was an Indian king. All that we know about him is that on the basis of one play, &lsquo;The Little Clay Cart&rsquo; he is ranked with India’s other great dramatists, Bhavabhuti and Kalidassa. The first act contains this trenchant observation about the source of misbehavior, suggesting that the first goal of a king seeking civil harmony would be to see that his kingdom’s resources were so distributed that no citizen was in desperate straits. In a time when feudofascist governments seem determined to support the rich against the poor (calling it &lsquo;austerity&rsquo; and a virtue) his insight seems particularly relevant.<br>
+
+&dagger; Curiously, this idea comes from <cite>Also Sprach Zarathustra</cite>, where many readers get carried away by the <i>&Uuml;bermensch</i>, the Will to Power, and the Death of God.</td></tr>
+</tfoot>
+
+<tbody>
+<tr><td class="bgblu"><b>Diogenes</b></td>
+    <td class="bgblu">The <b>love</b> of money is the mother of all evil.</td></tr>
+<tr><td class="bgblu"><b>Shudraka*</b></td>
+    <td class="bgblu">The <b>lack</b> of money is the mother of all evil.</td></tr>
+
+<tr><td class="bgcyn"><b>Gautama</b></td>
+    <td class="bgcyn">Behave as though you would suffer the consequences of your own acts.</td></tr>
+<tr><td class="bgcyn"><b>Confucius</b></td>
+    <td class="bgcyn">Act to make your ancestors proud.</td></tr>
+<tr><td class="bgcyn"><b>Hillel</b></td>
+    <td class="bgcyn">That which you hate, do not do to others.</td></tr>
+
+<tr><td class="bggrn"><b>Kant</b></td>
+    <td class="bggrn">Act as though your behavior had the force of universal law.</td></tr>
+<tr><td class="bggrn"><b>Hutcheson</b></td>
+    <td class="bggrn">Work for the greatest happiness of the greatest number.
+  </td></tr>
+<tr><td class="bggrn"><b>Nietzsche</b></td>
+    <td class="bggrn">To blaspheme the earth is now the dreadfullest sin.&dagger;
+  </td></tr>
+
+<tr><td class="bgyel"><b>Lovelock</b></td>
+    <td class="bgyel">Leave the world in better shape for your children.
+    </td></tr>
+</tbody></table>
+
+
+<p>The major epitomizations of ethical behavior from the last 2500 years are collected in Table 21.6. While they are all useful, they differ in important ways. Diogenes resolved the question of deliberate evil, (but, because insufficient money is disastrous in a complex monetized society, most people are sure his observation applies only to those who have more money than they do). The Axial Age produced variants of the Golden Rule, making it possible for us to live in communities, but they suffer the universal failing of naturalistic ethics, having neither carrots or sticks to back them up. Without them we get failed states and auxipauses and chimpanzee politics, but the world goes on as it always has, and many people, preferring not to grow up, see no reason to give more than lip service to them. The Enlightenment extrapolated beyond the individual, looking for a more universal formulation, but adding little. One has to be very selective about Nietzsche.
+</p>
+
+<p>However, interpersonal ethics is not the real challenge. More serious is the need to complete the work of the Axial Thinkers and Enlightenment by finding a persuasive philosophical fact-based rationale for civilized behavior, where <i>civilized</i> is shorthand for &lsquo;Eirenic and Gaian&rsquo; &mdash; ie, &lsquo;religious&rsquo;. What <i>public</i> stance is there that can prevail over corporate greed and the only thing it understands: &lsquo;Maximize monetary return on investment&rsquo;? Any CEO, any MBA, will explain that this <i>is</i> the Golden Rule writ large. It is exactly what he wants for himself, so it must be what is best <a class="fn">for the world.<span>
+	&lsquo;What&apos;s good for [the CEO of] General Motors is good for the country.&rsquo; This turned out to be so far from true, that at the end, the President of the country had to fire the CEO of GM. British business schools are trying to teach MBAs &lsquo;corporate social responsibility&rsquo;, so that in 15 to 20 years &lsquo;socially sustainable&rsquo; concepts such as &lsquo;environmental protection, race and gender equality, workforce rights, and avoidance of destructive risk taking&rsquo; will have worked their way to the top levels of management {<i>GW</i> 2009-05-15 p43}. Too little, too late, but certainly a nice idea. With good parenting, they would have learned these things in childhood!
+</span></a>
+</p>
+
+<p>Lovelock managed to put universal evolutionary ethics as tersely as Hillel&apos;s Golden Rule. His approach has the world&apos;s biggest stick-and-carrot behind it, although it acts too slowly to be easily recognized. The carrot is survival of your genes &mdash; the very thing that you and Instinct-1 are all about. This is why we fall in love, think sex is fun, money good, and power worth conniving for. The stick is non-survival of our genes, for any species which systematically destroys the support system of the succeeding generation will quickly remove itself.
+</p>
+
+<p>The idea of leaving a better world for our children is one that must have crossed the mind of every parent worthy of the name. But the evolutionary reason for doing so &mdash; if we don&apos;t, we go extinct &mdash; is a key realization. Any number of feudofascist philosophers have claimed that we owe nothing to future generations (&lsquo;What has posterity ever done for us?’). This is the wrong end of the stick: We are someone&apos;s posterity, and the beneficiaries of what they did to improve the world. In the English Civil Wars, and the US Revolutionary War, people died so that we might enjoy the benefits guaranteed by the <a class="fn">US Constitution.<span>
+	A Guardian reader answered the <cite>Notes & Queries</cite> question, &lsquo;Has any war left both sides better off?’ with the suggestion that the American Revolution did exactly that.
+</span></a> We owe <i>them</i> a debt which we cannot repay &mdash; except by doing as much for posterity as they did. We could begin by re-instating the US Constitution.
+</p>
+
+<p>The self-centered attitude is, perhaps, suitable for adolescents, whose obligation to their genes is to stay alive long enough to <a class="fn">pass them on.<span>
+	Note that evolution has seen to it that the better adolescents are also equipped with a healthy dose of idealism and the ability to see that their parents&apos; generation is making a dog&apos;s breakfast out of the world they are going to inherit.
+</span></a> Recall the old saw about socialists: &lsquo;Anyone who is not a socialist at 20 has no heart; anyone who is still a socialist at 40 has no brain&rsquo; &mdash; the causal difference being the <a href="../_A/A01.shtml#06">neural rewiring</a> of the 30s. Much the same here, if less pithy: &lsquo;Anyone not in thrall to Instinct-1 at 20 will leave no descendants; anyone still in thrall to Instinct-1 at 40 is working toward extinction&rsquo;. A testable hypothesis is that if the wave of mature neural rewiring that sweeps forward in our 30s peters out before reaching the frontal lobes, it leaves behind a feudofascist.
+</p>
+
+<p>The idea that how we individually behave has any effect on the long-term survival of the species is a very recent discovery; not obvious to anyone except the evolutionary biologists of the last few decades; and most clearly articulated by James Lovelock. Lynn Margulis, E.O. Wilson, George Hutchinson, and others can claim equal credit for the ideas. John Muir, Aldo Leopold, and their ilk could all say, &lsquo;Yes, that&apos;s what I meant!’ Lovelock has been the first to acknowledge them &mdash; but he said it best:
+</p>
+
+<blockquote>But now it just happens, quite by accident and not by any conscious thought by myself or anybody else, that [geophysiological] Gaia does offer moral guidance. It does so because its rules are simple: any species that improves its environment favours the welfare of its progeny, whereas any species that adversely affects the environment dooms it for its progeny. And this is very moral. It gives us something to which we are accountable &mdash; the Earth itself. &mdash; James Lovelock, father of Gaia theory.
+</blockquote>
+
+
+
+
+<a class="tri" href="#19" id="20">&#10835;&emsp;&emsp;</a>
+<h3><a href="#TOC"> Empiricism, Semantics</a> and <a class="fn">Ontology<span style="font-weight:normal; font-size:1em;">
+	With apologies to Rudolf Carnap (1952) &lsquo;Empiricism, Semantics and Ontology&rsquo; reprinted in Carnap’s <cite>Meaning and Necessity</cite> (U. Chicago Press): 202&ndash;221.</span></a></h3>
+<a class="tri" href="#01"&emsp;&emsp;&emsp;&#9650;&emsp;&emsp;</a>
+
+
+<p>An aspect of Table 21.5 which may not be obvious is a qualitative difference between the epitomizations. Most of them involve value judgements and are impossible to quantify. <a class="fn">Philosophers<span>RF Kitchener (1994) &lsquo;Toward a critical philosophy of science&rsquo; in D Lamb <cite>New Horizons in the Philosophy of Science</cite> (Avebury, Aldershot): 4&ndash;25.</span></a> regard
+</p>
+
+<blockquote>ethical statements as matters of personal taste and not subject to rational justification; furthermore, since they have no epistemic standing and since facts and norms are categorically distinct, facts cannot be relevant to their epistemic standing. &mdash; [with verb tense changed to present]
+</blockquote>
+
+<p>More compactly, &lsquo;is&rsquo; and &lsquo;ought&rsquo; are categorically distinct, so (as often noted) one cannot deduce &lsquo;ought&rsquo; from &lsquo;is&rsquo;. However, &lsquo;ought&rsquo; and &lsquo;will be&rsquo; are not categorically distinct: &lsquo;will be&rsquo; follows as directly from &lsquo;ought&rsquo; as our actions follow our obligations, so any concern for the future, however slight, imposes ethics on our behavior.
+</p>
+
+<p>One might look hopefully at Hutchesons&apos;s &lsquo;greatest happiness&rsquo; and &lsquo;greatest number&rsquo;, but one cannot optimize 2 variables simultaneously. &lsquo;Happiness&rsquo; is difficult to measure, and it is not clear, as we face the imminent <a href="../_E/E20.shtml#15">reduction</a> of human biomass, that the &lsquo;greatest number&rsquo; is in any sense desirable.
+</p>
+
+<p>However, Lovelock&apos;s epitomization is a different matter. There will be different definitions of &lsquo;improving the environment&rsquo; and &lsquo;welfare of progeny&rsquo;, but (as shown in the next 2 chapters) facts are relevant to these concepts and they are subject to rational and economic justification, so that unlike the other ethical prescriptions, they can be analyzed, quantified, costed, and reduced to specific political choices on which a group consensus can be reached. Coyotl&apos;s prophets failed to understand the need for self-preserving behavior, or to explain it in ways that alpha males and fundamentalists can understand, so it is a case of Gaia or extinction.
+</p>
+<span class="fr">◼</span>
+
+<br><hr><div class="cen">
+<a href="../_E/E20.shtml">&vltri;&emsp;&emsp;</a>
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+<a href="../_F/F22.shtml">&emsp;&emsp;&vrtri;</a>
+</body></div></html>

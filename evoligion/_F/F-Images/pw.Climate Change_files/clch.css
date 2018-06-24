@@ -1,0 +1,420 @@
+<!-- Short version for JW -->
+
+
+/* tables still need 'cellspacing="0" in the markup   */
+table {
+border-collapse : collapse	;
+border-spacing  : 0			;
+margin          : 0, auto	;
+font-size       : 13pt		;
+font-family     : Arial, Verdana, sans-serif ;
+}
+
+html, body {
+background : #fff8e0;
+margin     : 4px;
+font-size  : 14pt;
+line-height: 120%;
+}
+				/*   A N C H O R S   */
+a.rf span {
+position : relative ;
+display  : none ;
+margin	 : 4px ;
+}
+
+a:link, a:visited {
+text-decoration : none ;
+color           : blue ;
+}
+a:hover 		{
+text-decoration : underline ;
+color           : purple ;
+}
+up				{
+font-size		: 1.93em ;
+text-align 		: center ;
+}
+
+/* Navigation arrows, not underlined */
+a.up:link, a.up:visited {
+text-decoration : none ;
+color           : blue ;
+font-weight     : bold ;
+}
+
+a.up:hover {
+text-decoration : none ;
+color           : blue ;
+font-weight     : bold ;
+}
+				/*  B L O C K   Q U O T E   */
+blockquote {
+margin      : 0 50px 10px 90px ;
+text-indent : 0       ;
+text-align  : left    ;
+font-size   : 1em     ;
+color       : Brown   ;
+line-height : inherit ;
+}
+
+figure {
+margin : 0 ;
+}
+
+.fl {
+float  : left ;
+margin : 4px 16px 4px 0px;
+}
+
+.fr {
+float 			: right ;
+margin-right 	: 0 ;
+}
+
+.fc {
+margin-left	: auto	;
+margin-right: auto	;
+}
+
+
+		/*   F I G U R E    C A P T I O N   */
+figcaption {
+font-size 	: 1em     ;
+line-height : inherit ;
+margin 		: 10px 8px 12px inherit ;
+text-indent : 0px   ;
+color 		: Brown ;
+text-align 	: left  ;
+font-size   : smaller;
+}
+
+
+
+		/*    H E A D I N G S    */
+
+h1, h2, h3, h4, h5, h6 {
+margin : 12px 10px 4px inherit;
+line-height : 125%;
+}
+
+h1 {
+text-align	 : center     ;
+font-variant : small-caps ;
+font-size    : 1.93em     ;
+color        : black      ;
+font-weight  : 200        ;
+}
+
+
+h0 { mar gin : 12px, -5px, 4px,  -5px ; }
+
+h2 {
+text-align	 : center    ;
+font-variant : small-caps;
+font-size    : 1.5em;
+color        : black;
+margin-top	 : 24px;
+}
+
+h3 {
+font-weight	: 700 ;
+}
+
+h4 {
+font-style : italic;
+}
+
+h5 {
+text-align	 : center;
+font-variant : small-caps;
+font-size	 : 1.25em;
+margin-top	 : -10px;
+}
+
+		/*   H O R I Z O N T A L   L I N E   */
+hr {
+display : inline-block;
+border: 0;
+margin: 4px 0 ;
+color: black;
+background-color: black;
+height: 2px;
+width: 100%;
+position   : relative ;
+top        : -12px ;
+line-height : 8px ;
+}
+
+				/*  I M A G E S   */
+
+.im {
+margin-left 	: -33px  ;
+vertical-align 	: middle ;
+float  			: left   ;
+}
+
+img.il {
+float			: left ;
+margin 			: 2px ;
+vertical-align 	: text-top ;
+width			: 32px ;
+height			: 32px	;
+}
+
+				/*   L I S T S   */
+
+ul, ol {
+list-style-position : inside ;
+}
+
+.nobul {
+list-style-type : none;
+margin-left     : -40px;
+}
+
+.li1 {
+margin-left : 70px ;
+text-indent : 0;
+}
+
+<!-- ol, ul {
+margin 		: 5px 10px 5px 50px ;
+font-size 	: 1em     ;
+line-height : inherit ;
+}
+
+.o4 {
+margin : 0 0 12px 120px;
+color : #054;
+}
+
+.o5 {
+margin : 10px;
+}
+-->
+				/*   P A R A G R A P H S   */
+p {
+margin 		: 5px 20px 5px inherit ;
+text-align  : left ;
+text-indent : 30px ;
+color		: Black ;
+line-height : 140% ;
+}
+
+
+.cen {
+text-align:center;
+}
+
+.flu, p.flu {
+text-indent : 0 ;
+}
+
+				/*   E P I G R A P H S   */
+p.epi	{
+margin      : 0 20px 10px 80px ;
+text-indent : 0       ;
+text-align  : left    ;
+font-size   : 1em     ;
+color       : #066    ;
+line-height : inherit ;
+}
+
+.rc {
+color         : red;
+text-align    : center;
+font-weight   : bold;
+letter-spacing: 1px;
+}
+
+			/*  T A B L E S 	 */
+table
+{
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-width: medium;
+	margin: 0, auto;
+	font-size: 12pt;
+	font-family: "Arial", Verdana, sans-serif;
+}
+
+td.red, tr.red, .red {
+background-color : #00d8d0 ;
+font-weight      : bold ;
+}
+
+td, th {
+border    : black solid medium ;
+font-size : 13 px ;
+padding   : 3px ;
+}
+
+th {
+font-variant     : small-caps ;
+background-color : #eee       ;
+font-size        : 1.1em      ;
+}
+
+tfoot {
+border-top       : double, 3px ;
+text-indent      : 0 ;
+padding          : 3px
+font-size        : 13pt ;
+background-color : transparent ;
+color            : SaddleBrown ;
+text-align		 : Left ;
+}
+
+			/*   T A B L E   C A P T I O N   */
+caption {
+font-size     : 1em  ;
+line-height   : 1.4  ;
+margin-bottom : 10px ;
+text-indent   : 0    ;
+color         : brown;
+text-align    : left ;
+min-width     : 80%  ;
+}
+
+/*   T R I A N G L E S:   L A S T, N E X T   */
+
+a.tri  	{
+font-size 		: 0.7em	;
+font-weight     : 800   ;
+text-decoration	: none	;
+}
+
+a.trs	{		/*	 S M A L L   V E R S I O N	*/
+font-size 		: 0.5em	;
+font-weight     : 900   ;
+text-decoration	: none	;
+}
+
+			/*   A N C H O R S   */
+a	{
+text-decoration : none ;
+color			: blue ;
+}
+
+a.rf:link, a.rf:visited					{
+text-decoration	: underline ;
+color			: blue ;
+}
+
+a.rf:hover	span	{
+position        : absolute;
+left       		: 10px  ; /* left  margin */
+margin-right	: 10px	; /* Keep right edge of box on screen */
+display     	: block ;
+z-index		    : 1 ;
+color       	: black  ; /* text */
+font-family 	: "Arial", sans-serif ;
+font-weight     : normal ;
+text-decoration : none   ;
+font-size   	: 12pt   ;
+background-color: #fcfaff ;
+text-indent 	: 0      ;
+outline     	: 2px solid blue ;
+padding     	: 3px    ;
+float 			: left   ;
+}
+
+
+a span {
+position : relative ;
+display  : none ;
+color    : purple ;
+}
+
+a:hover 		 {
+text-decoration : none ;
+color           : purple ;
+}
+
+ul.ui {
+list-style-type : none;
+margin-left     : 0;
+}
+
+				/*   3 - C O L U M N S   */
+.newspaper	/* For Table of Contents */
+{
+margin         : 0 0 0 2px ;
+padding              : -20p ;
+-webkit-column-count : 3;  /* SafariOperaChrome */
+   -moz-column-count : 3;  /* Firefox */
+        column-count : 3;
+
+-webkit-column-gap: 1em;
+   -moz-column-gap: 1em;
+        column-gap: 1em;
+
+-webkit-column-rule-style : solid;
+   -moz-column-rule-style : solid;
+        column-rule-style : solid;
+
+font-size			 : 12pt;
+line-height			 : 1.2 ;
+font-family			 : "Arial", Verdana, sans-serif ;
+}
+
+.ruler {
+font-size	: 10pt ;
+font-family	: "Lucida Console", Monaco, monospace ;
+margin		: 0    ;
+text-align	: left ;
+color		: #d70;}
+
+
+.2col	/* For Senators */
+{
+margin         : 0 0 0 30px ;
+padding              : -20p ;
+-webkit-column-count : 2; /* SafariOperaChrome */
+   -moz-column-count : 2; /* Firefox */
+        column-count : 2;
+
+-webkit-column-gap: 1em;
+   -moz-column-gap: 1em;
+        column-gap: 1em;
+
+-webkit-column-rule-style : solid;
+   -moz-column-rule-style : solid;
+        column-rule-style : solid;
+
+font-size			 : 12pt;
+line-height			 : 1.2 ;
+font-family			 : Arial, Verdana, sans-serif ;
+}
+
+
+.tcen 		/* Standard page-centered table */
+{
+border : black solid medium;
+margin : 0px auto 4px auto;
+color  : black;
+border-collapse: collapse;
+}
+
+.tcen2 		/* Standard page-centered table */
+{
+border : black solid medium;
+margin : 0px auto 4px auto;
+color  : black;
+border-collapse: collapse;
+font-size : .90em ;
+line-height : 105% ;
+}
+
+
+				/* Ch. 22	“warm interglacial”	*/
+.t22	{
+margin          : 0 30px ;
+border-color    : 00transparent ;
+background-color: #e0f0e0 ;
+color           : #603 ;
+font-size       : 0.85em ;
+text-indent     : 30px ;
+line-height     : 1.5 ;
+}

@@ -1,0 +1,2376 @@
+<!DOCTYPE html>
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+<title>pw.Climate Change</title>
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+
+<link rel="stylesheet" type="text/css" href="pw.Climate%20Change_files/clch.css">
+<link rel="stylesheet" type="text/css" href="pw.Climate%20Change_files/anchors2.css">
+
+<style>
+body {
+margin-left		: 2px;
+background-color: #fff ;
+}
+
+.cnn {
+margin		: 2px auto ;
+text-align	: center;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="pw.Climate%20Change_files/socialwidgets.css"></head>
+
+<body id="HED">
+<div class="cnn">
+<header id="TOC">
+
+
+<h1>CLIMATE&nbsp;CHANGE</h1>
+
+<p class="cnn">
+© Benjamin F. Becula (2017)<br>
+NSF supported, so permission granted for government use.</p>
+</header>
+
+
+<!-- #include virtual="TocCC.shtml" -->
+
+<h1 style="margin:6px;">Table of contents</h1>
+</div>
+<div class="ruler"><span style="opacity:0;">
+....|....|....|....|....|</span>For   best display (halflandscape   page):<span style="line-height:0%;"><br>
+  Adjust zoom and page width<span style="font-size:3em;">|</span> until  these lines  match <span style="font-size:3em;">|</span>those in the table below.</span><br><!--
+....|....1....|....2....|....3....|....4....|....5....|....6....|....7....|....8....|....9....|....0 -->
+
+</div>
+
+<nav class="newspaper">
+<div><style scoped="">
+:scope
+a:link    {color : midnight blue ; text-decoration: none ;
+a:hover   {color : tyrian purple ; }
+a:active  {color : tomato        ; }
+a:visited {color : midnight blue ; }
+</style>
+
+
+<ul class="nobul">
+<li><a href="#01">GLOBAL&nbsp;HEATING</a></li>
+<li><a href="#02"><br>THE&nbsp;FACTS</a></li>
+<li><a href="#03">The&nbsp;Short&nbsp;Version</a></li>
+<li><a href="#F0">--F0&nbsp;Global&nbsp;Heating</a></li>
+<li><a href="#F1">--F1&nbsp;Constant Radiation Temperature</a></li>
+<li><a href="#T0">--T0&nbsp;1st-order Calculation</a></li>
+<li><a href="#F2">--F2&nbsp;Consequences</a></li>
+<li><a href="#3.5">How to tell</a></li>
+
+<li><a href="#04"><br>THE&nbsp;FUD*</a></li>
+<li><a href="#T1">--T1&nbsp;Media&nbsp;Inaccuracy</a></li>
+<li><a href="#05">Biased Data?</a></li>
+<li><a href="#5.5">Some Confusions</a></li>
+<li><a href="#F3">--F3&nbsp;Vostok&nbsp;Data</a></li>
+<li><a href="#F4">--F4&nbsp;Early&nbsp;Methane</a></li>
+<li><a href="#06">Melting&nbsp;the&nbsp;Ice</a></li>
+<li><a href="#F5">--F5&nbsp;Antarctic&nbsp;Ice&nbsp;Loss
+</a></li>
+<li><a href="#F6">--F6&nbsp;Arctic&nbsp;Sea-Ice&nbsp;Loss
+</a></li>
+<li><a href="#07">Denatured&nbsp;People</a></li>
+
+<li><a href="#08"><br>THE&nbsp;DETAILS</a></li>
+<li><a class="li2" href="#09">1.&nbsp;It's&nbsp;Happening
+</a></li>
+<li><a class="li2" href="#10">2.&nbsp;We&nbsp;Cause&nbsp;It</a></li>
+<li><a class="li2" href="#11">3.&nbsp;Corrective Action</a></li>
+<li><a href="#F7">--F7&nbsp;Orbital&nbsp;Solar&nbsp;Power
+</a></li>
+<li><a class="li2" href="#12">4.&nbsp;Action is Cost Effective</a></li>
+<li><a href="#F8">--F8&nbsp;Procrastination</a></li>
+<li><a class="li2" href="#13">5.&nbsp;Your Grandchildren</a></li>
+<li><a class="li2" href="#14">6.&nbsp;Poor Grandchildren</a></li>
+<li><a class="li2" href="#15">7.&nbsp;Stupidity&nbsp;+&nbsp;Greed
+</a></li>
+<li><a class="li2" href="#16">8.&nbsp;Psychological Armoring</a></li>
+
+<li><a href="#17"><br>MODELS, DATA&nbsp;AGREE</a></li>
+<li><a href="#F9">--F9&nbsp;28-Year&nbsp;Model</a></li>
+<li><a href="#F10">--F10&nbsp;Ice&nbsp;Volume </a></li>
+<li><a href="#18">Permian&nbsp;Extinction</a></li>
+<li><a href="#F11">--F11&nbsp;Recent&nbsp;Heating</a></li>
+<li><a href="#19">Leave in Ground</a></li>
+<li><a href="#T2">--T2&nbsp;Extrapolation</a></li>
+<li><a href="#F12">--F12&nbsp;Quixotic&nbsp;Expectations</a></li>
+
+
+<li><a href="#20"><br>THE&nbsp;GREENHOUSE</a></li>
+<li><a href="#F13">--F13&nbsp;Surface&nbsp;Temperature</a></li>
+<li><a href="#21">Some&nbsp;Complexities</a></li>
+<li><a href="#T3">--T3&nbsp;Radiative&nbsp;Forcing</a></li>
+
+<li><a href="#22"><br>PLANETARY&nbsp;LIMITS</a></li>
+<li><a href="#T4">--T4&nbsp;Boundaries</a></li>
+</ul></div></nav>
+<hr style="margin-top:14px; height:3px;">
+* ‘Fear, Uncertainty, Doubt’ See Gene Amdahl's comment on <a href="https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt#Definition">Wikipedia.</a>
+
+<h1>
+<a class="tri" href="#22">▼  </a>
+<a href="#TOC" id="01"> GLOBAL HEATING </a>
+<a class="tri" href="#02">  ▽</a>
+<a class="trs" href="#02">  ▽</a>
+</h1>
+
+<p class="epi">You almost couldn't design a problem that is a worse fit 
+with our underlying psychology. Climate change is not immediate, its 
+causes are invisible, its consequences seem unrelated, and it is 
+faceless. It has none of the features that evolution has taught us to 
+recognize as a threat. — paraphrase of <a href="http://grist.org/climate-energy/whats-the-best-way-to-communicate-about-climate-change-this-expert-offers-some-insights/">Anthony Leiserowitz</a>.
+</p>
+
+<p>Climate change includes numerous phenomena.
+All of them come from an increase in the altitude of the Earth's 255°K 
+(-1°F) radiation level. This temperature is governed by solar input and 
+the albedo (reflectivity) of the Earth. Its altitude is controlled by 
+the infrared optical depth, which depends upon ‘greenhouse gasses’. 
+‘Greenhouse gasses’ are any molecules with more than 2 atoms. They have 
+many internal energy levels that interact with infrared photons. This 
+means that they decrease the optical depth, which raises the altitude of
+ the radiation level, warms the Earth's surface, and changes our 
+climate.
+</p>
+
+
+
+
+<h2>
+<a class="trs" href="#01">△  </a>
+<a class="tri" href="#01">△  </a>
+<a href="#TOC" id="02"> THE FACTS </a>
+<a class="tri" href="#04">  ▽</a>
+<a class="trs" href="#03">  ▽</a>
+</h2>
+
+
+<p class="epi">[Climate change] is the greatest and widest-ranging market failure ever seen (<a class="fn"><cite>Stern Review</cite><span>
+	700 pp — but many summaries on the web. Click the blue ⬆  for more.
+</span></a><a href="http://webarchive.nationalarchives.gov.uk/20100407172811/http://www.hm-treasury.gov.uk/sternreview_index.htm"> ⬆</a>)
+ — because the price of all things climate-related is based on current 
+demand and supply, and takes no account of the distributed cost of 
+global heating, floods and droughts, biodiversity attrition, 
+agricultural losses, sea level rise, and other ‘externalities’.
+</p>
+
+<h3>
+<a class="trs" href="#02">△  </a>
+<a href="#TOC" id="03"> The Short Version </a>
+<a class="trs" href="#3.5">  ▽</a>
+</h3>
+
+<p class="epi">For anyone who keeps up with the march of science, 
+anthropogenic climate change was understood, anticipated, and 
+noncontroversial a century ago:
+</p>
+
+<ul style="color:#066; font-size:smaller;">
+<li>1824, Fourier: The atmosphere traps heat.</li>
+<li>1861, Tyndall: Changes in CO₂ might explain climate change.</li>
+<li>1896: Arrhenius outlines the effects of anthropogenic CO₂.</li>
+<li>1936, Callendar: Doubling CO₂ will raise temperature 2°C.</li>
+<li>1961, Keeling: Fossil-fuel use is steadily <a class="fn">increasing CO₂.<span>
+	I was hired, fresh out of grad school, on Keeling's recommendation, 
+because he intended that I should join his group as a post-doc. Roger 
+Revelle thought I was too old for post-doc'ing and annointed me 
+Assistant Professor. Keeling was doing first-rate science and the needed
+ response was obvious, so it never occurred to me — imbued with the 
+idealism and naïveté of the ivory tower — that something as banal as 
+campaign contributions could keep the US from responding immediately and
+ intelligently to a clear and present danger. I didn't see why Keeling 
+needed me, so with interesting problems of my own lacking obvious 
+answers I went my own way — thereby missing my chance to become a 
+household name.
+</span></a></li>
+
+<li>7th-grade science known to everyone who has been paying attention:</li></ul>
+
+<ul class="o5" style="color:#066; font-size:smaller;">
+<li>Adding CO₂ increases the altitude from which infrared radiation can escape.</li>
+<li>The radiation temperature of the Earth — a constant set by solar input — is at this altitude.</li>
+<li>Below this altitude, temperature increases <a class="fn">adiabatically<span>
+	‘Adiabatic’ means that no heat transfer is involved in raising the 
+temperature. The increase comes from compressing the gas, so that the 
+energy per unit volume increases.
+</span></a> with <a class="fn">pressure.<span>
+	Meteorologists routinely describe the troposphere as ‘well mixed’, 
+despite the frequent optical evidence of large regions of finely divided
+ condensed water floating around in it, and the layered appearance 
+frequently found in altocumulus lenticularis clouds as the local air 
+mass flows over a mountain. Still, the fact that the cloud stays put 
+while the air flows through it shows that the temperature stratification
+ remains in place while the air itself moves up and down.
+</span></a></li>
+<li>This is why snow is found on mountain tops and the Dead Sea is hot.</li>
+</ul>
+
+<ul style="color:#066; font-size:smaller;">
+<li>1972, Sawyer: By 2000, CO₂ will increase by 25% and temperature by 0.6°C.</li>
+<li>2003, Root: 1200 less intelligent species have responded to global heating by changing their behavior. <span class="rc">We are not among them. In fact, our ecocidal misbehavior is accelerating.</span></li>
+<li>2016, Hansen: Children are suing the government for the harm they 
+will endure if we continue to use fossil fuels. Defendant status was 
+granted to three fossil-fuel-industry trade associations, representing 
+nearly all of the world's largest fossil fuel companies, who called the 
+case ‘a direct, substantial threat to our businesses’.</li>
+<li>2017, Republicans finally  notice something is happening, and issue an apparently workable <a href="https://www.clcouncil.org/wp-content/uploads/2017/02/TheConservativeCaseforCarbonDividends.pdf">fiscal response,</a> possibly in time to do some good.
+</li>
+</ul>
+
+<p>There was much we could have done with a century of advance warning  .
+ The problem is that known, profitable business-as-usual always seems 
+more important than precautions against unknown dangers. We cannot 
+predict the detailed dangers of climate change except in the broadest 
+terms. Despite the seminal paper mentioned in the epigraph, climate 
+science is frontier science. It is perhaps the most complex problem that
+ we have tackled. The number of disciplines that must be mastered is 
+large. Their interactions (which produce the stochastic weather whose 
+integration is climate) can be subtle and counterintuitive. The 
+resulting uncertainty, together with Leiserowitz's epigraph and 
+Congress's vested interests, explain why limiting CO<sub>2</sub> production is understood as an emergency priority by a few and a scam by many.
+</p>
+
+<p>We are fortunate that the simple model described here works as well 
+as it does. Its many assumptions do not render it inaccurate, nor do its
+ glaring omissions. Measuring the altitude of the ‘255°K radiation 
+level’ is trivial. Predicting its future development is an abstraction 
+of worldwide data about land-surface reflectivity, aerosol composition, 
+cloud droplet size, concentration, and distribution, and gas-photon 
+interactions, requiring 6-dimensional integration (3D spatial + 
+composition + concentration + wavelength) over the spectrum of 
+interactions (with light, and with eachother) of some 200 time-varying <a class="fn">chemical species.<span>
+	I'm toying with a pseudo-mathematical formalism like this:<br>
+	Climate = ∭∭∭∫ 𝕱(c,λ,I, θ,φ,z, a,o,t, 𝔛) dcdλdI dθdφdz dadodt d𝔛<br>
+	Where the symbols, and limits of integration, are:<br>
+	c, concentration of greenhouse gasses; over the range of radiatively active atmospheric constituents<br>
+	λ, wavelength; across the radiation spectrum<br>
+	I, radiation intensity; solar spectrum, seasonal variation<br>
+	θ, latitude; pole to pole<br>
+	φ, longitude; around the globe<br>
+	z, altitude; throughout the atmosphere<br>
+	a, heat transported by the atmosphere<br>
+	o, heat transported by ocean currents<br>
+	t, time; decadal to millennial, by day or hour<br>
+	𝔛, whatever I’ve left out<br>     /
+	𝕱, the forcing function; largely unknown, including quantum radiation 
+process, anthropogenic chemical production, ocean circulation, etc, etc.
+ — except that it is meaningless to the non-mathematical and the forcing
+ function is, after all, equivalent to the ultimate Earth-System 
+computer model.
+</span></a> The art of making simple models is to learn what 
+simplifications do not destroy utility. The model here I owe to a 
+one-sentence explanation of climate change by Neil Donahue, Director of 
+the Steinbrenner Institute for Environmental Education and Research at 
+Carnegie Mellon. The blunders are my own.
+</p>
+
+<p>Let me emphasize again that the heating is real. 1200 other species, 
+more attuned to their environments than we are, have already altered 
+their ranges, abundances, migration patterns, seasonal activities, and 
+species interactions. Europe is now warmer than it has been for 5300 
+years (if not 120,000 years). We know this because otherwise Ötzi the 
+Ice Man would have thawed and decomposed. Climate is always changing. 
+The Medieval Warm Period and Little Ice Age (local European events) had 
+something to do with vulcanism and the circulation of the North Atlantic
+ Ocean. The Sahara has been grassland. Coastal areas, once well below 
+sea level, today hold our most socially and technologicaly advanced 
+cultures. Still, when we know that we are driving such changes, and when
+ they spell trouble for agriculture, northward spread of tropical 
+diseases, and flooding of coastal cities, does it not seem 
+counterproductive to expedite them just to line the pockets of the 1%? 
+(This is the only excuse I can find to explain the lack of Congressional
+ action on climate change. What have I missed?)
+</p>
+
+<p>The <a class="fn">superficial problem<span>
+	The deep problem is how one persuades a person connected to the real 
+world only through the stock market that facts and data and logic are 
+important, <i>even when they disagree with the market</i>. We failed, 
+dramatically, to do this in 1929 (and a few of them withdrew from gene 
+pool, but too late to do much good) and we have failed consistently 
+since ~1970, and I haven't a clue how to deal with this problem. Like 
+most scientists, I carry on with facts and data and logic and hope that 
+some rubs off. It's a frustrating job, leading horses to water!
+</span></a> is shown in Fig. 0. The data is noisy, which makes it very 
+hard to see small trends. The modeller's response is to separate noise 
+from signal, which can be done by subtracting 2 simple equations from 
+the ‘climate’ data on the left, leaving the ‘weather’ data on the right.
+</p>
+
+<figure>
+<img class="fc" src="pw.Climate%20Change_files/1_GlobalHeating.jpg" alt="../JW/_F/1_GlobalHeating.jpg" width="90%">
+
+<figcaption>
+<a class="tri" href="#F13">◀  </a>
+<a href="#TOC" id="F0"> Fig. 0. </a>
+<a class="tri" href="#F1">  ▶</a>
+Global Heating. <b>Left:</b> The smooth curve is the best-fit 
+exponential. It closely matches anthropogenic CO₂ production, with about
+ half of the CO₂ absorbed by and acidifying the ocean. The shaded 
+oscillation (1900–1950) was first spotted by oceanographer <a class="fn">Wallace Broecker<span>
+	WS Broecker (1975) ‘Man's oxygen reserve’ <cite>Science</cite> <b>189</b>: 460–463.</span></a>
+at a time when Big Oil pretended that the heavy horizontal line (an 
+80-year pseudo-stillstand) was real and claimed that the lack of 
+increase between 1900 and, ultimately, the late 1970s, ‘proved’ that 
+global heating <a class="fn">was not happening.<span>
+	Moral: <i>Ignore advertizing</i>. If corporations were persons they'd 
+be incarcerated as dangerous sociopaths. By the end of 2015, it became 
+apparent that Big Oil had long known a great deal about global heating, 
+and had chosen to lie about it. So far, no Boards of Directors have 
+faced a firing squad for this, but I don't know why not.
+</span></a> This was later admitted to have been a deliberate commercial
+ lie, as their scientists were as competent as anyone's. After wartime 
+ship records were <a class="fn">digitized<span>
+	EC Kent, SD Woodruff, DI Berry (2007) ‘Metadata from WMO Publication 
+No. 47 and an assessment of voluntary observing ship's observation 
+heights in ICOADS’ <cite>J Atmos Ocean Technol</cite> <b>24</b>: 214–234.
+</span></a>, it became clear that ‘the sudden drop in [sea-surface temperatures (SST)] in late 1945 is consistent with’ changes in the way <a class="fn">SST was measured<span>
+	DWJ Thompson &amp;3a (2008) ‘A large discontinuity in the mid-twentieth century in observed global-mean surface temperature’ <cite>Nature</cite> <b>453</b>(#29): 646–649.
+</span></a> (bucket vs engine cooling-water intake). Correction can be as much as 0.3°C. <b>Right:</b>
+ This is what would be happening in the absence of fossil-fuel 
+consumption and Wally's Wiggle, (both removed by subtraction of simple 
+equations, implying simple underlying processes). Some of the low points
+ are associated with large volcanic eruptions.
+</figcaption> </figure>
+
+
+<p>There are 2 important <a class="fn">temperatures<span>
+	Just as there are 2 temperatures for the Earth, so too can a single 
+molecule have 2 temperatures. This is important for thinking about the 
+complexities of radiative transfer within the atmosphere. Its <i>thermometric</i> temperature, measured when it hits a solid object, is a function of its velocity. Its <i>bolometric</i>
+ temperature, meaured by the radiation it emits, is a function of its 
+electronic excitation, and these are only statistically in equilibrium.
+</span></a> to consider in this discussion. The first is the radiation 
+temperature of the Earth. Because energy is conserved (the First Law of 
+Thermodynamics, and unlike human rules, a law that has never been 
+observed to fail), energy leaving the Earth is equal to the energy it 
+received from the sun. The energy is the same: the temperature of the 
+energy is different because the receiving and exporting areas differ by a
+ factor of 4, as shown in Fig. 1.
+</p>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/13_SteadyState.jpg" alt="../JW/_F/13_SteadyState.jpg" width="50%">
+
+<figcaption>
+<a class="tri" href="#F0">◀  </a>
+<a href="#TOC" id="F1"> Fig. 1 </a>
+<a class="tri" href="#F2">  ▶</a>
+The Constant Radiation Temperature. The earth's steady-state <i>radiation</i> temperature depends upon 3 nearly invariant quantities: the incoming energy from the Sun, 1368±2 W/m<sup>2</sup>
+ over the intercepted area; the fraction that is reflected (30±2%), and 
+the emissivity of the earth (≈1). The reflected fraction, or albedo, 
+amounts to some 400 W/m<sup>2</sup>, leaving 960 W/m<sup>2</sup> to be radiated by the spherical area. The <i>radiation</i> temperature of the earth is then 255°K (-18°C or -1°F). The mean <i>surface</i>
+ temperature is 33°C warmer; this difference is the ‘greenhouse effect’,
+ and it is set by the altitude of the radiation level. The 2 
+temperatures differ by an average of  6.5°/km, the ‘atmospheric lapse 
+rate’ (which varies as the humidity of the atmosphere varies). This puts
+ the average radiation level close to 5 km.
+</figcaption></figure>
+
+
+<p>99% of the visible (short-wave) solar and infrared (long-wave) earth 
+radiation — the orange and red outgoing arrows in Fig. 1 — lie on 
+opposite sides of the 4-micron wavelenth, and so are easily separable by
+ satellites.) The CERES (Clouds and the Earth's Radiant Energy System) 
+satellite recorded a mean long-wave energy emission of 239 W/m<sup>2</sup>
+ for 2009 (compared to the 240 of Fig. 1), showing that this simple 
+model is right on target. The ‘radiative forcing’ responsible for the 
+observed 0.8°C increase in mean surface temperature is calculated (to 1 
+significant figure) in Table 0.
+</p>
+
+<table style="margin:0 20px 0 140px; table-layout: fixed;">
+<caption style="margin: 8px; caption-side: right;">
+<a class="tri" href="#T4">◀  </a>
+<a href="#TOC" id="T0"> Table 0. </a>
+<a class="tri" href="#T1">  ▶</a><br>
+First-order calculation<br>
+of <a class="fn">energy density<br><span>
+	The relation beween radiated energy density E and temperature is the Stefan-Boltzmann law, E = εσT<sup>4</sup>, where Stefan’s constant, derived from other constants of nature, is σ = 5.67·10<sup>-8</sup> W/m<sup>2</sup>T<sup>4</sup> and ε is 1 for a blackbody and a good approximation for the Earth.
+</span></a>
+corresponding to<br>
+an 0.8°C mean<br>
+temperature increase.
+</caption>
+
+<tbody>
+<tr><th><div style="width: 100px"></div></th>
+	<th><div style="width: 170px">E/(W/m<sup>2</sup>)</div></th>
+	<th><div style="width:  25px"></div></th>
+	<th><div style="width:  55px">T/°K</div></th></tr>
+<tr><th> Then︎ </th><td> 1368·0.7·0.25 = 239.40 </td>
+	<td> ➡︎ </td><td>254.91</td></tr>
+<tr><th> Increment︎ </th><td>  </td>
+	<td> ︎ </td><td> +0.8</td></tr>
+<tr><th> Now︎ </th><td style="text-align:right;"> 242.42 </td>
+	<td> ⬅︎ </td><td>255.71</td></tr>
+<tr><th> Increment︎ </th><td> + 3.02 or 1.26%</td>
+	<td> ︎ </td><td>  </td></tr>
+</tbody></table>
+
+<p>The energy input is the 1368 W/m<sup>2</sup> of the solar constant 
+measured at the top of the atmosphere, minus 30% for immediate 
+reflection by clouds and snow cover, divided by 4 for the ratio of the 
+areas of sphere and circle. Over the time period of interest, the 
+maximum change in this number is 0.05 W/m<sup>2</sup>, which is insignificant compared to the 3 W/m<sup>2</sup> radiative forcing estimated in Table 0. This means that whatever is changing is internal to the earth's atmosphere.
+</p>
+
+<p>Table 0 is a bit misleading, because the energy increment is not an 
+increase in incoming energy, but an eqivalent ‘forcing function’ which 
+tells us how much additional energy would be required to replicate the 
+effect of greenhouse gasses in raising the radiation level.
+</p>
+
+<p>We are looking at changes on the order of 1% in measured and calculated values. Intuition tells us that 1% is not an alarming
+number. After all, the <a href="https://cognitiveinvesting.com/2012/01/17/how-much-fluctuation-should-i-expect-of-the-stock-market/">stock market</a>
+ — the most important number in the life of the power elite — fluctuates
+ by 5.6% over the course of a quarter, and that is just noise compared 
+to the 9.25% expected annual profit. Why should we worry about 1% 
+changes?
+</p>
+
+<p>Figure 2 was Britain's attempt to answer to that question.
+</p><p>
+
+</p><p>The simplest <a href="#19">linear extrapolation</a> of 
+business-as-usual to the end of the 21st century leads to an immediate 
+temperature rise of 6.4°C, off the scale of Fig. 2. One of the major 
+criticism of the Stern Report was that it paid scant attention to 
+adaptation (living with climate change, the only course that ‘realistic 
+economists’ consider feasible). Unfortunately, a 6.4°C increase is not 
+something that we are likely to adapt to. It is a culture breaker of the
+ sort that has brought down 100 earlier cultures, catching them by 
+surprise and leaving their ruins in the sand.
+</p>
+
+<figure>
+<figcaption>
+<a class="tri" href="#F1">◀  </a>
+<a href="#TOC" id="F2"> Fig. 2 </a>
+<a class="tri" href="#F3">  ▶</a>
+Consequences. The British <a href="http://www.wwf.se/source.php/1169157/Stern%20Report_Exec%20Summary.pdf">Stern Review</a>
+ — the first comprehensive attempt to estimate the economics of climate 
+change — produced this diagram. Later work has focussed on improving the
+ new discipline of climate economics, and <a href="http://www.thegwpf.org/content/uploads/2016/10/Stern10b-2.pdf"><cite>The Stern Review Ten years on</cite></a> should be read in conjunction with the Stern Report itself. We are now at 400 ppm CO<sub>2</sub>
+ and a temperature increase of 0.8°C, and all of the topics intersected 
+by the 1° line are current problems. The extension of the 400-ppm line 
+in the upper graph includes delayed effects, such as methane release as 
+the surface temperature moves downward in permafrost. [THC is 
+thermohaline circulation, the 10,000 year cycle from deep-water 
+formation under ice shelves, ventilation of the ocean floor, gradual 
+rising, and return to the poles in surface currents such as the Gulf 
+Stream.]
+</figcaption>
+<img class="fc" src="pw.Climate%20Change_files/2_Stern66.png" alt="../JW/_F/2_Stern66.png" width="100%">
+</figure>
+
+
+<p>The 2016 US election installed people in government who deny the idea
+ of climate change, so we will probably get to observer these predicted 
+effects. This will provide the ‘empirical evidence’ that deniers keep 
+asking for.
+</p>
+
+<h3>
+<a class="trs" href="#03">△  </a>
+<a href="#TOC" id="3.5"> How to tell</a>
+<a class="trs" href="#04">  ▽</a>
+</h3>
+
+<p>Taking into account the discussion above, the simplest way to tell 
+whether someone understands climate change is to ask the key questions. 
+These are:
+</p>
+
+<ol>
+<li> What is the radiation temperature of the Earth?   — [255°K, -18°C, -1°F]
+</li><li> What is its mean annual surface temperature? — [288°K, 15°C, 58°F]</li>
+<li> In a few words, why do these differ? — [They are at different altitudes, with temperatures related by the lapse rate.] </li>
+</ol>
+
+<p>Equally acceptable answers to question 3 would include mention of ‘<i>photon path length</i>’ and ‘<i>anthropogenic CO<sub>2</sub></i>’. The unadorned ‘greenhouse effect’ may be popular, but it is not an insightful answer. Keep reading.
+</p>
+
+<h2>
+<a class="trs" href="#3.5">△  </a>
+<a class="tri" href="#02">△  </a>
+<a href="#TOC" id="04"> THE FUD </a>
+<a class="tri" href="#08">  ▽</a>
+<a class="trs" href="#05">  ▽</a>
+</h2>
+
+<p class="epi">Doubt is our product, since it is the best method of 
+competing with the ‘body of fact’ that exists in the minds of the 
+general public. It is also the means of establishing a controversy.  — 
+Unknown tobacco executive careless enough to write this prototypical 
+MBA-thinking in a memo.
+</p>
+
+<p>The combination of frontier science and stochastic behavior makes the
+ predictions of climatologists seem vague and unconvincing. It hasn't 
+helped that
+
+‘To date [mid 2016], the Koch brothers have given more than $88 million 
+to groups who regularly attack and undermine climate science. And that's
+ just what's traceable.’
+
+Nor has it helped the public to understand the serious nature of what is
+ happening, when the 3 main cable ‘news’ networks are unable, or 
+unwilling, to report climate-related material accurately.
+</p>
+
+
+<p>Fox's errors are apparently financially motivated, by both network 
+and speakers. CNN seems to have no axe to grind, but it still gives air 
+time to those who do. MSNBC's mistakes are the ones we all make when 
+records fall, even though there is no <i>direct</i> connection to known 
+forcing agents. Climate scientists are touchy about this, because such 
+direct connections are impossible to demonstrate. Experts are still 
+exploring scores of small specialized models of subsystems that are not 
+yet incorporated into the 40-odd Earth System Models (ESMs) running at 
+various universities and climate centers. An ESM requires some hundred 
+million calculations per simulated day. Climate, being the long-term 
+integration of weather, requires simulations of 3-century periods, 
+meaning months-long runs on the world's most powerful supercomputers. 
+Only when aspects of the various models learn to agree (statistically) 
+with eachother and with the data, do we begin to think that we 
+understand those aspects of climate.
+</p>
+
+
+<hr>
+<table class="tcen">
+<caption>
+<a class="tri" href="#T4">◀  </a>
+<a href="#TOC" id="T1"> Table 1 </a>
+<a class="tri" href="#T2">  ▶</a>
+Accuracy of Climate Reportage. According to the <a class="fn">Union of Concerned Scientists,<span>
+	A Huertas, R Kriegsman (2014) ‘Science or Spin? Assessing the Accuracy of Cable News Coverage of Climate Science’, 15 pp.
+</span></a><a href="http://www.ucsusa.org/sites/default/files/legacy/assets/documents/global_warming/Science-or-Spin-report.pdf"> ⬆</a> the fraction of segments containing misleading statements in 2013 was as shown.
+</caption>
+
+<thead>
+<tr><th>Cable channel</th>
+	<th>% Errors </th>
+	<th>Comment</th></tr>
+</thead>
+
+<tbody>
+<tr><td>MSNBC</td>
+	<td>8</td>
+	<td>Mainly attribution of specific extreme events to climate change</td></tr>
+
+<tr><td>CNN</td>
+	<td>30</td>
+	<td>Mainly FUD by guests</td></tr>
+
+<tr><td>Fox</td>
+	<td>72</td>
+	<td>Mainly FUD by commentators</td></tr>
+</tbody></table>
+
+
+<p>I came across, on You Tube, a commentator who couldn't tell me what 
+the Earth's mean temperature is, or what it would be in the absence of 
+greenhouse gasses, if his life depended on it. Yet on national TV he 
+feels competent to spew raucous, climate-change-denying FUD to an 
+audience that appears to reach the halls of Congress, where 
+Representative Joe Heck (NV), Senator Pat Toomey (PA), Senator Ron 
+Johnson (WI) and others agree with him. He presents as rude 
+(interrupting his guests), ignorant (unaware of the data), and stupid 
+(impervious to rationality) — apparently because this appeals to his 
+audience. Considering the millennial effects of global heating, any 
+responsible organization with a minimal concern for the future of 
+humanity — which in an ideal world might even include his TV
+	<a href="http://electromontis.net/JW/A0.shtml#14"><img class="im" src="pw.Climate%20Change_files/K-NewIdea3.gif" alt="New-idea"></a>
+network, the Federal Communication Commission, and the Supreme Court — would require equal time for a factual presentation.
+</p>
+
+<p>There is <a class="fn">minority<span>
+	Karry Reid (D-NV) Barbara Boxer (D-CA)
+	Richard Durbin (D-IL) Jack Reed (D-RI)
+	Chuck Schumer (D-NY) Ben Cardin (D-MD)
+	Sheldon Whitehouse (D-RI) Tom Udall (D-NM)
+	Jeanne Shaheen (D-NH) Jeff Merkley (D-OR)
+	Al Franken (D-MN) Chris Coons (D-DE)
+	Richard Blumenthal (D-CT) Brian Schatz (D-HI)
+	Martin Heinrich (D-NM) Tim Kaine (D-VA)
+	Elizabeth Warren (D-MA) Edward Markey (D-MA)
+	Gary Peters (D-MI)
+</span></a> in the Senate smart enough to understand the situation — but
+ it is something of an embarrassment that the majority is intent on 
+leading us into a preventable disaster. One gets the impression that the
+ <a class="fn">feudofascist<span>
+	Feudofascism is the highly profitable amalgamation of the psychopathy 
+of the CEO with the sociopathy of the corporation. It melds the 
+aspirations of the feudal lord — power, sex, money — with the financial 
+clout of globalization, and the sophistication of academic studies of 
+psychological manipulation with Nobel-Laureate economics studies of 
+financial-derivatives chicanery. After 45 years of concerted effort 
+(beginning with the Powell Memorandum, ALEC, and the Heartland Institute
+ ~1970), they have all 3 branches of the US government in their hands, 
+and think they have won, allowing them to cement their ownership openly.<br>
+	No, this is not a grand conspiracy. No one could plan on a Trump, who 
+is merely a gift to be used, as was Reagan. Nixon, Cruz, Bannon, Pence, 
+McConnell, Alioto, the Kochs — they merely share(d) a common goal. In 
+the end, ‘there can be only one’, and what plan there is, is to be that 
+one.
+</span></a> 1‰
+ understand full well that public awareness of global heating will 
+reduce the market value of their corporations. Assuming that their 
+billions will shield them for the remainder of their lives, their 
+response is Nasrudic business as usual. They get two last decades of 
+profits (or campaign contributions) — ‘and maybe the <a class="fn">horse will sing’<span>
+	Coyotl — trickster, shape-shifter, and demiurge — is (as everyone in 
+the American West knew long before the palefaces got here) responsible 
+for tears in the tapestry of the world. He appeared to the Sufis in the 
+form of the mullah Hoja Nasrudin. Click the blue ⬆ and scroll down to 
+read #31, <i>The Sultan's Horse</i>.
+</span></a><a href="http://en.wikibooks.org/wiki/Sufism/Nasrudin"> ⬆.</a> ︎In the meantime, they deny anything is happening, and quietly prepare for martial law as things go pear-shaped.
+</p>
+
+<p>In the process, so much FUD and misinformation — both deliberate and 
+ignorant — is broadcast about global heating and climate change that it 
+seems worthwhile to provide a reliable tutorial. Suffice it to say that I
+ have no financial interest in the question, and am professionally 
+competent in 2 or 3 of the score of disciplines involved. The climate 
+scientists are doing the best they can, but — like anyone in the field —
+ I can poke holes in the IPCC (Intergovernmental Panel on Climate 
+Change) reports and the programs and data sets they are based on, simply
+ because the problem is so <a class="fn">complex,<span>
+	Also, because it is basically an arm of the UN, the IPCC is 
+constitutively incapable of thinking in terms of overpopulation as a 
+causative agent of climate change. As a result, I find its discussions 
+of <i>Adaptation</i> and <i>Mitigation</i> (see following paraqgraph) to be misleadingly optimistic.
+</span></a> no data set is as long or complete or reliable as we would 
+like, and no computer program can include everything of importance with 
+the precision and detail of the real world. But year by year we 
+incorporate complexity more accurately in the models, the data sets get 
+longer and more precise, and computers get bigger and faster. Meanwhile,
+ it takes no more brains <a class="fn">than those of a plant<span>
+	 Scientific papers are at best approximations to truth. Rigorous peer 
+review is often as much work as writing the paper in the first place, so
+ one seldom does it. The first 3 CO<sub>2</sub> models I analyzed fully 
+all contained approximations that amounted to major errors (which 
+persuaded me to develop my own model). Plants, however, are exposed to 
+the full effects of climate change, and respond directly. You can trust 
+them implicitly.
+</span></a> to recognize and respond to global change.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#04">△  </a>
+<a href="#TOC" id="05"> Biased Data? </a>
+<a class="tri" href="#5.5">  ▽</a>
+</h3>
+
+<p class="epi">[Rejecting authority, the Americans] fall to denying what
+ they cannot comprehend.  — A philosophical consequence of democracy in 
+America, observed as early as 1831 by Alexis de Toqueville.
+</p>
+
+<p>Ignoranti (such as Rush Limbaugh) claim that there are no data 
+supporting climate change. This is not true. Satellites have been 
+measuring the albedo and 15 other contributions to surface temperature 
+since March 2000. Animated maps of the results can be watched <a href="http://earthobservatory.nasa.gov/GlobalMaps/?eocn=topnav&amp;eoci=globalmaps">here</a>. The American Meteorological Society offers <a class="fn">14 time series<span>
+	<cite>State of the Climate</cite> Special Supplement to the <cite>Bulletin of the American Meteorological Society</cite> <b>95</b>(#7) July 2014</span></a>,
+supported by 257 pages of detail, showing 8 things increasing that one 
+expects to rise with global heating (e.g., land surface temperature, 
+ocean heat content, …), and 6 things decreasing that one expects to fall
+ (glacier volume, soil moisture, …). One has to be stupid, purblind, or 
+bought, not to recognize that global heating is real.
+</p>
+
+<p>The Intergovernmental Panel on Climate Change's <a class="fn">
+	<cite>IPCC Reports</cite> <span>Intergovernmental Panel on Climate Change (2007) <cite>Climate Change 2007: The Physical Science Basis.</cite> (Cambridge University Press).</span></a>
+lag the data by about 5 years, but provide our best assessment of 
+climate change. The current set draws on nearly every relevant research 
+paper written through 2012. The <cite>Physical Science</cite> volume has 2 companions of similar import and size: <cite>Impacts, Adaptation and Vulnerability</cite>, and <cite>Mitigation of Climate Change</cite>. All are available for download <a href="http://www.ipcc.ch/publications_and_data/publications_and_data_reports.shtml#.T75_DtWxVPp">here</a>.
+</p>
+
+<p>Ameliorating global heating will cost money. It will generate 
+business opportunities for some, and reduce them for others. 
+Consequently, much tobacco-style FUD is aimed at the interpretation of  
+temperature proxies such as tree rings, marine sediments, ice cores, 
+coral reefs, stalactites, &amp;c. In particular, there were indignant 
+claims that the Medieval Warm Period (c. 950–1250) was just as hot as 
+today (not true), so all is well (not true). The rationale seems to be 
+this:
+</p>
+
+<blockquote>If we just ignore the data, global heating will go away. Let
+ us declare paleothermometry to be junk science and the Weather Bureau 
+(and 100 other research centers) incompetent. They are clearly doing 
+what we learned to do in expensive MBA courses: spread Fear, 
+Uncertainty, Doubt, and Lies to keep the research money rolling in.
+</blockquote>
+
+<p>Granted, each paleothermometer presents unique subtleties and is 
+subject to confounding influences. This is why professionals devote 
+their careers to testing and refining techniques and interpretations.
+</p>
+
+<p>Granted, the Weather Bureau cannot predict weather 2 weeks in 
+advance, because the atmosphere is chaotic and weather happens at random
+ in the right half of Fig. 1. This is why we focus on the smooth curve 
+drawn through the left half of the figure.
+</p>
+
+
+<p>‘Figures don't lie, but liars do figure’. Here are some misleading things one could truthfully say about Fig. 1:</p>
+<ul>
+<li> The mean temperature was the same in 1926 and 1978.</li>
+<li> 1944 was the hottest year of the [or ‘a’] century.</li>
+<li> The record shows 60 years of mean temperature decrease.</li>
+</ul>
+<p class="flu"> — and none of them changes the 0.8°C rise.
+</p>
+
+
+
+
+
+
+<h3> </h3>
+
+<p>It might seem strange that ‘belief’ in an established fact like 
+climate change should separate political parties sharply. Yet 
+psychologically it makes sense that Democrats should try to limit 
+climate change, and that Republicans would obstruct them. (‘Latent 
+ideology lies in <a class="fn">psychology.'<span>
+	EH Young (2009) ‘Why we're liberal, why we're conservative’ PhD thesis, Stony Brook.
+</span></a><a href="https://dspace.sunyconnect.suny.edu/bitstream/handle/1951/52392/000000880.sbu.pdf;sequence=1">⬆︎</a>) This follows from the  <a class="fn">Moral Foundations<span>
+	J Graham, J Haidt, BA Nosek (2009) ‘Liberals and Conservatives Rely on Different Sets of Moral Foundations’ <cite>J Personality and Social Psychology</cite> <b>96</b>(#5) 1024–1046; doi: 10.1037/a0015141.
+</span></a><a href="http://www-bcf.usc.edu/%7Ejessegra/papers/GHKMIWD.inpress.MFT.AESP.pdf">⬆︎</a>
+ parameters that best distinguish conservatives from liberals. Of the 5 
+foundations, Liberals score higher on Care and Fairness (ie, concern for
+ others); Conservatives on Loyalty, Authority, and Purity. Rs ask 
+themselves, ‘Has climate change — if it isn't just weather variability —
+ hurt me?’, and the answer is ‘No. The Ds just like to spend other 
+peoples' money (instead of investing it)’, and ‘They're not getting 
+mine!’ Ds looks at the world and see that climate change is already 
+hurting people, that the damage will not be undoable in any human time 
+frame, that is going get worse if we continue business as usual, and to 
+minimize damage, want to limit what Rs are allowed to do to the world in
+ pursuit of money.
+</p>
+
+<p>Nevertheless, because science progresses by falsifying bad ideas, 
+those who practice it pay thoughtful attention to the arguments of 
+contrarians in their field. And there are a number of useful contrarians
+ who call attention to weaknesses in the debates about climate (in 
+addition to any number of zealous deniers who contribute only noise). In
+ the usual case, the latter have hold of a half-truth, of the sort 
+treated below. Unfortunately, deniers often do not have the analytical 
+skills for critical thinking. As a result, only the most patient of my 
+friends still try to sort such people out. Unsorted, they populate the 
+web with plausible but misleading blogs.
+</p>
+
+<p>Common examples of such confusion include:
+</p>
+
+
+<h4>1. Water vapor</h4>
+<p>Water vapor has absorption bands all over the spectrum and so it is more important as a greenhouse gas than CO<sub>2</sub>, with its single deep absorption in the middle of an H<sub>2</sub>O
+ band. This is perfectly true — in the lower troposphere where radiation
+ is trumped by turbulent mixing. Water vapor pretty much freezes out (at
+ the snow line) well below the radiation level (which is above 5 km), 
+and so makes a very minor contribution to global heating.
+</p>
+
+<h4>2. Saturation</h4>
+<p>Noticing that all the available energy in the infrared CO<sub>2</sub> band is absorbed in about 10 m, a voluble subset of deniers has fastened on this fact as meaning — erroneously — that adding CO<sub>2</sub> to the atmosphere cannot warm us further, because, obviously, all the IR is already being absorbed.
+</p>
+
+<p>But saturation is a function of the number of CO<sub>2</sub> molecules per meter, and thus a function of pressure. Higher in the atmosphere there will be less CO<sub>2</sub>/
+                                                                        
+                                                                        
+                                                                        
+                                                        m, and added CO<sub>2</sub> will absorb outgoing IR. The troposphere is well mixed, so that CO<sub>2</sub> added at at the bottom finds its way to the top quickly. As Fig. 13 shows, it is CO<sub>2</sub> at the top of the atmosphere that raises the radiation level and the ground temperature.
+</p>
+
+<h4>3. Satellite Measurements</h4>
+<p>Perhaps the most frequent denial of global heating is based on the 
+fact that satellite measurements ‘have shown that temperature has not 
+risen in 17 years’. This is true but <i>irrelevant</i>: what satellites measure most easily and uncontroversially is the <i>radiation</i> temperature of the Earth, which is constant, rather than its <i>surface</i> temperature, which is changing. The radiation temperature is set as indicated in <a href="#F1">Fig. 1</a>, the surface temperature in <a href="#F13">Fig. 13</a>.
+</p>
+
+<h4>4. Time Scales</h4>
+<p>A typical denialist complaint is that a while back, climate 
+scientists were predicting another ice age. Now they're predicting heat 
+waves, so obviously they don't know what they are talking about. 
+(Denialists are uncomfortable with change, but clearly on speaking terms
+ with fraud, since it is the first thing they think of to explain the 
+erratic progress of science.) If you look at the temperature-vs-time 
+curves from the 4 km of ice at Vostok in Antarctica, you see <a href="#F3">Fig. 3</a>,
+ with a sawtooth curve and a steep rise at the beginning of an 
+interglacial, followed by a slow cooling into the next ice age. (There 
+are now ice cores from 3 dozen sites, showing both general agreement and
+ interesting local variation.) The sawtooth pattern was exciting news in
+ 1999 when it was <a class="fn">first published.<span>
+	JR Petit &amp;18a (1999) ‘Climate and atmospheric history of the past 420,000 years from the Vostok ice core, Antarctica’ <cite>Nature</cite> <b>99</b>: 429–436; doi:10.1038/20859
+</span></a> Checking their algorithms against this new data, climate 
+models suggested that by now, 12,000 years into the interglacial, 
+eastern Canada would be accumulating ice again. Hence the concept of a 
+new ice age <b>90,000 years down the road</b>.
+</p>
+
+<h4>5. ‘Alternative Facts’</h4>
+<p>A typical <a class="fn">FUD paper<span>
+	D'J Aleo, A Watts (2010) ‘Surface Temperature Records: Policy‐Driven&nbsp;Deception?’ <cite>SPPI Original Paper</cite> 2010-08-27 http://scienceandpublicpolicy.org/originals/policy_driven_deception.html (2010-09-13),
+</span></a> claims that instrumental records suffer from urban heat 
+islands, land-use change, relocation of stations, missing data, poorly 
+placed thermometers, and undocumented ‘adjustments’ that have left a 
+record with a warming bias and no reliable way to correct it. The 
+subphrase of its title, ‘Policy-based deception?’, again suggests
+psychological projection of the authors' own <i>modus operandi</i>. The 
+paper is part of a long carping suite of disinformation from the 
+Heartland Institute, a raucous denier of climate change supported by and
+ speaking for the <a class="fn">Koch coal billionaires<span>
+	Who, be it noted, would not be billionaires if they paid miners a living wage.
+</span></a>. In contrast to the FUD, careful analysis showed a slight <i>cooling</i>
+ bias in US data, corresponding not to the suggested problems, but to 
+the replacement of mercury thermometers by thermistors. This bias was 
+removed by pairwise comparisons of trend lines spanning the period of 
+replacement. The US Climate Reference Network (with some duplicate 
+stations and triply redundant instrumentation) shows intercomparison 
+uncertainties comparable to the precision of thermistors, in the <a class="fn">millikelvin<span>
+	JM Zurbuchen (2000) ‘Precision Thermistor Thermometry’ (Measurement Specialties, Dayton OH).</span></a>
+range (±0.001°C). ‘We find <a class="fn">no evidence<span>
+	MJ Menne, CN Williams Jr, MA Palecki (2010) ‘On the reliability of the U.S. surface temperature record’<cite> J Geophys Res</cite> <b>115</b> D11108, 9pp; doi:10.1029/2009JD013094.</span></a>
+that the US average temperature trends are inflated due to poor station siting’.
+</p>
+
+
+<h4>6. You don’t stand by a cold stove to get warm</h4>
+<p>This the argument of Dr Peter L. Ward, a retired USGS vulcanologist 
+with an idiosyncratic grasp of physics. He is responding to Fig. 1.1 of <cite>IPCC Climate Change</cite>
+ (2013: p 126) which shows a big downward arrow labelled ‘Back Longwave 
+Radiation’. Recognizing that this shorthand cannot be the actual warming
+ mechanism, misconstruing the Bohr-Einstein relation, and seeing a 
+correlation between stratospheric ozone and the temperature record, Ward
+ tells Republican Senators what they want to hear: ‘CO<sub>2</sub> is not the culprit. The ozone hole is letting in more UV, which has 48 times as much energy as CO<sub>2</sub>'s
+ IR radiation.’ This is wrong; Bohr and Einstein added ‘per photon’ to 
+that sentence, and there are very few UV photons and many IR photons. 
+Despite numerous efforts, no one has been able to correct Ward, who 
+points to Galileo as justification for contradicting the established 
+physics of the last 100 years.
+</p>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/3_Vostok.jpg" alt="../JW/_F/3_Vostok.jpg" width="64%">
+<figcaption>
+<a class="tri" href="#F2">◀  </a>
+<a href="#TOC" id="F3"> Fig. 3 </a>
+<a class="tri" href="#F4">  ▶</a>
+Vostok Temperature Data. (The CO<sub>2</sub> data is continuous, and as 
+noisy as the temperature data. For clarity it has been replaced by 
+discrete samples, mostly at local extrema.) The accumulation of ice 
+begins as soon as insolation and the greenhouse between them are too 
+weak to melt all of the winter's ice during the summer, approximately at
+ the 0 line of temperature difference. The earlier ice ages suggested 
+that we should be seeing year-old snow in eastern Canada by now, and 
+some climate models agreed. This is not happening, so our interglacial 
+is not like the previous ones. Why not?
+</figcaption></figure>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/4_EarlyMethane.jpg" alt="../JW/_F/4_EarlyMethane.jpg" width="66%">
+
+<figcaption>
+<a class="tri" href="#F3">◀  </a>
+<a href="#TOC" id="F4"> Fig. 4 </a>
+<a class="tri" href="#F5">  ▶</a>
+Early Methane. Ruddiman noticed that CO₂ began inceasing ~6,000 BCE, 
+when we started clearing European forests for agriculture. Methane began
+ increasing ~3000 BCE, when the Chinese started making rice paddies. 
+(The dip labelled ‘YD’ is the Younger Dryas, a millennial cold dry 
+period resulting from Laurentide icemelt inhibiting the Atlantic thermal
+ circulation.) The coupling between low-latitude insolation and methane 
+is probably through monsoon rains and lowland floods (stagnant water 
+being a common source of methane). In short, Ruddiman suggests that we 
+began changing the climate long before the Industrial Revolution.
+</figcaption></figure>
+
+
+<p>But Canada is <i>not</i> accumulating ice. In 2003, <a class="fn">Ruddiman<span>
+	WF Ruddiman (2003) ‘The Anthropogenic Greenhouse Era Began Thousands of Years Ago’ <cite>Climatic Change</cite> <b>61</b>: 261–293.
+</span></a> suggested that land clearance for Neolithic agriculture, 
+beginning 8000 years ago, had injected enough anthropogenic greenhouse 
+gases to make our interglacial different from the prototypes — a 
+hypothesis he himself described as ‘provocative and controversial’, 
+although I don't see why. Figure 3 shows the expected and actual changes
+ in methane over the period in question, with methane being much more 
+effective than CO₂ as a greenhouse gas. The graph for CO₂ shows a 
+similar change of direction starting 8000 years ago.
+</p>
+
+<p>Nor does the conservative FUD change the reality of global heating. 
+‘Climate sceptics’, apparently terrified of taxes, regulation, and loss 
+of business, continue to exaggerate imaginary failings in the hope of 
+discrediting scientists who study global heating. Accordingly, we look 
+at a pair of indirect records whose data and interpretation — while 
+still subtle — are independent, based on different techniques, and are 
+perhaps more persuasive to the by-stander. These are the loss of Arctic 
+sea ice and Antarctic land ice.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#5.5">△  </a>
+<a href="#TOC" id="06"> Melting the Ice </a>
+<a class="tri" href="#07">  ▽</a>
+</h3>
+
+<p class="epi">Virtually all [climatologists] are now convinced that 
+global warming poses a clear and present danger to civilization.  — 
+glaciologist Lonnie Thompson
+</p>
+
+<p>The loss of ice is unarguable. Antarctic land-ice loss is 
+accelerating at the rate of 28 Gtons/yr², as shown by the parabolic 
+green trend line in Fig. 5. (The red line smooths seasonal variability.)
+ Unlike the melting of Arctic sea ice, this loss contributes directly to
+ sea-level rise.
+</p>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/5_AntarctIcIceLoss.jpg" alt="../JW/_F/5_AntarctIcIceLoss.jpg" width="62%">
+
+<figcaption>
+<a class="tri" href="#F4">◀  </a>
+<a href="#TOC" id="F5"> Fig. 5 </a>
+<a class="tri" href="#F6">  ▶</a>
+Antarctic Ice Loss, measured by gravity changes, integrating over the area without needing detailed ice-thickness <a class="fn">measurements.<span>
+	I Velicognam (2009) ‘Increasing rates of ice mass loss from the Greenland and Antarctic ice sheets revealed by GRACE’ <cite>Geophysical Research Letters</cite> <b>36</b> L19503, 4 pp; doi:10.1029/2009GL040222.
+</span></a> The heavy wiggly line is seasonaly adjusted; the smooth parabolic line is the trend, widened to include a 33 Gt/yr <a class="fn">error estimate.<span>
+	M Bevis &amp;13a (2009) ‘Geodetic measurements of vertical crustal 
+velocity in West Antarctica and the implications for ice mass balance’ <cite>Geochem. Geophys. Geosyst.</cite> <b>10</b>, Q10005; doi:10.1029/2009GC002642.
+</span></a> including isostacy (the solid crust rises in the fluid mantle as the <a class="fn">ice melts).<span>
+	The continental crust floats on the visco-elastic mantle. When the 
+weight of the glacier is removed, the crust and mantle respond. Rise on 
+the order of 1 cm/yr will continue for 10,000 years where the ice was 
+thickest.
+</span></a>
+</figcaption></figure>
+
+
+<p>As of 2007, the best interpretation led the <a class="fn">
+	IPCC<span> (2013) ‘Climate Change 2013: The Physical Science Basis. 
+Contribution of Working Group I to the Fifth Assessment Report of the 
+Intergovernmental Panel on Climate Change’ [TF Stocker &amp;9a (eds.)]. 
+(Cambridge University Press, Cambridge, etc., 1535 pp.): 17.</span></a>
+to say:
+</p>
+
+<blockquote>Current global model studies project that the Antarctic Ice 
+Sheet will remain too cold for widespread surface melting and is 
+expected to gain in mass due to increased snowfall.
+</blockquote>
+
+<p>This did not happen, and perversely, Antarctic <i>sea</i> ice is <i>increasing</i>.
+ Poorly informed sceptics misinterpret this to deny global heating and 
+display the incompetence of scientists, but the projection was from 
+models that did not include circumpolar fluid thermodynamics with <a class="fn">sufficient subtlety<span>
+	Just as a truly accurate map would be the same size as the terrain it 
+represents, a truly accurate model would run as slowly as the real 
+world. Each model now has thousands of hours of development time behind 
+it, endeavoring to incorporate what its creators believe are the most 
+important processes in realistic (and efficient) algorithms. The best 
+way to appreciate the problems is to get involved. Laptops now have the 
+capacity to run the super-computer models of the 1970s, so you could run
+ your own first-order model. Even better, the Climateprediction.net runs
+ a distributed computing project to which anyone with a home computer 
+can contribute. They have run over 80,000,000 model years on 50,000 
+contributing personal computers, with an increasingly sophisticated 
+series of global climate models.
+<br>-------------------<br>
+	H Le Treut &amp;7a (2007) ‘Historical Overview of Climate Change’ In: S Solomon &amp;8a (eds) <cite>Climate Change 2007: The Physical Science Basis</cite> (Cambridge University Press).
+</span></a>. Warmer water north of the Antarctic Convergence evaporates.
+ Naïvely expected to increase precipitation on the land mass, it instead
+ snows out before it reaches the coast, creating a fresh-water input 
+that reduces the salinity and density of surface seawater, while raising
+ its freezing point and increasing its vertical stability. This produces
+ a cold, thin, quickly frozen surface layer. The present balance (not 
+necessarily permanent) results in more sea ice. (After all, ‘warming’ in
+ Antarctica can mean going from -20°C to -12°C, and ice still forms.)
+</p>
+
+<p>The major concern in Antarctica is the West Antarctic Ice Sheet. Ice 
+sheets are what glaciers turn into when they hit the ocean, and their 
+size is a balance between glacial input and ice-edge calving of icebergs
+ and melting. The Larsen A Ice Shelf (at the warm end of West 
+Antarctica) collapsed in  1995, the adjacent Larsen B, about the size of
+ Rhode Island, having been stable for 12,000 years, disintegrated in 3 
+summer weeks of 2002. The Ross Ice Shelf, about the size of France, 
+showed signs of instability by May 2014. Its disintegration would not 
+raise sea level (because it is floating ice), but it would unblock the 
+glaciers that feed it, which have the mass to raise sea level by 3 
+meters in, say, <a class="fn">a century<span>
+	This, incidentally, is why I built my house at 250 m above sea level, 
+instead of down by the beach at the end of my river, with its warm 
+water, interesting marine life, and topless girls. Glacial surges have 
+been known to outrun people, and there is a high-water mark in the 
+Thames Valley which appears to be the result of an Antarctic ice surge.
+<br>-------------------<br>
+	JT Hollin (1977) ‘Thames interglacial sites, Ipswichian sea levels and Antarctic ice surges’ <cite>Boreas</cite> <b>6</b>: 33–52; doi: 10.1111/j.1502-3885.1977.tb00694.x
+</span></a>.
+</p>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/6_ArcticSeaIce.jpg" alt="../JW/_F/6_ArcticSeaIce.jpg" width="66%">
+
+<figcaption>
+<a class="tri" href="#F5">◀  </a>
+<a href="#TOC" id="F6"> Fig. 6 </a>
+<a class="tri" href="#F7">  ▶</a>
+Arctic sea-ice volume from a validated model by University of 
+Washington's Polar Science Center. Inspired by Fig. 5, I have added the 
+parabolic trend line. The loss of multi-year ice (shaded) and its summer
+ infra-red reflectivity increase the rate of loss.
+</figcaption></figure>
+
+
+<p>Up in the north, the loss of thick multi-year Arctic sea ice was 50 
+km³/yr in 1972 and has increased at 10 km³/yr² since, as shown in Fig. 
+6. The Northwest Passage, sought by navigators for centuries, is now 
+open and raising diplomatic questions about whether it is international 
+water or an internal Canadian waterway.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#06">△  </a>
+<a href="#TOC" id="07"> The ‘Denatured’ Among Us </a>
+<a class="tri" href="#08">  ▽</a>
+</h3>
+
+<p class="epi">
+Meanwhile, back on SPACESHIP EARTH, the crew are:<br>
+ —  Plundering the ship's supplies<br>
+ —  Tinkering with the temperature and life-support controls
+<br>
+ —  Still looking for the instruction manual<br>
+ —  Engaging in bloody skirmishes in every corner of the vessel<br>
+ —  Increasing the size of the crew by 2 million PER WEEK.  — <a class="fn">
+	P Creola<span>(2001) ‘Future Strategic Issues/Future Warfare [Circa 2025]’ (NASA Langley, Hampton VA).
+</span></a>
+</p>
+
+<p>Another observation which undermines the attempts of climate sceptics
+ to deny global heating comes from the biological world. By 2002, <a class="fn">Gian-Reto Walther<span>
+	G-R Walther &amp;8a (2002) ‘Ecological responses to recent climate change’ <cite>Nature</cite> <b>416</b>: 369–395.
+</span></a> could cite 97 papers describing climate-induced behavioral 
+change in different groups of organisms. 1200 species (lacking 
+thermostats and air conditioning) had <a class="fn">altered their behavior<span>
+	TL Root &amp;5a (2003) ‘Fingerprints of global warming on wild animals and plants’ <cite>Nature</cite> <b>421</b>: 57–60.
+</span></a> a decade ago. Some have moved poleward at 6 km/decade, or 80 m up the mountain. Others flower or mate earlier, by <a class="fn"> 2.3 days/decade<span>
+	C Parmesan, G Yohe (2003) ‘A globally coherent fingerprint of climate change impacts across natural systems’ <cite>Nature</cite> <b>421</b>: 37–42.
+</span></a>. Systems such as bird reproduction in which one component 
+responds to day length (migration) and another to temperature (insect 
+food for nestlings) are confused: evolution will be rapid here. Heat- 
+and drought-resistant alleles have spread into populations that never 
+needed them.
+</p>
+
+<p>One of the more striking examples is the circumpolar Arctic walrus. 
+Normally, walruses use ice floes to rest, sleep, raise their young, and 
+scan the bottom for molluscs. By October of 2014 there was <a class="fn">so little<span>
+	Z Schlanger (2015) <cite>Newsweek</cite>
+</span></a> sea ice that 35,000 walruses hauled out on Alaska beaches — a
+ habitat they had abandoned long ago because of predation by humans.
+</p>
+
+<p>Put bluntly, <b>those who know what is going on have been adjusting for decades.</b>
+ (Oddly, this includes trees and bugs — but not bankers, CEOs, or 
+politicians.) The world of nature is exquisitely aware of what is 
+happening ‘out there’, posessing a perspective known only to humans who 
+are similarly in touch with the real world — bird-watchers, backpackers,
+ gardeners, ecologists, field biologists, climatologists, and their ilk.
+ The challenge of climate change has driven human evolution in the past.
+ At the 10<sup>5</sup>-year scale, it forced cranial growth of <i>Saharapithecus tchadensis</i> and relatives. At the 10<sup>3</sup>-year scale, it drove us to new techniques for dealing with the ice-age and its retreat. At the 10<sup>1</sup>-year
+ scale, might it thin out the ranks of the unadaptive
+climate-change deniers — people who subsist in heated/air-conditioned 
+space, so insulated from the natural world that we might call them 
+‘denatured’? In the absence of technology (and the financial ability to 
+protect themselves artificially), they would be the first to succumb to 
+natural change. Biologically speaking, they are dead fossils walking.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#07">△  </a>
+<a class="tri" href="#04">△  </a>
+<a href="#TOC" id="08"> THE DETAILS </a>
+<a class="tri" href="#17">  ▽</a>
+<a class="trs" href="#09">  ▽</a>
+</h2>
+
+<p class="epi">Can we stabilize population by reducing fertility before 
+nature takes over and stabilizes our numbers by raising mortality?  —  
+Lester Brown. [Curiously, the mortality ratio of Ebola in Africa 
+approximates the sustainable/current population ratio. Might this be an 
+answer to Brown's question? Global warming also means that ‘tropical’ 
+diseases are migrating poleward.]
+</p>
+
+<p>Global temperature regulation is so complex, relevant information so 
+remote from the non-scientist, the abhorrence of taking responsibility 
+so ingrained, and the thought of spending corrective money so appalling,
+ that it is easy for the denatured to deny:
+</p>
+
+<ol class="o3">
+<li>That global heating is happening;</li>
+<li>That it is caused by human activity;</li>
+<li>That we can alter its course; and</li>
+<li>That we could afford amelioration.</li>
+
+
+<p>Having established sufficient FUD, purblind economics can show that:</p>
+
+<nul>
+<li>In defiance of Zoroaster and evolution, we owe our descendants nothing, and</li>
+<li>They will be better able to cope.</li>
+</nul>
+
+<p>The <a class="fn">Cato Institute<span>
+	L Taylor, P van Dorn (2006) ‘Stern Rebuke: Global insurance is a bad buy’. <cite>National Revue</cite>, 20Nov06.
+</span></a> suggested that in 100 years the per-capita <a class="fn">GDP will be $321,684<span>
+	This estimate appears to be a $16,000 base after a century of 3% annual
+ growth. If inflation runs at 3.5% — a low estimate — the $321,684 will 
+be worth $9,714, for a net purchasing-power loss of 39% over the 
+century. The Cato Institute has fairly smart people (it would be 
+invidious to add ‘for conservatives’), and it is unlikely that the 
+authors cannot do arithmetic. This implies that they intentionally 
+neglect inflation, which is dishonest and makes their result a 
+deliberate lie. The <cite>National Review</cite> should be ashamed to publish such transparent political claptrap!
+	<br><br> This analysis also runs counter to the careful planning: if 
+all goes well, by the next century the 1% will own 87% of the wealth — 
+making it very difficult to squeeze money out the rest of us to pay for 
+amelioration.
+</span></a>, so:</p>
+
+<nul class="o3">
+<li>The only rational course of action is to get rich as fast as possible.</li></nul></ol>
+
+
+<p>This is <a class="fn">Instinct-1<span>
+	The behavior of the alpha male: Me, <i>machismo</i>, greed, will to power.
+</span></a> talking. The most generous interpretation one can put on 
+denial is that it is tightwad comedian Jack Benny's response to a 
+mugger's repeated ‘Your money or your life!’: ‘I'm thinking, I'm 
+thinking.’
+</p>
+
+<p>Despite smear campaigns — fueled by ignorance and greed — against 
+people like James Hansen (the NASA researcher who first publicized 
+climate change) and Al Gore (apparently a rare politician capable of 
+understanding the science), the scientific consensus on global heating 
+is now well established. Point by point:
+</p>
+
+
+
+<h4>
+<a class="tri" href="#08">△  </a>
+<a href="#TOC" id="09"> 1. It's Happening </a>
+<a class="tri" href="#10">  ▽</a>
+</h4>
+
+<p class="epi">Recent observations confirm … the worst-case IPCC scenario trajectories are being realized. — <a class="fn">J. Romm (2012)<span>
+	J Romm (2012) ‘An Illustrated Guide to the Science of Global Warming 
+Impacts: How We Know Inaction Is the Gravest Threat Humanity Faces’ 
+[Click to the blue ⬆ to read, as of 2013-09-18] <cite>Climate Progress</cite>
+</span></a><a href="http://thinkprogress.org/climate/2012/10/14/1009121/science-of-global-warming-impacts-guide/"> ⬆</a>.
+</p>
+
+<p>An obvious indication of heating is the new discipline of ‘<a class="fn">ice-patch archaeology<span>
+	J Dixon (2007) ‘Archeology and Climate Change’ <cite>37th International Arctic Workshop</cite>, 2–4 May 2007, Skaftafell, Iceland.
+</span></a>’, resulting from the thawing of areas frequented by early 
+man, from which organic artefacts have been recovered that decay in 
+unfrozen sites. Ötzi, the trans-Alpine Ice Man, frozen in an Alpine 
+glacier, is the poster boy for the field. The cautious IPCC said only:
+</p>
+
+<blockquote>Palaeoclimatic reconstructions show that the second half of 
+the 20th century was likely the warmest 50-year period in the Northern 
+Hemisphere in the last 1300 years.  — <a class="fn">
+	IPCC (2007)<span>Intergovernmental Panel on Climate Change (2007) Fourth Assessment Report, <cite>Climate Change 2007: The Physical Science Basis</cite>: 702.
+</span></a>
+</blockquote>
+
+<p class="flu">Despite all the FUD about the Medieval Warm Period, Ötzi 
+showed that the Alps are appreciably warmer today than they have been 
+since he froze to death 5,300 years ago.
+</p>
+
+<p>In the Arctic, the situation is <a class="fn">even clearer<span>
+	GH Miller &amp;4a (2013) ‘Unprecedented recent summer warmth in Arctic Canada’ <cite>Geophys Res Lett</cite> <b>40</b>(#21): 5745–5751; doi: 10.1002/2013GL057188.
+</span></a>. Moss clumps recently exposed by melting ice caps are a 
+minumum of 44,000 years old, by C-14 dating. But only about 0.5% of the 
+original radiocarbon remains by this time, so experimental error is 
+high, and the moss could be much older. In fact, ice was thick at 44 ka,
+ and combined data suggest that Baffin Island is warmer today than it 
+has been for 120,000 years.
+</p>
+
+<p>The question to ask deniers is ‘If we are burning buried carbon, what mechanism do you suggest that might <i>prevents</i> global heating?’.
+</p>
+
+
+<h4>
+<a class="tri" href="#09">△  </a>
+<a href="#TOC" id="10"> 2. We Are Causing It </a>
+<a class="tri" href="#11">  ▽</a>
+</h4>
+
+<p class="epi">The most dangerous worldview, is the worldview of those who have not viewed the world. — Alexander von Humboldt
+</p>
+
+<p>The timing, distribution, and isotopic composition of atmospheric CO₂
+ increase matches anthropogenic production, similar to the exponential 
+of Fig. 1. The flatness of the data in the right-hand graph of Fig. 1 
+suggests no non-anthropogenic contributions to global heating on a 
+centennial time scale. The grey band is the background noise, or 
+‘weather’. Global heating is not caused by solar activity, because <a class="fn">the Goddard Institute<span>
+	J Hansen &amp;3a (2010) ‘Global surface temperature change’ <cite>Rev. Geophys</cite> <b>48</b>, RG4004, doi:10.1029/2010RG000345.
+</span></a> for Space Science reports that the ‘new record temperature 
+in 2010 is particularly meaningful because it occurs when when the 
+recent minimum of solar irradiance … is having its maximum ‘<a class="fn">cooling effect<span>
+	The sun's magnetic field is quiescent and there is speculation that it 
+might be entering another Maunder minimum. The last minimum coincided 
+with the Little Ice Age in Europe.
+</span></a>’. Whatever else is happening, anthropogenic CO₂ will make a bad situation worse, so <b>under any scenario</b>
+ it is to our advantage to minimize CO₂ emissions. Consuming less than 
+half of the remaining fossil-fuel reserves will take us well above the 
+2°C temperature rise accepted by 100 countries as the <a class="fn">tolerable limit<span>
+	M Meinshausen &amp;7a (2009) ‘Greenhouse-gas emission targets for limiting global warming to 2 °C’ <cite>Nature</cite> <b>458</b>: 1158–1162; doi:10.1038/nature08017.
+</span></a>.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#10">△  </a>
+<a href="#TOC" id="11">3. We <i>Can</i> Take Corrective Action</a>
+<a class="tri" href="#12">  ▽</a>
+</h4>
+
+<p class="epi">Ignoring public health [ie, the Ebola epidemic, with 50% 
+mortality and a transmission factor of 1.7] is the cure for ignoring 
+climate change. — <a class="fn">G2geek <span><cite>Daily Kos</cite> 2014-09-11.</span></a>
+</p>
+
+<p>In 50 years the US spent <a class="fn">G$21<span>
+	G$  = gigadollar = 10<sup>9</sup> dollars = billion dollars.
+	M$  = megadollar = 10<sup>6</sup> dollars = million dollars.
+</span></a> on nuclear fusion (always 50 years away). The problem is 
+trying to do civil engineering at the temperature of stellar cores, in 
+the absence of a gravitational field powerful enough to force charged 
+nuclei together. Theoretical solutions fail to unexpected instabilities.
+</p>
+
+<p>In the same period we spent only M$80 on sustainable satellite solar 
+power. Eventually, the National-Security Space-Office Advanced-Concepts 
+Office (aka ‘Dreamworks’) published a 75-page recommendation for 
+space-based solar power (SBSP). This collects energy in orbit, where 
+solar-power density is <a class="fn">10 times the average<span>
+	Nighttime, cloud shading, cosine-law intensity, and dust all take their toll.
+</span></a> from stationary ground-based collectors, and transmits it by
+ microwave to the ground. The major problems are a long development time
+ and a practical need for factories (and infrastructure) on the moon, 
+but as Fig. 7 indicates, this is the probably the best option for 
+sustainability.
+</p>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/7_SBSP.jpg" alt="../JW/_F/7_SBSP.jpg" width="66%">
+
+<figcaption>
+<a class="tri" href="#F6">◀  </a>
+<a href="#TOC" id="F7"> Fig. 7 </a>
+<a class="tri" href="#F8">  ▶</a>
+Space-Based Solar Power. This is the official assessment of the 
+advantages of SBSP. Recent data suggests that producing biofuels is not 
+as clean as hoped. Source: <a class="fn">
+	JD Rouge (2007).<span>‘Space-Based Solar Power as an Opportunity for 
+Strategic Security, National Security Space Office Interim Assessment 
+Phase 0 Architecture Feasibility Study, October 10, 2007.
+</span></a><br>
+</figcaption></figure>
+
+
+<p>The estimated cost for a 10 MWe demonstration SBSP pilot plant is 
+G$9, which is 10% of what our banksters paid themselves in bonusses in 
+2013. It is astonishing that no intelligent, forward-thinking, socially 
+indispensible paragon of entrepreneurial capitalism has had the wit to 
+build a prototype for himself. A national commitment to such a project 
+should (like a moon landing) generate enough cost overruns and 
+boondoggles to satisfy corporate interests, and unlike the 
+Military-Industrial-Complex wars, actually accomplish something useful. 
+An attractive aspect is that much of the infrastructure is now standard 
+aerospatial engineering. Low lunar gravity and cosmic-radiation damage 
+may mean that we need well shielded <a class="fn">O'Neill habitats<span>
+	GK O'Neill (1977) <cite>The High Frontier: Human Colonies in Space</cite> New York: (William Morrow, NYC); ISBN 0-688-03133-1.
+</span></a> to house the workers.</p>
+
+<p>In 2011 Andrea Rossi began promoting a Low-energy Nuclear Reaction 
+(LENR) system called E-Cat, which purported to extract nuclear energy by
+ adding a proton to nickel to make copper. The fact that it didn’t 
+produce enough gamma rays to kill him should have alerted visiting 
+scientists, but the lure of cheap energy overwhelmed suspicion. By 
+November of 2016, all but a few with more hope than shrewdness were <a href="http://newenergytimes.com/v2/sr/RossiECat/Andrea-Rossi-Energy-Catalyzer-Investigation-Index.shtml">convinced</a> that Rossi had managed another a 6-year energy scam. It was his third.
+</p>
+
+<p><a class="fn">Wally Broeker<span>
+	WS Broecker, R Kunzig (2009) <cite>Fixing Climate</cite> (Hill and Wang, NYC).
+</span></a> (who coined the term ‘global warming’ in 1975) suggested 
+that we could remove CO₂ directly from the atmosphere by chemical 
+reaction with common rocks. The problem is one of scale: this requires a
+ larger industrial plant than coal mining and power generation together.
+ The US produced <a href="https://www.eia.gov/todayinenergy/detail.php?id=26152">5.3 gigatons</a> of CO₂ in 2015, or 14.5 Mt (megatons) per day from 4  Mt of carbon. Sequestering this CO₂ as magnesium carbonate with <a class="fn">powdered silicate rock<span>
+	The reactions are: <br>
+	Mg₂SiO₄ + 2CO₂ ➞ 2MgCO₃ + SiO₂ <br>
+	 141    88     169     60<br>
+	(forsterite)     (magnesite) <br>
+	Mg₃Si₂O₅(OH)₄ + 3CO₂ ➞ 3MgCO₃ + 2SiO₂ + 2H₂O <br>
+	 278     132     254   120   36<br>
+	(serpentine)
+</span></a> requires <a href="http://www.netl.doe.gov/publications/proceedings/01/carbon_seq/6c4.pdf">reactors</a>
+ running at 185°C and 150 atmospheres of supercritical CO₂. This is a 
+daily need for mining, transporting, pulverizing, heating, and disposing
+ of ~18 tons of auxiliary material for every ton of carbon).
+
+
+
+</p><p>Another approach separates CO₂ from flue gas and injects it into 
+exhausted oil fields, where it can force more oil to the surface, 
+allowing us to increase CO₂ production even further. Alternatively, 
+captured CO₂ is fed to engineered <i>Synechococcus elongatus</i> protoctists, who convert it photosynthetically to isobutanol (usable as fuel) and other <a class="fn">chemical feedstocks<span>
+	S Atsumi, W Higashide, JC Liao (2009) ‘Direct photosynthetic recycling of carbon dioxide to isobutyraldehyde’ <cite>Nature Biotechnology</cite> <b> 27</b>: 1177–1180.
+</span></a>. This is elegant, but once again, the problem is one of 
+scale: we are talking about plant investment many times the size of all 
+the world's oil refineries.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#11">△  </a>
+<a href="#TOC" id="12"> 4. Immediate Action is Cost Effective </a>
+<a class="tri" href="#13">  ▽</a>
+</h4>
+
+<p class="epi">[T]he costs of switching will be paid for in fuel savings between now and 2050.  — <cite>MIT Technology Review</cite> 2014-05-19.</p>
+
+<p>The 700-page <a class="fn"><cite>Stern Review</cite><span>
+	Sir Nicholas Stern (2006) <cite>Stern Review on the Economics of Climate Change</cite> (HM Treasury, London).
+<br>----------------------<br>
+	I find a number of the <cite>Report's</cite> assumptions quite 
+optimistic, but one example will suffice: Fig. 7.8, ‘Availability of Oil
+ by Price’, plots oil consumed and oil still available in 2004 dollars. 
+It shows that we have used a trillion barrels at $20/bbl, OPEC has 
+another trillion at $15, a 3rd trillion is waiting at $25 — and only 
+then does the price jump. Deep-water and Arctic oil, plus heavy oil and 
+bitumen take us to 4.5 trillion bbl at prices below $60, and oil shale 
+takes us to 5.5 trillion bbl at $70 — including costs to make these 
+fuels comparable in CO₂ emission to conventional fuel.<br> In the real world, oil price hit $147/bbl during the $15 period!). <br>
+	Click the blue ⬆ for inflation-adjusted prices over the 1948–2016 period.
+</span></a><a href="http://inflationdata.com/Inflation/Inflation_Rate/Historical_Oil_Prices_Chart.asp"> ⬆</a>
+ — independent of the IPCC — initially concluded that the cost of 
+‘reducing greenhouse gas emissions to avoid the worst impacts of climate
+ change’ would be 1% of the GWP. However, this 1% comes 
+disproportionately out of the income of the ‘elite’, while the initial 
+costs of global heating fall upon what are commonly called ‘useless 
+eaters’. Some of the ‘elite’ see this as a benefit (possibly reducing 
+the numbers of the eaters — while overlooking the irreversible, global 
+nature of the process), so nothing has happened. (The later costs, when 
+mitigation will have little effect, will fall on developed countries and
+ cities.)
+</p>
+
+<p>Delay can raise the cost above 20% of GWP ‘now and forever’, as 
+sketched in Fig. 8. It is expensive to remove greenhouse gases from the 
+atmosphere, and the number of problems increases rapidly with warming. 
+(A new one is coastal erosion of, and salinity intrusion into, the 
+agricultural Nile Delta as sealevel rises {<cite>GW</cite> 2009-09-18. 
+p25} — in a nation so unsustainable that it already imports half its 
+food.) Stern suggested in late 2009 that the cost had risen to 2% of GWP
+ {<cite>GW</cite> 2009-09-18 p17}, already above the black curve of Fig.
+ 8. Unfortunately, Fig. 8 provides all the incentive some need to 
+postpone action until the curves cross. The only effective response to 
+the political argument, ‘We'll be dead by then: why pay for something 
+that won't benefit us?’ is political death now, by a recall election. Or
+ some faster method.
+</p><p>
+
+
+</p><figure> <img class="fl" src="pw.Climate%20Change_files/8_Procrastination.jpg" alt="../JW/_F/8_Procrastination.jpg" width="66%">
+
+<figcaption>
+<a class="tri" href="#F7">◀  </a>
+<a href="#TOC" id="F8"> Fig. 8 </a>
+<a class="tri" href="#F9">  ▶</a>
+Annual cost of alternatives as a function of starting date of 
+amelioration. The longer we wait to take protective action against 
+global heating, the more costly and less effective our action becomes. 
+(These simple curves are guesses that ignore fossil-fuel exhaustion and 
+‘tipping points’ such as melting of methane clathrate as the <a class="fn">arctic warms<span>
+	FM O'Connor &amp;10a (2010) ‘Possible role of wetlands, permafrost, and
+ methane hydrates in the methane cycle under future climate change: A 
+review’ <cite>Reviews of Geophysics</cite> <b>48</b>: Rg4005, 33 pp.; doi:10.1029/2010RG000326.
+</span></a>.)<br><br>
+</figcaption></figure>
+
+
+<h4>
+<a class="tri" href="#12">△  </a>
+<a href="#TOC" id="13"> 5. They're Your Grandchildren </a>
+<a class="tri" href="#14">  ▽</a>
+</h4>
+
+<p class="epi">An ounce of prevention is worth a pound of cure — but a lot of people want your pound, and will encourage you to wait.
+</p>
+
+<p>The disruption in the 2nd half of the century will be comparable to the World Wars and <a class="fn">Depression<span>
+	So says the <cite>Stern Review</cite>. I would have said, ‘will make the World Wars and Depression look like child's play’.
+</span></a>. Energy will be expensive, and at the rate things are going,
+ infrastructure will be in worse shape than today. Your grandchildren 
+will take the brunt of these changes. For cultures that never really 
+left the Neolithic, this will be a less difficult transition than for 
+us. Already tractors are too expensive to use in Rajasthan except during
+ the short planting season, so the price of camels has risen 5-fold in 4
+ years {<cite>GW</cite> 2008-07-25 p 31}.
+</p>
+
+<p>Economists' commonly minimize future values by ‘discounting’. As 
+nearly as I can tell by examining events in my own lifetime, this is 
+both unrealistic and unethical. Computers may have decreased in real 
+price, but a cast-iron skillet, $2 in my youth, still works. A slightly 
+fancier replacement costs $88 (of which $20 is inflation. The cheaper 
+‘high-tech’ versions are inferior. Recycled, 100-year old, hand-carved 
+furniture beats Ikea on esthetics, utility, price, durability, and 
+repairability. In other words, in life as I live it, the present value 
+of well made items generally <i>exceeds</i> their initial value. Every 
+item that I have claimed householder insurance on has been 
+over-depreciated by the adjuster (a small sample, but sufficient so that
+ I usually prefer to ‘self-insure’).
+</p>
+
+<p>So too with climate change. The future costs (of action or inaction) will be, <i>and be seen as</i>, larger than the present costs.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#13">△  </a>
+<a href="#TOC" id="14"> 6. Grandchildren will be Poorer </a>
+<a class="tri" href="#15">  ▽</a>
+</h4>
+
+<p>The idea that our grandchildren will be richer than we comes to us 
+from the same stratum of society that has devoted 45 years to 
+pauperizing the American middle class! Perhaps they were thinking of 
+their own grandchildren. But even so, it is based upon the assumption of
+ cheap oil plus zero inflation (when the Consumer Price Index rises at 
+2%, <a class="fn">inflation<span>
+	Others may have forgotten, but philatelists have post-WW1 German 
+postage stamps surcharged ‘1,000,000 marks’. For that matter, notes were
+ issued in January 2009 for 100 trillion Zimbabwean dollars {<cite>GW</cite> 2009-04-10 p 23}.
+</span></a> is running 6–8%). Wishful thinking to the contrary, this idea is not realistic.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#14">△  </a>
+<a href="#TOC" id="15"> 7. Inaction is Stupidity + Greed </a>
+<a class="tri" href="#16">  ▽</a>
+</h4>
+
+<p class="epi">
+</p>
+
+<p> — because
+</p>
+
+<p class="epi">[we need not] choose between averting climate change and 
+promoting growth and development. … Action on climate change will also 
+create significant business opportunities, as new markets are created in
+ low-carbon energy technologies and other low-carbon goods and services.
+ These markets could grow to be worth hundreds of billions of dollars 
+each year, and employment in these sectors will expand accordingly.  — <a class="fn">Stern Review: Executive Summary <span>
+	Stern, Sir Nicholas (2006) <cite>Stern Review on the Economics of Climate Change</cite> (HM Treasury, London).
+</span></a><a href="http://www.wwf.se/source.php/1169157/Stern%20Report_Exec%20Summary.pdf"> ⬆</a>
+</p>
+
+<p>One might have thought that this government-sponsored study would 
+have had some effect, at least in the UK. But no. Like any pioneering 
+effort, it had some flaws which deniers siezed and used to discredit it,
+ to the extent that as her first official act, <a href="http://www.commondreams.org/news/2016/07/15/shocking-plain-stupid-theresa-may-shuts-climate-change-office">Prime Minister Theresa May</a>
+ could shut down the Department for Energy and Climate Change and move 
+responsibility for the environment to a new Department for Business, 
+Energy &amp; Industrial Strategy,  ensuring that nothing will be done to
+ disturb business as usual.
+</p>
+
+
+
+<h4>
+<a class="tri" href="#15">△  </a>
+<a href="#TOC" id="16"> 8. Armoring </a>
+<a class="tri" href="#17">  ▽</a>
+</h4>
+
+<p>A psychological consequence of global heating that has received no attention is the likelihood of its induction of <a class="fn">Reichian armoring<span>
+	W Reich (1933) <cite>Character Analysis</cite> 3rd enl. ed. V Carfagno, transl. of <cite>Charakteranalyse: Technik und Grundlagen für studierende und praktizierende Analytiker</cite> (Farrar, Straus &amp; Giroux, NYC): 15
+</span></a>. As desertification spreads and life becomes more difficult, <i>machismo</i>
+ and self-centered behavior increasingly dominate altruism, cooperation,
+ and compassion. The supratribal mythos of religion (‘brotherhood of man
+ under fatherhood of god’ and gender-free equivalents) which makes it 
+worthwhile and gives it its ability to promote altruism and compassion 
+is replaced by tribalism (at best). Islam, the least useful of our 
+tribal markers because it <i>began</i> as a cult of psychologically armored nomad raiders, is likely to spread as soil desiccates.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#16">△  </a>
+<a class="tri" href="#08">△  </a>
+<a href="#TOC" id="17">MODELS AND DATA AGREE</a>
+<a class="tri" href="#20">  ▽</a>
+<a class="trs" href="#18">  ▽</a>
+</h2>
+
+<p class="epi">I am never content until I have constructed a … model of 
+the subject I am studying. If I succeed in making one, I understand; 
+otherwise I do not.  — Lord Kelvin (1904), who said ‘mechanical’ at the 
+ellipsis, but most models today are computational.
+</p>
+
+<p>The <i>fact</i> of global heating may be well established, but the <i>cause</i>
+ is not quite so certain. The details above are based on 20 years of 
+work by some 800 researchers and 2500 reviewers. Received wisdom has 
+been that climate is the product of many influences. As is evident from 
+Fox ‘News’, a major, if illogical, complaint of the ‘climate deniers’ is
+ that all of the predictions of future change are based on computer 
+models instead of data. Ignoring the difficulty of obtaining future data
+ in time to make use of them, the important feature is that <b>until one can model climate, one cannot pretend to understand it</b>. Our current grasp of short-term effects is shown by the detailed agreement of the two lines in the upper graph of Fig. 9.
+</p>
+
+<p>The frequent statement by climate deniers, that they ‘haven't ƒ’, may
+ mean that they  don't want to look, that they lack the analytic ability
+ to read Fig. 9, or that they do not understand that ‘Anthropogenic 
+effects’ is synonymous with ‘fossil-fuel CO₂’. All natural processes 
+that affect the Earth's surface temperature are cyclic (solar output) or
+ episodic with a return to normal (vulcanism, El Niño), or random around
+ a zero mean (the spikes).
+</p>
+
+<p>Figure 9 was drawn too early to show the effect of arctic methane.
+
+</p>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/9_25YearModel.jpg" alt="../JW/_F/9_25YearModel.jpg" width="66%">
+
+<figcaption>
+<a class="tri" href="#F8">◀  </a>
+<a href="#TOC" id="F9"> Fig. 9 </a>
+<a class="tri" href="#F10">  ▶</a>
+28
+ Years of Modelled Climate. Perhaps surprisingly, the 4 processes in the
+ lower panel account for all but a series of sharp 0.1° spikes in the 
+temperature record — and of these 4, anthropogenic effects make the 
+largest contribution and the only one with a trend. Note that the 
+solar-radiation curve shows only the short-term sun-spot cycle, and is 
+too short to notice the millennial Milankovitch cycles.
+</figcaption></figure>
+
+
+<p>Contrary to expectations, detailed timing of the fast warming at the end of ice ages (<a href="#F3">Fig. 3</a>) showed that ocean temperature rose first, followed by air temperature and
+ <a class="fn">CO₂<span>
+	H Cheng &amp;7a (2009) ‘Ice Age Terminations’ <cite>Science</cite> <b>326</b>(#5950): 248–252; doi: 10.1126/science.1177840
+</span></a>, followed <a class="fn">7000 years<span>
+	JC Hargreaves, A Abe-Ouchi (2003) ‘The timing of ice-age terminations determined by wavelet methods’ <cite>Paleoceanography</cite> <b>18</b>(#2): 13.1–13.9.
+</span></a> later by glacial melting and sea level rise. <a class="fn">One suggestion<span>
+	JD Hays, J Imbrie, NJ Shackleton (1976) ‘Variations in the Earth's Orbit: Pacemaker of the Ice Ages’ <cite>Science</cite> <b>194</b>(#4270): 1121–1132.
+</span></a> is solar forcing, since the ocean is the principal absorber of solar energy. The sequence would then be a:
+</p>
+
+<blockquote>Northern Hemisphere summer-insolation-intensity <a class="fn">[Milankovitch]<span>
+	Milankovitch described 3 perturbations of the Earth's astrodynamical 
+parameters, caused by gravitational interactions with other planets. 
+Precession has 19-, 22-, and 24-kyr cycles, obliquity (tilt of the 
+rotational axis) 49 kyr, and orbital eccentricity 95, 125, and 400 kyr. 
+ These combine to produce an irregular 21% variation in polar insolation
+ at 65°N with a dominant 21-kyr period.<br>
+	Ice ages have a ~100-kyr period.
+</span></a> trigger for an initial retreat of northern ice sheets. 
+Meltwater and icebergs entering the North Atlantic alter oceanic and 
+atmospheric circulation and associated fluxes of heat and carbon, 
+causing increases in atmospheric CO₂ and Antarctic temperatures that 
+drive the termination in the Southern Hemisphere. Increasing CO₂ and 
+summer insolation drive recession of northern ice sheets, with probable 
+positive feedbacks between sea level and CO₂. — <a class="fn">Cheng &amp;7a 2009<span>
+	Cheng &amp;7a (2009) ‘Ice Age Terminations’ <cite>Science</cite> <b>326</b>(#5950): 248–252; doi: 10.1126/science.1177840
+</span></a>
+</blockquote>
+
+<p class="flu">While this description is a bit short on details, the correlation between insolation at 65°N and ice volume is <a class="fn">good<span>
+	In other words, summer heat melts ice, as one might expect. This may 
+only reduce thickness rather than ice-covered area, and so not show up 
+in photographic surveys.
+</span></a>, as shown in Fig. 10. The major problem is that 100-kyr ice 
+ages survive any number of potential Milankovitch triggers, so something
+ else appears to set the major periodicity.</p>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/10_IceVolume.jpg" alt="../JW/_F/10_IceVolume.jpg" width="66%">
+
+<figcaption>
+<a class="tri" href="#F9">◀  </a>
+<a href="#TOC" id="F10"> Fig. 10</a>
+<a class="tri" href="#F11">  ▶</a>
+Ice Volume. During WW II, the Serbian mathematician <a class="fn">Milutin Milankovitch<span>
+	M Milankovitch (1941) <cite>Canon of Insolation and the Ice Age Problem</cite>, trans. N Pantic (Serbian Agency for Textbooks/Alven Global, Belgrade, 1998). ISBN 86-17-06619-9.
+</span></a>, interned as prisoner of war, solved the problem of ice ages
+ by relating them to changes in insolation as the Earth's orbit changed 
+quasi-periodically from the gravitational effects of the other planets. 
+While Milankovitch periodicities show up in climate proxies, it is hard 
+to see a direct correlation between insolation and proxy data. The 
+process is more subtle: There is good correlation between the rate of 
+ice-volume change (inferred from oxygen-isotope data) and <a class="fn">high latitude <i>summer</i> insolation<span>
+	P Huybers (2006) ‘Early Pleistocene glacial cycles and the integrated summer insolation forcing’ <cite>Science</cite> <b>313</b>(#5786): 508–511; doi:10.1126/science.1125249.
+</span></a> over the last million years.
+</figcaption></figure>
+
+
+<p>One recent supplementary suggestion is P/IAH, the <a class="fn">Peatland/Ice Age Hypothesis<span>
+	LG Franzén (1994) ‘Are wetlands the key to the ice age cycle enigma?’ <cite>Ambio</cite> <b>23</b>(#4–5): 300–308.</span></a>,
+which might cycle enough carbon to account for a climate forcing of <a class="fn">5 W/m<sup>2</sup><span>
+	LG Franzén &amp;3a (2012) ‘The potential peatland extent and carbon 
+sink in Sweden, as related to the Peatland / Ice Age Hypothesis’ <cite>Mires and Peat</cite> <b>10</b>: 1–19.
+</span></a>.</p>
+
+<p id="17a">I suggest that a prime candidate is the interaction of shallow-sediment methane clathrate,
+	<a href="http://electromontis.net/JW/A0.shtml#14"><img class="im" src="pw.Climate%20Change_files/K-NewIdea3.gif" alt="New-idea"></a>
+ice volume, sea level, and Milankovitch.
+</p>
+
+<table class="t22">
+<tbody>
+<tr><td style="border:thin black solid; padding:8px;">
+Start with a warm interglacial climate like today's, but without 
+anthropogenic CO₂ input. Phytoplankton slowly but steadily draw down 
+atmospheric CO₂, die, increase organic carbon in sediments, and thence 
+methane clathrates. The gradual loss of atmospheric CO₂ cools the 
+climate, with (as the models show) major effect in the arctic zones. 
+Milankovitch willing, land ice accumulates, sea level drops, but exposed
+ Arctic-basin sediments are cold enough to preserve the methane ice. The
+ process continues until there’s a mile-thick glacier in the northern 
+hemisphere, and sea-level fall has exposed several hundred vertical 
+meters of clathrate-rich sediments on continental shelves and slopes. 
+This situation is thermodynamically metastable; all it needs now is a 
+Milankovitch insolation peak to produce a warm Arctic summer, and it 
+releases a 50,000-year accumulation of a greenhouse gas with <a class="fn">many times<span>
+	The Global Warming Potential of a greenhouse gas is a complicated 
+function of its atmospheric lifetime, spectral absorption, and time 
+period under consideration. Suffice to say that ~1 ppm of methane has 
+contributed 30% of the warming since 1750, while ~300 ppm of CO<sub>2</sub> have contributed 70%.
+</span></a><a href="http://www.geo.cornell.edu/eas/PeoplePlaces/Faculty/cathles/Gas%20Blog%20PDFs/9RadF%20Radiative%20Forcing.pdf"> ⬆</a> the warming potential of CO₂. This methane pulse will <i>not</i>
+ be trapped in air bubbles in the ice, because methane is oxidized to 
+CO₂ in a few years, and summer temperatures at the beginning of the 
+interglacial — as in Greenland currently — would melt <a class="fn">winter accumulation<span>
+	Iceland is losing 10 feet of glacier length annually. Even Naimona'ny, a
+ glacier at 6000 m in the Himalayas, and typical of the headwaters of 
+the Indus, Ganges, and Brahmaputra, has lost 70 years of accumulated ice
+ from its <i>surface</i>. (High-altitude glaciers used to melt from the 
+low end, as in Iceland — constantly replenished by slow downhill 
+movement — and not from the surface. Surface ablation means that the 
+atmospheric isotherms have moved upwards. (See Fig. 14.) The end result 
+of this process is extreme erosion of the upland valleys, devastating 
+floods and silting during the summer monsoon, winter drought throughout 
+India, Southeast Asia, and China, and 2 billion desperate and angry 
+people. If we are lucky, they will only nuke eachother.<br><br>
+
+	Such events would not be called ‘subtle’ except for their ability to escape the notice of the people we elect to government.
+<br>----------------<br>
+	NM Kehrwald &amp;8a (2008) ‘Mass loss on Himalayan glacier endangers water resources’ <cite>Geophysical Research Letters</cite> <b>35</b>: L22503, 6pp., doi:10.1029/2008GL035556.
+</span></a>. The metastability is continuous throughout the glaciation, 
+and episodes of local melting might account for the sharp oscillations 
+seen in ice-age temperatures.</td></tr>
+</tbody></table>
+
+<p>Modelling this hypothesis requires more computational power than I 
+have available, so I content myself with describing it. It accounts 
+nicely for the rise of temperature before CO₂, for the sawtooth nature 
+of the isotopic temperature record, and it offers a plausible driver for
+ the 100-kyr glaciation cycle. The fact that methane is currently 
+escaping from Arctic sediments might seem contradictory: Why did it not 
+all boil off 12,000 years ago at the start of the interglacial? All I 
+can suggest is that additional warming from the 100 ppm of anthropogenic
+ CO₂ is reaching deeper into the permafrost, again making this 
+interglacial different from all others.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#17">△  </a>
+<a href="#TOC" id="18"> The Permian Extinction, 252 Ma </a>
+<a class="tri" href="#19">  ▽</a>
+</h3>
+
+<p class="epi">The opposite of an Ordinary Truth is a lie, but the opposite of a Great Truth is another Great Truth.  —  Niels Bohr.
+</p>
+
+<p>A prime example of Bohr's paradox is the Medea Theory of 
+paleontologist Peter D. Ward of the University of Washington. Medea is 
+the polar opposite of the Gaia Theory of <a href="https://en.wikipedia.org/wiki/Gaia_hypothesis">Lovelock and Margulis</a>. If Gaia is the archetype of the Good Mother, Medea is the archetype of the <a class="fn">Evil Mother<span>
+	E Neumann (1963) <cite>The Great Mother: An Analysis of the Archetype</cite>, 2d ed. Transl. by R Mannheim. (Princeton University Press, Princeton NJ, 1974).
+</span></a>, who murders her own children. Medea Theory sees the 
+universe as malignly inhospitable to advanced life, blames all but one 
+of the 5 great extinctions on <a class="fn">climate change<span>
+	PD Ward (2009) <cite>The Medea Hypothesis: Is Life on Earth Ultimately Self-Destructive?</cite> (Princeton University Press).
+</span></a>, and notes how easily the next catastrophe (natural or incidental to purblind profit-seeking) can wipe us out.
+</p>
+
+<p>Loss of polar ice shelves is probably sufficient to prevent 
+bottom-water formation and ventilation of the deep ocean. Sulfur 
+bacteria then extract oxygen from sulfate, leaving poisonous H₂S, which 
+kills everything else. This happened at the end of the Permian, when we 
+lost 90% of marine families and 70% of <a class="fn">terrestrial vertebrates<span>
+	Greenland lost some 370 km<sup>2</sup> of coastal ice shelves between 
+2009 and 2012. Melting of the surface of its land ice (as suggested 
+below) has removed any record of recent atmospheric gas concentrations.
+</span></a>.
+</p>
+
+<p>Of the 5 ‘canonical’ extinctions, 4 were caused by climate change. We might want to minimize global heating lest the <a class="fn">6th<span>
+	R Leakey, R Lewin (1995) <cite>The Sixth Extinction</cite> (Weidenfeld &amp; Nicolson, London, 1996).
+</span></a> take us with it. Climate-change deniers will point out that deep-sea ventilation is a myriennial process, so there is time to <i>make</i> money, rather than spend it — but what is the (evolutionary) point of making money if so doing destroys your descendants?
+</p>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/11_GISTEMP2017.png" alt="../JW/_F/11_GISTEMP2017.png" width="66%">
+
+<figcaption>
+<a class="tri" href="#F10">◀  </a>
+<a href="#TOC" id="F11"> Fig.11</a>
+<a class="tri" href="#F12">  ▶</a>
+Mean temperature to 2016. The rapid rise in the last 3 years should put 
+an end to denialist talk of ‘constant temperature since 1998’. We are 
+now 0.2°C from the 1.5° ‘tolerable limit’ — one decade at the linearized
+ increase — and the US just elected a denialist and coal enthusiast to 
+the Presidency. The foreseeable future looks uncomfortably warm.
+<a href="http://www.columbia.edu/%7Ejeh1/mailings/2016/20160926_BetterGraph.pdf">Source.</a>
+</figcaption></figure>
+
+
+<p> There is a powerful lobby that is extremely anxious to make 
+discussion of global heating go away, and after the 2016 election, some 
+of its members were chosen to run relevant government departments. <a class="fn">91 foundations<span>
+	RJ Brulle (2013) ‘Institutionalizing delay: foundation funding and the 
+creation of US climate change counter-movement organizations’ <cite>Climatic Change</cite> <b>122</b>(#4): 1-14; doi 10.1007/s10584-013-1018-7.
+</span></a>, supported as surreptitiously as possible by corporations 
+and billionaires, paved the way for this by spending  a billion dollars 
+lying to you about climate. This turns out to be a <a class="fn">normal psychological response<span>
+	PK Piff &amp;4a (2013) ‘Higher social class predicts increased unethical behavior’ <cite>Proc Natl Acad Sci US</cite> Early Edition; doi10.1073/pnas.1118373109 .
+</span></a> when people are overpaid: characteristic of the criminogenic
+ environment of unregulated Wall Street and a result of inadequate 
+parenting by the 1‰. ‘Social class negatively predicted probability of 
+telling the truth, … and positively predicted favorable attitudes toward
+ greed ….’ The 1‰ have spent 45 years perverting the system to work for 
+them, and do not welcome anything that would change their rules and 
+reduce their profit.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#18">△  </a>
+<a href="#TOC" id="19"> Leave It in the Ground </a>
+<a class="tri" href="#20">  ▽</a>
+</h3>
+
+<p>One doesn’t need super computers to see how seriously we are in 
+trouble. An approach accessible to middle-school students is to 
+extrapolate the 20th century linearly into the 21st, in terms of 
+population, per-capita energy use, and anthropogenic temperature 
+increase. This is the business-as-usual approach — understood, approved,
+ and planned for by CEOs, bankers, and politicians.
+</p>
+
+<p>Think of a square pyramidal oil tank with base (population <i>x</i> × annual per-capita oil use <i>y</i>) and 100 years tall. It holds a volume <i>v</i> = (<i>xy</i>100)/3,
+ which (from the data in Table 2) is 1 trillion barrels (1 Gbbl), almost
+ exactly what we burned in the 20th century, and it raised the mean 
+temperature 0.8°C. Now double each dimension, and the volume is 8 
+trillion bbl. If 1 Gbbl raised the temperature 0.8°C, 8 Gbbl will raise 
+it 6.4°C — and world agriculture is in terminal disarray.
+</p>
+
+<hr><table class="tcen">
+<caption>
+<a class="tri" href="#T1">◀  </a>
+<a href="#TOC" id="T2"> Table 2. </a>
+<a class="tri" href="#T3">  ▶</a>
+Extrapolating the 20th century linearly is a culture breaker. 
+(Assumption: there are still 2 billion people living on solar energy 
+today.) <i>Bbl</i> is the abbreviation for the standard oil barrel of 42
+ US gallons, about 159 liters, and a common wine barrel in the first US 
+oil field. As the prompt temperature increase moves downward into the 
+permafrost, it will release additional greenhouse gasses, making the 
+ultimate temperature increase larger by an unknown amount.
+</caption>
+
+<thead><tr><th>Date</th>
+	<th>Years</th>
+	<th><br>Population<br>/ Billion</th>
+	<th>Annual<br>Per-capita<br>Oil Use / Bbl</th>
+	<th>Total<br>Oil Burned<br>/ Trillion Bbl</th>
+	<th>Prompt<br>Temperature<br>Increase</th></tr>
+</thead>
+
+<tbody class="cen">
+<tr><td></td>
+	<td><i>t</i></td>
+    <td><i>x = pop</i> – 2</td>
+    <td><i>y</i></td>
+    <td><i>v = xyt</i>/3</td>
+    <td>ΔT = 0.8°C·<i>v</i></td></tr>
+
+<tr><td>1900</td>
+    <td>0</td>
+	<td>0</td>
+    <td>0</td>
+    <td>0</td>
+    <td>0</td></tr>
+
+<tr><td>2000</td>
+    <td>100</td>
+    <td>4</td>
+    <td>7.5</td>
+    <td>1</td>
+    <td>0.8°C</td></tr>
+
+<tr><td>2100</td>
+    <td>200</td>
+    <td>8</td>
+    <td>15</td>
+    <td>8</td>
+    <td style="background-color:#fed;">6.4°C</td></tr>
+
+</tbody></table>
+
+
+<p>The 2 billion people alive in 1900 were the sustainable population of
+ the day, living off of solar energy in its many natural forms (wind, 
+wood, water, whale oil, and a bit of coal) — except that they nearly 
+drove the whales extinct. Given improvements in agriculture and 
+extension of cropland, the sun may now support 3 billion people, but oil
+ supports the rest. Much of the current unrest in the world arises from 
+our inability to keep up with their expectation of an ever-increasing 
+standard of living — showing that the simple linear extrapolation is 
+already too optimistic.
+</p>
+
+<p>The 2°C temperature increase once assumed to be acceptable is proving to be <a href="https://medium.com/@350/temperature-check-1f076624c55b#.6ptogqjcn">too much</a>, and the consensus is that <a href="http://www.climateemergencyinstitute.com/2c.html">1.5°C</a>
+ will stress our civilization as much as it can bear. Today's wars and 
+mass migrations may be exacerbated by US bombings, but they are a 
+harbinger of more to come as temperature increase and <a href="https://www.theguardian.com/environment/2015/aug/27/middle-east-faces-water-shortages-for-the-next-25-years-study-says">water shortages</a> spread in desert areas.
+</p>
+
+<p>There is still discourse in which ‘growth’ and ‘sustainability’ occur
+ together, often with the premise that the first is necessary for the 
+second. For a century, economic growth has meant increased oil usage. 
+Table 2 tells us that we can no longer do this.  There is another 
+trillion barrels of conventional oil in the ground: using this will 
+raise the temperature to the acceptable limit. Using all known 
+(pre-fracking) fossil reserves (coal, tar sands, heavy oil) will raise 
+the temperature by 4.4°C (based on the linear extrapolation, not on 
+computer simulation). Fracking will take it even higher. <i>We do not want to do this.</i>
+ We want to keep the Koch Brothers and Exxon-Mobil and Big Oil from 
+doing it to us. Corporations, deliberately ignoring science, see only 
+agitators trying to keep them from making money. Not being a CEO, I find
+ this suicidally irrational. If it were just suicide, this would be 
+splendidly self-correcting; the problem is Tom Lehrer's: ‘we all will go
+ together when we go’.
+</p>
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/12_LeaveInGround.jpg" alt="../JW/_F/12_LeaveInGround.jpg" width="66%">
+
+<figcaption>
+<a class="tri" href="#F11">◀  </a>
+<a href="#TOC" id="F12"> Fig.12</a>
+<a class="tri" href="#F13">  ▶</a>
+Quixotic Expectations. The 20th-century production of CO<sub>2</sub> (yellow) is mirrored in the 21st century (tan). This is the most CO<sub>2</sub>
+ that we can release and keep the immediate temperature rise to ~1.6°C. 
+The upper (reddish) area is what energy companies are planning to 
+market. This must be left in the ground unless feasible and economical 
+methods of <a href="http://web.mit.edu/coal/">Carbon Capture and Sequestration</a> (CCS) are found to keep it out of the atmosphere. Data from <a href="http://www.after-oil.co.uk/CCS.htm">J Busby (2010)</a>. (His estimates of future production differ somewhat from those used in the text, but the conclusions are the same.)
+</figcaption></figure>
+
+
+<p>‘Sustainable’ means that
+(Population × per-capita energy use) is less than (Usable incoming solar
+ energy). The 3 things we can do are to lower the population, use less 
+energy, and increase solar energy and molten-salt breeder reactors.
+</p>
+
+<p>Population reduction, and less fossil-carbon-energy-use, are not 
+concepts that our current politicians can deal with comfortably. We have
+ yet to commit to meaningful sustainable energy. This means that the 
+transition to a sustainable world will probably depend painfully upon 
+the 3 Malthusian standbys. <i>Moral restraint</i> (chastity and late marriage) has never worked, <i>Vice</i> (contraception and abortion) we decry as evil, and this leaves <i>Misery</i> (starvation, war, pandemics, bad government, …) to do the job. <a class="fn">‘All of the children born beyond [the supportable limit], must necessarily perish.’<span>
+	TR Malthus (1890) <cite>Malthus on Population</cite>, reproduced from the last (6th) edition of <cite>An Essay on the Principle of Population …</cite> (1798-1826), with an introduction by GT Bettany (Ward, Lock &amp; Co., London): Bk IV, ch v.
+</span></a> As always. Those who do not solve their problems with intelligence will have them solved by stupidity.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#19">△  </a>
+<a class="tri" href="#17">△  </a>
+<a href="#TOC" id="20"> THE GREENHOUSE </a>
+<a class="tri" href="#22">  ▽</a>
+<a class="trs" href="#21">  ▽</a>
+</h2>
+
+
+<p>Figure 13 is a toy thermodynamic model in which the earth is a 
+blackbody. The model is rigorous, simple, and follow directly from Fig. 
+1. It depends on the First Law of Thermodynamics (Energy is conserved), 
+the Perfect Gas Law (PV=<i>R</i>T), and the standard well mixed, 
+constant-composition, troposphere. It starts from a steady state in 
+which all the energy that the earth receives from the sun is reradiated 
+to space at the same rate (otherwise the earth warms or cools). These 
+are all valid assumptions, and they are where the ~40 supercomputer 
+models also started. It needs 3 numbers only, 2 of which are fairly easy
+ to measure these days — the energy density of sunlight at the top of 
+the atmosphere, and the earth's albedo, the fraction of sunlight 
+reflected immediately. The remaining number, τ = infrared optical depth,
+ or equivalently, the 255°K radiation level, lies within the tropophere,
+ and varies with latitude, being closer to the ground nearer to the 
+poles. It is measured by 1,600 weather balloons daily.
+</p>
+
+<p>To avoid having to deal with the lack of a top to the atmosphere, we 
+ignore gravity and compress the entire atmosphere to its scale depth of 
+11 km, at which size it is all at a pressure of 1 atmosphere. This 
+compression makes very little difference to anything in the model, and 
+it lets us give a precise meaning to the optical depth τ, which is the 
+lowest altitude from which infrared photons can escape (statistically) 
+without interacting with any more <a class="fn">gas molecules<span>
+	 Like everything else in the climate system (such as the radius of the 
+Earth or its distance from the sun), this is a mean value allowing one 
+to make understandable first-order models. For the messy details, see 
+the IPCC reports.
+</span></a>. Having found the optical depth (or, more practically, the 
+pressure at the radiation level) we unscale the atmosphere and let 
+gravity restore the pressure gradient.
+</p>
+
+
+<figure>
+<img class="fl" src="pw.Climate%20Change_files/14_LapseRateMt.png" alt="../JW/_F/14_LapseRateMt.png" width="66%">
+
+<figcaption>
+<a class="tri" href="#F12">◀  </a>
+<a href="#TOC" id="F13"> Fig.13 </a>
+<a class="tri" href="#F0">  ▶</a>
+The Changing Surface Temperature: The infrared optical depth τ (which 
+shortens as greenhouse gasses increase) determines the altitude at which
+ 255°K photons last interact with molecules and can escape to space. All
+ the red lines are attached to the red dot, and move up as τ shortens. 
+(Note that water mostly freezes out at the snow line, and does not have 
+much effect on τ.) The intersection of the lapse rate line with the 
+ground then determines the mean surface temperature. (Using the 
+scale-height atmosphere lets us put a conceptual top on the atmosphere, 
+and so define a radiation level. [It also confounds the modelled lapse 
+rate, which in fact is curved and depends upon the pressure change with 
+height in the real atmosphere.] <i>All</i> models simplify: their utility comes from knowing which simplifications are permissible in aid of <a class="fn"> practicality<span>
+	Click the blue ⬆ for a radiation-balance model from a Penn State 
+meteorology course which includes the emissivity of the atmosphere.
+</span></a><a href="https://www.e-education.psu.edu/meteo469/node/198">⬆</a>.
+</figcaption></figure>
+
+<p>We now need the concept of ‘potential temperature’. Think of air as 
+existing in ‘parcels’ about the size of weather balloons, surrounded by 
+infinitely elastic membranes which prohibit mixing or energy exchange. 
+Motion is then adiabatic (no heat enters or leaves the parcel). The 
+parcel changes pressure, volume, and temperature in accordance with the 
+perfect-gas law as it rises or descends, but it is always at the same 
+temperature at the same altitude. For climatologists, it makes sense to 
+define the potential temperature at the optical-depth/radiation-level: 
+its actual temperature after being compressed to 1 atmosphere (1013 hPa)
+ is then the surface temperature of the earth. Notice once again: no 
+heat is required to raise its temperature during this process, and below
+ the radiation level, back-radiation from greenhouse gasses can be 
+included as part of the turbulent mixing that maintains a constant 
+composition <a class="fn">troposphere<span>
+	PV work is done on a parcel as it descends and is compressed and 
+warmed; it does equal work on the surroundings if it rises, expands, and
+ cools. The rate at which the temperature increases below the radiation 
+level is the lapse rate, and ranges from 5.5°C/km for wet air to 10°C/km
+ for dry air, with the meteorologists' standard value 6.5°C/km.<br>
+
+	Energy is conserved in these processes; entropy, which measures the 
+usability of that energy, is produced. Entropy is always confusing 
+because we have no sensor that notices it, and no word for its unit, 
+which is joule/°K,* although the name ‘clausius’ has been used 
+informally. The most accessible definition is dS=dQ/T, where dS is the 
+change in entropy, dQ the change in heat, and T the temperature. The 
+Earth exports 5800°/255° = 22.7 times as much entropy as it absorbs from
+ the sun, and it is this entropy production that drives weather and 
+ocean currents and supports life.
+<br>------------------<br>
+	* The powers that be have declared that the degree and its sign are not
+ needed when talking about kelvins. I retain the ° symbol because 
+unadorned K is a chemical-equilibrium constant in my world, appearing in
+ many of the equations that I write, and I am easily confused.
+</span></a>.
+</p>
+
+
+<p>A relatively simple zonal (2-dimensional pole-to-pole) <a href="http://journals.ametsoc.org/doi/full/10.1175/JCLI3373.1">radiation-balance model</a>
+ gives excellent agreement with surface-temperature data sets (its Fig. 
+5). It also shows that a working estimate for the radiation level is the
+ 650 hPa isobar (its Fig. 6), which is ~3,700 m or 12,000 feet.
+</p>
+
+<p>In short, solar input implies that the mean radiation temperature of 
+the earth is 255°K, and an air temperature of 255°K at 12,000 feet 
+implies a surface temperature of 14°C. Add CO₂ and 255°K moves higher 
+and the 14°C increases.
+</p>
+
+
+
+<h3>
+<a class="tri" href="#20">△  </a>
+<a href="#TOC" id="21"> Some Complexities </a>
+<a class="tri" href="#22">  ▽</a>
+</h3>
+
+<p class="epi">This presentation is the ‘30-page’ version. For the ‘600-page’ version, see <a href="http://scienceofdoom.com/about/">ScienceofDoom</a>,
+ a level-headed and thorough collection of tutorial discussions of all 
+aspects of climate science, which responds to rude skeptics with serious
+ attempts explain the view of climate scientists on the issue in 
+question.
+</p>
+
+<p>If the simple thermodynamic model is rigorous, why is so much effort 
+put into IPCC? The easy answer is that the thermo model is a concise 
+description of what the IPCC has discovered. Obtaining the 288°K annual 
+mean surface temperature from the observed daily 100°C range of ground 
+temperatures required a long and painstaking international effort.
+</p>
+
+<p>The supercomputer models become trustworthy only when they <a class="fn">reproduce historical climate<span>
+	Oddly, deniers seem to regard this essential (backcasting) step as 
+cheating, and forecasting as ‘just computer modelling’. None of them 
+offer an approach beyond ‘Climate is always changing. Live with it. And 
+don't use our taxes for preparation!’. (They will, one suspects, be 
+equally vocal about requesting socialist help when climate-related 
+emergencies arise.)
+</span></a> from historical data. The attempt to predict future values 
+of the optical depth τ draws in economic historians, futurologists, 
+demographers, anthropologists, and sociologists. The verbal input of 
+these experts must be converted to numerical parameters before the 
+computers can use them: this is one of the subtlest of skills, fraught 
+with uncertainties. Political sensitivities preclude public discussion 
+of realistic possibilities, such as the consequences of a 
+climate-induced population crash, or the probabilty that preparations 
+for martial law and militarization of police forces are in expectation 
+of serious disorder when global heating, energy shortages, and crop 
+failures arrive simultaneously.
+</p>
+
+<p>By far the easiest use of increased computer power is to reduce the 
+size of the geographical step, and over the years this has gone from 
+500-km steps in 1970 to 110-km steps in 2007, and from 1 fluid layer 
+(atmosphere or ocean) to  <a class="fn">30 in each<span>
+	IPCC (2007): Summary for Policymakers. In: <cite>Climate Change 2007: The Physical Science Basis. 4th Assessment Report</cite> (Cambridge University Press, Cambridge, UK): 113.
+</span></a>. (Sometimes this reduction produces unexpected results, for 
+reasons that are not completely understood.) New processes have been 
+added, in the sequence: CO₂ and rain in 1970s, then clouds and ice, a 
+shallow ‘swamp’ ocean, volcanoes, sulphates, a deep ocean, the carbon 
+cycle, rivers, aerosols, an overturning ocean, interactive vegetation, 
+and UV-induced atmospheric chemistry.
+</p>
+
+<p>The bottom line, in terms of ‘radiative forcing’ (which is measured in W/m<sup>2</sup>, like the incoming energy, is shown in Table 3. CO₂ contributes 1.7 W/m<sup>2</sup>. Everything else sums to almost zero:
+</p>
+
+<p>Note the small effect of water vapor. Although often cited as ‘the 
+most important greenhouse gas’ this is true only below the radiation 
+level. Below cloud level, it blocks most IR radiation, and transports 
+the latent heat of condensation up to the clouds. But most water freezes
+ out by 5 km, and what is found in the stratosphere is newly formed from
+ oxidized methane. Much of the effect of ‘other GHG’ is from 
+meat-production methane, generated in the rumens of cattle during the 
+bacterial digestion of cellulose. Although the carbon in this methane 
+was removed from the atmosphere by photosynthesis of cattle fodder, 
+methane, with 4 C-H bonds to absorb energy, is a much more powerful GHG 
+than CO₂. With a 12.5-year half-life, it make an appreciable 
+contribution to global warming.</p>
+
+
+<hr><table class="tcen2">
+<caption>
+<a class="tri" href="#T2">◀  </a>
+<a href="#TOC" id="T3"> Table 3. </a>
+<a class="tri" href="#T4">  ▶</a>
+Greenhouse Radiative Forcings (IPCC AR5 WG1 Table 8.6).
+‘GHG’ is ‘greenhouse gas’.
+</caption>
+
+<thead>
+<tr><th>GHG</th>
+    <th>Radiative<br>Forcing / (W/m<sup>2</sup>)</th></tr>
+</thead>
+
+<tfoot class="cen">
+<tr><td>Total</td>				<td>+2.3</td></tr>
+<tr><td>Solar irradiance</td>	<td>+0.05</td></tr>
+</tfoot>
+
+<tbody class="cen">
+<tr><td>CO<sub>2</sub></td>					<td>1.66</td></tr>
+<tr><td>Other<br>GHG</td>					<td>1.17</td></tr>
+<tr><td>Tropospheric<br>ozone</td>			<td>+0.40</td></tr>
+<tr><td>Stratospheric<br>ozone</td>			<td>–0.05</td></tr>
+<tr><td>Stratospheric<br>Water vapor</td>	<td>+0.07</td></tr>
+<tr><td>Aerosol, radiation</td>				<td>–0.45</td></tr>
+<tr><td>Aerosol, cloud</td>					<td>–0.45</td></tr>
+<tr><td>Surface albedo</td>					<td>–0.15</td></tr>
+<tr><td>Contrails+cirrus</td>				<td>+0.05</td></tr>
+<tr><td>Black carbon</td>					<td>+0.04</td></tr>
+</tbody></table>
+
+
+<p>Science fiction might come to the rescue at this point, with something like a realization of ‘<a class="fn">Chicken Little<span>
+	F Pohl, CM Kornbluth (1952) <cite>Space Merchants</cite> (St. Martin's Press, NYC).
+</span></a>’, a fast-growing (cancerous?) tissue culture fed  alga-derived glucose, producing chicken meat <a class="fn">quickly<span>
+	In 1912, Dr Alexis Carrel bathed an embryonic  chicken-heart culture in
+ nutrient broth. It doubled in size every 48 hours and lived for at 
+least 34 years. No-one has replicated this work, and most tissue 
+cultures have limited lifetimes. The influence of stem cells and 
+telomere length on culture longevity are open questions.
+</span></a>, with no methane production.
+</p>
+
+<p>One final question is ‘Where does the additional energy to warm the earth come from if everything is in balance?’. I <i>told</i> you that we lied to you: it isn’t quite in balance. NASA's <a class="fn">
+	Jim Hansen <span>&amp;3a (2011) ‘Earth's energy imbalance and implications’ <cite>Atmospheric Chemistry and Physics</cite> <b>11</b>: 13421-13449.
+</span></a><a href="https://pubs.giss.nasa.gov/docs/2011/2011_Hansen_ha06510a.pdf"> ⬆</a> showed that the earth absorbed (0.58 ± 0.15)W/m<sup>2</sup>
+ more than it radiated over the 2005–2010 period, with 71% of the energy
+ going into the ocean (in proportion to its fractional area), confirming
+ ‘the dominant role of the human-made greenhouse effect in driving 
+global climate change’. This value is <a class="fn">less than 1/4<span>
+	It is 0.24% of incoming energy: values derived by subtraction of large numbers are inherently inexact.
+</span></a> of the 2.3 W/m<sup>2</sup> calculated above and 1.6 ofthat 
+estimated in Table 0. There is still a mismatch of numbers and so deeper
+ understanding to be sought here.
+</p>
+
+<p>A <a class="fn">discouraging aspect<span>
+	One that I learned, after writing the above, from MITx's 12.340 Climate
+ Change course (recommended for those of mathematical bent).
+</span></a> is the effective <a class="fn">permanence<span>
+	S Solomon &amp;3a (2009) ‘Irreversible climate change due to carbon dioxide emissions’ <cite> Proc Natl Acad Sci US</cite> <b>106</b>(#6): 1704–1709; doi/10.1073/pnas.0812721106 .
+</span></a> of adding CO₂ to the atmosphere. If you look only at 
+geochemistry (with a geological timescale), you see atmospheric CO₂ in 
+equilibrium with dissolved CO₂, and the latter reacting with carbonate 
+sediments to form harmless <a class="fn">bicarbonate ions<span>
+	Disproportionation: CO₂ + H₂O + CO₃<sup>2-</sup> ⇄  2HCO₃<sup>1-</sup>.
+</span></a>, so there is a steady drawdown of atmospheric CO₂ leading to
+ a return to today's equilibrium. But most of the ocean does not come in
+ contact with enough solid carbonates to matter <a href="http://thinkprogress.org/climate/2009/01/26/203610/noaa-climate-change-irreversible-1000-years-drought-dust-bowls/"><i>on a human timescale</i></a>.
+ There are no carbonates on the deep sea floor (because sinking 
+foraminifera tests dissolve by a pressure effect before reaching the 
+bottom), and it takes 10,000 years for water to make the thermohaline 
+circuit (sinking under polar ice shelves to form bottom water, flowing 
+slowly around the globe, rising imperceptibly to the surface — most 
+distantly in the North Pacific — and flowing by surface currents back to
+ the poles. It can make many circuits without contacting shallow-water 
+carbonates on continental slopes. What we have already done to the 
+atmosphere and climate may outlive our tenure on the planet.
+</p>
+
+
+
+<h2>
+<a class="trs" href="#21">△  </a>
+<a class="tri" href="#20">△  </a>
+<a href="#TOC" id="22"> THE PLANETARY LIMITS </a>
+<a class="tri" href="#01">  ▲</a></h2>
+
+
+<p class="epi">The Anthropocene raises a new question: ‘What are the 
+non-negotiable planetary preconditions that humanity needs to respect in
+ order to avoid the risk of deleterious or even catastrophic 
+environmental change at continental to global scales’?  — <a class="fn">
+	J Rockström &amp;28a (2009)<span> ‘Planetary boundaries: exploring the safe operating space for humanity’ <cite>Ecology and Society</cite> <b>14</b>(#2): 32. [Click to read.]
+</span></a><a href="http://www.ecologyandsociety.org/vol14/iss2/art32/"> ⬆</a>
+</p>
+
+
+<p>Climate change may be our first priority among threats, but it is not
+ alone. Outranking all the popular political and military alarms, the 
+collection in Table 4 includes the phenomena most likely to become 
+culture breakers.
+</p>
+
+<p>In closing, we again come to frontier science, this time in the 
+attempt to recognize planetary boundaries, and — drawing upon 
+multidisciplinary  understanding — to quantify them. Like climate change
+ (which presents one of the boundaries) this requires immense 
+collaborative effort. Boundaries are not obvious, their effects are 
+insidious, their consequences diffuse, and their causes impersonal. To 
+individuals, they are not recognizable as either threats or things that 
+can be changed. Avoiding these boundaries often requires governmental 
+regulation, to prevent people from doing as they please when the 
+cumulative consequences are culture breaking. The conservative wing of 
+the Senate apparently exists to oppose such regulations. If crossing a 
+boundary is 90-day profitable, it is acceptable — whatever its long-term
+ consequences.
+</p><p>
+
+
+</p><hr><table class="tcen2">
+<caption>
+<a class="tri" href="#T3">◀  </a>
+<a href="#TOC" id="T4"> Table 4. </a>
+<a class="tri" href="#T0">  ▶</a>
+Planetary Boundaries. The calculated limits are subject to better 
+estimation as knowledge accumulates. The repercussions of exceeding any 
+of these boundaries include the cultural collapse that has ended the 
+careers of a hundred prior civilizations. The ‘miners' canary’ is merely
+ the best understood aspect of a boundary.
+</caption>
+<thead>
+<tr><th>Boundary</th>
+	<th>Miners' Canary</th>
+	<th>Limiting Parameter</th>
+	<th>Status</th></tr>
+</thead>
+
+<tbody style="background-color:#ffeedd;">
+<tr><td><b>Climate Change</b></td>
+	<td>Polar ice sheets</td>
+	<td>Atmospheric CO₂ &lt; 350 ppm and/or radiative forcing &lt; +1 W/m<sup>2</sup></td>
+	<td class="rc">400 ppm<br>2.88 W/m<sup>2</sup></td></tr>
+
+<tr><td><b>Ocean Acidification</b></td>
+	<td>Coral reefs</td>
+	<td>Mean surface seawater saturation state with respect to aragonite ≥ 80% of pre-industrial levels</td>
+	<td>Approaching boundary</td></tr>
+
+<tr><td><b>Stratospheric Ozone</b></td>
+	<td>Skin cancer</td>
+	<td>&lt; 5% reduction in O<sub>3</sub> concentration from pre-industrial level of 290 Dobson Units</td>
+	<td></td></tr>
+
+<tr><td><b>Biogeochemical Nitrogen Flux</b></td>
+	<td>Terrestrial dystrophication</td>
+	<td>Limit industrial and agricultural fixation of N₂ to 35 Tg N/yr</td>
+	<td class="rc">Exceeded</td></tr>
+
+<tr><td><b>Biogeochemical Phosphorus Flux</b></td>
+	<td>Anoxic seas</td>
+	<td>Annual P inflow to oceans not to exceed 10 times the natural background weathering of P</td>
+	<td>Close to boundary</td></tr>
+
+<tr><td><b>Global Freshwater use</b></td>
+	<td>Civil unrest</td>
+	<td>&lt;4000 km<sup>3</sup>/yr of consumptive use of runoff resources</td>
+	<td></td></tr>
+
+<tr><td><b>Land system change</b></td>
+	<td>Soil loss</td>
+	<td>&lt; 15% of the ice-free land surface under cropland</td>
+	<td></td></tr>
+
+<tr><td><b>Biological diversity loss</b></td>
+	<td>Ecosystem loss</td>
+	<td>Annual rate of &lt;10 extinctions per million species</td>
+	<td class="rc">Greatly Exceeded</td></tr>
+
+<tr><td><b>Chemical pollution</b></td>
+	<td>Environmental cancers;<br>Surprises await</td>
+	<td>Limit not yet known</td>
+	<td></td></tr>
+
+<tr><td><b>Atmospheric aerosol loading</b></td>
+	<td>Monsoon system</td>
+	<td>Limit not yet known</td>
+	<td></td></tr>
+
+
+<tr><td><b>Wealth inequality</b></td>
+	<td>Civil unrest</td>
+	<td>When Rome collapsed, 1800 people owned nearly everything. Or vice versa.</td>
+	<td>Even odds this one wins.</td></tr>
+
+</tbody>
+</table>
+
+<p>The eleven planetary boundaries of Table 3 have so far been 
+recognized. The idea of a boundary is that potential catastrophes lie 
+ahead. In some cases their approach seems slow but inexorable; in 
+others, possibly sudden and disastrous. Given Lao Tzu's startling 
+observation that ‘If we do not change direction, we may end up where we 
+are heading’, it seems smart to put a notional fence between us and the 
+disasters. Since we know what worked during the Holocene (11,700 
+BCE–1760), a good bet is that we might be able to extend the 
+Anthropocene (1760–??) indefinitely by maintaining conditions similar to
+ those of the Holocene. Table 3 presents some boundaries we should not 
+cross if we hope to do this. Note that every boundary is at least as 
+complex as the discussion of global heating <a href="#04">above</a>. Rockström did not mention the final entry.
+
+
+
+</p><p>Work <a class="fn">continues<span>
+	W Steffen &amp;17a (2015) ‘Planetary boundaries: Guiding human development on a changing planet’ <cite>Science</cite> <b></b> ; DOI: 10.1126/science.1259855</span></a>
+on refining the limits. Table 4 is just the beginning: population — the 
+principal driver of the entries above — has not been mentioned, nor have
+ social limits, such as wealth distribution. Web searches for papers by 
+Johan Rockström, Will Steffen, and Paul Crutzen will lead to 
+bibliographies of hundreds of detailed papers behind Table 4 — few of 
+which will seem alarming by themselves.<span class="fr">◼</span>
+</p>
+
+
+<br><hr><div class="cen">
+
+<b>Last update: Fri, 2017-Mar-24, 20:47 GMT.</b>
+</div>
+</body></html>

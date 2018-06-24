@@ -1,0 +1,750 @@
+<!DOCTYPE html><html><head>
+<meta charset="UTF-8">
+<title>Glossary</title>
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../CS/bfbv.css">
+</head>
+
+<body>
+<header id="Gl"><hr>
+
+<!--#include virtual="/evoligion/ChapTab.shtml" -->
+<hr>
+
+
+
+<p class="epi">&mdash;with occasional homage to Ambrose Bierce.
+
+<h2 id="01">
+   <a class="up" href="#Gl">&and;</a>
+   <a class="up" href="#02">&darr;&nbsp;</a>
+Symbols</h2>
+
+<dfn id=”aa”>≤</dfn><dd> Less than or equal to.</dd><br>
+
+<dfn id=”aa”>&permil;</dfn><dd> Per mil, parts per thousand, 0.1%. The salinity of the ocean is near 33&permil;; the amorphous, threatening &lsquo;they&rsquo; of politics are the economic 1&permil;.</dd><br>
+
+<dfn id=”aa”>♀</dfn><dd> The universal biological symbol for &lsquo;female&rsquo;. When followed by an upper case letter, as &lsquo;♀A&rsquo;, it is to be read as &lsquo;mtDNA haplogroup A&rsquo;, transmitted only by females, to everyone.</dd><br>
+
+<dfn id=”aa”>♂</dfn> <dd> The universal biological symbol for &lsquo;male&rsquo;. When followed by an upper case letter, as &lsquo;♂A&rsquo;, it is to be read as &lsquo;NRY-haplogroup A&rsquo;, transmitted only by males, to males.</dd><br>
+
+
+
+<h2 id="02">
+   <a class="up" href="#Gl">&and;</a>
+   <a class="up" href="#01">&uarr;</a>
+   <a class="up" href="#03">&darr;&nbsp;</a>
+Acronyms and Abbreviations</h2>
+
+<dfn id=”aa”>
+BP</dfn><dd>Before the Present. When used in conjunction with radiocarbon dating, before 1950.</dd><br>
+
+<dfn id=”aa”>
+cgs</dfn><dd>Centimeter-gram-second, the original length-mass-time units of the metric system. Obsolescent, and replaced by the MKS, or meter-kilogram-second units of SI, the Systéme Internationale. US and UK approaches use length-force-time units (foot-pound-second), or the didactic FFF (furlong-firkin-fortnight) system used to browbeat chemical-engineering students into remembering to check units at all times (as someone forgot to do for the Mars Lander!). One furlong per fortnight is very nearly 1 centimeter per minute; a furlong is 220 yards or 201+ meters, about as far as a horse wants to pull a plow without resting.</dd><br>
+
+<dfn id=”aa”>
+DIY</dfn><dd>Do It Yourself. Originally aimed at the home handyman, it is equally appropriate to theology.</dd><br>
+
+<dfn id=”aa”>
+EEG</dfn><dd>Electroencephalograph, a device which measures the radial electrical potential just outside the skull, resulting from radial currents in the brain&rsquo;s pyramidal cells (within a few mm of the skull). Each electrode (of which there may be 25 or more distributed over the skull) records the mean potential of thousands to millions of cells. The most characterizable result is low frequency alternating current in the 2&ndash;100 Hz range produced by coordinated activity among many neurons.</dd><br>
+
+<dfn id=”aa”>
+eRNA</dfn><dd>&lsquo;Efference RNA&rsquo;. RNA coded by eukaryote introns, putatively carrying auxiliary information which makes eukaryote DNA more efficient and versatile than prokaryote DNA.</dd><br>
+
+<dfn id=”aa”>
+ESS</dfn><dd>&lsquo;Evolutionary Stable Strategy&rsquo;, a way of life which is sufficiently robust to compete successfully against innovations, as demonstrated by any long-surviving species or culture. The concept is most useful in theoretical discussions, when a gedanken strategy can be shown to be non-ESS.</dd><br>
+
+<dfn id=”aa”>
+FUD</dfn><dd>A polite term for corporate bullshit, an acronym for &lsquo;Fear, Uncertainty, Doubt&rsquo;. An effective marketing ploy. &lsquo;You don&rsquo;t want to buy that large/fast/inexpensive computer/program/peripheral from some fly-by-night competitor, because nobody will maintain it after they go out of business; we can&rsquo;t guarantee that it won&rsquo;t crash your mainframe; and in 6 months we will have a larger/faster/cheaper version guaranteed to be compatible.&rsquo; The months roll by, the company making the large/fast/inexpensive product goes out of business for lack of sales&mdash;but the compatible product never appears. IBM may have invented the ploy, and it will forever be associated with Microsoft, but a lot of companies know how to spread it.</dd><br>
+
+<dfn id=”aa”>
+G$</dfn><dd>Gigadollar. The Systéme Internationale prefix &lsquo;gīga&rsquo;, abbreviated &lsquo;G&rsquo;, stands for 10<sup>9</sup>, or 1 billion. Cf &lsquo;gigabyte&rsquo;. G$1 = M$1,000 = k$1,000,000 = $1,000,000,000</dd><br>
+
+<dfn id=”aa”>
+IC</dfn><dd>'Irreducibly Complex&rsquo;&mdash;the creationist claim that any biological mechanism which will not work if a single component is altered cannot possibly have evolved, but was designed by an Intelligent Designer. No such mechanisms are known.</dd><br>
+
+<dfn id=”aa”>
+ID</dfn><dd>&lsquo;Intelligent Design&rsquo;&mdash;the creationist claim that evolution is inadequate to generate living organism, so that intelligently wielded magic was necessary.</dd><br>
+
+<dfn id=”aa”>
+k$</dfn><dd>kilodollar. The Systéme Internationale prefix &lsquo;kilo&rsquo;, is from Greek chilia = 1000, so k$1 = $1,000.</dd><br>
+
+<dfn id=”aa”>
+ka</dfn><dd>&lsquo;kiloannum&rsquo;. 20ka means &lsquo;20,000 thousand years ago&rsquo;. (ka = 1,000 years B.P.; ky = 1,000 years)</dd><br>
+
+<dfn id=”aa”>
+LGM</dfn><dd>&lsquo;Last Glacial Maximum&rsquo;, the 22&ndash;17 ka cold spell of OIS 4 during which Indoeuropean ethnic groups developed in separate refugia in southwestern Eurasia.</dd><br>
+
+<dfn id=”aa”>M$</dfn><dd>Megadollar. The Systéme Internationale prefix &lsquo;mega&rsquo;, abbreviated &lsquo;M&rsquo;, stands for 10<sup>6</sup>, or 1 million. Cf &rsquo;megaherz&rsquo;. M$1 = k$1,000 = $1,000,000.</dd><br>
+
+<dfn id=”aa”>Ma</dfn><dd>&lsquo;mega-annum&rsquo;, million years ago. See ka.</dd><br>
+
+<dfn id=”aa”>MIC</dfn><dd>Military-Industrial-Complex, or occasionally Military-Industrial-Congressional clique. As Goebbels observed, patriotism is a dependable way to manipulate the public. Demonize a nation, and we will raise the debt limit, borrow from the bankers, and give money to the arms manufacturers and mercenaries to &lsquo;protect&rsquo; ourselves against an imaginary threat. The optimum (which has perhaps been exceeded) is for everyone to have just enough money to live on uncomfortably after the taxes that go the the MIC. <i>Hoi polloi</i> may blog about a jacquerie, but should not actually get around to organizing it. See MIC-war.</dd><br>
+
+<dfn id=”aa”>MIC-war</dfn><dd>Direct payments (bribes) to the establishment are subject to criticism by journalists and watchdog quangos. Monies raised to counter external threats (by taxes or borrowing) are much less subject to such interference. Granted, only a fraction of the money so raised can be captured directly, but by awarding no-bid, no-audit contracts to corporations in which one owns stock, an acceptable fraction may be reclaimed without public attention. This requires the continual manufacture of enemies to work satisfactorily, but given a historically ignorant public, this has not proven difficult.</dd><br>
+
+<dfn id=”aa”>mtDNA</dfn><dd>&lsquo;Mitochondrial DNA&rsquo;. Extranuclear DNA carried by mitochondria and transmitted by women to their offspring. Transmission of male mitochondrial DNA is exceedingly rare because the single mitochondrion of a sperm cell is normally destroyed immediately after fertilization of an ovum, which itself carries 100s of maternal mitochondria.</dd><br>
+
+<dfn id=”aa”>
+MKS</dfn><dd>Meter-Kilogram-Second, the basic length-mass-time units of SI, the Systéme Internationale. A meter is a long yard, a kilogram the mass of 2 loaves of bread, or a large quart of water.</dd><br>
+
+<dfn id=”aa”>MMPI</dfn><dd>Minnesota Multiphasic Personality Inventory, a standard 567-question psychological test, initially used for diagnosis of personality disorders; later for personality analysis.</dd><br>
+
+<dfn id=”aa”>MRCA</dfn><dd>Most Recent Common Ancestor of 2 current taxa, generally calculated from genetic differences and assumptions about the rate of mutation at the chosen sites.</dd><br>
+
+<dfn id=”aa”>
+NRY</dfn><dd>&lsquo;Non-recombining Y&rsquo;. Only extremely short segments of the Y-chromosome exchange with the X at crossover. The remainder is exclusively transmitted to sons, allowing an easy way to follow the paternal line in families.</dd><br>
+
+<dfn id=”aa”>OIS</dfn><dd>&lsquo;Oxygen Isotope Stage&rsquo;, a major time period defined by the mean oxygen-isotope composition of ice. Heavier atoms move more slowly than light ones, so light water molecules (H<sub>2</sub><sup>16</sup>O) evaporat preferentially, while heavy molecules (H<sub>2</sub><sup>18</sup>O)&mdash;the rare isotope&mdash;stays behind. If the precipitation remains frozen as land ice, seawater is gradually enriched in <sup>18</sup>O, the change is reflected in precipitation, and the changing ratio can be used to estimate ice volume.
+</dd><br>
+
+<dfn id=”pH”>
+pH</dfn><dd> A measure of solution acidity: pH = -log[H<sup>+</sup>], where [H<sup>+</sup>] is the concentration of hydrogen ion. Highly basic (alkaline) solutions have pH 14, pure water is pH 7, strong acid is pH 0. Seawater is around pH 7.5, fresh water saturated with CO<sub>2</sub> is about 5.5. Strictly speaking, pH measures {H<sup>+</sup>}, the &lsquo;activity&rsquo; or &lsquo;thermodynamic concentration&rsquo; of hydrogen ion. Activity is affected by everything else in solution, and different varieties of H<sup>+</sup>-sensitive and reference electrodes give different results in different solutions. Uncertainty arises when electrode-pairs calibrated with standard buffers are used in solution containing materials not in the buffers (e.g., seawater).</dd><br>
+
+<dfn id="aa">
+SI</dfn><dd>Le Système International d'Unités, successor to the metric system, universally adopted in 1960 (and universally used, with some minor exceptions: Burma, Liberia, US, and UK, although the UK is moving along). The confusion between &lsquo;metric&rsquo; and &lsquo;Imperial&rsquo; systems is often used as proof of Coyotl&rsquo;s incompetence: if we had 4 or 6 fingers instead of 5, our basic arithmetic would be octal or duodecimal, each with specific advantages (easy conversion to binary; divisible by 3).
+</dd><br>
+
+<dfn id=”T$”>
+T$</dfn><dd>&lsquo;Teradollar&rsquo;. The Systéme Internationale prefix &lsquo;tera&rsquo;, abbreviated &lsquo;T&rsquo;, stands for 10<sup>12</sup>, or 1 trillion. Cf &lsquo;terabyte&rsquo;. T$1 = G$1,000 = M$1,000,000 = k$1,000,000,000 = $1,000,000,000,000.</dd><br>
+
+<dfn id=”WY”>
+WYSIWYG</dfn><dd>What You See Is What You&rsquo;ve Got. The monist view of reality, as applicable to the real world as to text processors.</dd><br>
+</dt></dl>
+
+<br><hr><br>
+
+<h2 id="03">
+   <a class="up" href="#Gl">&and;</a>
+   <a class="up" href="#02">&uarr;</a>
+   <a class="up" href="#04">&darr;&nbsp;</a>
+Words</h2>
+
+<dfn id="aff">
+affluenza</dfn><dd>The moral debility of growing up rich and unexposed to the concept of ethics, leaving one unable to distinguish right from wrong.</dd><br>
+
+<dfn id="ap">
+a posteriori</dfn><dd>(L), (reasoning) from observed facts to general conclusions.</dd><br>
+
+<dfn id="ar">
+a priori</dfn><dd>(L), (reasoning) from general propositions to particular conclusions.</dd><br>
+
+<dfn id="ad">
+adaptation</dfn><dd>Heritable changes in genotype or phenotype that result in increased fitness.</dd><br>
+
+<dfn id="ag">
+agnosticism</dfn><dd>The theory that the ultimate problems of philosophy and religion are undecidable because we lack means of falsifying erroneous ideas in this area.</dd><br>
+
+<dfn id="al">
+allele</dfn><dd> One of the forms of a variable gene. Eye color is specified by an allele of the eye-color gene. All hominids share the same genes. All oxygen-using organisms share suites of genes, because all use the same chemistry. Where we differ is in alleles of those genes. If there are different amino acids in protein sequences, we speak of different alleles of the gene that specifies the protein. Many such differences have no effect; some have effects that make little or no difference to the organism (eye color); yet others may improve or degrade the protein&rsquo;s performance. The single-gene disease cystic fibrosis may be caused by any of 400 different alleles of the chloride-ion transport gene. When an allele is beneficial&mdash;a potential evolutionary advance&mdash;we seldom notice. Its owner is slightly better off, but unless this benefit translates to more than the average surviving number of children, it does not contribute to evolution. Major advances thus tend to occur in small isolated inbreeding populations. Members of Eero Mäntyranta&rsquo;s extended family shared a rare allele which increased the oxygen-carrying capacity of his blood by 50%, giving him an Olympic advantage in cross-country skiing, with 7 medals 1960-80. The modification turned off a gene which itself turned off platelet production, suggesting that in some earlier situation, Eero&rsquo;s advantage was a disadvantage.</dd><br>
+
+<dfn id="am">
+alpha male</dfn><dd>The dominant male among social animals, strong, healthy, charismatic, egocentric, misogynistic, and bullying.</dd><br>
+
+<dfn id="aa">
+alphadom</dfn><dd>The state of being an alpha male.</dd><br>
+
+<dfn id="ah">
+androphilia</dfn><dd>Intense emotional attachment between males (often a youth and man) indistinguishable from heterosexual love; Platonic love. The Classical Greek ideal, called &lsquo;paederasty&rsquo; (q.v.), was publicly asexual, with banishment or death the penalty for transgression. How far this ideal was met in private is a matter of debate.</dd><br>
+
+<dfn id="an">
+animism</dfn><dd>The belief that spirits dwell in (nearly all) objects.</dd><br>
+
+<dfn id="am">
+anthropomorphism</dfn><dd>The imputation of human characteristics to non-humans such as animals, computers, gods, &amp;c. Considered déclassé in the better circles, and feudofascist when applied to corporations.</dd><br>
+
+<dfn id="Ap">
+Apollonian</dfn><dd>Having the calm, classic, intellectual beauty of Apollo, as against the wild emotional and romantic qualities associated with Dionysus.</dd><br>
+
+<dfn id="Am">
+Apres moi le deluge</dfn><dd>(F), after me the deluge (attributed to Louis XV). &lsquo;Why should I care about posterity? What has it ever done for me?&rsquo;</dd><br>
+
+<dfn id="arg">
+argot</dfn><dd>The jargon of specialists with an axe to grind.</dd><br>
+
+<dfn id=”aa”>
+autofeiting</dfn><dd>Counterfeiting by the agency legally empowered to issue what is being counterfeited. This is the basic operation of fractional-reserve banking.</dd></br />
+
+<dfn id="au">
+autonomy</dfn><dd>The capacity of an agent to act independently. In theology, this means acting in accordance with objective ethics rather than under the influence of desires or dogma.</dd><br>
+
+<dfn id="ax">
+auxipause</dfn><dd>The long dark night of the soul between the Axial Age and the Enlightenment. From αυξη, growth. &lsquo;Kali yuga&rsquo; is more or less synonomous.</dd><br>
+
+<dfn id="ba">
+bailout</dfn><dd>(economics) The 2-cycle &lsquo;boom-bust&rsquo; economic engine having proved inadequate to satisfy feudofascist greed, the bailout is a novel 3rd stage in which taxpayers &lsquo;rescue&rsquo; the bankers who have made &lsquo;irresponsible&rsquo; loans. See inflation.</dd><br>
+
+<dfn id="bk">
+bankster</dfn><dd>&lsquo;Banker&rsquo; + &lsquo;gangster&rsquo;, popularized by Murray Rothbard to describe the unprincipled parasites of Wall Street and the Fed, &lsquo;an organized cartel of banksters, who are creating inflation, ripping off the public, destroying the savings of the average American.&rsquo;</dd><br>
+
+<dfn id="bc">
+bell-the-cat</dfn><dd>One of the smaller mice suggested that putting a bell on the cat would diminish its depredations among the mouse population. Everyone thought this a wonderful idea. Then they called for volunteers to attach the bell. {Æsop}.</dd><br>
+
+<dfn id="bh">
+bharataphile</dfn><dd>&lsquo;Lover of India&rsquo;, describing a person who readjusts data which do not support his view that all good things are of Indian origin. The Indian name for India is &lsquo;Bharata Versht&rsquo;. The Mahabharata is the epic story of Bharata, the founder of the Indian nation.</dd><br>
+
+<dfn id="aa">
+bimondial</dfn><dd>Existing or acting in both planes of a dualist philosophy.</dd><br>
+
+<dfn id="BW">
+Bretton Woods instruments</dfn><dd>International Monetary Fund and International Bank for Reconstruction and Development, now part of the World Bank. Publicly, the purpose of the Bretton Woods Agreements was &lsquo;a system of international payments that would allow trade to be conducted without fear of sudden currency depreciation or wild fluctuations in exchange rates&mdash;ailments that had nearly paralyzed world capitalism during the Great Depression&rsquo;. Privately, &lsquo;the US officials intended the second half of the 20th [century] to be under US hegemony&rsquo;.  &lsquo;Bretton Woods, created a system of triangular trade: the US would [&hellip;] trade at a tremendous profit with developing nations, expanding industry and acquiring raw materials. It would [&hellip;] send dollars to Europe [&hellip;] to rebuild their economies, and make the US the market for their products. This would allow the other industrialized nations to purchase products from the Third World, which reinforced the American role as the guarantor of stability. When this triangle became destabilized, Bretton Woods entered a period of crisis that ultimately led to its collapse&rsquo; {Wikipedia}. We have been &lsquo;muddling through&rsquo; since the 1970s, with temporary agreements and no dominant nation imposing its own profitable system.</dd><br>
+
+<dfn id="bi">
+bully, intellectual</dfn><dd>One whose logical exposition inexorably leads a limbic thinker to a conclusion that his limbos rejects.</dd><br>
+
+<dfn id="aa">
+calorie</dfn><dd>The cgs metric system unit of energy, being the amount needed to raise 1 gram of water 1°C. 4.186 joules. When referring to food, it means &lsquo;kilocalorie&rsquo; and should be capitalized as Calorie, indicating 1000 times as much energy. Obsolescent; replaced by the joule, which is one watt-second or newton-meter.</dd><br>
+
+<dfn id="Cd">
+carbon dating</dfn><dd>Carbon-14 emits weak beta particles (electrons), with variable energy (shared with undetectable neutrinos); it has a long halflife (ca 5730 years) so counting betas takes a long time, making background correction imprecise. The amount of <sup>14</sup>C incorporated into vegetation depends upon its production in the upper atmosphere from <sup>14</sup>N, (which is a function of solar activity and changes with time), and also upon isotope fractionation effects (light molecules react faster than heavy ones), and exchange of carbon between oceanic and atmospheric reservoirs. Calibration curves (obtained by piecing together annual series from different trees) face the problem of matching signals contaminated with noise, which can result in multiple &lsquo;high-correlation&rsquo; fits to different time periods.<br>
+Archaeological samples may be contaminated by &lsquo;old&rsquo; carbon from natural oil seeps, or &lsquo;young&rsquo; carbon from bacteria and roots. Some beta counters are sensitive to the placement of the sample on a carrier, and condensed-phase samples introduce self-shielding. All of these effects affect the accuracy of radiocarbon dating.<br>
+In the early 1960s, Nick Shackleton introduced mass spectrometry for carbon dating. This counts individual atoms from a gas-phase sample, and can measure carbon-12, -13, and -14 simultaneously. This approach needs much smaller samples, allows correction for isotopic fractionation, and eliminates all of the problems of beta counting. The smaller samples mean that (for an ancient text), &lsquo;paper&rsquo;, ink, and glue can all be dated separately. Background radiation no longer interferes, and the 6-halflife practical limit of beta-counting no longer prevails. Mass spectrometry can look farther back in time.<br>
+Techniques improve constantly, so radiocarbon dates have improved over time. This is not, as many befuddled web pages argue, because one can obtain any desired date from radiocarbon, but because science learns how to correct its errors. Nevertheless, 50,000 years remains an elusive goal.<br>
+The charge of &lsquo;obtaining any desired date&rsquo; is not entirely without foundation. Whenever reputations, pet theories, or further funding require a particular date <b>by any method</b>, samples should be counted blind (with the expected date unknown). Controversy is normal in such cases: the 14th-century date for the Shroud of Turin suffers from a lack of a &lsquo;forensic chain of evidence&rsquo;&mdash;&lsquo;the&rsquo; sample was off camera for an appreciable period and its carrier had access to similar material known to be 14th century, and &lsquo;the&rsquo; sample was taken from an area of the linen Shroud determined later to have been mended by reweaving with younger cotton.</dd><br>
+
+<dfn id=”aa”>
+chauvinism</dfn><dd>The corrupted version of patriotism: unreasoning, bigotted, xenophobic.
+</dd><br>
+
+<dfn id="Ch">
+Christological</dfn><dd>Relating to the nature of Christ. The 4th Ecumenical Council of Chalcedon in 451 decided that Christ had 2 distinct natures, human and divine, which came together harmoniously in &lsquo;hypostasic union&rsquo; (literally, &lsquo;standing under&rsquo;, but through the Latin, &lsquo;substance&rsquo;) in the person of Jesus. Since no one knew what this meant, &lsquo;Christological&rsquo; debate soon erupted in Asia Minor, ultimately leading to the separation of  Orthodox and Catholic Churches.</dd><br>
+
+<dfn id="aa">
+chromosome</dfn><dd>A linear polymer of DNA containing information describing an individual organism. Like snowflakes, no 2 chromosomes are exactly alike, despite the best efforts of the replication and error-correction process.</dd><br>
+
+<dfn id="chr">
+chronospecies</dfn><dd>When speciation is by accumulation of small mutations, there is no definite demarcation in time. The spottiness of the fossil record will often reveal distinctly different members of the continuum (as for horses in the New World, each species representing a new invasion from Asia, where change was slow, steady, and cumulative). <i>Eohippus, Mesohippus, </i>and<i> Equus</i> are chronospecies.</dd><br>
+
+<dfn id="chu">
+chum</dfn><dd>17th-century Oxford University slang, denoting a roommate, probably short for &lsquo;chamber-fellow&rsquo;.</dd><br>
+
+<dfn id="aa">
+clade</dfn><dd>organisms grouped together (regardless of what they look like, or how they behave) because the statistics of nucleotide differences in their DNA indicates that they diverged from a common ancestor.</dd><br>
+
+<dfn id="aa">
+clitoridectomy</dfn><dd>also called &lsquo;excision&rsquo;, &lsquo;female genital mutilation&rsquo; (FGM), and&mdash;misleadingly&mdash;female circumcision, this is removal of all or part of the clitoris, customarily without benefit of antiseptic, anaesthetic, or a sharp knife. Mohammed thought it a good idea.</dd><br>
+
+<dfn id="aa">
+consilience</dfn><dd>Agreement between the approaches to a topic of different academic subjects (a usage revitalized by <a href="#" class="n">E.O. Wilson (1998)<span> <cite>Consilience: The Unity of Knowledge</cite> (Little, Brown, NY).</span></a>. A purported explanation of one topic must not conflict with explantions of another. Appreciating this requires a brain organization that minimizes compartmentalization.</dd><br>
+
+<dfn id="aa">
+conspiracy</dfn><dd>Two or more people who plan to commit an illegal act and who then take one or more specific actions in furtherance of that plan. In the absence of a meaningful investigation, all ideas about the destruction of the WTC on 9/11 are conspiracy theories; the only question is, &lsquo;By whom?&rsquo; (The FBI has no evidence linking Osama bin Laden to the event; the evidence linking Dick Cheney is persuasive.)</dd><br>
+
+<dfn id="aa">
+convergent evolution</dfn><dd>The process by which an environmental niche imposes its requirements upon an organism occupying it. The result is that unrelated species come to resemble eachother, sometimes to the point of tricking early taxonomists who necessarily depended upon phenotypic characters to identify relationships. Examples include marsupial moles, Tasmanian wolves, ichthyosaurs and dolphins, &c.</dd><br>
+
+<dfn id="aa">
+Coolidge Effect
+<img style=" width: 33%;" class="fr" src="../Images/CoolidgeEffect.jpg" alt="../Images/CoolidgeEffect.jpg">
+</dfn><dd>The alpha male&rsquo;s desire to handle all breeding within the group, expressed as an anecdote in which President Calvin Coolidge and his wife visit a poultry farm. During the tour, Mrs. Coolidge inquires of the farmer how his farm managed to produce so many fertile eggs with such a small number of roosters.The farmer explains that his roosters perform their duty dozens of times each day.<br>&lsquo;Perhaps you could point that out to Mr. Coolidge&rsquo;, replied the First Lady. The President, overhearing the remark, asked the farmer, &lsquo;Does each rooster service the same hen each time?&rsquo;<br>&lsquo;No&rsquo;, answered the farmer, &lsquo;there are many hens for each rooster.&rsquo;<br>&lsquo;Perhaps you could point that out to Mrs. Coolidge&rsquo;, suggested the President.<br>In keeping with finding that this is a universal response across species, the rooster is replaced by a bull, ram, or stallion in other versions of the story. <a href="#" class="n">Image source.<span>W Beamer, G Bermant, M Clegg (1969) &lsquo;Copulatory Behavior of the Ram&rsquo; <cite>Animal Behavior</cite> <b>17</b>: 795&ndash;800.</span></a></dd><br>
+
+<dfn id="aa">
+corpperson</dfn><dd>An amoral, sociopathic, (il)legal concept created by ex-railroad president Bancroft Davis, working as a Supreme Court clerk, when he illegitimately inserted the phrase &lsquo;The defendant Corporations are persons within the intent of the clause in section 1 of the Fourteenth Amendment&rsquo; into the Summary of Santa Clara County vs. Southern Pacific Railroad Co., 118 US 394 (1886). The Founding Fathers had no such intent, but subsequent interpretation has given corporations Bill of Rights protection, with the result that misleading ads are called &lsquo;free speech&rsquo;, state governments cannot limit destructive corporate acts, and corporations are allowed to spend stockholder money to buy legislators and legislation. The <a href="http://www.amiba.net/news/2011-media/corporation-pro-business#ixzz2MlrwvvIq">American Independent Business Alliance</a> rejects corporate personhood on the grounds that &lsquo;large corporations have converted their economic power into political favors that extract subsidies from taxpayers, stifle enforcement of anti-trust laws&hellip;and other rules that disadvantage small business&rsquo;.</dd><br>
+
+<dfn id="aa">
+creed</dfn><dd>A set of beliefs or aims that guide one's actions. The ultimate basis is necessarily an idiosyncratic evaluation of one&rsquo;s environment and experiences. No way has yet been found to falsify a creed, so technically, all creeds are conjectural.
+</dd><br>
+
+<dfn id="aa">
+cryptomnesia</dfn><dd>Forgetting that you learned something (often by reading it) and thinking it is your own idea. Happens all the time to omnivorous readers. Embarrassing when presented in a scientific paper, or when recycled to its originator.</dd><br>
+
+<dfn id="dI">
+dar-al-Islam</dfn><dd>The House of Peace, being that portion of the world under the rule of Allah (including countries with resident Muslim communities), in which Shari&rsquo;a law is to govern. Cf. dar-al-Harb.</dd><br>
+
+<dfn id="dH">
+dar-al-Harb</dfn><dd>The House of War, being that portion of the world not yet under the rule of Allah, in which Shari&rsquo;a has not been established. Cf. dar-al-Islam.</dd><br>
+
+<dfn id="aa">
+demiurge</dfn><dd>A supernatural being responsible for the creation of the universe, subordinate to a Supreme Being. Often the demiurge is so caught up in material creation that he is considered to be pragmatic and antagonistic to the purely spiritual. (The <i>demi</i> is not related to &lsquo;half&rsquo;, but to <i>demos</i>, &lsquo;people&rsquo;. In Classical Greece, a <i>demiourgos</i> was a craftsman.)
+</dd><br>
+
+<dfn id="aa">
+depression</dfn><dd>(economics) The portion of the banking cycle in which banks decrease the money supply, converting paper loans into physical capital. See <i>Bailout</i>.</dd><br>
+
+<dfn id="dh">
+a</dfn><dd>A resident infidel in <a href="dI">dar-al-Islam</a>, without civil rights or soul, paying a monthly tax for the privilege.</dd><br>
+
+<dfn id="aa">
+diploid</dfn><dd>Possessing duplicate chromosome sets, one derived from each parent. See <i>haploid</i>. Organisms that reproduce sexually alternate between diploid and haploid generations. For most organisms (ferns are an exception) the diploid generation is what we think of as &lsquo;the organisms&rsquo;, and the haploid generation is its sex cells. The purpose of diploidy (and sexual reproduction) is that it allows every individual to be genetically different, thus foiling simple parasites who can take advantage of uniformity.</dd><br>
+
+<dfn id="aa">
+disney</dfn><dd>(verb) Trivialize by simplifying and reducing to the least common denominator.</dd><br>
+
+<dfn id="DoQ">
+Documenta Q</dfn><dd>Matthew had access to material that Mark did not, which appears to have been a collection of the sayings of Jesus. This has been labelled <cite>Documenta Q</cite> (for German <i>Quelle</i>, source), and the Jesus Seminar has attempted to reconstruct it from the Gospels by examining what they do and do not have in common, the historical events of the late first century, and the embryonic church&rsquo;s known response to them. The <cite>Gospel of Thomas</cite>, discovered in the Qumran material, was the first confirmation that such collections existed, but it shows a heavy Gnostic influence postdating Jesus.</dd><br>
+
+<dfn id="aa">
+Doomsday equation</dfn><dd>A partially <a href="#" class="n">tongue-in-cheek<span>H von Foerster, PM Mora, LW Amiot (1961) &lsquo;Doomsday: Friday, 13 November. A.D. 2026&rsquo; <cite>Science</cite> <b>133</b>: 1932&ndash;1937.</span></a> hyperbolic equation accurately describing world population, derived from studies of tumor growth. It 1960 it predicted that if the population continued the growth pattern of the last 2 millennia, it would go infinite on Friday, 13 Nov 2026, and squeeze itself to death. The authors pointed out that such singularities are common in physics, and represent a change of behavior (the water-ice transition is a singularity). Critics, missing the point, complained that such squeezing was impossible, because 1) the outer shell of an infinitely rapidly sphere of reproducing humans would increase faster than the speed of light, and 2) there were not enough resources on Earth to support such growth&mdash;which <i>was</i> the point. No one has challenged the comparison to tumor growth&mdash;whose &lsquo;singularity&rsquo; is the death of the organism and tumor. See <a href="../_E/E20.shtml#F20.16">Fig. 20.16.</a></dd><br>
+
+<dfn id="dph">
+duophysite</dfn><dd>Two natures. The Christological doctrine that in the person of Jesus Christ there are two natures, wholly divine and wholly human. See <a class="glb" href="#mph">monophysite</a>. </dd><br>
+
+<dfn id="aa">
+ecolacy</dfn><dd>The ability to take into account the effects of complex interactions of systems over time. {Garrett Hardin}.</dd><br>
+
+<dfn id="aa">
+eisegete</dfn><dd>One who reads into scripture what he hopes to find.</dd><br>
+
+<dfn id="aa">
+exegete</dfn><dd>One who expounds or interprets scripture. Often a synonym for &lsquo;eisegete&rsquo;.</dd><br>
+
+<dfn id="aa">
+fascism</dfn><dd>Corporatism. A political system in which the benefits of national wealth are privatized while the costs are socialized, the motive behind all privatization schemes. Subsidiary beliefs <a href="#Paxt98">{Paxt98} </a>include the supremacy of one ethnic group, contempt for democracy, obedience to a demagog, and a belief that community decline follows the empowerment of minorities and can be rectified by redemptive violence and external expansion.</dd><br>
+
+<dfn id="fef">feudofascism</dfn><dd>Portmanteau neologism for the turn-of-the-millennium direction of US politics, combining the best of both worlds: legitimization of private psychopathy from feudalism with legalization of corporate sociopathy from fascism.</dd><br>
+
+<dfn id="aa">
+fitness</dfn><dd>a measure of the capacity of an organism to reproduce.</dd><br>
+
+<dfn id="aa">
+fixation</dfn><dd>describes the situation when a mutation has reached 100% of the population.</dd><br>
+
+<dfn id="ff">
+friendly fascism</dfn><dd>’the conservative war on personal moral liberty, choice and behavior, as executed via government coercion and rationalized by a Puritanical ideology/rhetoric of individual ethical perfectionism and religious salvation.’ <a class="fk" http:"www.lsus.edu/la/journals/ideology
+"<span>
+	Milan Zafirovski (2006) ‘Toward Friendly Fascism? American Conservatism in the 21st Century’
+<cite>Quarterly Journal of Ideology</cite> <b>29</b>(#1,2)</a></dd><br>
+
+<dfn id="aa">
+folate</dfn><dd>a vitamin of the B complex, found in leafy green vegetables; deficiency causes megaloblastic anemia.</dd><br>
+
+<dfn id="aa">
+fossil behavior</dfn><dd>behavior that once contributed to survival.</dd><br>
+
+<dfn id="aa">
+Fourier transform</dfn><dd>An entity that is more or less periodic in time (or space) can also be described in terms of temporal (or spatial) frequency. The Fourier transform takes us from one domain (frequency or time/space) to the other. The point is that particular mathematical operations are simpler in one domain than the other. </dd><br>
+
+<dfn id="aa">
+gedanken</dfn><dd>r.</drd><br>
+German adjective meaning &lsquo;thought&rsquo;. &lsquo;Gedanken experiment&rsquo; was originally used in quantum mechanics, where experiments are sometimes deucedly difficult to perform. (A minor problem is that QM experiments often have different results from QM gedanken.) It is on its way to becoming an English noun meaning &lsquo;thought experiment&rsquo;.</dd><br>
+
+<dfn id="aa">
+gene</dfn><dd>a portion of a chromosome that specifies the amino-acid sequence of a protein or the RNA sequence of a control molecule; a unit of heredity.</dd><br>
+
+<dfn id="aa">
+genetic code</dfn><dd>Four &lsquo;letters&rsquo; constitute the DNA alphabet (A=adenine, C=cytosine, G=guanine, T=thymine, with U=uracil replacing T in RNA). These combine in triplet &lsquo;codons&rsquo; to specify amino acids in proteins. This could code for 64 amino acids, but only 20 are used. The redundancy lies in the fact that most acids are specified by the first 2 letters, with the &lsquo;3rd base&rsquo;&mdash;all the letters represent basic chemicals&mdash;being &lsquo;silent&rsquo;. Only tryptophan has a single RNA code, UGG, while leucine has 6. The coding is all but universal in living organisms, yet it appears arbitrary (ie, there is no obvious chemical or thermodynamic relation between the code and the acid coded for)&mdash;but &lsquo;we&rsquo;re working on it&rsquo;: several approaches point to clearer relations in the more primitive codes that must have preceded the current version.</dd><br>
+
+<dfn id="aa">
+genetic determination</dfn><dd>the hypothesis, or fact, that particular behavior or structure is determined primarily by heredity rather than by learning.</dd><br>
+
+<dfn id="aa">
+genetic drift</dfn><dd>The random change in population frequency of a mutation in small population.</dd><br>
+
+<dfn id="aa">
+genotype</dfn><dd>the genetic constitution of an individual organism. See <i>phenotype</i>.</dd><br>
+
+<dfn id="aa">
+geoclock</dfn><dd>Any of various geochemical systems that can be used to date geological events, including radioactivity, tree rings, periodic accretion events, geochemistry of volcanic ash layers, &c.</dd><br>
+
+<dfn id="aa">
+Gibbon&rsquo;s Gambit</dfn><dd>Named for its describer, this is the ability of the limbic thinker to swap one irrational belief system for another in toto, when the occasion requires it. One such occasion is conversion by the sword.</dd><br>
+
+<dfn id="aa">
+haploid</dfn><dd>Containing a single copy of genetic information, as a sperm cell or ovum. The &lsquo;H.&rsquo; in the common expletive &lsquo;Jesus H. Christ!&rsquo; abbreviates &lsquo;Haploid&rsquo;.</dd><br>
+
+<dfn id="aa">
+Hardy-Weinberg</dfn><dd>The name commemorates the simultaneous discoverers (1909) of the formula for the population equilibrium between 2 alleles when the heterozygote has a viability advantage.</dd><br>
+
+<dfn id="aa">
+heterozygote</dfn><dd>A genotype containing different alleles of the gene under discussion.</dd><br>
+
+<dfn id="aa">
+hiroshima</dfn><dd>A unit of destruction equivalent to that of the small atomic bomb dropped on Hiroshima, in terms of property, lives, &c. 15 kilotons of TNT as explosive energy, 65,000 immediate deaths, 70,000 injuries.</dd><br>
+
+<dfn id="aa">
+hoi polloi</dfn><dd>Greek for &lsquo;the many&rsquo;; the ones who make up the political entity, or polis; upon whose exploitation the privilege of the important families depends, and who must always be kept in their place by fear of the gods&mdash;or, these, manipulated by processes involving the abuse of big data collected surreptitiously.</dd><br>
+
+<dfn id="aa">
+homozygote</dfn><dd>A genotype containing identical alleles of the gene under discussion.</dd><br>
+
+<dfn id="aa">
+hybrid vigor</dfn><dd>A heterozygotic organism has two slightly different proteins for many functions, which may enable it to outcompete homozygotes, or confer commercially useful properties. The easiest way to generate such organisms is by crossing two highly inbred (allelically invariant) lines. F1 (first filial generation) hybrid seeds are beloved by seed companies, since the next (F2) generation segregates into 3 allelic varieties, 2 of which are homozygotic, so that farmers who need a uniform crop cannot save seed from year to year. Another way of obtaining hybrid vigor is tetraploidy (q.v.). Tetraploid seeds breed true.</dd><br>
+
+<dfn id="aa">
+imaginal</dfn><dd>of or relating to an image.</dd><br>
+
+<dfn id="aa">
+inflation</dfn><dd>(economics) The portion of the banking cycle when bankers devalue the money supply by making 'irresponsible' loans. See <i>Depression</i>.</dd><br>
+
+<dfn id="aa">
+introgression</dfn><dd>The transfer of alleles across species or subspecies boundaries; gene flow between populations that are partially isolated, common where closely related species are sympatric, Typically induced by back-crosses from a hybrid to a parent species.</dd><br>
+
+<dfn id="aa">
+islamologic</dfn><dd>The limbic thinking induced by Shari&rsquo;a law, in which rules deduced from the presumptive (and often contradictory) words and behavior of Mohammed take precedence over common sense and what are otherwise internationally recognized human rights.</dd><br>
+
+<dfn id="aa">
+isostatic adjustment<img style=" width: 33%;" class="fr" src="../Images/Isostatic.jpg" alt="isostatic-rise graph"></dfn><dd>The Earth&rsquo;s crust is  the slag left over after melting the components of the planetary accretion disk. Heavy nickel-iron settled to the core, where the inner core has solidified from pressure and the outer core remains molten. Above this is the mantle, a viscous fluid occasionally seen as volcanic lava. Oxides of light metals form the crust that we live on. Like a wooden raft, the crust rises and sinks (slowly! the mantle is viscous) depending on the load it is carrying. Scandinavia has risen several mm/year since the ending of the Ice Age, as shown
+<a href="#Whit09">{Whit09}</a>.</dd><br>
+
+<dfn id="aa">
+jacquerie</dfn><dd>The inflamed mob of the French Revolution, who so far forgot their place as to sack the homes of the nobility, and actually executed their betters; an extension of the small-scale society practice of removing civilization-incompatible alleles from the gene pool by assassinating the greedy and arrogant. A neglected aspect of watering the tree of liberty.</dd><br>
+
+<dfn id="Jat">
+Jatakan Buddhism</dfn><dd>An informal version of Buddhism absorbed by diligent childhood reading of <cite>The Jataka Tales</cite>. These are the 547 stories of the pre-incarnations of the Bodhisattva on his way to Enlightenment as the Buddha. They were the first canonized Buddhist literature (300&mdash;200 BCE), and resemble <cite>Aesop&rsquo;s Fables</cite>, except that the protagonist, while he may appear in any form, animal or human, is always the Buddha-to-be. Many are adaptations of folk tales known in other cultures and long antedating Gautama. All exhibit some aspect of Buddhist teaching.
+</dd><br>
+
+<dfn id="ji">
+jizya</dfn><dd>An Islamic tax on infidels, nominally in lieu of armed service; often in practice a part of the general low status of <a href=”dh”>dhimmis</a>, who have no souls.
+</dd><br>
+
+<dfn id="aa">
+joule</dfn><dd>The SI unit of energy or work, symbol J. 1 joule is a watt-second. It takes about 4.2 J to raise the temperature of 1 gram of water 1°C.<br>
+
+<i>Energy</i>: joule, newton-meter, or watt-second, = force × distance, or power × time, or momentum × acceleration, or mass × velocity<sup>2</sup>.<br>
+<i>Power</i>: watt, joule/sec, newton-meter/sec, = force × velocity.<br>
+
+Dimensional analysis may help, where M, L, and T are the dimensions of mass, length, and time (whatever the units are called). Given distance <i>x</i> and time <i>t</i>, we have:
+
+<table>
+<caption>Kinetics: the higher derivatives of distance with respect to time, and derived quantities. Post-rocketry suggestions (bottom half of the table) after {Grag98}.</caption>
+<tr><td><i>Velocity<br><b>v</b></i> = d<i>x</i>/d<i>t</i>
+    <td>[LT<sup>&nbsp;-1</sup>]
+    <td><i>Momentum <b>p</b></i> =<br> mass × velocity
+    <td>[MLT<sup>&nbsp;-1</sup>]
+    <td>&mdash;<td>&mdash;
+<tr><td><i>Acceleration<br><b>a</b></i> = d<sup>2</sup><i>x</i>/d<i>t</i><sup>&nbsp;2</sup>
+    <td>[LT<sup>&nbsp;-2</sup>]
+    <td><i>Force <b>f</b></i> =<br> mass × acceleration
+    <td>[MLT<sup>&nbsp;-2</sup>]
+    <td><i>Energy e</i> =<br> force × distance
+    <td>[ML<sup>2</sup>T<sup>&nbsp;-2</sup>]
+<tr><td><i>Jerk<br> <b>j</b></i> =  d<sup>3</sup><i>x</i>/d<i>t</i><sup>&nbsp;3</sup>
+    <td>[LT<sup>&nbsp;-3</sup>]
+    <td><i>Yank </i> =<br> mass × jerk
+    <td>[MLT<sup>&nbsp;-3</sup>]
+    <td><i>Power </i> =<br>force × velocity
+    <td>[ML<sup>2</sup>T<sup> -3</sup>]
+<tr><td colspan=6">
+<tr><td><i>Snap </i> =<br>d<sup>4</sup><i>x</i>/d<i>t</i><sup> 4</sup>
+    <td>[LT<sup>&nbsp;-4</sup>]
+    <td><i>Tug </i> =<br> mass x snap
+    <td>[MLT<sup>&nbsp;-4</sup>]
+    <td>&mdash;<td>&mdash;
+<tr><td><i>Crackle </i> =<br> d<sup>5</sup><i>x</i>/d<i>t</i><sup>&nbsp;5</sup>
+    <td>[LT<sup>&nbsp;-5</sup>]
+    <td><i>Snatch </i> =<br> mass x crackle
+    <td>[MLT<sup>&nbsp;-5</sup>]
+    <td>&mdash;<td>&mdash;
+<tr><td><i>Pop </i> =<br> d<sup>6</sup><i>x</i>/d<i>t</i><sup>&nbsp;6</sup>
+    <td>[LT<sup>&nbsp;-6</sup>]
+    <td><i>Shake </i> =<br> mass x pop
+    <td>[MLT<sup>&nbsp;-6</sup>]
+    <td>&mdash;<td>&mdash;
+</table></dd>
+
+
+
+<dfn id="aa">
+kerygma</dfn><dd>The message preached.</dd><br>
+
+<dfn id="aa">
+kleptocracy</dfn><dd>Narrowly, government by thieves. Broadly, the class that lives by white-collar theft, however legal they may have defined it to be.</dd><br>
+
+<dfn id="la">
+lapidation</dfn><dd>Stoning to death.</dd><br>
+
+<dfn id="lex">
+lexiphobia</dfn><dd>Fear and hatred of law and regulation, a characteristic of the corporation, the 1&permil;, and libertarians.</dd><br>
+
+<dfn id="lf">
+lux facilis</dfn><dd>(easy light) The logical fallacy of searching under the streetlight for your car keys; doing something unlikely to lead to the desired end simply because it is easy.</dd><br>
+
+<dfn id="mm">
+matheomatics</dfn><dd>&lsquo;God is an equation.&rsquo; The platonic view that physical theory, and probably computation, lie at the root of existence. Over the centuries, the view becomes more compelling, as we uncover the precision with which theory explains/constrains what we can observe.</dd><br>
+
+<dfn id="ma">
+matrist</dfn><dd>Of an individual: Psychologically modelled on the mother <a href="#Tayl54">{Tayl54}</a>. Of a culture: &lsquo;Sex-positive, pleasure-oriented and socially-peaceful with many social institutions to nurture and protect the maternal-infant and male-female bonds.&rsquo; <a href="#DeMe04">{DeMe04}</a>. See <i>patrist</i>.</dd><br>
+
+<dfn id="mmi">
+meme implantation</dfn><dd>The hypothesis that memorization and ritual chanting of formulaic material during the language-formative years (say 2 to 7 years old) leads to such deep embedding of the formulas that they become normative aspects of personal identity. The memes need not be understood as they are implanted, but once in place will absorb the cultural consensus. In later life they can only with great difficulty be understood as arbitrary and changeable. A corollary is that others who lack the formulaic memes are seen as inferior, incomplete, and in need of acquiring them.</dd><br>
+
+<dfn id="mia">
+miaphysitism</dfn><dd>The Christological (viz) doctrine of the Oriental Orthodox churches, holding that in the one person of Jesus Christ, Divinity and Humanity are united without separation, confusion, or alteration. See ••••••••••••
+</dd><br>
+
+<dfn id="mh">
+MIC-war</dfn><dd>A war organized at the urging of the Military-Industrial Complex to hasten the transfer of money from taxpayers to management and stockholders. Often sold with the aid of a false flag attack, or by accusing another country of possessing weapons of mass destruction.
+</dd><br>
+
+<dfn id="mlp">
+millipenne</dfn><dd>&lsquo;Thousand wings&rsquo;. The aerial analog of a millipede.
+</dd><br>
+
+<dfn id="mdm">
+monodeism</dfn><dd>The conjecture that a solitary god (more like an equation than a person, remote, largely indifferent to humanity&rsquo;s problems) created a predictable universe for unfathomable reasons.
+</dd><br>
+
+<dfn id="mph">
+monophysitism</dfn><dd>The <a class="gl" href="#Ch">Christological</a> doctrine that Christ  has a single nature, either divine or a fusion of divine and human. Declared heretical in 681.</dd><br>
+
+<dfn id="ml">
+monotheletism</dfn><dd>The <a class="gl" href="#Ch">Christological</a>  doctrine that Jesus Christ has two natures but only one will.
+</dd><br>
+
+<dfn id="mr">
+myriadic, myriennial, myriennium</dfn><dd>&lsquo;Terminology for climate variability in the band of periods from about 10,000&mdash;100,000 years is needed. Following the constructs, “millennial”, “decadal”, etc., “myriennial” and “myriadic” are proposed, from the prefix “myria” meaning 10,000&rsquo;, wrote climatologist Carl Wunsch in <cite>Quaternary Science Reviews</cite> <b>23</b> (2004) 1001&mdash;1012. Once coined, such words work for anything in this time range.</dd><br>
+
+<dfn id="ms">
+mysticism</dfn><dd>Among theologians, &lsquo;an attempt to dissolve the self in union with a transcendent Reality&rsquo;. See the upper left corner of <a href="_A/A01.shtml#F1.11">Fig. 1.11</a> for Max Weber&rsquo;s definition.</dd><br>
+
+<dfn id="my">
+myth</dfn><dd>&lsquo;Images and dreams that reflect our radically altered sense of who, where and when we are, and where we might go and who we might become.&rsquo; &mdash;Carl Sagan</dd><br>
+
+<dfn id="aa">
+mythopoesis</dfn><dd>Deliberate creation of myth.</dd><br>
+
+<dfn id="aa">
+mythopoet</dfn><dd>One who practices mythopoesis.</dd><br>
+
+<dfn id="aa">
+neoteny</dfn><dd>Retention of juvenile traits in the adult. In humans, lack of body hair, large head/body ratio, and extended learning period, are neotenous characteristics.</dd><br>
+
+<dfn id="neu">
+neuroquantology</dfn><dd>The title of a new journal devoted to the union of quantum field theory and neurology.</dd><br>
+
+<dfn id="aa">
+objective</dfn><dd>Independent of the perceiving individual; in Spinoza, as existing in thought.</dd><br>
+
+<dfn id="aa">
+ontology</dfn><dd>Study of the ultimate nature of things.</dd><br>
+
+<dfn id="aa">
+organelle</dfn><dd>The single-celled organism&rsquo;s equivalent of an organ. Examples include mitochondria, Golgi bodies, nuclei, eye spots, ribosomes, undulipodia, et sim., which are surrounded by lipid membranes. A double membrane indicates that they were once free-living organisms.</dd><br>
+
+<dfn id="aa">
+paederasty</dfn><dd>See <i>androphilia</i>.</dd><br>
+
+<dfn id="aa">
+paederomania</dfn><dd>Sexual activity between a man and boy (often called 'paederasty' today).</dd><br>
+
+<dfn id="aa">
+paleolithic</dfn><dd>Of the old stone age.</dd><br>
+
+<dfn id="aa">
+paleontological</dfn><dd>Pertaining to fossil remains.</dd><br>
+
+<dfn id="aa">
+pandeism</dfn><dd>The offspring of pantheism and deism, this doctrine identifies the universe with a deist god who does not tinker.</dd><br>
+
+<dfn id="pnd">
+panendeism</dfn><dd>The offspring of panentheism and deism, this doctrine suggests that god is both immanent in nature (in the sense of inescapability and absolute control) and otiose (in the sense of lacking all of the much desired qualities of a person, with no interest in human affairs). If carried to its logical conclusion, Panendeism leads to the hypothesis that &lsquo;god&rsquo; seems to be equivalent to a mathematical statement of what is allowed to happen, such as Schrödinger&rsquo;s and Einstein&rsquo;s equations, and the &lsquo;theory of everything&rsquo; that is expected to unite them.</dd><br>
+
+<dfn id="Pnd">
+Panendy</dfn><dd>The eponymous, if mythical, founder of Panendeism (above). He always insisted that &lsquo;made in the image of god&rsquo; applied to all of creation, not just overpaid white Anglophone males.</dd><br>
+
+<dfn id="aa">
+panentheism</dfn><dd>The belief or doctrine that god is greater than the universe and includes and interpenetrates it.</dd><br>
+
+<dfn id="aa">
+pantheism</dfn><dd>A doctrine that identifies the universe with a god, or regards the universe as a manifestation of god.</dd><br>
+
+<dfn id="aa">
+parthenogenesis</dfn><dd>The birth of organisms from unfertilized females.</dd><br>
+
+<dfn id="aa">
+patrism</dfn><dd>Of an individual: Psychologically modelled on the father {Tayl54}. Of a culture: &lsquo;Patriarchal authoritarian culture, with high levels of pain-infliction, trauma and destructive aggression directed towards infants, children, women, minority groups and other cultures, and high levels of overall male-dominance, social hierarchy and violence&rsquo; {DeMe04}. See matrism.</dd><br>
+
+<dfn id="aa">
+pessimum</dfn><dd>The worst conditions or level for growth, reproduction, or success. Antonym of 'optimum'.</dd><br>
+
+<dfn id="aa">
+pharmacopoeia</dfn><dd>(L), a list or collection of drugs.</dd><br>
+
+<dfn id="aa">
+phase diagram</dfn><dd>A plot showing the relation between an intensive and an extensive thermodynamic variable, such as pressure p and volume V, or temperature and entropy. The first such diagrams were drawn by mounting the paper on the push rod of a locomotive piston (V), and the pen on the needle of a pressure gauge (p). The resulting closed curve has rounded corners and curved edges, which are idealized to sharp corners and edges that follow simple laws. Theories deduced from the results&mdash;plus others deduced from observations of heat and work during the boring of canons&mdash;got us the Industrial Revolution. Thermodynamics is very much a dirty-fingernails branch of science.</dd><br>
+
+<dfn id="aa">
+phenotype</dfn><dd>The set of observable characteristics of an individual resulting from the interaction of its genotype with the environment. Similarity of appearance is not a reliable guide to genetic relationship. See convergent evolution.</dd><br>
+
+<dfn id="aa">
+phylum</dfn><dd>A primary division of the animal kingdom (and here, of the other 4&mdash;6 kingdoms).</dd><br>
+
+<dfn id="aa">
+phytopharmacology</dfn><dd>Plants can't run, and they can't hide. Their only protection from predators and parasites is chemical, and they have specialized in synthesizing protective compounds. Only in the last century have we used anything other than herbal remedies in our pharmacopeia. Among hunter-gathering cultures, it is the women who test each new plant to determine what it is good for. Since plants are interested in deterring predators, most of their defences are poisonous to some degree, so that new plants must be approached by cautious experimentation. There is reason to think that by the end of the Neolithic, the traditional medical lore of the village crone exceeded that of European doctors of the early 19th century. Big Pharma continually lobbies to criminalize traditional herbal remedies until they have been renamed and patented.</dd><br>
+
+<dfn id="aa">
+Pogo&rsquo;s Predicament</dfn><dd>The discovery that &lsquo;We have met the enemy, and he is us&rsquo;, made by a small philosophical opossum, eponym of Walt Kelly&rsquo;s comic strip of 1948&mdash;1975.</dd><br>
+
+<dfn id="aa">
+polytheism</dfn><dd> The worship of many, or all available, gods.</dd><br>
+
+<dfn id="po">
+popoco</dfn><dd><u>Po</u>stmodern <u>po</u>litical <u>co</u>rrectness gone mad: &lsquo;All opinions deserve equal respect, and we must never offend anyone.' More specific than the related &lsquo;poppycock&rsquo;.</dd><br>
+
+<dfn id="aa">
+positivism</dfn><dd>The restriction of philosophy to problems open to scientific methods.</dd><br>
+
+<dfn id="pdx">
+pothodoxy</dfn><dd>(from pothos, &lsquo;craving, yearning&rsquo; + doxasia, &lsquo;opinion, belief&rsquo;; cf orthodoxy, &lsquo;correct opinion&rsquo;) the apparently genetic need to believe an implausible story, particularly when there is contradictory evidence.
+</dd><br>
+
+<dfn id="phm">
+prehumous</dfn><dd>occurring, awarded, or appearing before the death of the originator.</dd><br>
+
+<dfn id="aa">
+Printing money</dfn><dd>A way of rendering savings less valuable with time, beloved by politicians (who will have retired by the time its effects are understood) as an alternative to taxation. Making borrowing easier has the same effect, in addition to enriching bankers.</dd><br>
+
+<dfn id="aa">
+quantum</dfn><dd>(L) &lsquo;how much?&rsquo;. The minimum unit of any physical entity. For light, a photon; for electric current, an electron; for an element, an atom; for action, h. Mass-energy is quantized; space-time may also be, since distances smaller than the Planck length (<i>hG/c</i><sup>3</sup> ≅ 1.6·10<sup>&mdash;35</sup>m) are meaningless. Edward Fredkin achieved some success defining standard continuum physics in terms of quantized space-time (not the least significant of which was finding a quantization with spherical symmetry) but the project is far from complete (see Wikipedia, &lsquo;Digital Philosophy&rsquo; for ramifications).</dd><br>
+
+<dfn id="aa">
+rationalism</dfn><dd>The acceptance of reason as the test of truth.</dd><br>
+
+<dfn id="aa">
+rationalize</dfn><dd>To pretend that one's desires are caused by impartial reasoning.</dd><br>
+
+<dfn id="aa">
+realism</dfn><dd>In epistemology, the doctrine that the external world exists independently of perception; in logic, the doctrine that universal or class ideas (e. g., 'man') have objective realities corresponding to them.</dd><br>
+
+<dfn id="aa">
+red-state</dfn><dd>n & adj. States that voted Republican in 21st-century elections were colored red on US TV&rsquo;s maps. The correlation with pre-Civil War slave states is high.</dd><br>
+
+<dfn id="aa">
+relapidary</dfn><dd>n. Someone who puts stones back in place, as in the repair of dilapidated stone houses.</dd><br>
+
+<dfn id="aa">
+relativity</dfn><dd>The notion that all physical laws should appear the same to all inertial observers. For this to be true, Einstein&rsquo;s special theory of relativity (1905) leads to profound paradoxes including loss of simultaneity for different observers, with time dilation, and length contraction for objects moving near the speed of light.</dd><br>
+
+<dfn id="aa">
+saltational evolution</dfn><dd>Evolution need not proceed by single-point mutations. Any rearrangement of DNA (specifically, during crossover in meiosis) <i>may</i> produce well adapted variants which will quickly form a new species. (Non-viable vertebrate rearrangements will usually be caught, reabsorbed early, and never noticed.) </dd><br>
+
+<dfn id="aa">
+scad</dfn><dd>A recently reconized class of crime, the State Crime Against Democracy. US examples include the Kennedy Assassinations, 9/11, and election fraud in 2000 and 2004, including hasty partisan decisions by the Supreme Court.</dd><br>
+
+<dfn id="aa">
+scholasticism</dfn><dd>The philosophy of the medieval theologians; in general, the divorce of speculation from observation and practice.</dd><br>
+
+<dfn id="aa">
+sib, sibling</dfn><dd>Collective term for brother or sister.</dd><br>
+
+<dfn id="aa">
+sic</dfn><dd>(L), so written in the original.</dd><br>
+
+<dfn id="aa">
+signalary</dfn><dd>The collection of non-verbal communication signals available to an organism, including sounds, facial expressions, body language, pheromones, &ampc;.</dd><br>
+
+<dfn id="aa">
+sin</dfn><dd>A violation of moral law, as defined by a particular moral code. Example: anything that harms a sentient being is a sin in Buddhism.</dd><br>
+
+<dfn id="aa">
+slavery</dfn><dd>A parasitic relationship between master and slave. Today's Western standard of living would require an estimated 80,000 slaves per household in the absence of electrical appliances, petroleum-based transport, and industrialization. Slavery invariably entails the violent domination of a natally alienated, or socially dead, person. It is held to be a permanent part of jihad by conservative Muslims.</dd><br>
+
+<dfn id="aa">
+sociology</dfn><dd>the study of social institutions and processes.</dd><br>
+
+<dfn id="aa">
+soteriology</dfn><dd>The doctrine of salvation, holding that humanity, individually or collectively, voluntarily or haplessly, is in a state of sin from which it can only be saved by sect-specific practices or beliefs.</dd><br>
+
+<dfn id="aa">
+specie</dfn><dd>Money in the form of coins.</dd><br>
+
+<dfn id="aa">
+species</dfn><dd>A convenient taxonomic division of biological entities (between <i>genus</i> and <i>subspecies</i>, with many definitions. In casual conversational, &lsquo;a group of organisms capable of interbreeding and producing fertile offspring&rsquo; will often  work.</dd><br>
+
+<dfn id="aa">
+spiritualism</dfn><dd>The doctrine that spirit is the fundamental reality.</dd><br>
+
+<dfn id="aa">
+status quo</dfn><dd>(L), the state of things at present.</dd><br>
+
+<dfn id="aa">
+subjective</dfn><dd>Existing only in the perceiving mind; as existing in thought; in Spinoza, as the object of thought.</dd><br>
+
+<dfn id="aa">
+substance</dfn><dd>In Spinoza, the basic and eternal reality, the structure and law of the world.</dd><br>
+
+<dfn id="aa">
+sycophant</dfn><dd>A servile flatterer; obsequious yes-man.</dd><br>
+
+<dfn id="tp">
+taphonomy</dfn><dd>The branch of paleontology that deals with the processes of decay and fossilization, and by extension, the survival of any sort of prehistoric evidence.</dd><br>
+
+<dfn id="tx">
+taxon, pl. taxa</dfn><dd>A group of any rank in the systematic classification of biological entities. Kingdom, phylum, class, order, family, genus, species is the descending Linnaean hierarchy of taxa.</dd><br>
+
+<dfn id="tl">
+techne</dfn><dd>The &lsquo; concrete, variable, and context-dependent&rsquo; knowledge of principles underlying our exponential mastery of technology.
+</dd><br>
+
+<dfn id="tl">
+teleology</dfn><dd>In theology, the doctrine that all things are designed by God; in biology, the theory or study of development as caused by the purposes which things serve.</dd><br>
+
+<dfn id="4p">
+tetraploidy</dfn><dd>A doubling of the number of chromosomes, commonly achieved in plants by treatment with colchicine, a poisonous product of Autumn crocus. Tetraploid animals die from biochemical imbalance; tetraploid plants are often large, and hardy, with &lsquo;double&rsquo;0 flowers.</dd><br>
+
+<dfn id="te">
+theist</dfn><dd>Someone who believes that god (like corporations) possesses the qualities of a person.</dd><br>
+
+<dfn id="th">
+theology</dfn><dd>The study of our perception of gods.</dd><br>
+
+<dfn id="thq">
+theoquantology</dfn><dd>The union of theology and quantum field theory. To the best of my knowledge, a discipline of pure speculation still searching for its first datum.</dd><br>
+
+<dfn id="tot">
+totem</dfn><dd>A subdivision of a tribe, descended from a common ancestor, often an animal. Other tribes in the <a href="#won" class="gl"> wontok</a>  will contain the same totems, making it possible to interact with them as synthetic kin rather than enemies, for purposes of trade and exogamy.</dd><br>
+
+<dfn id="tr">
+transcendental</dfn><dd>Beyond the realm and reach of the senses. If capitalized as Transcendentalism, a philosophical movement of the early 19th century, centered in New England: think Emerson, Longfellow, Thoreau, and Walt Whitman.</dd><br>
+
+<dfn id="3s">
+trisomy</dfn><dd>Three copies of a chromosome. This is usually a fatal condition leading to resorption of a misfertilized ovum. 1/3 of trisomy 21 ova escape this fate and lead to Down&rsquo;s syndrome, with mental retardation, a sunny disposition, and a truncated life expectancy.</dd><br>
+
+<dfn id="tm">
+tropism</dfn><dd>An invariable response.</dd><br>
+
+<dfn id="ut">
+utilitarianism</dfn><dd>The doctrine that all actions are to be judged in terms of their utility in promoting the greatest happiness of the greatest number. Its basic flaw is that one cannot optimize for 2 things at once: we can choose &lsquo;number&rsquo;, OR &lsquo;happiness&rsquo;, but not both.</dd><br>
+
+<dfn id="ve">
+variable, extensive</dfn><dd>A thermodynamic parameter which depends upon the quantity under consideration, such as volume, mass, electrical current, entropy, &hellip;.</dd><br>
+
+<dfn id="vi">
+variable, intensive</dfn><dd>A thermodynamic parameter which is independent of the quantity under consideration, such as pressure, specific heat, voltage, temperature, &hellip;</dd><br>
+
+<dfn id="vb">
+viability</dfn><dd>The fraction of offspring that survives to breed.</dd><br>
+
+<dfn id="vic">
+vicarial</dfn><dd>Jayne&rsquo;s usage is apparently non-standard, since most dictionaries offer &lsquo;of, relating to, or serving as a vicar&rsquo;. Jaynes meant a dream in which the analog &lsquo;I&rsquo; was not doing what the person was doing (sleeping).</dd><br>
+
+<dfn id="vD">
+vitamin D</dfn><dd>A group of fat-soluble secosteroids (steroids in which the B ring is opened) responsible for intestinal absorption of calcium and phosphate. Not strictly a vitamin (except for cats and dogs), since humans can synthesize it from cholesterol and the ultraviolet of sunlight. </dd><br>
+
+<dfn id="wg">
+wedgeman</dfn><dd>One who-pursues the goal of the Discovery Institute: &lsquo;To see intelligent design theory as the dominant perspective in science&rsquo;, as it was during the millennial Dark Ages. &lsquo;The thin edge of the wedge was Phillip Johnson&rsquo;s critique of Darwinism [&hellip;]&rsquo;.</dd><br>
+
+<dfn id="we">
+weltschmerz</dfn><dd>(Ge), world-sickness, weariness of life.</dd><br>
+
+<dfn id="won">
+wontok</dfn><dd>(pidgin), &lsquo;one talk', a language group consisting of a number of tribes (originally in New Guinea, where a million people shared 850 languages).</dd><br>
+
+<dfn id="Yes">
+Yeshuanity</dfn><dd>&lsquo;Yeshua&rsquo; denotes Jesus stripped of &lsquo;revealed&rsquo; Pauline mythology. He was a Galilean Hassidic rabbi who was opposed to Roman control of Israel, and was executed for trouble-making by the Romans. A pupil of Hillel&rsquo;s, very possibly a descendant of the royal line of Israel, and arguably the last of the Axial Age thinkers, he combined a scholar&rsquo;s grasp of philosophical systems with a view of what Israel could become if freed from Gentile rule, which was nothing less than a Utopian &lsquo;kingdom of heaven&rsquo; in which people actually lived by the precepts of the Sermon on the Mount. &lsquo;Q1 Yeshuanity&rsquo; refers to the philosophy of the earliest stratum of the (reconstructed, but still hypothetical) <a class="gl" href="#DoQ"><cite>Documenta Q</cite></a>, a compilation of the sayings of Jesus uninterpreted by later redactors, and representing his unique contribution to mankind&rsquo;s ethical legacy.</dd><br>
+
+<dfn id="yo">
+yoni</dfn><dd>The female symbol of reproduction in Hindu sex-worship.</dd><br>
+
+<dfn id="ze">
+zeitgeist</dfn><dd>(Ge), the spirit of the age.</dd><br>
+
+<dfn id="zs">
+zero-sum</dfn><dd>In game theory, any game in which total gains equal total losses, poker being the prototype. Instinct-I tends to see human interactions as zero-sum, and to aggrandize by appropriation; Instinct-II sees human interaction as increasing gains while decreasing losses, via cooperative activity.</dd><br>
+
+<dfn id="zy">
+zygote</dfn><dd>A diploid cell resulting from the fusion of two haploid gametes; a fertilized ovum. More loosely, the ensuing 4 days (in humans), while the zygote divides into a multicellular mas (properly, a morula) without increasing in size. The period is critical: 60% of zygotes fail to implant and are aborted, probably because they fail a still undescribed error-checking process.</dd>
+
+<span class="fr">◼</span>
+
+<hr>
+<h6 class="cen">
+<span >&nbsp;Chapter Navigation:&nbsp;</span>
+<!--#include virtual="/evoligion/ChapNav.shtml" -->
+<hr></h6>
+</header>
+<!--#echo var="Last_Modified" -->
+</body></html>
+

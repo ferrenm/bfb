@@ -1,0 +1,59 @@
+<!DOCTYPE html><html><head>
+<meta charset="UTF-8">
+<title>bTest.k</title>
+<style>
+			/*	   T H E S E   W O R K		*/
+body {
+    background-color: #dfd;
+    background-image: url("../Images/parch6ment. jpg"); }
+
+a:visited {color:blue;   }
+a:hover   {color:purple; }
+a:active  {color:green;  }
+
+a.rf
+{   color:blue;
+	text-decoration: none; }
+
+a.rf    span
+{
+    display: none;
+    background-color: #f6fffa;
+    color: black;
+    border: solid blue 2px;
+    padding: 4px;
+	margin: 4px;
+    font-family: "Arial", sans-serif;
+	text-indent: 0 ;
+	line-height; 200% ;
+	font-size: 0.85em ;
+}
+
+a.rf:hover
+{	color:purple;
+    text-decoration:none; }
+
+
+a.rf:hover  span
+{   display: block;
+    text-decoration:none; }
+
+
+</style>
+</head>
+
+<body> bTest.k -- 2/12/17, 12:55 <br>
+<p><b>1.</b> Liberals tend to assume that a greater demand for social Fairness, and greater Concern for the welfare of others, are what distinguish them from conservatives.</a> Reality turns out to be more complex: conservatives place a higher value on <a href="http://www.moralfoundations.org"> Loyalty, Purity, and Authority</a> than do liberals.
+<p>
+
+<p><b>2.</b> Liberals tend to assume that a greater demand for social Fairness, and greater Concern for the welfare of others, are what distinguish them from conservatives.</a> Reality turns out to be more complex: conservatives place a higher value on <a class="fn">Loyalty, Purity, and Authority<span>
+	Footnote &hellip;. Reference &hellip;
+</span></a> than do liberals.
+<p>
+
+<p><b>3.</b> Liberals tend to assume that a greater demand for social Fairness, and greater Concern for the welfare of others, are what distinguish them from conservatives.</a> Reality turns out to be more complex: conservatives place a higher value on <a class="fn">Loyalty, Purity, and Authority<span>
+	Footnote &hellip;. Click ⬆︎ for URL; for ⬇ ︎Download.
+</span></a> <a href="http://www.moralfoundations.org">⬆︎︎</a> than do liberals.
+<p>
+
+</body></html>

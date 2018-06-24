@@ -1,0 +1,164 @@
+
+
+
+<!DOCTYPE html><html lang="en"><head>
+<title>Index</title>
+<meta charset="UTF-8">
+<!--[if lt IE 9]>
+<script src="dist/html5shiv.js"></script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="../../bfbv.css">
+<style>
+
+
+bix		{
+margin : 0 15px;
+backgr ound-color : #fff8e8;
+border :2px solid red ;
+}
+
+.tix {
+padding	: 3px ;
+border-style : hidden solid solid solid ;
+}
+
+</style>
+</head>
+
+<body id="HED">
+<p class="date">
+<!--#config timefmt="%a, %Y-%b-%d, %H:%M" -->
+<b>Last edit; 2018-05-02 08:20 CET;
+   Last update: <!--#echo var="DATE_GMT" --> GMT</b>
+
+
+<h1>RELIGION:<span style="font-size:66%;">
+What it Was For;<br>What Went Wrong; How to Fix It</span></h1>
+
+<a href="file:///Applications/MAMP/htdocs/bfb/evoligion/Index.shtml">
+<p class="cop">&copy; 1998&ndash;2018 Benjamin F. Becula</p>
+</a>
+
+<h4><a href="JacketBio.shtml">Jacket Bio</a></h4>
+<h4>Two-Minute Summary</h4>
+
+<p>The hexalogy presents the first theory of religion to accomodate important but overlooked insights of anthropology and psychology. The description below is for those with supple minds but little time.
+Some of the ideas are likely to be unfamliar and in need of expansion. For this, click on the pointing hand (bottom right), which will take you to a <b>24-minute</b> chapter-by-chapter summary. Clicking on a book title will take you to that book; on a number, to that chapter.
+</p>
+
+<table role="presentation" class="bix">
+<colgroup>
+	<col width="33.3%">
+	<col width="33.3%">
+	<col width="33.3%">
+</colgroup>
+<tbody>
+
+<!--  T O P   R O W   O F   B O O K   T I T L E S  -->
+<tr id="1-min">
+<td><h4><a href="_A/A-1.shtml#A-1">
+	<cite>A. Preludes</cite></a></h4>
+	<p class="b ix">35,000 years ago our brains
+	worked differently: (Internal) gods instructed
+	us individually and directly in moments of
+	stress, and we obeyed them willy-nilly.</p></td>
+
+<td><h4><a href="_B/B-1.shtml">
+	<cite>B. Preoccupation</cite></a></h4>
+	<p class="b ix">This is why neither the
+	super-natural content, the sociological
+	benefits, nor prior theories, of religion
+	can explain the strength of its hold on us.
+	</p></td>
+
+<td><h4><a href="_C/C-1.shtml">
+	<cite>C. Function</cite></a></h4>
+	<p class="bix">Religion increased tribal
+	viability (the fraction of offspring who
+	survive to breed), and in genes and society
+	turned us into time-binding humans.</p></td>
+</tr>
+
+<!--  T O P   R O W   O F   C H A P T E R   # S   -->
+
+<tr>
+<td class="tix">
+<a href="_A/A00.shtml#TOC">00</a>
+<a href="_A/A01.shtml#TOC">01</a>
+<a href="_A/A02.shtml#TOC">02</a>
+<a href="_A/A03.shtml#TOC">03</a>
+<a href="_A/A04.shtml#TOC">04</a></td>
+
+<td class="tix">
+<a href="_B/B05.shtml#TOC">05</a>
+<a href="_B/B06.shtml#TOC">06</a>
+<a href="_B/B6a.shtml#TOC">6a</a>
+<a href="_B/B07.shtml#TOC">07</a>
+<a href="_B/B08.shtml#TOC">08</a></td>
+
+<td class="tix">
+<a href="_C/C09.shtml#TOC">09</a>
+<a href="_C/C10.shtml#TOC">10</a>
+<a href="_C/C11.shtml#TOC">11</a>
+<a href="_C/C12.shtml#TOC">12</a></td></tr>
+
+<!--  2 N D   R O W   B O O K   T I T L E S  -->
+
+<tr>
+<td class="tix">
+	<h4><a href="_D/D-1.shtml">
+	<cite>D. History</cite></a></h4>
+	<p class="bix">Population grew, choices
+	multiplied, rigid rules failed. Over a millenium,
+	our brains adapted. The gods departed silently
+	when no longer needed.</p></td>
+
+
+<td class="tix">
+	<h4><a href="_E/E-1.shtml">
+	<cite>E. Status</cite></a></h4>
+	<p class="bix">The Paleolithic Transition,
+	the 500 BCE Axial Age, the Enlightenment,
+	and the deism of the US Constitution were
+	the high points of religion.</p></td>
+
+<td class="tix">
+	<h4><a href="_F/F-1.shtml">
+	<cite>F. Repair</cite></a></h4>
+	<p class="bix">Our ultimate concerns &mdash;
+	Tillich&apos;s core of religion &mdash; are
+	salvation in the sense of living together,
+	and living with our planet. This way survival
+	lies.</p></td>
+
+<!--  2 N D   R O W   O F   # S -->
+
+<tr>
+<td class="tix">
+<a href="Template.shtml">TT</a>
+<a href="_D/D13.shtml#TOC">13</a>
+<a href="_D/D14.shtml#TOC">14</a>
+<a href="_D/D15.shtml#TOC">15</a>
+<a href="_D/D16.shtml#TOC">16</a></td>
+
+<td class="tix">
+<a href="_E/E17.shtml#TOC">17</a>
+<a href="_E/E18.shtml#TOC">18</a>
+<a href="_E/E19.shtml#TOC">19</a>
+<a href="_E/E20.shtml#TOC">20</a> </td>
+
+<td class="tix">
+<a href="_F/F21.shtml#TOC">21</a>
+<a href="_F/F22.shtml#TOC">22</a>
+<a href="_F/F22b.shtml#TOC">22b</a>
+<a href="_F/F23.shtml#TOC">23</a>
+<a href="_F/F24.shtml#TOC">24</a>
+<a href="_F/F25.shtml#TOC">25</a>
+<a style="float:right; font-size:1.8em; text-decoration:none;
+font-weight:bold; color: #000``;"
+href="_A/A-1.shtml#A-2">&#x1f449;</a>
+</td></tr>
+</tbody></table>
+<br>
+</body></html>
+

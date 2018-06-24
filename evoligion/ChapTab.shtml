@@ -1,0 +1,143 @@
+
+<!-- ChapTab 2018-04-08   22:15 -->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>ChapTab</title>
+
+<meta charset="UTF-8">
+</head>
+
+<body id="HED">
+<!--  /*  'pseudo-scoped'
+<div id="ctDiv">
+  <style>
+    #ctDiv p  { margin: 1em 0; }
+    #ctDiv em { color: #900; }
+    #ctDiv whatever { /* ... */ }
+  </style>
+  <p>Some content here... </p>
+</div> */-->
+
+<nav>
+<div id="ctDiv">
+<style>
+	#ctDiv h1 { font-family: Cardo, Roman, serif;
+		font-size: 32pt; color: #111111;
+		letter-spacing: 1px; text-align:center;
+		margin : 20px auto;
+	}
+	#ctDiv table	{
+		margin      : 0 auto;
+		max-width   : 5in	;
+		border      : 1px solid black ;
+		border-collapse: collapse ;
+		font-family : Arial, Verdana, san-serif;
+	}
+	#ctDiv tr 	{
+		font-weight     : 200 ;
+		font-size       : 11pt ;
+		line-height     : 100%  ;
+		text-decoration : none;
+		font-family : Arial, Verdana, san-serif;
+	}
+	#ctDiv th 	{
+		background-color: #eee ;
+		text-align  	: center;
+		font-size       : 11pt ;
+		line-height     : 100%  ;
+		border      	: 1px solid black ;
+		padding			: 3px ;
+		text-decoration : none;
+		font-family : Arial, Verdana, san-serif;
+	}
+	#ctDiv td	{
+		background-color: #fff8e8 ;
+		text-align      : center 	;
+		font-size		: 1005		;
+		line-height		: 100%		;
+		border     		: 1px solid black ;
+		text-decoration : none;
+		font-family : Arial, Verdana, san-serif;
+	}
+</style>
+</head>
+
+
+<body>
+<h1>RELIGION:<span style="font-size:0.66em">
+What it Was For;<br>What Went Wrong; How to Fix It</span></h1 >
+
+<p style="text-align : center;font-size : 9pt;">
+1998&ndash;2018 Benjamin F. Becula
+</p>
+
+
+<table>
+<thead id="CTB">
+<tr>
+<a href="http://electromontis.net/evoligion/Index.shtml">
+<th colspan="6" style="background-color:#694; color:white;line-height:1.2;">
+Public beta 2018-06-30: Work in progress: Please report typos, infelicities, errors, etc. in the Wordpress blog (in the table below). Layout is probably best in Firefox.</th></tr></a>
+</thead>
+
+<tbody>
+<tr>
+<th><a href="../_A/A-1.shtml#A-1">A<br>PRELUDES</a></th>
+<td><a href="../_A/A00.shtml#A00">0<br>Preface</a></td>
+<td><a href="../_A/A01.shtml#A01">1<br>Brain</a></td>
+<td><a href="../_A/A02.shtml#A02">2<br>Bicamerality</a></td>
+<td><a href="../_A/A03.shtml#A03">3<br>Revelation</a></td>
+<td><a href="../_A/A04.shtml#A04">4<br>Stories</a></td></tr>
+
+<tr>
+<th><a href="../_B/B-1.shtml#HED">B<br>CONCERNS</a></th>
+<td><a href="../_B/B05.shtml#HED">5<br>Benefits</a></td>
+<td><a href="../_B/B06.shtml#HED">6<br>Theories</a></td>
+<td><a href="../_B/B6a.shtml#HED">(6a 200<br>Theories)</a></td>
+<td><a href="../_B/B07.shtml#HED">7<br>Anomalies</a></td>
+<td><a href="../_B/B08.shtml#HED">8<br>Arguments</a></td></tr>
+
+<tr>
+<th><a href="../_C/C-1.shtml#HED">C<br>FUNCTION</a></th>
+<td><a href="../_C/C09.shtml#HED">9<br>Roots</a></td>
+<td><a href="../_C/C10.shtml#HED">10 Critical Period</a></td>
+<td><a href="../_C/C11.shtml#HED">11<br>Paleoinstinct</a></td>
+<td><a href="../_C/C12.shtml#HED">12<br>Structures</a></td>
+<td><a href="../bfbv.css">[CSS]</td></tr>
+
+<tr>
+<th><a href="../_D/D-1.shtml#HED">D<br>HISTORY</a></th>
+<td><a href="../_D/D13.shtml#HED">13<br>Once&hellip;</a></td>
+<td><a href="../_D/D14.shtml#HED">14<br>Twice&hellip;</a></td>
+<td><a href="../_D/D15.shtml#HED">15<br>Muhamadism</a></td>
+<td><a href="../_D/D16.shtml#HED">16<br>And Again</a></td>
+<td class="bgold">
+<a href="../_F/F25.shtml#Zoro">Zoroaster</a></td></tr>
+
+<tr>
+<th><a href="../_E/E-1.shtml#HED">E<br>STATUS</a></th>
+<td><a href="../_E/E17.shtml#HED">17<br>Fossils</a></td>
+<td><a href="../_E/E18.shtml#HED">18 Failures</a></td>
+<td><a href="../_E/E19.shtml#HED">19 US Half-Century</a></td>
+<td><a href="../_E/E20.shtml#HED">20 Bloody Centuries</a></td>
+<td><a href="http://www.powweb.com"<span>Powweb</span></a>
+</td>
+
+<tr>
+<th><a href="../_F/F-1.shtml#HED">F<br>REPAIR</a></th>
+<td><a href="../_F/F21.shtml#HED">21 Pogo&apos;s Predicament</a></td>
+<td><a href="../_F/F22.shtml#HED">22 Gaian Repairs</a></td>
+<td><a href="../_F/F22b.shtml#HED">(22b Gaian Appendix)</a></td>
+<td><a href="../_F/F23.shtml#HED">23 Eirenic Repairs</a></td>
+<td><a href="../_F/F24.shtml#HED">24 Myth and Vision</a></td></tr>
+
+<tr>
+<th class="bgold">
+<a href="../Index.shtml">Index.<br>shtml</a></th>
+<td><a href="../_F/F25.shtml#HED">25<br>Recapitulation</a></td>
+<td class="bgneu"><a href="../_G/Glo.shtml#Gl">Glossary </a></td>
+<td class="bgyel"><a href="../_G/Tim.shtml#Ti">Timeline </a></td>
+<td class="bgyel"><a href="https://bfbecula.wordpress.com/home/">Wordpress</a></td>
+<td><a href="../_G/Topics.shtml#HED">TOPICS</a></td></tr>
+</td>
+</tbody></table></div>

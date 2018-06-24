@@ -1,0 +1,97 @@
+<!-- 2017-01-19 -->
+
+				/*   A N C H O R S 2  */
+
+a				{
+text-decoration : underline ;
+}-
+
+a span 	 {
+position : relative ;
+display  : none ;
+color    : green ;
+}
+
+a:link, a:visited {
+text-decoration : underline ;
+color           : blue ;
+}
+
+a:hover 		 {
+text-decoration : none ;
+color           : purple ;
+}
+
+
+a.rf 	span		{
+display				: none ;
+text-align          : left ;
+text-decoration		: none ;
+color				: blue ;
+}
+
+a.rf:hover span	{
+position        : relative ;
+left       		: 10px  ;
+margin-top		: 2px   ;
+margin-right	: 10px	;
+display     	: block ;
+z-index		    : 1     ;
+color       	: black ;
+font-family 	: "Arial", sans-serif ;
+font-weight     : normal ;
+text-decoration : none   ;
+font-size   	: 12pt   ;
+background-color: #fcfaff ;
+text-indent 	: 0     ;
+outline     	: 2px solid blue ;
+padding     	: 3px   ;
+float 			: left  ;
+}
+
+
+/* Red superscript, to jump to end-note (and back). */
+a.en:link,  a.en:visited {
+text-decoration : none  ;
+color           : red   ;
+font-weight     : bold  ;
+vertical-align  : super ;
+font-size       : 75%   ;
+}
+
+/* Navigation arrows, not underlined */
+a.up:link, a.up:visited {
+text-decoration : none ;
+color           : red  ;
+font-weight     : bold ;
+}
+
+a.up:hover {
+text-decoration : underlined ;
+color           : blue ;
+font-weight     : bold ;
+}
+
+
+
+				/*   N E W S P A P E R
+
+a:link    {color: blue ; text-decoration: none ; }
+a:hover   {color: purple ; }
+a:active  {color: tomato        ; }
+a:visited {color: blue ; }
+
+
+		/*   T R I A N G L E S:   L A S T, N E X T   */
+
+a.tri  	{
+font-size 		: 0.7em	;
+font-weight     : 800   ;
+text-decoration	: none	;
+}
+
+a.trs	{		/*	 S M A L L   V E R S I O N	*/
+font-size 		: 0.5em	;
+font-weight     : 900   ;
+text-decoration	: none	;
+}

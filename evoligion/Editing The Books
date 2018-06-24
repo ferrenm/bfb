@@ -1,0 +1,13 @@
+Electronic Books
+
+	The 6 volumes of <cite>Religion: ...</cite> are written in HTML, using Geany on the Linux machine or BBEdit on the Mac. They can then be displayed in any browser. Geany will also output files in PDF format, but tables and figures will be split across pages. BBEddit allows one to work with 'projects', so that one can search all files with a single command. If Geany  allows this, I haven't figured out how.
+
+	HTML commands are written between <angle-bracketed commands>, with </...> closing brackets identified by the slash, /.
+
+	One normally works with 2 programs open side by side, a browser to see the final result, and a .html file to produce it.
+
+	Navigation in the .html file is best done by using its own built-in search function. Navigation in the HTML file is by clicking on blue triangles, which take you to the next major or minor text section. Unfortunately, there is no coordination between the 2 files. (There are HTML editors that do this, but for one reason or another I have not found them particularly useful. Firefox, for instance, provoides such extensive editing assistance that its learning curve is steep and long.)
+ 
+	In addition to standard HTML, additional commands are written in .css files, chapters.css, xx.css, and yyy.css. These control formatting of tables and such.
+
+	The most iportant added CSS commands are class='rf' (for footnote references) and class='' for calls to . the web. Both of these produce colored text, brown for footnotes and blue for the web. 
